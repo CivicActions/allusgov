@@ -3,9 +3,11 @@
 This project attempts to map the organization of the US Federal Government by gathering and consolidating information from various directories.
 
 Current sources:
+* [SAM.gov Federal Hierarchy Public API](https://open.gsa.gov/api/fh-public-api/) (not yet merged)
 * [USA.gov A-Z Index of U.S. Government Departments and Agencies](https://www.usa.gov/federal-agencies)
 * [OPM Federal Agencies List](https://www.opm.gov/about-us/open-government/Data/Apps/Agencies/)
 * [CISA .gov data](https://github.com/cisagov/dotgov-data)
+* [FY 2024 Federal Budget Outlays](https://www.govinfo.gov/app/details/BUDGET-2024-DB/BUDGET-2024-DB-2) (not yet merged)
 
 Each source is scraped (see [out](out) directory) into a JSON format, including fields for the organizational unit name and parent name (if any).
 

@@ -635,6 +635,39 @@ packaging = "*"
 w3lib = ">=1.19.0"
 
 [[package]]
+name = "polars"
+version = "0.16.14"
+description = "Blazingly fast DataFrame library"
+category = "main"
+optional = false
+python-versions = ">=3.7"
+files = [
+    {file = "polars-0.16.14-cp37-abi3-macosx_10_7_x86_64.whl", hash = "sha256:83801a9c9401d956539d64a97716adcf985fd85c5e98382bea078e98fab97157"},
+    {file = "polars-0.16.14-cp37-abi3-macosx_11_0_arm64.whl", hash = "sha256:446def109d7dad62f1f86ffffa5eaeabc16341a9d092b56117561e1cf676f0f1"},
+    {file = "polars-0.16.14-cp37-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:9a85f47d28e237e7604558f62d0d66e7813042a7995035505161efba4e9b089e"},
+    {file = "polars-0.16.14-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:cd0f1091708892b3abaa0ef31adeee92cbefd1e775657cfbb3a7481143a7fee0"},
+    {file = "polars-0.16.14-cp37-abi3-win_amd64.whl", hash = "sha256:8bb942a749c5f673de0389ee2699ef6deb45097ef9205c861941ae7a5a17ef6c"},
+    {file = "polars-0.16.14.tar.gz", hash = "sha256:1fa9d837113d15b848023d66c3c1251637ed1dc60c8ecce9accb14d6b0727df0"},
+]
+
+[package.dependencies]
+typing_extensions = {version = ">=4.0.1", markers = "python_version < \"3.11\""}
+
+[package.extras]
+all = ["polars[connectorx,deltalake,fsspec,matplotlib,numpy,pandas,pyarrow,sqlalchemy,timezone,xlsx2csv,xlsxwriter]"]
+connectorx = ["connectorx"]
+deltalake = ["deltalake (>=0.6.2)"]
+fsspec = ["fsspec"]
+matplotlib = ["matplotlib"]
+numpy = ["numpy (>=1.16.0)"]
+pandas = ["pandas", "pyarrow (>=4.0.0)"]
+pyarrow = ["pyarrow (>=4.0.0)"]
+sqlalchemy = ["pandas", "sqlalchemy"]
+timezone = ["backports.zoneinfo", "tzdata"]
+xlsx2csv = ["xlsx2csv (>=0.8.0)"]
+xlsxwriter = ["xlsxwriter"]
+
+[[package]]
 name = "protego"
 version = "0.2.1"
 description = "Pure-Python robots.txt parser with support for modern conventions"
@@ -732,6 +765,21 @@ python-versions = "*"
 files = [
     {file = "PyPyDispatcher-2.1.2.tar.gz", hash = "sha256:b6bec5dfcff9d2535bca2b23c80eae367b1ac250a645106948d315fcfa9130f2"},
 ]
+
+[[package]]
+name = "python-dotenv"
+version = "1.0.0"
+description = "Read key-value pairs from a .env file and set them as environment variables"
+category = "main"
+optional = false
+python-versions = ">=3.8"
+files = [
+    {file = "python-dotenv-1.0.0.tar.gz", hash = "sha256:a8df96034aae6d2d50a4ebe8216326c61c3eb64836776504fcca410e5937a3ba"},
+    {file = "python_dotenv-1.0.0-py3-none-any.whl", hash = "sha256:f5971a9226b701070a4bf2c38c89e5a3f0d64de8debda981d1db98583009122a"},
+]
+
+[package.extras]
+cli = ["click (>=5.0)"]
 
 [[package]]
 name = "python-levenshtein"
@@ -1122,6 +1170,18 @@ files = [
 ]
 
 [[package]]
+name = "xlsx2csv"
+version = "0.8.1"
+description = "xlsx to csv converter"
+category = "main"
+optional = false
+python-versions = "*"
+files = [
+    {file = "xlsx2csv-0.8.1-py3-none-any.whl", hash = "sha256:6c36c0295d64f231570479e514d6163ce135af3c431a1705b073230bedaef9f2"},
+    {file = "xlsx2csv-0.8.1.tar.gz", hash = "sha256:7ecd6d2bc2426f2e432f4fdac12211e1976d3cbb65f9033e1eda65edda2045e3"},
+]
+
+[[package]]
 name = "zope-interface"
 version = "5.5.2"
 description = "Interfaces for Python"
@@ -1178,4 +1238,4 @@ testing = ["coverage (>=5.0.3)", "zope.event", "zope.testing"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "04ff346545c953a0907198d9c02500e06acf0f8b20246d30d9b96e8d940878af"
+content-hash = "4082b2a5f4bc91cc73f03a187824c95e1f40d3acc2c609733cdfdb2f812db126"
