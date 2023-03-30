@@ -1,5 +1,6 @@
 import scrapy
 from w3lib.url import add_or_replace_parameters, url_query_parameter
+from datetime import datetime
 import pprint
 
 
@@ -7,8 +8,9 @@ class SamgovSpider(scrapy.Spider):
     name = "samgov"
     allowed_domains = ["sam.gov"]
     limit = 100
+    base_url = "https://api.sam.gov/prod/federalorganizations/v1/orgs"
     
-    def url(self, url = "https://api.sam.gov/prod/federalorganizations/v1/orgs", params = {}):
+    def url(self, url = base_url, params = {}):
         params.update({
             "api_key": self.settings.getdict('DOTENV')["SAM_API_KEY"],
             "limit": self.limit,
@@ -30,13 +32,12 @@ class SamgovSpider(scrapy.Spider):
                 for link in org["links"]:
                     if link["rel"] == "nextlevelchildren":
                         yield response.follow(self.url(link["href"]), callback=self.parse)
-                # Record the parent name and ID for convenient tree building later on.
-                if "fhfullparentpathname" in org:
-                    # The parent name is the last element in the dotted path.
-                    org["parent"] = org["fhfullparentpathname"].split('.')[-1]
-                if "fhfullparentpathid" in org:
-                    # The parent id is the last element in the dotted path.
-                    org["parent_id"] = org["fhfullparentpathid"].split('.')[-1]
-                org["id"] = org["fhorgid"]
-                org["name"] = org["fhorgname"]
+                # Extract and follow IDs from the parent history - this shouldn't be neccessary, but the API is (perhaps) inconsistent or perhaps some items have inactive parents?
+                if "fhorgparenthistory" in org:
+                    for history in org["fhorgparenthistory"]:
+                        # Identify the most recent entry.
+                        date = None
+                        if date == None or datetime.strptime(history["effectivedate"], "%Y-%m-%d %H:%M") > date:
+                            for id in history["fhfullparentpathid"].split('.'):
+                                yield response.follow(self.url(self.base_url + "?fhorgid=" + id), callback=self.parse)
                 yield org

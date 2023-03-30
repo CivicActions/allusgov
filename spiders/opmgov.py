@@ -20,9 +20,18 @@ class OpmgovSpider(scrapy.Spider):
             parent = agency.xpath("name/text()").get()
             if parent is None:
                 parent = agency.xpath("dod_aggregate/text()").get().replace("D+-", "")
+            name = agency.xpath("agency_subelement/text()").get()
+            # Generate a path for the ID, to avoid collisions.
+            id = parent + "/" + name
+            # If an organization is its own parent, then it is a top-level organization.
+            if name == parent:
+                parent = None
+                id = name
             yield {
                 "parent": parent,
+                "parent_id": parent,
                 "type": agency.xpath("type/text()").get(),
-                "name": agency.xpath("agency_subelement/text()").get(),
+                "name": name,
+                "id": id,
                 "employment": agency.xpath("employment/text()").get(),
             }

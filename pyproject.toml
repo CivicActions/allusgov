@@ -13,6 +13,10 @@ python-levenshtein = "^0.20.9"
 polars = "^0.16.14"
 xlsx2csv = "^0.8.1"
 python-dotenv = "^1.0.0"
+networkx = {extras = ["default"], version = "^3.0"}
+polyfuzz = "^0.4.0"
+bigtree = {extras = ["image"], version = "^0.9.0"}
+flatten-json = "^0.1.13"
 
 [build-system]
 requires = ["poetry-core"]

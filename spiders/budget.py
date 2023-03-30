@@ -34,14 +34,23 @@ class BudgetSpider(scrapy.Spider):
         ]
 
     # Normalizes item field names.
-    def process_item(self, item, fields, parent_key, name_key):
+    def process_item(self, item, fields, name_key, parent_key=None, grandparent_key=None):
         for key, value in fields:
-            if key == parent_key:
-                item["parent"] = value
-            elif key == name_key:
-                item["name"] = value
-            else:
-                item[key.lower().replace(" ", "_")] = value
+            item[key.lower().replace(" ", "_")] = value
+        if parent_key and parent_key + "_name" in item:
+                item["parent"] = item[parent_key + "_name"]
+        item["name"] = item[name_key + "_name"]
+
+        # The codes are not globally unique, so we need to add the parent codes to make them unique.
+        id = []
+        if grandparent_key:
+            id.append(str(item[grandparent_key + "_code"]))
+        if parent_key:
+            id.append(str(item[parent_key + "_code"]))
+        id.append(str(item[name_key + "_code"]))
+        item["id"] = "-".join(id)
+        item["parent_id"] = "-".join(id[:-1])
+
         return item
         
     def agencies(self, budget):
@@ -55,7 +64,7 @@ class BudgetSpider(scrapy.Spider):
         )
         agencies = q.collect()
         for agency in agencies.iter_rows(named=True):
-            yield self.process_item({"budget_level": "agency"}, agency.items(), None, "Agency Name")
+            yield self.process_item({"budget_level": "agency"}, agency.items(), "agency")
 
     def bureaus(self, budget):
         q = (
@@ -68,12 +77,12 @@ class BudgetSpider(scrapy.Spider):
         )
         bureaus = q.collect()
         for bureau in bureaus.iter_rows(named=True):
-            yield self.process_item({"budget_level": "bureau"}, bureau.items(), "Agency Name", "Bureau Name")
+            yield self.process_item({"budget_level": "bureau"}, bureau.items(), "bureau", "agency")
 
     def accounts(self, budget):
         q = (
             budget.lazy()
-            .groupby("Bureau Code", "Bureau Name", "Account Code", "Account Name").agg(
+            .groupby("Agency Code", "Agency Name", "Bureau Code", "Bureau Name", "Account Code", "Account Name").agg(
                 self.budget_years()
             )
             # Only consider accounts with a budget in the current year.
@@ -94,7 +103,7 @@ class BudgetSpider(scrapy.Spider):
             .str.strip(" ,")
         )
         for account in accounts.iter_rows(named=True):
-            yield self.process_item({"budget_level": "account"}, account.items(), "Bureau Name", "Account Name")
+            yield self.process_item({"budget_level": "account"}, account.items(), "account", "bureau", "agency")
 
     def parse(self, response):
         budget = pl.read_excel(BytesIO(response.body), sheet_id=1)
