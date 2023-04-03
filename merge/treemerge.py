@@ -82,12 +82,23 @@ def export_path(source, ext, suffix=""):
         suffix = "-" + suffix
     return "out/" + source + "/" + source + suffix + "." + ext
 
+def print_tree(tree, source="samgov", file=None):
+    for branch, stem, org in yield_tree(tree):
+        attrs = {}
+        for key, value in org.describe(
+            exclude_prefix="_", exclude_attributes=["name"]
+        ):
+            attrs[key] = value
+        sources = ""
+        if source == "merged":
+            sources = " - " + ", ".join(attrs.keys())
+        name = full_name(org, source)
+        print(f"{branch}{stem}{name}{sources}", file=file)
 
 def export(logger, source, tree):
     logger.info("Saving the " + source + " graph in text format...")
     with open(export_path(source, "txt"), "w") as f:
-        for branch, stem, org in yield_tree(tree):
-            print(f"{branch}{stem}{org.node_name}", file=f)
+        print_tree(tree, source, f)
 
     logger.info("Saving the " + source + " graph in JSON flat format...")
     with open(export_path(source, "json", "flat"), "w") as f:
@@ -209,17 +220,6 @@ def name_list(tree, source_name):
         names[name].append(org)
     return names
 
-def print_merged(tree):
-    for branch, stem, org in yield_tree(tree):
-        attrs = {}
-        for key, value in org.describe(
-            exclude_prefix="_", exclude_attributes=["name"]
-        ):
-            attrs[key] = value
-        sources = ", ".join(attrs.keys())
-        name = full_name(org, "samgov")
-        print(f"{branch}{stem}{name} - {sources}")
-
 def merge(logger, base_tree, base_name, source_tree, source_name):
     logger.info("Calculating string similarity for " + source_name + " against the base tree...")
     # Match every element in the source tree to every element in the base tree.
@@ -316,7 +316,6 @@ def main():
             base = merge(logger, base, "samgov", source, source_name)
     if args.merge:
         export(logger, "merged", base)
-        print_merged(base)
 
 if __name__ == "__main__":
     main()

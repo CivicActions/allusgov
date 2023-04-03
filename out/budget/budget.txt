@@ -1,647 +1,647 @@
 US FEDERAL GOVERNMENT
-├── [budget] Appalachian Regional Commission (309)
-│   └── [budget] Appalachian Regional Commission (309-0)
-├── [budget] Presidio Trust (512)
-│   └── [budget] Presidio Trust (512-0)
-├── [budget] United States Institute of Peace (458)
-│   └── [budget] United States Institute of Peace (458-0)
-├── [budget] Affordable Housing Program (530)
-│   └── [budget] Affordable Housing Program (530-0)
-├── [budget] Bureau of Consumer Financial Protection (581)
-│   └── [budget] Bureau of Consumer Financial Protection (581-0)
-├── [budget] U.S. Agency for Global Media (514)
-│   └── [budget] U.S. Agency for Global Media (514-0)
-├── [budget] Southwest Border Regional Commission (569)
-│   └── [budget] Southwest Border Regional Commission (569-0)
-├── [budget] Social Security Administration (17)
-│   └── [budget] Social Security Administration (17-0)
-├── [budget] Department of Health and Human Services (9)
-│   ├── [budget] Substance Use And Mental Health Services Administration (9-30)
-│   ├── [budget] Indian Health Service (9-17)
-│   ├── [budget] Administration for Community Living (9-75)
-│   ├── [budget] National Institutes of Health (9-25)
-│   ├── [budget] Administration for Children and Families (9-70)
-│   ├── [budget] Health Resources and Services Administration (9-15)
-│   │   └── [budget] Vaccine Injury Compensation Program Trust (9-15-8175)
-│   ├── [budget] Food and Drug Administration (9-10)
-│   ├── [budget] Administration for Strategic Preparedness and Response (9-76)
-│   ├── [budget] Program Support Center (9-91)
-│   ├── [budget] Office of the Inspector General (9-92)
-│   │   └── [budget] Office of Inspector General (9-92-128)
-│   ├── [budget] Centers for Disease Control and Prevention (9-20)
-│   │   ├── [budget] CDC-wide Activities and Program Support (9-20-943)
-│   │   └── [budget] World Trade Center Health Program (9-20-946)
-│   ├── [budget] Agency for Healthcare Research and Quality (9-33)
-│   ├── [budget] Departmental Management (9-90)
-│   │   ├── [budget] National Hepatitis C Elimination Program (9-90-102)
-│   │   ├── [budget] Office for Civil Rights (9-90-135)
-│   │   └── [budget] PrEP Delivery Program to End the HIV Epidemic in the United States (9-90-151)
-│   └── [budget] Centers for Medicare and Medicaid Services (9-38)
-│       ├── [budget] Pre-Existing Condition Insurance Plan Program (9-38-113)
-│       ├── [budget] Center for Medicare and Medicaid Innovation (9-38-522)
-│       ├── [budget] Risk Adjustment Program Payments (9-38-5733)
-│       ├── [budget] Early Retiree Reinsurance Program (9-38-114)
-│       └── [budget] Program Management (9-38-511)
-├── [budget] Japan-United States Friendship Commission (382)
-│   └── [budget] Japan-United States Friendship Commission (382-0)
-├── [budget] Denali Commission (513)
-│   └── [budget] Denali Commission (513-0)
-│       └── [budget] Denali Commission Trust (513-0-8056)
-├── [budget] Department of Agriculture (5)
-│   ├── [budget] Rural Business-Cooperative Service (5-65)
-│   │   ├── [budget] Intermediary Relending Program Fund (5-65-2069)
-│   │   ├── [budget] Rural Energy for America Program (5-65-1908)
-│   │   ├── [budget] Rural Microentrepreneur Assistance Program (5-65-1955)
-│   │   ├── [budget] Rural Business Program (5-65-1902)
-│   │   └── [budget] Biorefinery Assistance Program (5-65-3106)
-│   ├── [budget] Animal and Plant Health Inspection Service (5-32)
-│   ├── [budget] Economic Research Service (5-13)
-│   ├── [budget] Executive Operations (5-4)
-│   ├── [budget] Food and Nutrition Service (5-84)
-│   │   ├── [budget] Commodity Assistance Program (5-84-3507)
-│   │   ├── [budget] Supplemental Nutrition Assistance Program (5-84-3505)
-│   │   └── [budget] Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) (5-84-3510)
-│   ├── [budget] Agricultural Marketing Service (5-45)
-│   ├── [budget] Forest Service (5-96)
-│   ├── [budget] Natural Resources Conservation Service (5-53)
-│   │   ├── [budget] Water Bank Program (5-53-3320)
-│   │   ├── [budget] Watershed Rehabilitation Program (5-53-1002)
-│   │   └── [budget] Healthy Forests Reserve Program (5-53-1090)
-│   ├── [budget] National Agricultural Statistics Service (5-15)
-│   ├── [budget] Foreign Agricultural Service (5-68)
-│   │   └── [budget] McGovern-Dole International Food for Education and Child Nutrition Program (5-68-2903)
-│   ├── [budget] Farm Service Agency (5-49)
-│   │   ├── [budget] Commodity Credit Corporation Export Loans Program (5-49-1336)
-│   │   ├── [budget] Grassroots Source Water Protection Program (5-49-3304)
-│   │   ├── [budget] Agricultural Credit Insurance Fund Program (5-49-1140)
-│   │   ├── [budget] Emergency Forest Restoration Program (5-49-171)
-│   │   └── [budget] Emergency Conservation Program (5-49-3316)
-│   ├── [budget] Office of Inspector General (5-8)
-│   ├── [budget] National Institute of Food and Agriculture (5-20)
-│   ├── [budget] Rural Housing Service (5-63)
-│   │   ├── [budget] Rural Community Facilities Program (5-63-1951)
-│   │   ├── [budget] Rental Assistance Program (5-63-137)
-│   │   ├── [budget] Rural Housing Insurance Fund Program (5-63-2081)
-│   │   └── [budget] Multifamily Housing Revitalization Program (5-63-2002)
-│   ├── [budget] Food Safety and Inspection Service (5-35)
-│   ├── [budget] Rural Utilities Service (5-60)
-│   │   ├── [budget] Rural Electrification and Telecommunications Loans Program (5-60-1230)
-│   │   ├── [budget] Rural Water and Waste Disposal Program (5-60-1980)
-│   │   └── [budget] Distance Learning, Telemedicine, and Broadband Program (5-60-1232)
-│   ├── [budget] Office of the Secretary (5-3)
-│   │   └── [budget] Food Supply Chain and Agriculture Pandemic Response Program (5-3-408)
-│   ├── [budget] Buildings and Facilities (5-19)
-│   ├── [budget] Rural Development (5-55)
-│   ├── [budget] Agricultural Research Service (5-18)
-│   ├── [budget] Risk Management Agency (5-47)
-│   └── [budget] Farm Production and Conservation (5-25)
-│       └── [budget] Farm Production and Conservation Business Center (5-25-180)
-├── [budget] Department of Justice (11)
-│   ├── [budget] Drug Enforcement Administration (11-12)
-│   ├── [budget] Legal Activities and U.S. Marshals (11-5)
-│   │   ├── [budget] Salaries and Expenses, Community Relations Service (11-5-500)
-│   │   ├── [budget] Salaries and Expenses, Foreign Claims Settlement Commission (11-5-100)
-│   │   ├── [budget] Salaries and Expenses, United States Marshals Service (11-5-324)
-│   │   └── [budget] Office for Access to Justice (11-5-425)
-│   ├── [budget] National Security Division (11-8)
-│   ├── [budget] Bureau of Alcohol, Tobacco, Firearms, and Explosives (11-14)
-│   ├── [budget] Justice Operations, Management, and Accountability (11-3)
-│   │   ├── [budget] Office of Inspector General (11-3-328)
-│   │   └── [budget] Executive Office for Immigration Review (11-3-339)
-│   ├── [budget] Federal Bureau of Investigation (11-10)
-│   ├── [budget] Interagency Law Enforcement (11-7)
-│   ├── [budget] State, Local, and Tribal Justice Assistance (11-21)
-│   ├── [budget] Federal Prison System (11-20)
-│   ├── [budget] United States Parole Commission (11-4)
-│   └── [budget] Radiation Exposure Compensation (11-6)
-├── [budget] Department of Labor (12)
-│   ├── [budget] Veterans' Employment and Training Service (12-6)
-│   ├── [budget] Employee Benefits Security Administration (12-11)
-│   ├── [budget] Departmental Management (12-25)
-│   │   ├── [budget] Office of Inspector General (12-25-106)
-│   │   └── [budget] Office of Disability Employment Policy (12-25-166)
-│   ├── [budget] Office of Workers' Compensation Programs (12-15)
-│   │   └── [budget] Panama Canal Commission Compensation (12-15-5155)
-│   ├── [budget] Office of Federal Contract Compliance Programs (12-22)
-│   ├── [budget] Occupational Safety and Health Administration (12-18)
-│   ├── [budget] Pension Benefit Guaranty Corporation (12-12)
-│   ├── [budget] Employment and Training Administration (12-5)
-│   │   ├── [budget] Program Administration (12-5-172)
-│   │   └── [budget] Federal Additional Unemployment Compensation Program, Recovery (12-5-1800)
-│   ├── [budget] Office of Labor Management Standards (12-23)
-│   ├── [budget] Mine Safety and Health Administration (12-19)
-│   ├── [budget] Bureau of Labor Statistics (12-20)
-│   └── [budget] Wage and Hour Division (12-16)
-├── [budget] Electric Reliability Organization (531)
-│   └── [budget] Electric Reliability Organization (531-0)
-├── [budget] Department of the Treasury (15)
-│   ├── [budget] Fiscal Service (15-12)
-│   ├── [budget] Bureau of Engraving and Printing (15-20)
-│   ├── [budget] Financial Crimes Enforcement Network (15-4)
-│   ├── [budget] Alcohol and Tobacco Tax and Trade Bureau (15-13)
-│   ├── [budget] Internal Revenue Service (15-45)
-│   │   └── [budget] Private Collection Agent Program (15-45-5510)
-│   ├── [budget] Departmental Offices (15-5)
-│   │   ├── [budget] Small Business Lending Fund Program (15-5-141)
-│   │   ├── [budget] Office of Financial Stability (15-5-128)
-│   │   ├── [budget] Community Development Financial Institutions Fund Program, Emergency Support (15-5-160)
-│   │   ├── [budget] Office of Inspector General (15-5-106)
-│   │   ├── [budget] Special Inspector General for the Troubled Asset Relief Program (15-5-133)
-│   │   ├── [budget] GSE Mortgage-backed Securities Purchase Program (15-5-126)
-│   │   ├── [budget] Terrorism Insurance Program (15-5-123)
-│   │   ├── [budget] Economic Stabilization Program (15-5-1889)
-│   │   ├── [budget] Community Development Financial Institutions Fund Program (15-5-1881)
-│   │   └── [budget] Office of Terrorism and Financial Intelligence (15-5-1804)
-│   └── [budget] Interest on the Public Debt (15-60)
-├── [budget] General Services Administration (23)
-│   ├── [budget] General Activities (23-30)
-│   │   ├── [budget] Office of Inspector General (23-30-108)
-│   │   └── [budget] Allowances and Office Staff for Former Presidents (23-30-105)
-│   └── [budget] Real Property Activities (23-5)
-├── [budget] Federal Mediation and Conciliation Service (367)
-│   └── [budget] Federal Mediation and Conciliation Service (367-0)
-├── [budget] Federal Election Commission (360)
-│   └── [budget] Federal Election Commission (360-0)
-├── [budget] Surface Transportation Board (472)
-│   └── [budget] Surface Transportation Board (472-0)
-├── [budget] Tennessee Valley Authority (455)
-│   └── [budget] Tennessee Valley Authority (455-0)
-├── [budget] Advisory Council on Historic Preservation (306)
-│   └── [budget] Advisory Council on Historic Preservation (306-0)
-├── [budget] Nuclear Waste Technical Review Board (431)
-│   └── [budget] Nuclear Waste Technical Review Board (431-0)
-├── [budget] Small Business Administration (28)
-│   └── [budget] Small Business Administration (28-0)
-│       ├── [budget] Office of Inspector General (28-0-200)
-│       ├── [budget] Disaster Loans Program (28-0-1152)
-│       ├── [budget] Entrepreneurial Development Program (28-0-400)
-│       ├── [budget] Business Loans Program (28-0-1154)
-│       └── [budget] Office of Advocacy (28-0-300)
-├── [budget] Council of the Inspectors General on Integrity and Efficiency (542)
-│   └── [budget] Council of the Inspectors General on Integrity and Efficiency (542-0)
-│       ├── [budget] Pandemic Response Accountability Committee (542-0-1654)
-│       └── [budget] Inspectors General Council (542-0-4592)
-├── [budget] National Oilheat Research Alliance (544)
-│   └── [budget] National Oilheat Research Alliance (544-0)
-├── [budget] Department of Veterans Affairs (29)
-│   ├── [budget] Veterans Health Administration (29-15)
-│   ├── [budget] Benefits Programs (29-25)
-│   │   ├── [budget] Veterans Housing Benefit Program (29-25-1119)
-│   │   └── [budget] Native American Veteran Housing Loan Program (29-25-1120)
-│   └── [budget] Departmental Administration (29-40)
-│       └── [budget] Office of Inspector General (29-40-170)
-├── [budget] Harry S Truman Scholarship Foundation (372)
-│   └── [budget] Harry S Truman Scholarship Foundation (372-0)
-├── [budget] Federal Communications Commission (356)
-│   └── [budget] Federal Communications Commission (356-0)
-│       ├── [budget] Secure and Trusted Communications Networks Act Reimbursement Program (356-0-1912)
-│       └── [budget] Telecommunications Relay Services Fund, Federal Communications Commission (356-0-5700)
-├── [budget] Intelligence Community Management Account (467)
-│   └── [budget] Intelligence Community Management Account (467-0)
-├── [budget] Department of Housing and Urban Development (25)
-│   ├── [budget] Policy Development and Research (25-28)
-│   ├── [budget] Housing Programs (25-9)
-│   │   ├── [budget] Green and Resilient Retrofit Program for Multifamily Housing (25-9-482)
-│   │   └── [budget] FHA-Mutual Mortgage Insurance Program (25-9-183)
-│   ├── [budget] Public and Indian Housing Programs (25-3)
-│   │   └── [budget] Indian Housing Loan Guarantee Fund Program (25-3-223)
-│   ├── [budget] Office of Lead Hazard Control and Healthy Homes (25-32)
-│   ├── [budget] Fair Housing and Equal Opportunity (25-29)
-│   ├── [budget] Community Planning and Development (25-6)
-│   │   ├── [budget] Home Investment Partnership Program (25-6-205)
-│   │   ├── [budget] Self-help and Assisted Homeownership Opportunity Program (25-6-176)
-│   │   └── [budget] Neighborhood Stabilization Program (25-6-344)
-│   └── [budget] Management and Administration (25-35)
-│       ├── [budget] Office of Inspector General (25-35-189)
-│       └── [budget] Program Offices (25-35-479)
-├── [budget] Judicial Branch (2)
-│   ├── [budget] Supreme Court of the United States (2-5)
-│   ├── [budget] Courts of Appeals, District Courts, and Other Judicial Services (2-25)
-│   ├── [budget] United States Sentencing Commission (2-39)
-│   ├── [budget] Federal Judicial Center (2-30)
-│   ├── [budget] Administrative Office of the United States Courts (2-26)
-│   ├── [budget] United States Court of International Trade (2-15)
-│   ├── [budget] Judicial Retirement Funds (2-35)
-│   └── [budget] United States Court of Appeals for the Federal Circuit (2-7)
-├── [budget] Committee for Purchase From People Who Are Blind or Severely Disabled (338)
-│   └── [budget] Committee for Purchase From People who are Blind or Severely Disabled, activities (338-0)
-├── [budget] Department of Energy (19)
-│   ├── [budget] Environmental and Other Defense Activities (19-10)
-│   ├── [budget] Energy Programs (19-20)
-│   │   ├── [budget] Federal Energy Regulatory Commission (19-20-212)
-│   │   ├── [budget] Office of Technology Transitions (19-20-346)
-│   │   ├── [budget] Office of State and Community Energy Programs (19-20-2292)
-│   │   ├── [budget] Grid Deployment Office (19-20-2301)
-│   │   ├── [budget] Advanced Technology Vehicles Manufacturing Loan Program (19-20-322)
-│   │   ├── [budget] Office of Manufacturing and Energy Supply Chains (19-20-2291)
-│   │   ├── [budget] Tribal Energy Loan Guarantee Program (19-20-350)
-│   │   ├── [budget] Carbon Dioxide Transportation Infrastructure Finance and Innovation Program (19-20-2300)
-│   │   ├── [budget] Office of Indian Energy Policy and Programs (19-20-342)
-│   │   ├── [budget] Office of Clean Energy Demonstrations (19-20-2297)
-│   │   ├── [budget] Federal Energy Management Program (19-20-2293)
-│   │   └── [budget] Title 17 Innovative Technology Loan Guarantee Program (19-20-208)
-│   ├── [budget] National Nuclear Security Administration (19-5)
-│   └── [budget] Departmental Administration (19-60)
-│       └── [budget] Office of the Inspector General (19-60-236)
-├── [budget] Legal Services Corporation (385)
-│   └── [budget] Legal Services Corporation (385-0)
-├── [budget] Railroad Retirement Board (446)
-│   └── [budget] Railroad Retirement Board (446-0)
-├── [budget] National Association of Registered Agents and Brokers (543)
-│   └── [budget] National Association of Registered Agents and Brokers (543-0)
-├── [budget] Smithsonian Institution (452)
-│   └── [budget] Smithsonian Institution (452-0)
-│       ├── [budget] Operations and Maintenance, JFK Center for the Performing Arts (452-0-302)
-│       ├── [budget] Salaries and Expenses, Woodrow Wilson International Center for Scholars (452-0-400)
-│       └── [budget] Capital Repair and Restoration, JFK Center for the Performing Arts (452-0-303)
-├── [budget] State Justice Institute (453)
-│   └── [budget] State Justice Institute (453-0)
-├── [budget] Corporation for Travel Promotion (580)
-│   └── [budget] Corporation for Travel Promotion (580-0)
-├── [budget] Other Defense--Civil Programs (200)
-│   ├── [budget] American Battle Monuments Commission (200-15)
-│   ├── [budget] Retiree Health Care (200-7)
-│   ├── [budget] Selective Service System (200-45)
-│   ├── [budget] Armed Forces Retirement Home (200-20)
-│   ├── [budget] Military Retirement (200-5)
-│   ├── [budget] Cemeterial Expenses (200-25)
-│   └── [budget] Educational Benefits (200-10)
-├── [budget] United States Holocaust Memorial Museum (456)
-│   └── [budget] United States Holocaust Memorial Museum (456-0)
-├── [budget] Equal Employment Opportunity Commission (350)
-│   └── [budget] Equal Employment Opportunity Commission (350-0)
-├── [budget] Federal Labor Relations Authority (365)
-│   └── [budget] Federal Labor Relations Authority (365-0)
-├── [budget] Occupational Safety and Health Review Commission (432)
-│   └── [budget] Occupational Safety and Health Review Commission (432-0)
-├── [budget] National Mediation Board (421)
-│   └── [budget] National Mediation Board (421-0)
-├── [budget] Institute of Museum and Library Services (474)
-│   └── [budget] Institute of Museum and Library Services (474-0)
-│       └── [budget] Office of Museum and Library Services: Grants and Administration (474-0-300)
-├── [budget] Federal Housing Finance Agency (537)
-│   └── [budget] Federal Housing Finance Agency (537-0)
-│       └── [budget] Office of Inspector General (537-0-5564)
-├── [budget] Delta Regional Authority (517)
-│   └── [budget] Delta Regional Authority (517-0)
-├── [budget] Payment to Puerto Rico Oversight Board (328)
-│   └── [budget] Puerto Rico Oversight Board (328-0)
-├── [budget] National Endowment for the Humanities (418)
-│   └── [budget] National Endowment for the Humanities (418-0)
-├── [budget] Department of Education (18)
-│   ├── [budget] Departmental Management (18-80)
-│   │   ├── [budget] Office of Inspector General (18-80-1400)
-│   │   ├── [budget] Office for Civil Rights (18-80-700)
-│   │   └── [budget] Program Administration (18-80-800)
-│   ├── [budget] Office of Federal Student Aid (18-45)
-│   │   ├── [budget] TEACH Grant Program (18-45-206)
-│   │   └── [budget] Federal Direct Student Loan Program (18-45-243)
-│   ├── [budget] Disaster Education Recovery (18-85)
-│   ├── [budget] Office of Career, Technical, and Adult Education (18-30)
-│   ├── [budget] Office of Innovation and Improvement (18-12)
-│   ├── [budget] Institute of Education Sciences (18-50)
-│   ├── [budget] Office of Elementary and Secondary Education (18-10)
-│   ├── [budget] Office of English Language Acquisition (18-15)
-│   ├── [budget] Office of Postsecondary Education (18-40)
-│   │   └── [budget] College Housing and Academic Facilities Loans Program (18-40-241)
-│   └── [budget] Office of Special Education and Rehabilitative Services (18-20)
-│       └── [budget] National Technical Institute for the Deaf (18-20-601)
-├── [budget] Central Intelligence Agency (316)
-│   └── [budget] Central Intelligence Agency (316-0)
-├── [budget] Department of Homeland Security (24)
-│   ├── [budget] Cybersecurity and Infrastructure Security Agency (24-65)
-│   ├── [budget] United States Coast Guard (24-60)
-│   ├── [budget] United States Secret Service (24-40)
-│   │   └── [budget] Contribution for Annuity Benefits, United States Secret Service (24-40-405)
-│   ├── [budget] U.S. Immigration and Customs Enforcement (24-55)
-│   ├── [budget] Science and Technology (24-80)
-│   ├── [budget] Analysis and Operations (24-18)
-│   ├── [budget] Office of the Inspector General (24-20)
-│   ├── [budget] Office of the Secretary and Executive Management (24-10)
-│   ├── [budget] Federal Emergency Management Agency (24-70)
-│   │   ├── [budget] Disaster Assistance Direct Loan Program (24-70-703)
-│   │   └── [budget] Flood Hazard Mapping and Risk Analysis Program (24-70-500)
-│   ├── [budget] U.S. Customs and Border Protection (24-58)
-│   ├── [budget] Federal Law Enforcement Training Center (24-49)
-│   ├── [budget] Transportation Security Administration (24-45)
-│   ├── [budget] Management Directorate (24-15)
-│   │   └── [budget] Federal Protective Service (24-15-542)
-│   ├── [budget] Citizenship and Immigration Services (24-30)
-│   └── [budget] Countering Weapons of Mass Destruction Office (24-85)
-├── [budget] Commission on Civil Rights (326)
-│   └── [budget] Commission on Civil Rights (326-0)
-├── [budget] Public Buildings Reform Board (290)
-│   └── [budget] Public Buildings Reform Board (290-0)
-├── [budget] Southeast Crescent Regional Commission (574)
-│   └── [budget] Southeast Crescent Regional Commission (574-0)
-├── [budget] 400 Years of African-American History Commission (247)
-│   └── [budget] 400 Years of African-American History Commission (247-0)
-├── [budget] National Railroad Passenger Corporation Office of Inspector General (575)
-│   └── [budget] National Railroad Passenger Corporation Office of Inspector General (575-0)
-├── [budget] Department of State (14)
-│   ├── [budget] International Organizations and Conferences (14-10)
-│   ├── [budget] Administration of Foreign Affairs (14-5)
-│   │   ├── [budget] Repatriation Loans Program (14-5-601)
-│   │   ├── [budget] Emergencies in the Diplomatic and Consular Service (14-5-522)
-│   │   ├── [budget] Office of Inspector General (14-5-529)
-│   │   └── [budget] Payment to the American Institute in Taiwan (14-5-523)
-│   ├── [budget] International Commissions (14-15)
-│   └── [budget] Other (14-25)
-│       ├── [budget] International Center, Washington, D.C. (14-25-5151)
-│       ├── [budget] Center for Middle Eastern-Western Dialogue Trust (14-25-8813)
-│       └── [budget] East-West Center (14-25-202)
-├── [budget] Department of Commerce (6)
-│   ├── [budget] International Trade Administration (6-25)
-│   ├── [budget] Minority Business Development Agency (6-40)
-│   ├── [budget] National Technical Information Service (6-54)
-│   ├── [budget] Bureau of the Census (6-7)
-│   ├── [budget] National Institute of Standards and Technology (6-55)
-│   │   └── [budget] Creating Helpful Incentives to Produce Semiconductors (CHIPS) Loan Program (6-55-521)
-│   ├── [budget] National Oceanic and Atmospheric Administration (6-48)
-│   ├── [budget] Bureau of Industry and Security (6-30)
-│   ├── [budget] Economic Development Administration (6-6)
-│   ├── [budget] Departmental Management (6-5)
-│   │   └── [budget] Office of the Inspector General (6-5-126)
-│   ├── [budget] U.S. Patent and Trademark Office (6-51)
-│   ├── [budget] Bureau of Economic Analysis (6-8)
-│   └── [budget] National Telecommunications and Information Administration (6-60)
-│       └── [budget] Broadband Equity, Access, and Deployment Program (6-60-562)
-├── [budget] United States Interagency Council on Homelessness (376)
-│   └── [budget] United States Interagency Council on Homelessness (376-0)
-├── [budget] National Aeronautics and Space Administration (26)
-│   └── [budget] National Aeronautics and Space Administration (26-0)
-│       └── [budget] Office of Inspector General (26-0-109)
-├── [budget] James Madison Memorial Fellowship Foundation (381)
-│   └── [budget] James Madison Memorial Fellowship Foundation (381-0)
-├── [budget] Commission of Fine Arts (323)
-│   └── [budget] Commission of Fine Arts (323-0)
-├── [budget] Securities Investor Protection Corporation (576)
-│   └── [budget] Securities Investor Protection Corporation (576-0)
-├── [budget] Office of Special Counsel (436)
-│   └── [budget] Office of Special Counsel (436-0)
-├── [budget] National Council on Disability (413)
-│   └── [budget] National Council on Disability (413-0)
-├── [budget] United States Court of Appeals for Veterans Claims (345)
-│   └── [budget] United States Court of Appeals for Veterans Claims (345-0)
-├── [budget] Standard Setting Body (527)
-│   └── [budget] Standard Setting Body (527-0)
-├── [budget] Allowances (900)
-│   └── [budget] Allowances (900-5)
-├── [budget] Nuclear Regulatory Commission (429)
-│   └── [budget] Nuclear Regulatory Commission (429-0)
-│       └── [budget] Office of Inspector General (429-0-300)
-├── [budget] Public Company Accounting Oversight Board (526)
-│   └── [budget] Public Company Accounting Oversight Board (526-0)
-├── [budget] Federal Trade Commission (370)
-│   └── [budget] Federal Trade Commission (370-0)
-├── [budget] Institute of American Indian and Alaska Native Culture and Arts Development (373)
-│   └── [budget] Institute of American Indian and Alaska Native Culture and Arts Development (373-0)
-│       └── [budget] Payment to the Institute (373-0-2900)
-├── [budget] Federal Financial Institutions Examination Council (362)
-│   ├── [budget] Federal Financial Institutions Examination Council Appraisal Subcommittee (362-20)
-│   └── [budget] Federal Financial Institutions Examination Council (362-10)
-│       └── [budget] Federal Financial Institutions Examination Council Activities (362-10-5547)
-├── [budget] Federal Maritime Commission (366)
-│   └── [budget] Federal Maritime Commission (366-0)
-├── [budget] Department of Defense--Military Programs (7)
-│   ├── [budget] Military Construction (7-25)
-│   │   └── [budget] North Atlantic Treaty Organization Security Investment Program (7-25-804)
-│   ├── [budget] Military Personnel (7-5)
-│   ├── [budget] Trust Funds (7-55)
-│   ├── [budget] Revolving and Management Funds (7-40)
-│   ├── [budget] Procurement (7-15)
-│   │   └── [budget] Defense Production Act Program (7-15-361)
-│   ├── [budget] Operation and Maintenance (7-10)
-│   │   ├── [budget] Office of the Inspector General (7-10-107)
-│   │   └── [budget] Defense Health Program (7-10-130)
-│   ├── [budget] Family Housing (7-30)
-│   └── [budget] Research, Development, Test, and Evaluation (7-20)
-├── [budget] Neighborhood Reinvestment Corporation (428)
-│   └── [budget] Neighborhood Reinvestment Corporation (428-0)
-├── [budget] Office of Government Ethics (434)
-│   └── [budget] Office of Government Ethics (434-0)
-├── [budget] Executive Office of the President (100)
-│   ├── [budget] Office of Administration (100-50)
-│   ├── [budget] Office of Science and Technology Policy (100-65)
-│   ├── [budget] National Space Council (100-40)
-│   ├── [budget] Council of Economic Advisers (100-20)
-│   ├── [budget] Office of the United States Trade Representative (100-70)
-│   ├── [budget] Special Assistance to the President and the Official Residence of the Vice President (100-15)
-│   ├── [budget] Council on Environmental Quality and Office of Environmental Quality (100-25)
-│   ├── [budget] Office of the  National Cyber Director (100-37)
-│   ├── [budget] Office of National Drug Control Policy (100-60)
-│   ├── [budget] The White House (100-5)
-│   ├── [budget] Unanticipated Needs (100-95)
-│   ├── [budget] National Security Council and Homeland Security Council (100-35)
-│   ├── [budget] Office of Management and Budget (100-55)
-│   └── [budget] Executive Residence at the White House (100-10)
-├── [budget] National Labor Relations Board (420)
-│   └── [budget] National Labor Relations Board (420-0)
-├── [budget] Federal Drug Control Programs (154)
-│   └── [budget] Federal Drug Control Programs (154-0)
-│       └── [budget] High Intensity Drug Trafficking Areas Program (154-0-1070)
-├── [budget] Northern Border Regional Commission (573)
-│   └── [budget] Northern Border Regional Commission (573-0)
-├── [budget] Merit Systems Protection Board (389)
-│   └── [budget] Merit Systems Protection Board (389-0)
-├── [budget] Consumer Product Safety Commission (343)
-│   └── [budget] Consumer Product Safety Commission (343-0)
-├── [budget] International Assistance Programs (184)
-│   ├── [budget] United States International Development Finance Corporation (184-22)
-│   ├── [budget] Peace Corps (184-35)
-│   ├── [budget] Millennium Challenge Corporation (184-3)
-│   ├── [budget] Agency for International Development (184-15)
-│   │   ├── [budget] Development Assistance Program (184-15-1021)
-│   │   └── [budget] Operating Expenses, Office of Inspector General (184-15-1007)
-│   ├── [budget] Multilateral Assistance (184-10)
-│   │   ├── [budget] International Affairs Technical Assistance Program (184-10-1045)
-│   │   ├── [budget] Clean Technology Fund Program (184-10-80)
-│   │   └── [budget] Global Agriculture and Food Security Program (184-10-1475)
-│   ├── [budget] International Assistance Programs (184-0)
-│   ├── [budget] International Security Assistance (184-5)
-│   │   └── [budget] Foreign Military Financing Program (184-5-1082)
-│   ├── [budget] African Development Foundation (184-50)
-│   ├── [budget] Trade and Development Agency (184-25)
-│   ├── [budget] Inter-American Foundation (184-40)
-│   └── [budget] International Monetary Programs (184-60)
-├── [budget] Environmental Protection Agency (20)
-│   └── [budget] Environmental Protection Agency (20-0)
-│       ├── [budget] Water Infrastructure Finance and Innovation Program (20-0-254)
-│       └── [budget] Office of Inspector General (20-0-112)
-├── [budget] Alyce Spotted Bear and Walter Soboleff Commission on Native Children (545)
-│   └── [budget] Alyce Spotted Bear and Walter Soboleff Com. on Native Children (545-0)
-│       └── [budget] Alyce Spotted Bear and Walter Soboleff Commission on Native Children (545-0-2987)
-├── [budget] Securities and Exchange Commission (449)
-│   └── [budget] Securities and Exchange Commission (449-0)
-│       └── [budget] Securities and Exchange Commission Reserve (449-0-5566)
-├── [budget] Social Security Administration (16)
-│   └── [budget] Social Security Administration (16-0)
-│       ├── [budget] Supplemental Security Income Program (16-0-406)
-│       └── [budget] Office of Inspector General (16-0-400)
-├── [budget] Legislative Branch (1)
-│   ├── [budget] Senate (1-5)
-│   │   ├── [budget] Office of the Legislative Counsel of the Senate (1-5-185)
-│   │   └── [budget] Senators' Official Personnel and Office Expense (1-5-130)
-│   ├── [budget] Government Publishing Office (1-30)
-│   │   └── [budget] Government Publishing Office Business Operations Revolving (1-30-4505)
-│   ├── [budget] Joint Items (1-11)
-│   │   ├── [budget] Joint Congressional Committee on Inaugural Ceremonies of 2025 (1-11-186)
-│   │   ├── [budget] Joint Economic Committee (1-11-181)
-│   │   ├── [budget] Office of Congressional Accessibility Services (1-11-190)
-│   │   ├── [budget] Joint Committee on Taxation (1-11-460)
-│   │   └── [budget] Office of the Attending Physician (1-11-425)
-│   ├── [budget] Capitol Police (1-13)
-│   ├── [budget] Botanic Garden (1-18)
-│   ├── [budget] Legislative Branch Boards and Commissions (1-45)
-│   │   ├── [budget] United States Commission on International Religious Freedom (1-45-2975)
-│   │   ├── [budget] World War I Centennial Commission (1-45-5589)
-│   │   ├── [budget] Commission on Security and Cooperation in Europe: (1-45-110)
-│   │   ├── [budget] United States Semiquincentennial Commission (1-45-2780)
-│   │   ├── [budget] United States-China Economic and Security Review Commission (1-45-2973)
-│   │   ├── [budget] John C. Stennis Center for Public Service Training and Development (1-45-8275)
-│   │   ├── [budget] Congressional Executive Commission on the People's Republic of China (1-45-2930)
-│   │   └── [budget] Medicaid and CHIP Payment and Access Commission (1-45-1801)
-│   ├── [budget] Library of Congress (1-25)
-│   │   ├── [budget] Cooperative Acquisitions Program Revolving (1-25-4325)
-│   │   └── [budget] Copyright Office (1-25-102)
-│   ├── [budget] United States Tax Court (1-40)
-│   ├── [budget] Government Accountability Office (1-35)
-│   ├── [budget] House of Representatives (1-10)
-│   ├── [budget] Office of Congressional Workplace Rights (1-12)
-│   ├── [budget] Congressional Budget Office (1-14)
-│   └── [budget] Architect of the Capitol (1-15)
-│       ├── [budget] Capitol Visitor Center (1-15-161)
-│       ├── [budget] Senate Office Buildings (1-15-123)
-│       └── [budget] House Office Buildings (1-15-127)
-├── [budget] National Commission on Military, National, and Public Service (236)
-│   └── [budget] National Commission on Military, National, and Public Service (236-0)
-├── [budget] Marine Mammal Commission (387)
-│   └── [budget] Marine Mammal Commission (387-0)
-├── [budget] Office of Personnel Management (27)
-│   └── [budget] Office of Personnel Management (27-0)
-│       ├── [budget] Postal Service Health Benefits Program Implementation (27-0-813)
-│       └── [budget] Office of Inspector General (27-0-400)
-├── [budget] Administrative Conference of the United States (302)
-│   └── [budget] Administrative Conference of the United States (302-0)
-├── [budget] Election Assistance Commission (525)
-│   └── [budget] Election Assistance Commission (525-0)
-├── [budget] National Transportation Safety Board (424)
-│   └── [budget] National Transportation Safety Board (424-0)
-├── [budget] National Science Foundation (422)
-│   └── [budget] National Science Foundation (422-0)
-│       ├── [budget] Office of Inspector General (422-0-300)
-│       └── [budget] Office of the National Science Board (422-0-350)
-├── [budget] Federal Mine Safety and Health Review Commission (368)
-│   └── [budget] Federal Mine Safety and Health Review Commission (368-0)
-├── [budget] Office of Navajo and Hopi Indian Relocation (435)
-│   └── [budget] Office of Navajo and Hopi Indian Relocation (435-0)
-├── [budget] Access Board (310)
-│   └── [budget] Access Board (310-0)
-├── [budget] Federal Permitting Improvement Steering Council (473)
-│   └── [budget] Federal Permitting Improvement Council (473-0)
-├── [budget] Barry Goldwater Scholarship and Excellence in Education Foundation (313)
-│   └── [budget] Barry Goldwater Scholarship and Excellence in Education Foundation (313-0)
-├── [budget] International Trade Commission (378)
-│   └── [budget] International Trade Commission (378-0)
-├── [budget] Morris K. Udall and Stewart L. Udall Foundation (487)
-│   └── [budget] Morris K. Udall and Stewart L. Udall Foundation (487-0)
-├── [budget] Corps of Engineers--Civil Works (202)
-│   └── [budget] Corps of Engineers--Civil Works (202-0)
-│       ├── [budget] Formerly Utilized Sites Remedial Action Program (202-0-3130)
-│       ├── [budget] Regulatory Program (202-0-3126)
-│       ├── [budget] Office of the Assistant Secretary of the Army for Civil Works (202-0-3132)
-│       └── [budget] Water Infrastructure Finance and Innovation Program (202-0-3139)
-├── [budget] National Archives and Records Administration (393)
-│   └── [budget] National Archives and Records Administration (393-0)
-│       ├── [budget] Office of the Inspector General--National Archives and Records Administration (393-0-305)
-│       └── [budget] National Historical Publications and Records Commission (393-0-301)
-├── [budget] Other Commissions and Boards (505)
-│   └── [budget] Other Commissions and Boards (505-0)
-├── [budget] Public Defender Service for the District of Columbia (587)
-│   └── [budget] Public Defender Service for the District of Columbia (587-0)
-│       └── [budget] Federal Payment to the District of Columbia Public Defender Service (587-0-1733)
-├── [budget] Defense Nuclear Facilities Safety Board (347)
-│   └── [budget] Defense Nuclear Facilities Safety Board (347-0)
-├── [budget] Corporation for National and Community Service (485)
-│   └── [budget] Corporation for National and Community Service (485-0)
-│       └── [budget] Office of Inspector General (485-0-2721)
-├── [budget] Privacy and Civil Liberties Oversight Board (535)
-│   └── [budget] Privacy and Civil Liberties Oversight Board (535-0)
-├── [budget] Corporation for Public Broadcasting (344)
-│   └── [budget] Corporation for Public Broadcasting (344-0)
-├── [budget] Chemical Safety and Hazard Investigation Board (510)
-│   └── [budget] Chemical Safety and Hazard Investigation Board (510-0)
-├── [budget] Court Services and Offender Supervision Agency for the District of Columbia (511)
-│   └── [budget] Court Services and Offender Supervision Agency for the District of Columbia (511-0)
-├── [budget] Commodity Futures Trading Commission (339)
-│   └── [budget] Commodity Futures Trading Commission (339-0)
-├── [budget] National Capital Planning Commission (394)
-│   └── [budget] National Capital Planning Commission (394-0)
-├── [budget] National Endowment for the Arts (417)
-│   └── [budget] National Endowment for the Arts (417-0)
-├── [budget] Patient-Centered Outcomes Research Trust Fund (579)
-│   └── [budget] Patient-Centered Outcomes Research Trust Fund (579-0)
-├── [budget] Department of the Interior (10)
-│   ├── [budget] Bureau of Land Management (10-4)
-│   ├── [budget] Department-Wide Programs (10-95)
-│   │   ├── [budget] Office of Natural Resources Revenue (10-95-1113)
-│   │   └── [budget] Energy Community Revitalization Program (10-95-2641)
-│   ├── [budget] Bureau of Reclamation (10-10)
-│   ├── [budget] National Indian Gaming Commission (10-92)
-│   │   └── [budget] National Indian Gaming Commission, Gaming Activity Fees (10-92-5141)
-│   ├── [budget] National Park Service (10-24)
-│   ├── [budget] Bureau of Indian Affairs (10-76)
-│   │   └── [budget] Indian Guaranteed Loan Program (10-76-2628)
-│   ├── [budget] Bureau of Safety and Environmental Enforcement (10-22)
-│   ├── [budget] Bureau of Indian Education (10-77)
-│   ├── [budget] United States Fish and Wildlife Service (10-18)
-│   │   └── [budget] Recreation Enhancement Fee Program, FWS (10-18-5252)
-│   ├── [budget] Office of Inspector General (10-88)
-│   ├── [budget] Bureau of Trust Funds Administration (10-78)
-│   ├── [budget] Bureau of Ocean Energy Management (10-6)
-│   ├── [budget] Office of the Solicitor (10-86)
-│   ├── [budget] Office of Surface Mining Reclamation and Enforcement (10-8)
-│   ├── [budget] Departmental Offices (10-84)
-│   ├── [budget] United States Geological Survey (10-12)
-│   ├── [budget] Central Utah Project (10-11)
-│   └── [budget] Insular Affairs (10-85)
-├── [budget] District of Columbia (349)
-│   ├── [budget] District of Columbia General and Special Payments (349-30)
-│   └── [budget] District of Columbia Courts (349-10)
-├── [budget] Department of Transportation (21)
-│   ├── [budget] Federal Railroad Administration (21-27)
-│   │   ├── [budget] Railroad Crossing Elimination Program (21-27-760)
-│   │   ├── [budget] Capital Assistance for High Speed Rail Corridors and Intercity Passenger Rail Service (21-27-719)
-│   │   └── [budget] Rail Line Relocation and Improvement Program (21-27-716)
-│   ├── [budget] Federal Motor Carrier Safety Administration (21-17)
-│   ├── [budget] Great Lakes St. Lawrence Seaway Development Corporation (21-40)
-│   ├── [budget] Federal Highway Administration (21-15)
-│   │   └── [budget] Emergency Relief Program (21-15-500)
-│   ├── [budget] Federal Aviation Administration (21-12)
-│   │   └── [budget] Airport Terminal Program (21-12-1337)
-│   ├── [budget] Pipeline and Hazardous Materials Safety Administration (21-50)
-│   │   └── [budget] Natural Gas Distribution Infrastructure Safety and Modernization Grant Program (21-50-1402)
-│   ├── [budget] Office of Inspector General (21-56)
-│   ├── [budget] Federal Transit Administration (21-36)
-│   │   ├── [budget] Electric or Low-Emitting Ferry Program (21-36-1144)
-│   │   ├── [budget] Public Transportation Emergency Relief Program (21-36-1140)
-│   │   └── [budget] All Stations Accessibility Program (21-36-1145)
-│   ├── [budget] Office of the Secretary (21-4)
-│   │   ├── [budget] Office of Civil Rights (21-4-118)
-│   │   ├── [budget] Strengthening Mobility and Revolutionizing Transportation Grant Program (21-4-1734)
-│   │   ├── [budget] National Culvert Removal, Replacement, and Restoration Grant Program (21-4-1733)
-│   │   ├── [budget] Transportation Demonstration Program (21-4-1731)
-│   │   ├── [budget] Aviation Manufacturing Jobs Protection Program (21-4-110)
-│   │   └── [budget] TIFIA Highway Trust Fund Program (21-4-8634)
-│   ├── [budget] Maritime Administration (21-70)
-│   │   ├── [budget] Maritime Guaranteed Loan (Title XI) Program (21-70-1752)
-│   │   ├── [budget] Maritime Security Program (21-70-1711)
-│   │   ├── [budget] Port Infrastructure Development Program (21-70-1713)
-│   │   └── [budget] Tanker Security Program (21-70-1718)
-│   └── [budget] National Highway Traffic Safety Administration (21-18)
-├── [budget] Federal Deposit Insurance Corporation (357)
-│   ├── [budget] FDIC_Office of Inspector General (357-40)
-│   │   └── [budget] Office of the Inspector General (357-40-4595)
-│   └── [budget] Orderly Liquidation (357-35)
-└── [budget] Gulf Coast Ecosystem Restoration Council (586)
-    └── [budget] Gulf Coast Ecosystem Restoration Council (586-0)
+├── Appalachian Regional Commission
+│   └── Appalachian Regional Commission
+├── Presidio Trust
+│   └── Presidio Trust
+├── United States Institute of Peace
+│   └── United States Institute of Peace
+├── Affordable Housing Program
+│   └── Affordable Housing Program
+├── Bureau of Consumer Financial Protection
+│   └── Bureau of Consumer Financial Protection
+├── U.S. Agency for Global Media
+│   └── U.S. Agency for Global Media
+├── Southwest Border Regional Commission
+│   └── Southwest Border Regional Commission
+├── Social Security Administration
+│   └── Social Security Administration
+├── Department of Health and Human Services
+│   ├── Substance Use And Mental Health Services Administration
+│   ├── Indian Health Service
+│   ├── Administration for Community Living
+│   ├── National Institutes of Health
+│   ├── Administration for Children and Families
+│   ├── Health Resources and Services Administration
+│   │   └── Vaccine Injury Compensation Program Trust
+│   ├── Food and Drug Administration
+│   ├── Administration for Strategic Preparedness and Response
+│   ├── Program Support Center
+│   ├── Office of the Inspector General
+│   │   └── Office of Inspector General
+│   ├── Centers for Disease Control and Prevention
+│   │   ├── CDC-wide Activities and Program Support
+│   │   └── World Trade Center Health Program
+│   ├── Agency for Healthcare Research and Quality
+│   ├── Departmental Management
+│   │   ├── National Hepatitis C Elimination Program
+│   │   ├── Office for Civil Rights
+│   │   └── PrEP Delivery Program to End the HIV Epidemic in the United States
+│   └── Centers for Medicare and Medicaid Services
+│       ├── Pre-Existing Condition Insurance Plan Program
+│       ├── Center for Medicare and Medicaid Innovation
+│       ├── Risk Adjustment Program Payments
+│       ├── Early Retiree Reinsurance Program
+│       └── Program Management
+├── Japan-United States Friendship Commission
+│   └── Japan-United States Friendship Commission
+├── Denali Commission
+│   └── Denali Commission
+│       └── Denali Commission Trust
+├── Department of Agriculture
+│   ├── Rural Business-Cooperative Service
+│   │   ├── Intermediary Relending Program Fund
+│   │   ├── Rural Energy for America Program
+│   │   ├── Rural Microentrepreneur Assistance Program
+│   │   ├── Rural Business Program
+│   │   └── Biorefinery Assistance Program
+│   ├── Animal and Plant Health Inspection Service
+│   ├── Economic Research Service
+│   ├── Executive Operations
+│   ├── Food and Nutrition Service
+│   │   ├── Commodity Assistance Program
+│   │   ├── Supplemental Nutrition Assistance Program
+│   │   └── Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)
+│   ├── Agricultural Marketing Service
+│   ├── Forest Service
+│   ├── Natural Resources Conservation Service
+│   │   ├── Water Bank Program
+│   │   ├── Watershed Rehabilitation Program
+│   │   └── Healthy Forests Reserve Program
+│   ├── National Agricultural Statistics Service
+│   ├── Foreign Agricultural Service
+│   │   └── McGovern-Dole International Food for Education and Child Nutrition Program
+│   ├── Farm Service Agency
+│   │   ├── Commodity Credit Corporation Export Loans Program
+│   │   ├── Grassroots Source Water Protection Program
+│   │   ├── Agricultural Credit Insurance Fund Program
+│   │   ├── Emergency Forest Restoration Program
+│   │   └── Emergency Conservation Program
+│   ├── Office of Inspector General
+│   ├── National Institute of Food and Agriculture
+│   ├── Rural Housing Service
+│   │   ├── Rural Community Facilities Program
+│   │   ├── Rental Assistance Program
+│   │   ├── Rural Housing Insurance Fund Program
+│   │   └── Multifamily Housing Revitalization Program
+│   ├── Food Safety and Inspection Service
+│   ├── Rural Utilities Service
+│   │   ├── Rural Electrification and Telecommunications Loans Program
+│   │   ├── Rural Water and Waste Disposal Program
+│   │   └── Distance Learning, Telemedicine, and Broadband Program
+│   ├── Office of the Secretary
+│   │   └── Food Supply Chain and Agriculture Pandemic Response Program
+│   ├── Buildings and Facilities
+│   ├── Rural Development
+│   ├── Agricultural Research Service
+│   ├── Risk Management Agency
+│   └── Farm Production and Conservation
+│       └── Farm Production and Conservation Business Center
+├── Department of Justice
+│   ├── Drug Enforcement Administration
+│   ├── Legal Activities and U.S. Marshals
+│   │   ├── Salaries and Expenses, Community Relations Service
+│   │   ├── Salaries and Expenses, Foreign Claims Settlement Commission
+│   │   ├── Salaries and Expenses, United States Marshals Service
+│   │   └── Office for Access to Justice
+│   ├── National Security Division
+│   ├── Bureau of Alcohol, Tobacco, Firearms, and Explosives
+│   ├── Justice Operations, Management, and Accountability
+│   │   ├── Office of Inspector General
+│   │   └── Executive Office for Immigration Review
+│   ├── Federal Bureau of Investigation
+│   ├── Interagency Law Enforcement
+│   ├── State, Local, and Tribal Justice Assistance
+│   ├── Federal Prison System
+│   ├── United States Parole Commission
+│   └── Radiation Exposure Compensation
+├── Department of Labor
+│   ├── Veterans' Employment and Training Service
+│   ├── Employee Benefits Security Administration
+│   ├── Departmental Management
+│   │   ├── Office of Inspector General
+│   │   └── Office of Disability Employment Policy
+│   ├── Office of Workers' Compensation Programs
+│   │   └── Panama Canal Commission Compensation
+│   ├── Office of Federal Contract Compliance Programs
+│   ├── Occupational Safety and Health Administration
+│   ├── Pension Benefit Guaranty Corporation
+│   ├── Employment and Training Administration
+│   │   ├── Program Administration
+│   │   └── Federal Additional Unemployment Compensation Program, Recovery
+│   ├── Office of Labor Management Standards
+│   ├── Mine Safety and Health Administration
+│   ├── Bureau of Labor Statistics
+│   └── Wage and Hour Division
+├── Electric Reliability Organization
+│   └── Electric Reliability Organization
+├── Department of the Treasury
+│   ├── Fiscal Service
+│   ├── Bureau of Engraving and Printing
+│   ├── Financial Crimes Enforcement Network
+│   ├── Alcohol and Tobacco Tax and Trade Bureau
+│   ├── Internal Revenue Service
+│   │   └── Private Collection Agent Program
+│   ├── Departmental Offices
+│   │   ├── Small Business Lending Fund Program
+│   │   ├── Office of Financial Stability
+│   │   ├── Community Development Financial Institutions Fund Program, Emergency Support
+│   │   ├── Office of Inspector General
+│   │   ├── Special Inspector General for the Troubled Asset Relief Program
+│   │   ├── GSE Mortgage-backed Securities Purchase Program
+│   │   ├── Terrorism Insurance Program
+│   │   ├── Economic Stabilization Program
+│   │   ├── Community Development Financial Institutions Fund Program
+│   │   └── Office of Terrorism and Financial Intelligence
+│   └── Interest on the Public Debt
+├── General Services Administration
+│   ├── General Activities
+│   │   ├── Office of Inspector General
+│   │   └── Allowances and Office Staff for Former Presidents
+│   └── Real Property Activities
+├── Federal Mediation and Conciliation Service
+│   └── Federal Mediation and Conciliation Service
+├── Federal Election Commission
+│   └── Federal Election Commission
+├── Surface Transportation Board
+│   └── Surface Transportation Board
+├── Tennessee Valley Authority
+│   └── Tennessee Valley Authority
+├── Advisory Council on Historic Preservation
+│   └── Advisory Council on Historic Preservation
+├── Nuclear Waste Technical Review Board
+│   └── Nuclear Waste Technical Review Board
+├── Small Business Administration
+│   └── Small Business Administration
+│       ├── Office of Inspector General
+│       ├── Disaster Loans Program
+│       ├── Entrepreneurial Development Program
+│       ├── Business Loans Program
+│       └── Office of Advocacy
+├── Council of the Inspectors General on Integrity and Efficiency
+│   └── Council of the Inspectors General on Integrity and Efficiency
+│       ├── Pandemic Response Accountability Committee
+│       └── Inspectors General Council
+├── National Oilheat Research Alliance
+│   └── National Oilheat Research Alliance
+├── Department of Veterans Affairs
+│   ├── Veterans Health Administration
+│   ├── Benefits Programs
+│   │   ├── Veterans Housing Benefit Program
+│   │   └── Native American Veteran Housing Loan Program
+│   └── Departmental Administration
+│       └── Office of Inspector General
+├── Harry S Truman Scholarship Foundation
+│   └── Harry S Truman Scholarship Foundation
+├── Federal Communications Commission
+│   └── Federal Communications Commission
+│       ├── Secure and Trusted Communications Networks Act Reimbursement Program
+│       └── Telecommunications Relay Services Fund, Federal Communications Commission
+├── Intelligence Community Management Account
+│   └── Intelligence Community Management Account
+├── Department of Housing and Urban Development
+│   ├── Policy Development and Research
+│   ├── Housing Programs
+│   │   ├── Green and Resilient Retrofit Program for Multifamily Housing
+│   │   └── FHA-Mutual Mortgage Insurance Program
+│   ├── Public and Indian Housing Programs
+│   │   └── Indian Housing Loan Guarantee Fund Program
+│   ├── Office of Lead Hazard Control and Healthy Homes
+│   ├── Fair Housing and Equal Opportunity
+│   ├── Community Planning and Development
+│   │   ├── Home Investment Partnership Program
+│   │   ├── Self-help and Assisted Homeownership Opportunity Program
+│   │   └── Neighborhood Stabilization Program
+│   └── Management and Administration
+│       ├── Office of Inspector General
+│       └── Program Offices
+├── Judicial Branch
+│   ├── Supreme Court of the United States
+│   ├── Courts of Appeals, District Courts, and Other Judicial Services
+│   ├── United States Sentencing Commission
+│   ├── Federal Judicial Center
+│   ├── Administrative Office of the United States Courts
+│   ├── United States Court of International Trade
+│   ├── Judicial Retirement Funds
+│   └── United States Court of Appeals for the Federal Circuit
+├── Committee for Purchase From People Who Are Blind or Severely Disabled
+│   └── Committee for Purchase From People who are Blind or Severely Disabled, activities
+├── Department of Energy
+│   ├── Environmental and Other Defense Activities
+│   ├── Energy Programs
+│   │   ├── Federal Energy Regulatory Commission
+│   │   ├── Office of Technology Transitions
+│   │   ├── Office of State and Community Energy Programs
+│   │   ├── Grid Deployment Office
+│   │   ├── Advanced Technology Vehicles Manufacturing Loan Program
+│   │   ├── Office of Manufacturing and Energy Supply Chains
+│   │   ├── Tribal Energy Loan Guarantee Program
+│   │   ├── Carbon Dioxide Transportation Infrastructure Finance and Innovation Program
+│   │   ├── Office of Indian Energy Policy and Programs
+│   │   ├── Office of Clean Energy Demonstrations
+│   │   ├── Federal Energy Management Program
+│   │   └── Title 17 Innovative Technology Loan Guarantee Program
+│   ├── National Nuclear Security Administration
+│   └── Departmental Administration
+│       └── Office of the Inspector General
+├── Legal Services Corporation
+│   └── Legal Services Corporation
+├── Railroad Retirement Board
+│   └── Railroad Retirement Board
+├── National Association of Registered Agents and Brokers
+│   └── National Association of Registered Agents and Brokers
+├── Smithsonian Institution
+│   └── Smithsonian Institution
+│       ├── Operations and Maintenance, JFK Center for the Performing Arts
+│       ├── Salaries and Expenses, Woodrow Wilson International Center for Scholars
+│       └── Capital Repair and Restoration, JFK Center for the Performing Arts
+├── State Justice Institute
+│   └── State Justice Institute
+├── Corporation for Travel Promotion
+│   └── Corporation for Travel Promotion
+├── Other Defense--Civil Programs
+│   ├── American Battle Monuments Commission
+│   ├── Retiree Health Care
+│   ├── Selective Service System
+│   ├── Armed Forces Retirement Home
+│   ├── Military Retirement
+│   ├── Cemeterial Expenses
+│   └── Educational Benefits
+├── United States Holocaust Memorial Museum
+│   └── United States Holocaust Memorial Museum
+├── Equal Employment Opportunity Commission
+│   └── Equal Employment Opportunity Commission
+├── Federal Labor Relations Authority
+│   └── Federal Labor Relations Authority
+├── Occupational Safety and Health Review Commission
+│   └── Occupational Safety and Health Review Commission
+├── National Mediation Board
+│   └── National Mediation Board
+├── Institute of Museum and Library Services
+│   └── Institute of Museum and Library Services
+│       └── Office of Museum and Library Services: Grants and Administration
+├── Federal Housing Finance Agency
+│   └── Federal Housing Finance Agency
+│       └── Office of Inspector General
+├── Delta Regional Authority
+│   └── Delta Regional Authority
+├── Payment to Puerto Rico Oversight Board
+│   └── Puerto Rico Oversight Board
+├── National Endowment for the Humanities
+│   └── National Endowment for the Humanities
+├── Department of Education
+│   ├── Departmental Management
+│   │   ├── Office of Inspector General
+│   │   ├── Office for Civil Rights
+│   │   └── Program Administration
+│   ├── Office of Federal Student Aid
+│   │   ├── TEACH Grant Program
+│   │   └── Federal Direct Student Loan Program
+│   ├── Disaster Education Recovery
+│   ├── Office of Career, Technical, and Adult Education
+│   ├── Office of Innovation and Improvement
+│   ├── Institute of Education Sciences
+│   ├── Office of Elementary and Secondary Education
+│   ├── Office of English Language Acquisition
+│   ├── Office of Postsecondary Education
+│   │   └── College Housing and Academic Facilities Loans Program
+│   └── Office of Special Education and Rehabilitative Services
+│       └── National Technical Institute for the Deaf
+├── Central Intelligence Agency
+│   └── Central Intelligence Agency
+├── Department of Homeland Security
+│   ├── Cybersecurity and Infrastructure Security Agency
+│   ├── United States Coast Guard
+│   ├── United States Secret Service
+│   │   └── Contribution for Annuity Benefits, United States Secret Service
+│   ├── U.S. Immigration and Customs Enforcement
+│   ├── Science and Technology
+│   ├── Analysis and Operations
+│   ├── Office of the Inspector General
+│   ├── Office of the Secretary and Executive Management
+│   ├── Federal Emergency Management Agency
+│   │   ├── Disaster Assistance Direct Loan Program
+│   │   └── Flood Hazard Mapping and Risk Analysis Program
+│   ├── U.S. Customs and Border Protection
+│   ├── Federal Law Enforcement Training Center
+│   ├── Transportation Security Administration
+│   ├── Management Directorate
+│   │   └── Federal Protective Service
+│   ├── Citizenship and Immigration Services
+│   └── Countering Weapons of Mass Destruction Office
+├── Commission on Civil Rights
+│   └── Commission on Civil Rights
+├── Public Buildings Reform Board
+│   └── Public Buildings Reform Board
+├── Southeast Crescent Regional Commission
+│   └── Southeast Crescent Regional Commission
+├── 400 Years of African-American History Commission
+│   └── 400 Years of African-American History Commission
+├── National Railroad Passenger Corporation Office of Inspector General
+│   └── National Railroad Passenger Corporation Office of Inspector General
+├── Department of State
+│   ├── International Organizations and Conferences
+│   ├── Administration of Foreign Affairs
+│   │   ├── Repatriation Loans Program
+│   │   ├── Emergencies in the Diplomatic and Consular Service
+│   │   ├── Office of Inspector General
+│   │   └── Payment to the American Institute in Taiwan
+│   ├── International Commissions
+│   └── Other
+│       ├── International Center, Washington, D.C.
+│       ├── Center for Middle Eastern-Western Dialogue Trust
+│       └── East-West Center
+├── Department of Commerce
+│   ├── International Trade Administration
+│   ├── Minority Business Development Agency
+│   ├── National Technical Information Service
+│   ├── Bureau of the Census
+│   ├── National Institute of Standards and Technology
+│   │   └── Creating Helpful Incentives to Produce Semiconductors (CHIPS) Loan Program
+│   ├── National Oceanic and Atmospheric Administration
+│   ├── Bureau of Industry and Security
+│   ├── Economic Development Administration
+│   ├── Departmental Management
+│   │   └── Office of the Inspector General
+│   ├── U.S. Patent and Trademark Office
+│   ├── Bureau of Economic Analysis
+│   └── National Telecommunications and Information Administration
+│       └── Broadband Equity, Access, and Deployment Program
+├── United States Interagency Council on Homelessness
+│   └── United States Interagency Council on Homelessness
+├── National Aeronautics and Space Administration
+│   └── National Aeronautics and Space Administration
+│       └── Office of Inspector General
+├── James Madison Memorial Fellowship Foundation
+│   └── James Madison Memorial Fellowship Foundation
+├── Commission of Fine Arts
+│   └── Commission of Fine Arts
+├── Securities Investor Protection Corporation
+│   └── Securities Investor Protection Corporation
+├── Office of Special Counsel
+│   └── Office of Special Counsel
+├── National Council on Disability
+│   └── National Council on Disability
+├── United States Court of Appeals for Veterans Claims
+│   └── United States Court of Appeals for Veterans Claims
+├── Standard Setting Body
+│   └── Standard Setting Body
+├── Allowances
+│   └── Allowances
+├── Nuclear Regulatory Commission
+│   └── Nuclear Regulatory Commission
+│       └── Office of Inspector General
+├── Public Company Accounting Oversight Board
+│   └── Public Company Accounting Oversight Board
+├── Federal Trade Commission
+│   └── Federal Trade Commission
+├── Institute of American Indian and Alaska Native Culture and Arts Development
+│   └── Institute of American Indian and Alaska Native Culture and Arts Development
+│       └── Payment to the Institute
+├── Federal Financial Institutions Examination Council
+│   ├── Federal Financial Institutions Examination Council Appraisal Subcommittee
+│   └── Federal Financial Institutions Examination Council
+│       └── Federal Financial Institutions Examination Council Activities
+├── Federal Maritime Commission
+│   └── Federal Maritime Commission
+├── Department of Defense--Military Programs
+│   ├── Military Construction
+│   │   └── North Atlantic Treaty Organization Security Investment Program
+│   ├── Military Personnel
+│   ├── Trust Funds
+│   ├── Revolving and Management Funds
+│   ├── Procurement
+│   │   └── Defense Production Act Program
+│   ├── Operation and Maintenance
+│   │   ├── Office of the Inspector General
+│   │   └── Defense Health Program
+│   ├── Family Housing
+│   └── Research, Development, Test, and Evaluation
+├── Neighborhood Reinvestment Corporation
+│   └── Neighborhood Reinvestment Corporation
+├── Office of Government Ethics
+│   └── Office of Government Ethics
+├── Executive Office of the President
+│   ├── Office of Administration
+│   ├── Office of Science and Technology Policy
+│   ├── National Space Council
+│   ├── Council of Economic Advisers
+│   ├── Office of the United States Trade Representative
+│   ├── Special Assistance to the President and the Official Residence of the Vice President
+│   ├── Council on Environmental Quality and Office of Environmental Quality
+│   ├── Office of the  National Cyber Director
+│   ├── Office of National Drug Control Policy
+│   ├── The White House
+│   ├── Unanticipated Needs
+│   ├── National Security Council and Homeland Security Council
+│   ├── Office of Management and Budget
+│   └── Executive Residence at the White House
+├── National Labor Relations Board
+│   └── National Labor Relations Board
+├── Federal Drug Control Programs
+│   └── Federal Drug Control Programs
+│       └── High Intensity Drug Trafficking Areas Program
+├── Northern Border Regional Commission
+│   └── Northern Border Regional Commission
+├── Merit Systems Protection Board
+│   └── Merit Systems Protection Board
+├── Consumer Product Safety Commission
+│   └── Consumer Product Safety Commission
+├── International Assistance Programs
+│   ├── United States International Development Finance Corporation
+│   ├── Peace Corps
+│   ├── Millennium Challenge Corporation
+│   ├── Agency for International Development
+│   │   ├── Development Assistance Program
+│   │   └── Operating Expenses, Office of Inspector General
+│   ├── Multilateral Assistance
+│   │   ├── International Affairs Technical Assistance Program
+│   │   ├── Clean Technology Fund Program
+│   │   └── Global Agriculture and Food Security Program
+│   ├── International Assistance Programs
+│   ├── International Security Assistance
+│   │   └── Foreign Military Financing Program
+│   ├── African Development Foundation
+│   ├── Trade and Development Agency
+│   ├── Inter-American Foundation
+│   └── International Monetary Programs
+├── Environmental Protection Agency
+│   └── Environmental Protection Agency
+│       ├── Water Infrastructure Finance and Innovation Program
+│       └── Office of Inspector General
+├── Alyce Spotted Bear and Walter Soboleff Commission on Native Children
+│   └── Alyce Spotted Bear and Walter Soboleff Com. on Native Children
+│       └── Alyce Spotted Bear and Walter Soboleff Commission on Native Children
+├── Securities and Exchange Commission
+│   └── Securities and Exchange Commission
+│       └── Securities and Exchange Commission Reserve
+├── Social Security Administration
+│   └── Social Security Administration
+│       ├── Supplemental Security Income Program
+│       └── Office of Inspector General
+├── Legislative Branch
+│   ├── Senate
+│   │   ├── Office of the Legislative Counsel of the Senate
+│   │   └── Senators' Official Personnel and Office Expense
+│   ├── Government Publishing Office
+│   │   └── Government Publishing Office Business Operations Revolving
+│   ├── Joint Items
+│   │   ├── Joint Congressional Committee on Inaugural Ceremonies of 2025
+│   │   ├── Joint Economic Committee
+│   │   ├── Office of Congressional Accessibility Services
+│   │   ├── Joint Committee on Taxation
+│   │   └── Office of the Attending Physician
+│   ├── Capitol Police
+│   ├── Botanic Garden
+│   ├── Legislative Branch Boards and Commissions
+│   │   ├── United States Commission on International Religious Freedom
+│   │   ├── World War I Centennial Commission
+│   │   ├── Commission on Security and Cooperation in Europe:
+│   │   ├── United States Semiquincentennial Commission
+│   │   ├── United States-China Economic and Security Review Commission
+│   │   ├── John C. Stennis Center for Public Service Training and Development
+│   │   ├── Congressional Executive Commission on the People's Republic of China
+│   │   └── Medicaid and CHIP Payment and Access Commission
+│   ├── Library of Congress
+│   │   ├── Cooperative Acquisitions Program Revolving
+│   │   └── Copyright Office
+│   ├── United States Tax Court
+│   ├── Government Accountability Office
+│   ├── House of Representatives
+│   ├── Office of Congressional Workplace Rights
+│   ├── Congressional Budget Office
+│   └── Architect of the Capitol
+│       ├── Capitol Visitor Center
+│       ├── Senate Office Buildings
+│       └── House Office Buildings
+├── National Commission on Military, National, and Public Service
+│   └── National Commission on Military, National, and Public Service
+├── Marine Mammal Commission
+│   └── Marine Mammal Commission
+├── Office of Personnel Management
+│   └── Office of Personnel Management
+│       ├── Postal Service Health Benefits Program Implementation
+│       └── Office of Inspector General
+├── Administrative Conference of the United States
+│   └── Administrative Conference of the United States
+├── Election Assistance Commission
+│   └── Election Assistance Commission
+├── National Transportation Safety Board
+│   └── National Transportation Safety Board
+├── National Science Foundation
+│   └── National Science Foundation
+│       ├── Office of Inspector General
+│       └── Office of the National Science Board
+├── Federal Mine Safety and Health Review Commission
+│   └── Federal Mine Safety and Health Review Commission
+├── Office of Navajo and Hopi Indian Relocation
+│   └── Office of Navajo and Hopi Indian Relocation
+├── Access Board
+│   └── Access Board
+├── Federal Permitting Improvement Steering Council
+│   └── Federal Permitting Improvement Council
+├── Barry Goldwater Scholarship and Excellence in Education Foundation
+│   └── Barry Goldwater Scholarship and Excellence in Education Foundation
+├── International Trade Commission
+│   └── International Trade Commission
+├── Morris K. Udall and Stewart L. Udall Foundation
+│   └── Morris K. Udall and Stewart L. Udall Foundation
+├── Corps of Engineers--Civil Works
+│   └── Corps of Engineers--Civil Works
+│       ├── Formerly Utilized Sites Remedial Action Program
+│       ├── Regulatory Program
+│       ├── Office of the Assistant Secretary of the Army for Civil Works
+│       └── Water Infrastructure Finance and Innovation Program
+├── National Archives and Records Administration
+│   └── National Archives and Records Administration
+│       ├── Office of the Inspector General--National Archives and Records Administration
+│       └── National Historical Publications and Records Commission
+├── Other Commissions and Boards
+│   └── Other Commissions and Boards
+├── Public Defender Service for the District of Columbia
+│   └── Public Defender Service for the District of Columbia
+│       └── Federal Payment to the District of Columbia Public Defender Service
+├── Defense Nuclear Facilities Safety Board
+│   └── Defense Nuclear Facilities Safety Board
+├── Corporation for National and Community Service
+│   └── Corporation for National and Community Service
+│       └── Office of Inspector General
+├── Privacy and Civil Liberties Oversight Board
+│   └── Privacy and Civil Liberties Oversight Board
+├── Corporation for Public Broadcasting
+│   └── Corporation for Public Broadcasting
+├── Chemical Safety and Hazard Investigation Board
+│   └── Chemical Safety and Hazard Investigation Board
+├── Court Services and Offender Supervision Agency for the District of Columbia
+│   └── Court Services and Offender Supervision Agency for the District of Columbia
+├── Commodity Futures Trading Commission
+│   └── Commodity Futures Trading Commission
+├── National Capital Planning Commission
+│   └── National Capital Planning Commission
+├── National Endowment for the Arts
+│   └── National Endowment for the Arts
+├── Patient-Centered Outcomes Research Trust Fund
+│   └── Patient-Centered Outcomes Research Trust Fund
+├── Department of the Interior
+│   ├── Bureau of Land Management
+│   ├── Department-Wide Programs
+│   │   ├── Office of Natural Resources Revenue
+│   │   └── Energy Community Revitalization Program
+│   ├── Bureau of Reclamation
+│   ├── National Indian Gaming Commission
+│   │   └── National Indian Gaming Commission, Gaming Activity Fees
+│   ├── National Park Service
+│   ├── Bureau of Indian Affairs
+│   │   └── Indian Guaranteed Loan Program
+│   ├── Bureau of Safety and Environmental Enforcement
+│   ├── Bureau of Indian Education
+│   ├── United States Fish and Wildlife Service
+│   │   └── Recreation Enhancement Fee Program, FWS
+│   ├── Office of Inspector General
+│   ├── Bureau of Trust Funds Administration
+│   ├── Bureau of Ocean Energy Management
+│   ├── Office of the Solicitor
+│   ├── Office of Surface Mining Reclamation and Enforcement
+│   ├── Departmental Offices
+│   ├── United States Geological Survey
+│   ├── Central Utah Project
+│   └── Insular Affairs
+├── District of Columbia
+│   ├── District of Columbia General and Special Payments
+│   └── District of Columbia Courts
+├── Department of Transportation
+│   ├── Federal Railroad Administration
+│   │   ├── Railroad Crossing Elimination Program
+│   │   ├── Capital Assistance for High Speed Rail Corridors and Intercity Passenger Rail Service
+│   │   └── Rail Line Relocation and Improvement Program
+│   ├── Federal Motor Carrier Safety Administration
+│   ├── Great Lakes St. Lawrence Seaway Development Corporation
+│   ├── Federal Highway Administration
+│   │   └── Emergency Relief Program
+│   ├── Federal Aviation Administration
+│   │   └── Airport Terminal Program
+│   ├── Pipeline and Hazardous Materials Safety Administration
+│   │   └── Natural Gas Distribution Infrastructure Safety and Modernization Grant Program
+│   ├── Office of Inspector General
+│   ├── Federal Transit Administration
+│   │   ├── Electric or Low-Emitting Ferry Program
+│   │   ├── Public Transportation Emergency Relief Program
+│   │   └── All Stations Accessibility Program
+│   ├── Office of the Secretary
+│   │   ├── Office of Civil Rights
+│   │   ├── Strengthening Mobility and Revolutionizing Transportation Grant Program
+│   │   ├── National Culvert Removal, Replacement, and Restoration Grant Program
+│   │   ├── Transportation Demonstration Program
+│   │   ├── Aviation Manufacturing Jobs Protection Program
+│   │   └── TIFIA Highway Trust Fund Program
+│   ├── Maritime Administration
+│   │   ├── Maritime Guaranteed Loan (Title XI) Program
+│   │   ├── Maritime Security Program
+│   │   ├── Port Infrastructure Development Program
+│   │   └── Tanker Security Program
+│   └── National Highway Traffic Safety Administration
+├── Federal Deposit Insurance Corporation
+│   ├── FDIC_Office of Inspector General
+│   │   └── Office of the Inspector General
+│   └── Orderly Liquidation
+└── Gulf Coast Ecosystem Restoration Council
+    └── Gulf Coast Ecosystem Restoration Council
