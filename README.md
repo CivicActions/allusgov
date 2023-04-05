@@ -1,6 +1,10 @@
-# All US Federal Government
+# Overview
 
 This project attempts to map the organization of the US Federal Government by gathering and consolidating information from various directories.
+
+[![PyPI License](https://img.shields.io/pypi/l/allusgov.svg)](https://pypi.org/project/allusgov)
+[![PyPI Version](https://img.shields.io/pypi/v/allusgov.svg)](https://pypi.org/project/allusgov)
+[![PyPI Downloads](https://img.shields.io/pypi/dm/allusgov.svg?color=orange)](https://pypistats.org/packages/allusgov)
 
 Current sources:
 * [SAM.gov Federal Hierarchy Public API](https://open.gsa.gov/api/fh-public-api/)
@@ -26,3 +30,28 @@ To merge the lists, the organizational hierarchy "path" is generated, by followi
 Note that the fuzzy matching is imperfect and may have some inaccurate mappings (although most appear OK) and will certainly have some entries which actually should be merged, but aren't.
 
 The final merged dataset is written in [JSON](out/merged.json) and flattened [CSV](out/merged.csv) format.
+
+## Setup
+
+### Requirements
+
+* Python 3.10+
+* [Poetry](https://python-poetry.org/)
+
+### Installation
+
+Check out this repository, then from the repository root, install dependencies:
+
+```text
+$ poetry install
+```
+
+See command line usage:
+```text
+poetry run allusgov --help
+```
+
+Run a complete scrape and merge:
+```text
+poetry run allusgov
+```

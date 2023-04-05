@@ -1,0 +1,80 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+import os
+from contextlib import suppress
+import importlib
+import tempfile
+import shutil
+import subprocess
+import sys
+
+
+CWD = os.getcwd()
+TMP = tempfile.gettempdir()
+CONFIG = {
+    "full_name": "Owen Barton",
+    "email": "owen.barton@civicactions.com",
+    "github_username": "civicactions",
+    "github_repo": "allusgov",
+    "default_branch": "main",
+    "project_name": "allusgov",
+    "package_name": "allusgov",
+    "project_short_description": "This project attempts to map the organization of the US Federal Government by gathering and consolidating information from various directories.",
+    "python_major_version": 3,
+    "python_minor_version": 11,
+}
+
+
+def install(package="cookiecutter"):
+    try:
+        importlib.import_module(package)
+    except ImportError:
+        print("Installing cookiecutter")
+        subprocess.check_call([sys.executable, "-m", "pip", "install", package])
+
+
+def run():
+    print("Generating project")
+
+    from cookiecutter.main import cookiecutter
+
+    os.chdir(TMP)
+    cookiecutter(
+        "https://github.com/jacebrowning/template-python.git",
+        no_input=True,
+        overwrite_if_exists=True,
+        extra_context=CONFIG,
+    )
+
+
+def copy():
+    for filename in [
+        os.path.join("bin", "update"),
+        os.path.join("bin", "checksum"),
+        os.path.join("bin", "open"),
+        os.path.join("bin", "verchew"),
+        ".appveyor.yml",
+        ".coveragerc",
+        ".gitattributes",
+        ".gitignore",
+        ".pydocstyle.ini",
+        ".pylint.ini",
+        ".scrutinizer.yml",
+        ".tool-versions",
+        ".verchew.ini",
+        "CONTRIBUTING.md",
+        "Makefile",
+        "scent.py",
+    ]:
+        src = os.path.join(TMP, CONFIG["project_name"], filename)
+        dst = os.path.join(CWD, filename)
+        print("Updating " + filename)
+        with suppress(FileNotFoundError):
+            shutil.copy(src, dst)
+
+
+if __name__ == "__main__":
+    install()
+    run()
+    copy()
