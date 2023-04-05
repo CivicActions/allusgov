@@ -1,4 +1,6 @@
 # Configuration file for ipython.
+# pylint: skip-file
+# type: ignore
 
 # ------------------------------------------------------------------------------
 # InteractiveShellApp(Configurable) configuration

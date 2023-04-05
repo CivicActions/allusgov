@@ -1,13 +1,15 @@
 """allusgov CLI."""
 
-import os
 import logging
+import os
+
 import click
-from scrapy.crawler import CrawlerProcess
 import click_log
+from scrapy.crawler import CrawlerProcess
+
+from . import settings
 from .merger import merger
 from .utils.utils import scrapy_settings
-from . import settings
 
 logger = logging.getLogger(__name__)
 click_log.basic_config(logger)
@@ -17,6 +19,7 @@ click_log.basic_config(logger)
 @click_log.simple_verbosity_option(logger)
 @click.argument("sources", nargs=-1)
 @click.option("--spider/--no-spider", " /-S", default=True)
+@click.option("--spider-page-limit", default=0)
 @click.option(
     "--export/--no-export",
     " /-E",
@@ -39,6 +42,7 @@ click_log.basic_config(logger)
 def main(
     sources: list,
     spider: bool,
+    spider_page_limit: int,
     export: bool,
     exporters: list,
     merge: bool,
@@ -54,10 +58,11 @@ def main(
     - Build a tree from the given SOURCES and export each source
     - Merge all data into a single tree, using fuzzy string matching
 
-    Each stage is optional and will use cached data if available."""
+    Each stage is optional and will use cached data if available.
+    """
     # Initialize variables
     if not sources:
-        sources = settings.SOURCES.keys()
+        sources = list(settings.SOURCES.keys())
 
     # Validate options
     if merge and merge_base not in sources:
@@ -71,7 +76,9 @@ def main(
 
     # Scrape data
     if spider:
-        process = CrawlerProcess(scrapy_settings(data_dir, cache_dir, logger))
+        process = CrawlerProcess(
+            scrapy_settings(data_dir, cache_dir, spider_page_limit, logger)
+        )
         for source in sources:
             process.crawl(settings.SOURCES[source]["spider"])
         process.start()

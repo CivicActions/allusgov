@@ -1,4 +1,9 @@
+from typing import Any, Dict, Iterator, List, Optional, Union
+
 import scrapy
+from scrapy.http.request import Request
+from scrapy.http.response.html import HtmlResponse
+from scrapy.selector.unified import Selector, SelectorList
 
 
 class UsagovSpider(scrapy.Spider):
@@ -22,11 +27,13 @@ class UsagovSpider(scrapy.Spider):
         "website",
     ]
 
-    def start_requests(self):
+    def start_requests(self) -> Iterator[Request]:
         url = self.base + "/federal-agencies"
         yield scrapy.Request(url=url, callback=self.parse)
 
-    def get_field(self, head, item):
+    def get_field(
+        self, head: str, item: Union[Selector, SelectorList]
+    ) -> Union[str, Dict[str, str]]:
         if head in self.link_fields:
             return {
                 "title": item.css("*::text").get().strip(),
@@ -34,7 +41,15 @@ class UsagovSpider(scrapy.Spider):
             }
         return item.css("*::text").get().strip()
 
-    def parse(self, response, agency_name=None):
+    def parse(
+        self, response: HtmlResponse, agency_name: Optional[str] = None, **kwargs: Any
+    ) -> Iterator[
+        Union[
+            Request,
+            Dict[str, Union[List[Dict[str, str]], str, Dict[str, str], List[str]]],
+            Dict[str, Union[List[Dict[str, str]], str, List[str]]],
+        ]
+    ]:
         next_page = response.css("a.nextLetter::attr(href)").get()
         if next_page is not None:
             yield response.follow(next_page, callback=self.parse)
@@ -47,7 +62,7 @@ class UsagovSpider(scrapy.Spider):
                     callback=self.parse,
                     cb_kwargs=dict(agency_name=agency_name),
                 )
-        details = {}
+        details: Dict[str, Any] = {}
         for detail in response.css("article section"):
             head = detail.css("header h3::text").get()
             value = detail.css("p")
@@ -61,7 +76,7 @@ class UsagovSpider(scrapy.Spider):
                 else:
                     details[head] = self.get_field(head, value)
 
-        if details != {}:
+        if details:
             description = response.css("article header p::text").get()
             if description is not None:
                 details["description"] = description.strip()

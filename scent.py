@@ -1,11 +1,14 @@
 """Configuration file for sniffer."""
+# pylint: skip-file
+# mypy: ignore-errors
 
 import time
 import subprocess
 
 from sniffer.api import select_runnable, file_validator, runnable
+
 try:
-    from pync import Notifier
+    from pync import Notifier  # type: ignore
 except ImportError:
     notify = None
 else:

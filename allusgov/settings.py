@@ -1,8 +1,8 @@
 # Settings for allusgov project
 #
 
-from .importer import importer, samgov_importer
 from .exporter import exporter
+from .importer import importer, samgov_importer
 from .spiders import budget, cisagov, opmgov, samgov, usagov, usaspending
 
 # Source settings

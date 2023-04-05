@@ -1,16 +1,16 @@
 import json
-from typing import Dict, List
+from logging import Logger
+from typing import Any, Dict, List
+
 from bigtree import Node, nested_dict_to_tree
 
 
 class Importer:
-    """
-    An importer for handling general hierarchical data.
-    """
+    """An importer for handling general hierarchical data."""
 
     root = "US FEDERAL GOVERNMENT"
 
-    def __init__(self, logger, source_name: str, data_dir: str):
+    def __init__(self, logger: Logger, source_name: str, data_dir: str) -> None:
         self.logger = logger
         self.source_name = source_name
         self.data_dir = data_dir
@@ -46,13 +46,15 @@ class Importer:
             List: A list of child dictionaries representing the tree structure.
         """
         children = []
-        for id, parent in ids.items():
+        for item_id, parent in ids.items():
             if parent == target_id:
-                child = {source_name: attributes[id]}
+                child = {source_name: attributes[item_id]}
                 child["name"] = "[" + source_name + "] " + child[source_name]["name"]
-                if child["name"] != id:
-                    child["name"] = child["name"] + " (" + id + ")"
-                child["children"] = self.build_tree(ids, attributes, id, source_name)
+                if child["name"] != item_id:
+                    child["name"] = child["name"] + " (" + item_id + ")"
+                child["children"] = self.build_tree(
+                    ids, attributes, item_id, source_name
+                )
                 children.append(child)
         return children
 
@@ -65,7 +67,7 @@ class Importer:
         """
         data = self.load_data()
         ids = {}
-        attributes = {}
+        attributes: Dict[str, Dict[str, Any]] = {}
         for item in data:
             key = "name"
             parent_key = "parent"

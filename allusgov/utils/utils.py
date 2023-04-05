@@ -1,9 +1,16 @@
 import os
+from logging import Logger
+from typing import Optional
+
+from bigtree.node.node import Node
+from scrapy.settings import Settings
 from scrapy.utils.project import get_project_settings
 
 
-def full_name(org, source_name):
+def full_name(org: Optional[Node], source_name: str) -> str:
     """Return the best full name of the organization (from the given source if it exists)."""
+    if org is None:
+        return ""
     # If there is a name for the requested source, return that.
     attrs = org.get_attr(source_name)
     if attrs and "name" in attrs:
@@ -17,7 +24,9 @@ def spider_uri_params(params, spider):
     return {**params, "spider_name": spider.name}
 
 
-def scrapy_settings(data_dir, cache_dir, logger):
+def scrapy_settings(
+    data_dir: str, cache_dir: str, spider_page_limit: int, logger: Logger
+) -> Settings:
     """Return the Scrapy settings."""
     os.environ.setdefault("SCRAPY_SETTINGS_MODULE", "allusgov.spiders.settings")
     settings = get_project_settings()
@@ -34,4 +43,5 @@ def scrapy_settings(data_dir, cache_dir, logger):
     )
     settings.set("HTTPCACHE_DIR", cache_dir)
     settings.set("LOG_LEVEL", logger.getEffectiveLevel())
+    settings.set("CLOSESPIDER_PAGECOUNT", spider_page_limit)
     return settings

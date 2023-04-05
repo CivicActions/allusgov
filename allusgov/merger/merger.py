@@ -1,8 +1,10 @@
-from rapidfuzz import process, utils
-from bigtree import (
-    levelorder_iter,
-)
+from logging import Logger
+from typing import Dict, List, Optional, Tuple, cast
+
 import polars as pl
+from bigtree import levelorder_iter
+from bigtree.node.node import Node
+from rapidfuzz import process, utils
 
 from ..utils.utils import full_name
 
@@ -19,7 +21,14 @@ class Merger:
         source_name (str): Source name for the source tree.
     """
 
-    def __init__(self, logger, base_tree, base_name, source_tree, source_name):
+    def __init__(
+        self,
+        logger: Logger,
+        base_tree: Node,
+        base_name: str,
+        source_tree: Node,
+        source_name: str,
+    ) -> None:
         self.logger = logger
         self.base_tree = base_tree
         self.base_name = base_name
@@ -29,7 +38,7 @@ class Merger:
         self.base_names = self.name_list(self.base_tree, self.base_name)
         self.similarity = self.calculate_similarity()
 
-    def name_list(self, tree, source_name):
+    def name_list(self, tree: Node, source_name: str) -> Dict[str, List[Node]]:
         """
         Generate a dictionary of names and their corresponding nodes in a tree.
 
@@ -40,15 +49,16 @@ class Merger:
         Returns:
             dict: Dictionary of names and their corresponding nodes.
         """
-        names = {}
+        names: Dict[str, List[Node]] = {}
         for org in levelorder_iter(tree):
+            org = cast(Node, org)
             name = full_name(org, source_name)
             if name not in names:
                 names[name] = []
             names[name].append(org)
         return names
 
-    def calculate_similarity(self):
+    def calculate_similarity(self) -> pl.DataFrame:
         """
         Calculate string similarity for the source tree against the base tree.
 
@@ -61,14 +71,16 @@ class Merger:
         matrix = process.cdist(
             self.source_names, self.base_names, processor=utils.default_process
         )
-        similarity = pl.DataFrame(matrix, schema=self.base_names.keys()).transpose(
+        similarity = pl.DataFrame(
+            matrix, schema=list(self.base_names.keys())
+        ).transpose(
             include_header=True,
             header_name="base",
-            column_names=self.source_names.keys(),
+            column_names=list(self.source_names.keys()),
         )
         return similarity
 
-    def get_candidates(self, source_org_name):
+    def get_candidates(self, source_org_name: str) -> Dict[Node, float]:
         """
         Get candidates for a given source organization name.
 
@@ -94,8 +106,12 @@ class Merger:
         return candidates
 
     def update_parent_scores(
-        self, candidates, current_source_org, current_base_org, factor
-    ):
+        self,
+        candidates: Dict[Node, float],
+        current_source_org: Optional[Node],
+        current_base_org: Optional[Node],
+        factor: float,
+    ) -> Dict[Node, float]:
         """
         Update parent scores for the given candidates.
 
@@ -123,11 +139,14 @@ class Merger:
                 1 + factor
             )
             self.logger.debug(
-                f"{candidates[base_org]:.1f}: adding score {parent_score:.1f} at factor {factor:.1f} for parents {current_source_org_name} & {current_base_org_name}"
+                f"{candidates[base_org]:.1f}: adding score {parent_score:.1f} at factor {factor:.1f} "
+                + "for parents {current_source_org_name} & {current_base_org_name}"
             )
         return candidates
 
-    def process_candidates(self, candidates, source_org):
+    def process_candidates(
+        self, candidates: Dict[Node, float], source_org: Node
+    ) -> Tuple[Node, float]:
         """
         Process candidates for a given source organization.
 
@@ -141,11 +160,12 @@ class Merger:
         """
         for base_org, score in candidates.items():
             if not source_org.is_root and not base_org.is_root:
-                current_source_org = source_org.parent
-                current_base_org = base_org.parent
+                current_source_org = cast(Node, source_org.parent)
+                current_base_org = cast(Node, base_org.parent)
                 factor = 0.5
                 self.logger.debug(
-                    f"{candidates[base_org]:.1f}: candidate: {current_source_org.node_name} & {current_base_org.node_name}"
+                    f"{candidates[base_org]:.1f}: candidate: "
+                    + "{current_source_org.node_name} & {current_base_org.node_name}"
                 )
 
                 candidates = self.update_parent_scores(
@@ -157,7 +177,7 @@ class Merger:
 
         return selection, score
 
-    def merge(self):
+    def merge(self) -> Node:
         """
         Merge the source tree into the base tree based on string similarity.
 
@@ -167,7 +187,9 @@ class Merger:
         self.logger.info(
             f"Checking for {self.source_name} matches against the base tree..."
         )
-        source_orgs = [source_org for source_org in levelorder_iter(self.source_tree)]
+        source_orgs = [
+            cast(Node, source_org) for source_org in levelorder_iter(self.source_tree)
+        ]
         source_orgs.reverse()
 
         for source_org in source_orgs:
