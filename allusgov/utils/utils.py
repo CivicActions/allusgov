@@ -1,6 +1,7 @@
 import os
 from logging import Logger
 from typing import Optional
+import threading
 
 from bigtree.node.node import Node
 from scrapy.settings import Settings
@@ -45,3 +46,12 @@ def scrapy_settings(
     settings.set("LOG_LEVEL", logger.getEffectiveLevel())
     settings.set("CLOSESPIDER_PAGECOUNT", spider_page_limit)
     return settings
+
+
+def scrapy_spider_closed(results):
+    # We use a callback here to have access to the results list from the main thread.
+    def callback(spider, reason):
+        print(f"Spider {spider.name} closed with reason: {reason}")
+        results.append((spider.name, reason))
+
+    return callback

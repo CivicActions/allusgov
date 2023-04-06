@@ -28,7 +28,7 @@ class SamgovImporter(importer.Importer):
         root = Node(self.root)
         root.set_attrs({"samgov": {"name": self.root}})
         path_dict: Dict[str, Dict[Any, Any]] = {}
-        lookup: Dict[str, str] = {}
+        lookup: Dict[int, str] = {}
         for item in data:
             name = item["fhorgname"].strip().replace("%20", " ")
             item["name"] = name
@@ -53,7 +53,7 @@ class SamgovImporter(importer.Importer):
             path = root.node_name
             for item_id in id_path:
                 if item_id in lookup:
-                    name = lookup[str(item_id)]
+                    name = lookup[item_id]
                     path = path + "|" + name
                 else:
                     self.logger.warning(

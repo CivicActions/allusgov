@@ -28,12 +28,14 @@ class Merger:
         base_name: str,
         source_tree: Node,
         source_name: str,
+        threshold: int,
     ) -> None:
         self.logger = logger
         self.base_tree = base_tree
         self.base_name = base_name
         self.source_tree = source_tree
         self.source_name = source_name
+        self.threshold = threshold
         self.source_names = self.name_list(self.source_tree, self.source_name)
         self.base_names = self.name_list(self.base_tree, self.base_name)
         self.similarity = self.calculate_similarity()
@@ -93,7 +95,9 @@ class Merger:
         """
         candidates = {}
         matches = (
+            # Return up to 5 matches with a score greater than 80% of the threshold.
             self.similarity.select(["base", source_org_name])
+            .filter(pl.col(source_org_name) > (self.threshold * 0.8))
             .sort([source_org_name, "base"], descending=True)
             .head(5)
         )
@@ -105,50 +109,15 @@ class Merger:
                 candidates[base_org] = score
         return candidates
 
-    def update_parent_scores(
-        self,
-        candidates: Dict[Node, float],
-        current_source_org: Optional[Node],
-        current_base_org: Optional[Node],
-        factor: float,
-    ) -> Dict[Node, float]:
-        """
-        Update parent scores for the given candidates.
-
-        Args:
-            candidates (dict): Dictionary of candidate base organizations and their scores.
-            current_source_org (Node): Current source organization node.
-            current_base_org (Node): Current base organization node.
-            factor (float): Factor for weighting parent scores.
-
-        Returns:
-            dict:
-            dict: Updated candidates dictionary with parent scores.
-        """
-        current_source_org_name = full_name(current_source_org, self.source_name)
-        current_base_org_name = full_name(current_base_org, self.base_name)
-        parent_score = (  # pylint: disable-next=unsubscriptable-object
-            self.similarity.select(["base", current_source_org_name])
-            .filter(pl.col("base") == current_base_org_name)
-            .head(1)
-            .rows()[0][1]
-        )
-
-        for base_org in candidates.keys():
-            candidates[base_org] = (candidates[base_org] + (parent_score * factor)) / (
-                1 + factor
-            )
-            self.logger.debug(
-                f"{candidates[base_org]:.1f}: adding score {parent_score:.1f} at factor {factor:.1f} "
-                + "for parents {current_source_org_name} & {current_base_org_name}"
-            )
-        return candidates
-
     def process_candidates(
         self, candidates: Dict[Node, float], source_org: Node
     ) -> Tuple[Node, float]:
         """
-        Process candidates for a given source organization.
+        Process candidates for a given source organization, incorparating parent scores.
+
+        This handles the common case where different offices or programs will have identical (or nearly identical)
+        names across multiple places in the tree. Adding in the parent scores makes it more likely we will merge
+        the organization in at the right location.
 
         Args:
             candidates (dict): Dictionary of candidate base organizations and their scores.
@@ -159,19 +128,44 @@ class Merger:
             float: Score of the selected base organization.
         """
         for base_org, score in candidates.items():
-            if not source_org.is_root and not base_org.is_root:
-                current_source_org = cast(Node, source_org.parent)
-                current_base_org = cast(Node, base_org.parent)
-                factor = 0.5
+            if source_org.is_root or base_org.is_root:
+                # We are already at the root, so no parents to check.
+                continue
+            # Set initial values.
+            current_source_org = cast(Node, source_org.parent)
+            current_base_org = cast(Node, base_org.parent)
+            factor = 0.5
+            self.logger.debug(
+                f"{candidates[base_org]:.1f}: candidate: "
+                + f"{current_source_org.node_name} & {current_base_org.node_name}"
+            )
+            while (not current_source_org.is_root) and (not current_base_org.is_root):
+                # Until one of the trees reaches the root, keep going up.
+                factor = factor * 0.5
+                # Look up the score between the current pair of orgs.
+                current_source_org_name = full_name(
+                    current_source_org, self.source_name
+                )
+                current_base_org_name = full_name(current_base_org, self.base_name)
+                parent_score = (  # pylint: disable-next=unsubscriptable-object
+                    self.similarity.select(["base", current_source_org_name])
+                    .filter(pl.col("base") == current_base_org_name)
+                    .head(1)
+                    .rows()[0][1]
+                )
+                # Add this score to the candidate score, weighted by the factor.
+                candidates[base_org] = (
+                    candidates[base_org] + (parent_score * factor)
+                ) / (1 + factor)
                 self.logger.debug(
-                    f"{candidates[base_org]:.1f}: candidate: "
-                    + "{current_source_org.node_name} & {current_base_org.node_name}"
+                    f"{candidates[base_org]:.1f}: adding score {parent_score:.1f} at factor {factor:.1f} "
+                    + f"for parents {current_source_org_name} & {current_base_org_name}"
                 )
+                # Set the current orgs to the next level of parents.
+                current_source_org = cast(Node, current_source_org.parent)
+                current_base_org = cast(Node, current_base_org.parent)
 
-                candidates = self.update_parent_scores(
-                    candidates, current_source_org, current_base_org, factor
-                )
-
+        # Select the candidate with the highest score.
         selection = sorted(candidates.items(), key=lambda x: x[1], reverse=True)[0][0]
         score = candidates[selection]
 
@@ -195,12 +189,14 @@ class Merger:
         for source_org in source_orgs:
             source_org_name = full_name(source_org, self.source_name)
             candidates = self.get_candidates(source_org_name)
+            if len(candidates) == 0:
+                self.logger.debug(f"No candidates for {source_org_name}")
+                continue
 
             self.logger.debug(f"Checking {len(candidates)} for {source_org_name}")
-
             selection, score = self.process_candidates(candidates, source_org)
 
-            if score > 95:
+            if score > self.threshold:
                 self.logger.info(
                     f"{score:.1f}: Selected candidate {selection.path_name} for {source_org.path_name}"
                 )

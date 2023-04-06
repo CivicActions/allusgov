@@ -41,6 +41,7 @@ class UsaspendingSpider(scrapy.Spider):
             Dict[str, Union[int, str, None, float]],
         ]
     ]:
+        """This handles only the top level of agencies which each need their own request."""
         agencies = response.json()["results"]
         for agency in agencies:
             yield self.request(
@@ -54,8 +55,7 @@ class UsaspendingSpider(scrapy.Spider):
     def parse_subagencies(
         self, response: TextResponse
     ) -> Iterator[Dict[str, Union[int, str, None, float]]]:
-        self.logger.warning(response.text)
-        self.logger.warning(response.request.headers)
+        """This handles the subagencies for a given agency as well as their child organizations."""
         response = response.json()
         if response["page_metadata"]["hasNext"]:
             yield self.request(
@@ -66,26 +66,24 @@ class UsaspendingSpider(scrapy.Spider):
             )
         seen_subagency = set()
         for subagency in response["results"]:
-            # Some subagency are duplicated, so we need to filter them out
+            # Some subagencies are duplicated, so we need to filter them out
             # https://github.com/fedspendingtransparency/usaspending-api/issues/3768
-            if subagency["abbreviation"] in seen_subagency:
+            abbreviation = subagency["abbreviation"]
+            if abbreviation is None:
+                # Very occasionally subagencies don't have an abbreviation, so we use the name
+                abbreviation = subagency["name"]
+            if abbreviation in seen_subagency:
                 continue
-            seen_subagency.add(subagency["abbreviation"])
-            for children in subagency["children"]:
-                children["parent"] = subagency["name"]
-                children["parent_id"] = (
-                    response["toptier_code"] + "-" + subagency["abbreviation"]
-                )
-                children["id"] = (
-                    response["toptier_code"]
-                    + "-"
-                    + subagency["abbreviation"]
-                    + "-"
-                    + children["code"]
-                )
-                yield children
-            del subagency["children"]
+            seen_subagency.add(abbreviation)
             subagency["parent"] = self.lookup[response["toptier_code"]]
             subagency["parent_id"] = response["toptier_code"]
-            subagency["id"] = response["toptier_code"] + "-" + subagency["abbreviation"]
+            subagency["id"] = response["toptier_code"] + "-" + abbreviation
+            for child in subagency["children"]:
+                child["parent"] = subagency["name"]
+                child["parent_id"] = subagency["id"]
+                child["id"] = (
+                    response["toptier_code"] + "-" + abbreviation + "-" + child["code"]
+                )
+                yield child
+            del subagency["children"]
             yield subagency

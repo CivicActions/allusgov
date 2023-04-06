@@ -51,16 +51,20 @@ class SamgovSpider(scrapy.Spider):
                 # neccessary, but the API is (perhaps) inconsistent or perhaps some
                 # items have inactive parents?
                 if "fhorgparenthistory" in org:
-                    latest_date = datetime.min
                     latest_entry = None
-                    for entry in org["fhorgparenthistory"]:
+                    if len(org["fhorgparenthistory"]) == 1:
+                        # If there is only a single entry we just use that.
+                        latest_entry = org["fhorgparenthistory"][0]
+                    else:
                         # Identify the most recent entry.
-                        effective_date = datetime.strptime(
-                            entry["effectivedate"], "%Y-%m-%d %H:%M"
-                        )
-                        if effective_date > latest_date:
-                            latest_date = effective_date
-                            latest_entry = entry
+                        latest_date = datetime.min
+                        for entry in org["fhorgparenthistory"]:
+                            effective_date = datetime.strptime(
+                                entry["effectivedate"], "%Y-%m-%d %H:%M"
+                            )
+                            if effective_date > latest_date:
+                                latest_date = effective_date
+                                latest_entry = entry
                     if latest_entry:
                         for parent_id in latest_entry["fhfullparentpathid"].split("."):
                             yield response.follow(

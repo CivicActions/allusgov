@@ -2,14 +2,17 @@
 
 import logging
 import os
+import sys
+from typing import List, Dict
 
 import click
 import click_log
 from scrapy.crawler import CrawlerProcess
+from scrapy import signals
 
 from . import settings
 from .merger import merger
-from .utils.utils import scrapy_settings
+from .utils.utils import scrapy_settings, scrapy_spider_closed
 
 logger = logging.getLogger(__name__)
 click_log.basic_config(logger)
@@ -29,6 +32,7 @@ click_log.basic_config(logger)
 @click.option("--exporters", default=settings.EXPORTERS.keys(), multiple=True)
 @click.option("--merge/--no-merge", " /-M", default=True)
 @click.option("--merge-base", default=settings.MERGE_BASE)
+@click.option("--merge-threshold", default=90, type=click.IntRange(min=0, max=100))
 @click.option(
     "--data-dir",
     default="data",
@@ -47,6 +51,7 @@ def main(
     exporters: list,
     merge: bool,
     merge_base: str,
+    merge_threshold: int,
     data_dir: str,
     cache_dir: str,
 ):
@@ -76,15 +81,23 @@ def main(
 
     # Scrape data
     if spider:
+        spider_results: List[List[str]] = []
         process = CrawlerProcess(
             scrapy_settings(data_dir, cache_dir, spider_page_limit, logger)
         )
         for source in sources:
-            process.crawl(settings.SOURCES[source]["spider"])
+            spider_class = settings.SOURCES[source]["spider"]
+            crawler = process.create_crawler(spider_class)
+            callback = scrapy_spider_closed(spider_results)
+            crawler.signals.connect(callback, signal=signals.spider_closed)
+            process.crawl(crawler)
         process.start()
-        for crawler in process.crawlers:
-            if crawler.stats.get_value("finish_reason") != "finished":
-                raise click.ClickException("Spider failed: " + crawler.name)
+        for spider_name, reason in spider_results:
+            if reason == "finished":
+                logger.info("Spider %s finished successfully", spider_name)
+            else:
+                logger.error("Spider %s failed with reason: %s", spider_name, reason)
+                sys.exit(10)
 
     # Construct and export trees
     tree = {}
@@ -114,6 +127,7 @@ def main(
                 base_name=merge_base,
                 source_tree=tree[source],
                 source_name=source,
+                threshold=merge_threshold,
             ).merge()
         for exporter in exporters:
             settings.EXPORTERS[exporter](
