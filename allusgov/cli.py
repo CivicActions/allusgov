@@ -3,12 +3,12 @@
 import logging
 import os
 import sys
-from typing import List, Dict
+from typing import List
 
 import click
 import click_log
-from scrapy.crawler import CrawlerProcess
 from scrapy import signals
+from scrapy.crawler import CrawlerProcess
 
 from . import settings
 from .merger import merger

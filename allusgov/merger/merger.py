@@ -1,5 +1,5 @@
 from logging import Logger
-from typing import Dict, List, Optional, Tuple, cast
+from typing import Dict, List, Tuple, cast
 
 import polars as pl
 from bigtree import levelorder_iter

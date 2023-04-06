@@ -41,7 +41,7 @@ class UsaspendingSpider(scrapy.Spider):
             Dict[str, Union[int, str, None, float]],
         ]
     ]:
-        """This handles only the top level of agencies which each need their own request."""
+        """Handle the top level of agencies which each need their own request."""
         agencies = response.json()["results"]
         for agency in agencies:
             yield self.request(
@@ -55,7 +55,7 @@ class UsaspendingSpider(scrapy.Spider):
     def parse_subagencies(
         self, response: TextResponse
     ) -> Iterator[Dict[str, Union[int, str, None, float]]]:
-        """This handles the subagencies for a given agency as well as their child organizations."""
+        """Handle the subagencies for a given agency as well as their child organizations."""
         response = response.json()
         if response["page_metadata"]["hasNext"]:
             yield self.request(

@@ -1,7 +1,6 @@
 import os
 from logging import Logger
 from typing import Optional
-import threading
 
 from bigtree.node.node import Node
 from scrapy.settings import Settings
