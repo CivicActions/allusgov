@@ -62,11 +62,18 @@ class JSONExporter(BaseExporter):
     def export(self) -> None:
         self.logger.info("Saving the " + self.source + " graph in JSON flat format...")
         with open(self.export_path("json", "flat"), "w", encoding="utf8") as f:
-            json.dump(tree_to_dict(self.tree, all_attrs=True), f)
+            json.dump(
+                tree_to_dict(self.tree, all_attrs=True), f, indent=2, sort_keys=True
+            )
 
         self.logger.info("Saving the " + self.source + " graph in JSON tree format...")
         with open(self.export_path("json", "tree"), "w", encoding="utf8") as f:
-            json.dump(tree_to_nested_dict(self.tree, all_attrs=True), f)
+            json.dump(
+                tree_to_nested_dict(self.tree, all_attrs=True),
+                f,
+                indent=2,
+                sort_keys=True,
+            )
 
 
 class DotExporter(BaseExporter):
@@ -125,4 +132,6 @@ class CytoscapeJSONExporter(NetworkXBaseExporter):
             "Saving the " + self.source + " graph in Cytoscape JSON format..."
         )
         with open(self.export_path("cyjs"), "w", encoding="utf8") as f:
-            json.dump(nx.cytoscape_data(self.G)["elements"], f)
+            json.dump(
+                nx.cytoscape_data(self.G)["elements"], f, indent=2, sort_keys=True
+            )
