@@ -134,6 +134,7 @@ class Merger:
             # Set initial values.
             current_source_org = cast(Node, source_org.parent)
             current_base_org = cast(Node, base_org.parent)
+            # TODO: Split and equal factor among all parents, to favor matches nearer the root.
             factor = 0.5
             self.logger.debug(
                 f"{candidates[base_org]:.1f}: candidate: "

@@ -28,7 +28,7 @@ def scrapy_settings(
     data_dir: str, cache_dir: str, spider_page_limit: int, logger: Logger
 ) -> Settings:
     """Return the Scrapy settings."""
-    os.environ.setdefault("SCRAPY_SETTINGS_MODULE", "allusgov.spiders.settings")
+    os.environ.setdefault("SCRAPY_SETTINGS_MODULE", "allusgov.spider.settings")
     settings = get_project_settings()
     settings.set(
         "FEEDS",

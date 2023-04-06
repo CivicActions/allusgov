@@ -3,7 +3,7 @@
 
 from .exporter import exporter
 from .importer import importer, samgov_importer
-from .spiders import budget, cisagov, opmgov, samgov, usagov, usaspending
+from .spider import budget, cisagov, opmgov, samgov, usagov, usaspending
 
 # Source settings
 SOURCES = {

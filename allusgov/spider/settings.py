@@ -10,8 +10,8 @@ from dotenv import dotenv_values
 
 BOT_NAME = "allusgov"
 
-SPIDER_MODULES = ["allusgov.spiders"]
-NEWSPIDER_MODULE = "allusgov.spiders"
+SPIDER_MODULES = ["allusgov.spider"]
+NEWSPIDER_MODULE = "allusgov.spider"
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 # USER_AGENT = "allusgov (+http://www.yourdomain.com)"
