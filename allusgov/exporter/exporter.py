@@ -1,4 +1,5 @@
 import json
+import os
 from io import TextIOWrapper
 from logging import Logger
 from typing import Optional, cast
@@ -24,6 +25,7 @@ class BaseExporter:
         self.source = source
         self.tree = tree
         self.data_dir = data_dir
+        os.makedirs(data_dir + "/" + source, exist_ok=True)
 
     def export_path(self, ext: str, suffix: str = "") -> str:
         if suffix != "":
