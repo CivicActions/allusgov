@@ -20,16 +20,18 @@ Each source is them imported into a tree and exported into the following formats
 * Plain text tree
 * JSON flat format (with path to each element)
 * JSON nested tree format
+* CSV format (with embedded JSON attributes)
+* Wide CSV format (with flattened attributes)
 * [DOT file](https://en.wikipedia.org/wiki/DOT_(graph_description_language)) (does not include attributes)
 * [GEXF graph file](https://gephi.org/gexf/format/) (includes flattened attributes)
 * [GraphQL graph file](https://graphql.org/) (includes flattened attributes)
 * [Cytoscape.js JSON format](https://js.cytoscape.org/#notation/elements-json) (includes flattened attributes)
 
-To merge the lists, the organizational hierarchy "path" is generated, by following the parent fields. These "paths" are then fuzzy matched and (if a threshold is met) merged into a single entry.
+To merge the lists, each tree is merged into a selected base tree by comparing the names of each node in the tree to the names of each node in the base tree using a fuzzy matching algorithm. Similarity scores between each pair of parents are incorporated into the score to more correctly identify cases where the same/similar office or program name is used for different organizations.
 
 Note that the fuzzy matching is imperfect and may have some inaccurate mappings (although most appear OK) and will certainly have some entries which actually should be merged, but aren't.
 
-The final merged dataset is written in [JSON](out/merged.json) and flattened [CSV](out/merged.csv) format.
+The final merged dataset is written in the above formats to the [data/merged](data/merged) directory.
 
 ## Setup
 

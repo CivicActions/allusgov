@@ -37,6 +37,8 @@ SOURCES = {
 EXPORTERS = {
     "text": exporter.TextExporter,
     "json": exporter.JSONExporter,
+    "csv": exporter.CSVExporter,
+    "widecsv": exporter.WideCSVExporter,
     "dot": exporter.DotExporter,
     "gexf": exporter.GEXFExporter,
     "graphml": exporter.GraphMLExporter,

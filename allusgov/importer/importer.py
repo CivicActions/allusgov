@@ -49,8 +49,10 @@ class Importer:
         for item_id, parent in ids.items():
             if parent == target_id:
                 child = {source_name: attributes[item_id]}
+                # Prefix the name (which is the node name here) with the source name
                 child["name"] = "[" + source_name + "] " + child[source_name]["name"]
-                if child["name"] != item_id:
+                # If the ID is not the same as the name, append the ID to the name
+                if child[source_name]["name"] != item_id:
                     child["name"] = child["name"] + " (" + item_id + ")"
                 child["children"] = self.build_tree(
                     ids, attributes, item_id, source_name
