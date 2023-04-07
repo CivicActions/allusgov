@@ -1,7 +1,7 @@
 {
   "children": [
     {
-      "name": "[usagov] Agency for International Development (USAID) (Agency for International Development (USAID))",
+      "name": "[usagov] Agency for International Development (USAID)",
       "usagov": {
         "acronym": "USAID",
         "contact": [
@@ -45,7 +45,7 @@
       }
     },
     {
-      "name": "[usagov] Agency for Global Media (Agency for Global Media)",
+      "name": "[usagov] Agency for Global Media",
       "usagov": {
         "contact": [
           {
@@ -73,7 +73,7 @@
       }
     },
     {
-      "name": "[usagov] African Development Foundation (African Development Foundation)",
+      "name": "[usagov] African Development Foundation",
       "usagov": {
         "contact": [
           {
@@ -101,7 +101,7 @@
       }
     },
     {
-      "name": "[usagov] Advisory Council on Historic Preservation (Advisory Council on Historic Preservation)",
+      "name": "[usagov] Advisory Council on Historic Preservation",
       "usagov": {
         "contact": [
           {
@@ -129,7 +129,7 @@
       }
     },
     {
-      "name": "[usagov] Administrative Office of the U.S. Courts (Administrative Office of the U.S. Courts)",
+      "name": "[usagov] Administrative Office of the U.S. Courts",
       "usagov": {
         "contact": [
           {
@@ -163,7 +163,7 @@
       }
     },
     {
-      "name": "[usagov] Administrative Conference of the United States (Administrative Conference of the United States)",
+      "name": "[usagov] Administrative Conference of the United States",
       "usagov": {
         "contact": [
           {
@@ -191,7 +191,7 @@
       }
     },
     {
-      "name": "[usagov] Access Board (Access Board)",
+      "name": "[usagov] Access Board",
       "usagov": {
         "contact": [
           {
@@ -234,7 +234,7 @@
       }
     },
     {
-      "name": "[usagov] AbilityOne Commission (AbilityOne Commission)",
+      "name": "[usagov] AbilityOne Commission",
       "usagov": {
         "contact": [
           {
@@ -265,7 +265,7 @@
       }
     },
     {
-      "name": "[usagov] Armed Forces Retirement Home (Armed Forces Retirement Home)",
+      "name": "[usagov] Armed Forces Retirement Home",
       "usagov": {
         "contact": [
           {
@@ -297,7 +297,7 @@
       }
     },
     {
-      "name": "[usagov] Arctic Research Commission (Arctic Research Commission)",
+      "name": "[usagov] Arctic Research Commission",
       "usagov": {
         "contact": [
           {
@@ -325,7 +325,7 @@
       }
     },
     {
-      "name": "[usagov] Archives, National Archives and Records Administration (NARA) (Archives, National Archives and Records Administration (NARA))",
+      "name": "[usagov] Archives, National Archives and Records Administration (NARA)",
       "usagov": {
         "acronym": "NARA",
         "contact": [
@@ -363,7 +363,7 @@
       }
     },
     {
-      "name": "[usagov] Appalachian Regional Commission (Appalachian Regional Commission)",
+      "name": "[usagov] Appalachian Regional Commission",
       "usagov": {
         "contact": [
           {
@@ -391,7 +391,7 @@
       }
     },
     {
-      "name": "[usagov] Amtrak (AMTRAK) (Amtrak (AMTRAK))",
+      "name": "[usagov] Amtrak (AMTRAK)",
       "usagov": {
         "acronym": "AMTRAK",
         "contact": [
@@ -424,7 +424,7 @@
     {
       "children": [
         {
-          "name": "[usagov] AmeriCorps Seniors (AmeriCorps Seniors)",
+          "name": "[usagov] AmeriCorps Seniors",
           "usagov": {
             "contact": [
               {
@@ -452,7 +452,7 @@
           }
         }
       ],
-      "name": "[usagov] AmeriCorps (AmeriCorps)",
+      "name": "[usagov] AmeriCorps",
       "usagov": {
         "contact": [
           {
@@ -486,7 +486,7 @@
       }
     },
     {
-      "name": "[usagov] American Battle Monuments Commission (American Battle Monuments Commission)",
+      "name": "[usagov] American Battle Monuments Commission",
       "usagov": {
         "contact": [
           {
@@ -528,7 +528,7 @@
       }
     },
     {
-      "name": "[usagov] Bureau of Consumer Financial Protection (Bureau of Consumer Financial Protection)",
+      "name": "[usagov] Bureau of Consumer Financial Protection",
       "usagov": {
         "contact": [
           {
@@ -559,7 +559,7 @@
       }
     },
     {
-      "name": "[usagov] Barry M. Goldwater Scholarship and Excellence in Education Program (Barry M. Goldwater Scholarship and Excellence in Education Program)",
+      "name": "[usagov] Barry M. Goldwater Scholarship and Excellence in Education Program",
       "usagov": {
         "contact": [
           {
@@ -588,7 +588,7 @@
       }
     },
     {
-      "name": "[usagov] Bankruptcy Courts (Bankruptcy Courts)",
+      "name": "[usagov] Bankruptcy Courts",
       "usagov": {
         "contact": [
           {
@@ -618,7 +618,7 @@
       }
     },
     {
-      "name": "[usagov] Citizens' Stamp Advisory Committee (Citizens' Stamp Advisory Committee)",
+      "name": "[usagov] Citizens' Stamp Advisory Committee",
       "usagov": {
         "description": "The Citizens' Stamp Advisory Committee evaluates all stamp proposals. The Committee's primary goal is to select subjects of broad national interest for recommendation to the Postmaster General that are both interesting and educational.",
         "government_branch": "Independent Board, Commission, Committee",
@@ -633,7 +633,7 @@
       }
     },
     {
-      "name": "[usagov] Circuit Courts of Appeal (Circuit Courts of Appeal)",
+      "name": "[usagov] Circuit Courts of Appeal",
       "usagov": {
         "contact": [
           {
@@ -663,7 +663,7 @@
       }
     },
     {
-      "name": "[usagov] Chief Information Officers Council (Chief Information Officers Council)",
+      "name": "[usagov] Chief Information Officers Council",
       "usagov": {
         "description": "The CIO Council is the principal interagency forum on Federal agency practices for information technology management.",
         "email": {
@@ -681,7 +681,7 @@
       }
     },
     {
-      "name": "[usagov] Chief Human Capital Officers Council (Chief Human Capital Officers Council)",
+      "name": "[usagov] Chief Human Capital Officers Council",
       "usagov": {
         "description": "The Chief Human Capital Officers Council works to modernize human resources systems, improve the quality of human resources information, and advises on legislation affecting human resources operations.",
         "email": {
@@ -700,7 +700,7 @@
       }
     },
     {
-      "name": "[usagov] Chief Financial Officers Council (Chief Financial Officers Council)",
+      "name": "[usagov] Chief Financial Officers Council",
       "usagov": {
         "description": "The Chief Financial Officers Council works to improve financial management in the U.S. government.",
         "government_branch": "None",
@@ -714,7 +714,7 @@
       }
     },
     {
-      "name": "[usagov] Chief Acquisition Officers Council (Chief Acquisition Officers Council)",
+      "name": "[usagov] Chief Acquisition Officers Council",
       "usagov": {
         "description": "The Chief Acquisition Officers Council monitors and improves the federal acquisition system.",
         "email": {
@@ -732,7 +732,7 @@
       }
     },
     {
-      "name": "[usagov] Chemical Safety Board (Chemical Safety Board)",
+      "name": "[usagov] Chemical Safety Board",
       "usagov": {
         "contact": [
           {
@@ -760,7 +760,7 @@
       }
     },
     {
-      "name": "[usagov] Central Intelligence Agency (CIA) (Central Intelligence Agency (CIA))",
+      "name": "[usagov] Central Intelligence Agency (CIA)",
       "usagov": {
         "acronym": "CIA",
         "contact": [
@@ -782,7 +782,7 @@
       }
     },
     {
-      "name": "[usagov] Court of Appeals for the Armed Forces (Court of Appeals for the Armed Forces)",
+      "name": "[usagov] Court of Appeals for the Armed Forces",
       "usagov": {
         "contact": [
           {
@@ -806,7 +806,7 @@
       }
     },
     {
-      "name": "[usagov] Council of the Inspectors General on Integrity and Efficiency (Council of the Inspectors General on Integrity and Efficiency)",
+      "name": "[usagov] Council of the Inspectors General on Integrity and Efficiency",
       "usagov": {
         "contact": [
           {
@@ -837,7 +837,7 @@
       }
     },
     {
-      "name": "[usagov] Coordinating Council on Juvenile Justice and Delinquency Prevention (Coordinating Council on Juvenile Justice and Delinquency Prevention)",
+      "name": "[usagov] Coordinating Council on Juvenile Justice and Delinquency Prevention",
       "usagov": {
         "contact": [
           {
@@ -861,7 +861,7 @@
       }
     },
     {
-      "name": "[usagov] Consumer Product Safety Commission (CPSC) (Consumer Product Safety Commission (CPSC))",
+      "name": "[usagov] Consumer Product Safety Commission (CPSC)",
       "usagov": {
         "acronym": "CPSC",
         "contact": [
@@ -913,7 +913,7 @@
       }
     },
     {
-      "name": "[usagov] Congress\u2014U.S. Senate (Congress\u2014U.S. Senate)",
+      "name": "[usagov] Congress\u2014U.S. Senate",
       "usagov": {
         "contact": [
           {
@@ -958,7 +958,7 @@
       }
     },
     {
-      "name": "[usagov] Congress\u2014U.S. House of Representatives (Congress\u2014U.S. House of Representatives)",
+      "name": "[usagov] Congress\u2014U.S. House of Representatives",
       "usagov": {
         "contact": [
           {
@@ -1007,7 +1007,7 @@
       }
     },
     {
-      "name": "[usagov] Commodity Futures Trading Commission (CFTC) (Commodity Futures Trading Commission (CFTC))",
+      "name": "[usagov] Commodity Futures Trading Commission (CFTC)",
       "usagov": {
         "acronym": "CFTC",
         "contact": [
@@ -1043,7 +1043,7 @@
       }
     },
     {
-      "name": "[usagov] Commission on Security and Cooperation in Europe (Helsinki Commission) (Commission on Security and Cooperation in Europe (Helsinki Commission))",
+      "name": "[usagov] Commission on Security and Cooperation in Europe (Helsinki Commission)",
       "usagov": {
         "contact": [
           {
@@ -1071,7 +1071,7 @@
       }
     },
     {
-      "name": "[usagov] Commission on International Religious Freedom (Commission on International Religious Freedom)",
+      "name": "[usagov] Commission on International Religious Freedom",
       "usagov": {
         "contact": [
           {
@@ -1099,7 +1099,7 @@
       }
     },
     {
-      "name": "[usagov] Commission on Civil Rights (Commission on Civil Rights)",
+      "name": "[usagov] Commission on Civil Rights",
       "usagov": {
         "contact": [
           {
@@ -1134,7 +1134,7 @@
       }
     },
     {
-      "name": "[usagov] Commission of Fine Arts (Commission of Fine Arts)",
+      "name": "[usagov] Commission of Fine Arts",
       "usagov": {
         "contact": [
           {
@@ -1164,7 +1164,7 @@
     {
       "children": [
         {
-          "name": "[usagov] Pretrial Services Agency for the District of Columbia (Pretrial Services Agency for the District of Columbia)",
+          "name": "[usagov] Pretrial Services Agency for the District of Columbia",
           "usagov": {
             "contact": [
               {
@@ -1198,7 +1198,7 @@
           }
         }
       ],
-      "name": "[usagov] Court Services and Offender Supervision Agency for the District of Columbia (Court Services and Offender Supervision Agency for the District of Columbia)",
+      "name": "[usagov] Court Services and Offender Supervision Agency for the District of Columbia",
       "usagov": {
         "contact": [
           {
@@ -1226,7 +1226,7 @@
       }
     },
     {
-      "name": "[usagov] Court of International Trade (Court of International Trade)",
+      "name": "[usagov] Court of International Trade",
       "usagov": {
         "contact": [
           {
@@ -1254,7 +1254,7 @@
       }
     },
     {
-      "name": "[usagov] Court of Federal Claims (Court of Federal Claims)",
+      "name": "[usagov] Court of Federal Claims",
       "usagov": {
         "contact": [
           {
@@ -1288,7 +1288,7 @@
       }
     },
     {
-      "name": "[usagov] Court of Appeals for Veterans Claims (Court of Appeals for Veterans Claims)",
+      "name": "[usagov] Court of Appeals for Veterans Claims",
       "usagov": {
         "contact": [
           {
@@ -1321,7 +1321,7 @@
       }
     },
     {
-      "name": "[usagov] Delta Regional Authority (Delta Regional Authority)",
+      "name": "[usagov] Delta Regional Authority",
       "usagov": {
         "contact": [
           {
@@ -1345,7 +1345,7 @@
       }
     },
     {
-      "name": "[usagov] Delaware River Basin Commission (Delaware River Basin Commission)",
+      "name": "[usagov] Delaware River Basin Commission",
       "usagov": {
         "contact": [
           {
@@ -1383,7 +1383,7 @@
       }
     },
     {
-      "name": "[usagov] Defense Nuclear Facilities Safety Board (Defense Nuclear Facilities Safety Board)",
+      "name": "[usagov] Defense Nuclear Facilities Safety Board",
       "usagov": {
         "contact": [
           {
@@ -1411,7 +1411,7 @@
       }
     },
     {
-      "name": "[usagov] Director of National Intelligence, Office of (Director of National Intelligence, Office of)",
+      "name": "[usagov] Director of National Intelligence, Office of",
       "usagov": {
         "contact": [
           {
@@ -1435,7 +1435,7 @@
       }
     },
     {
-      "name": "[usagov] Denali Commission (Denali Commission)",
+      "name": "[usagov] Denali Commission",
       "usagov": {
         "contact": [
           {
@@ -1470,7 +1470,7 @@
       }
     },
     {
-      "name": "[usagov] Equal Employment Opportunity Commission (EEOC) (Equal Employment Opportunity Commission (EEOC))",
+      "name": "[usagov] Equal Employment Opportunity Commission (EEOC)",
       "usagov": {
         "acronym": "EEOC",
         "contact": [
@@ -1509,7 +1509,7 @@
       }
     },
     {
-      "name": "[usagov] Environmental Protection Agency (EPA) (Environmental Protection Agency (EPA))",
+      "name": "[usagov] Environmental Protection Agency (EPA)",
       "usagov": {
         "acronym": "EPA",
         "contact": [
@@ -1537,7 +1537,7 @@
       }
     },
     {
-      "name": "[usagov] Election Assistance Commission (EAC) (Election Assistance Commission (EAC))",
+      "name": "[usagov] Election Assistance Commission (EAC)",
       "usagov": {
         "acronym": "EAC",
         "contact": [
@@ -1565,7 +1565,7 @@
       }
     },
     {
-      "name": "[usagov] Economic Growth, Energy, and the Environment (Economic Growth, Energy, and the Environment)",
+      "name": "[usagov] Economic Growth, Energy, and the Environment",
       "usagov": {
         "contact": [
           {
@@ -1585,7 +1585,7 @@
       }
     },
     {
-      "name": "[usagov] Export-Import Bank of the United States (Export-Import Bank of the United States)",
+      "name": "[usagov] Export-Import Bank of the United States",
       "usagov": {
         "contact": [
           {
@@ -1623,7 +1623,7 @@
       }
     },
     {
-      "name": "[usagov] Federal Financial Institutions Examination Council (Federal Financial Institutions Examination Council)",
+      "name": "[usagov] Federal Financial Institutions Examination Council",
       "usagov": {
         "contact": [
           {
@@ -1647,7 +1647,7 @@
       }
     },
     {
-      "name": "[usagov] Federal Election Commission (Federal Election Commission)",
+      "name": "[usagov] Federal Election Commission",
       "usagov": {
         "contact": [
           {
@@ -1689,7 +1689,7 @@
       }
     },
     {
-      "name": "[usagov] Federal Deposit Insurance Corporation (FDIC) (Federal Deposit Insurance Corporation (FDIC))",
+      "name": "[usagov] Federal Deposit Insurance Corporation (FDIC)",
       "usagov": {
         "acronym": "FDIC",
         "contact": [
@@ -1721,7 +1721,7 @@
       }
     },
     {
-      "name": "[usagov] Federal Communications Commission (FCC) (Federal Communications Commission (FCC))",
+      "name": "[usagov] Federal Communications Commission (FCC)",
       "usagov": {
         "acronym": "FCC",
         "contact": [
@@ -1761,7 +1761,7 @@
       }
     },
     {
-      "name": "[usagov] Federal Accounting Standards Advisory Board (Federal Accounting Standards Advisory Board)",
+      "name": "[usagov] Federal Accounting Standards Advisory Board",
       "usagov": {
         "contact": [
           {
@@ -1793,7 +1793,7 @@
       }
     },
     {
-      "name": "[usagov] Farm Credit System Insurance Corporation (Farm Credit System Insurance Corporation)",
+      "name": "[usagov] Farm Credit System Insurance Corporation",
       "usagov": {
         "contact": [
           {
@@ -1824,7 +1824,7 @@
       }
     },
     {
-      "name": "[usagov] Farm Credit Administration (Farm Credit Administration)",
+      "name": "[usagov] Farm Credit Administration",
       "usagov": {
         "contact": [
           {
@@ -1855,7 +1855,7 @@
       }
     },
     {
-      "name": "[usagov] Federal Trade Commission (FTC) (Federal Trade Commission (FTC))",
+      "name": "[usagov] Federal Trade Commission (FTC)",
       "usagov": {
         "acronym": "FTC",
         "contact": [
@@ -1898,7 +1898,7 @@
       }
     },
     {
-      "name": "[usagov] Federal Retirement Thrift Investment Board (Federal Retirement Thrift Investment Board)",
+      "name": "[usagov] Federal Retirement Thrift Investment Board",
       "usagov": {
         "contact": [
           {
@@ -1928,7 +1928,7 @@
       }
     },
     {
-      "name": "[usagov] Federal Reserve System (Federal Reserve System)",
+      "name": "[usagov] Federal Reserve System",
       "usagov": {
         "contact": [
           {
@@ -1970,7 +1970,7 @@
       }
     },
     {
-      "name": "[usagov] Federal Mine Safety and Health Review Commission (Federal Mine Safety and Health Review Commission)",
+      "name": "[usagov] Federal Mine Safety and Health Review Commission",
       "usagov": {
         "contact": [
           {
@@ -1998,7 +1998,7 @@
       }
     },
     {
-      "name": "[usagov] Federal Mediation and Conciliation Service (Federal Mediation and Conciliation Service)",
+      "name": "[usagov] Federal Mediation and Conciliation Service",
       "usagov": {
         "contact": [
           {
@@ -2030,7 +2030,7 @@
       }
     },
     {
-      "name": "[usagov] Federal Maritime Commission (Federal Maritime Commission)",
+      "name": "[usagov] Federal Maritime Commission",
       "usagov": {
         "contact": [
           {
@@ -2062,7 +2062,7 @@
       }
     },
     {
-      "name": "[usagov] Federal Library and Information Center Committee (Federal Library and Information Center Committee)",
+      "name": "[usagov] Federal Library and Information Center Committee",
       "usagov": {
         "contact": [
           {
@@ -2086,7 +2086,7 @@
       }
     },
     {
-      "name": "[usagov] Federal Laboratory Consortium for Technology Transfer (Federal Laboratory Consortium for Technology Transfer)",
+      "name": "[usagov] Federal Laboratory Consortium for Technology Transfer",
       "usagov": {
         "contact": [
           {
@@ -2114,7 +2114,7 @@
       }
     },
     {
-      "name": "[usagov] Federal Labor Relations Authority (FLRA) (Federal Labor Relations Authority (FLRA))",
+      "name": "[usagov] Federal Labor Relations Authority (FLRA)",
       "usagov": {
         "acronym": "FLRA",
         "contact": [
@@ -2140,7 +2140,7 @@
       }
     },
     {
-      "name": "[usagov] Federal Judicial Center (Federal Judicial Center)",
+      "name": "[usagov] Federal Judicial Center",
       "usagov": {
         "description": "The Federal Judicial Center conducts policy research and provides continuing education resources for the judicial branch.",
         "government_branch": "Judicial",
@@ -2158,7 +2158,7 @@
       }
     },
     {
-      "name": "[usagov] Federal Interagency Council on Statistical Policy (Federal Interagency Council on Statistical Policy)",
+      "name": "[usagov] Federal Interagency Council on Statistical Policy",
       "usagov": {
         "contact": [
           {
@@ -2175,7 +2175,7 @@
     {
       "children": [
         {
-          "name": "[usagov] Fannie Mae (Fannie Mae)",
+          "name": "[usagov] Fannie Mae",
           "usagov": {
             "contact": [
               {
@@ -2205,7 +2205,7 @@
           }
         },
         {
-          "name": "[usagov] Federal Home Loan Mortgage Corporation  (Freddie Mac) (Federal Home Loan Mortgage Corporation  (Freddie Mac))",
+          "name": "[usagov] Federal Home Loan Mortgage Corporation  (Freddie Mac)",
           "usagov": {
             "contact": [
               {
@@ -2237,7 +2237,7 @@
           }
         }
       ],
-      "name": "[usagov] Federal Housing Finance Agency (Federal Housing Finance Agency)",
+      "name": "[usagov] Federal Housing Finance Agency",
       "usagov": {
         "contact": [
           {
@@ -2265,7 +2265,7 @@
       }
     },
     {
-      "name": "[usagov] Federal Geographic Data Committee (Federal Geographic Data Committee)",
+      "name": "[usagov] Federal Geographic Data Committee",
       "usagov": {
         "contact": [
           {
@@ -2290,7 +2290,7 @@
       }
     },
     {
-      "name": "[usagov] Government Ethics, Office of (OGE) (Government Ethics, Office of (OGE))",
+      "name": "[usagov] Government Ethics, Office of (OGE)",
       "usagov": {
         "acronym": "OGE",
         "contact": [
@@ -2330,7 +2330,7 @@
       }
     },
     {
-      "name": "[usagov] General Services Administration (GSA) (General Services Administration (GSA))",
+      "name": "[usagov] General Services Administration (GSA)",
       "usagov": {
         "acronym": "GSA",
         "contact": [
@@ -2360,7 +2360,7 @@
       }
     },
     {
-      "name": "[usagov] Holocaust Memorial Museum (Holocaust Memorial Museum)",
+      "name": "[usagov] Holocaust Memorial Museum",
       "usagov": {
         "contact": [
           {
@@ -2391,7 +2391,7 @@
       }
     },
     {
-      "name": "[usagov] Harry S. Truman Scholarship Foundation (Harry S. Truman Scholarship Foundation)",
+      "name": "[usagov] Harry S. Truman Scholarship Foundation",
       "usagov": {
         "contact": [
           {
@@ -2419,7 +2419,7 @@
       }
     },
     {
-      "name": "[usagov] Interagency Committee for the Management of Noxious and Exotic Weeds (Interagency Committee for the Management of Noxious and Exotic Weeds)",
+      "name": "[usagov] Interagency Committee for the Management of Noxious and Exotic Weeds",
       "usagov": {
         "description": "With representatives from 16 federal agencies, this committee partners with the public and private organizations to identify and manage invasive plants in the U.S.",
         "government_branch": "Independent Board, Commission, Committee",
@@ -2428,7 +2428,7 @@
       }
     },
     {
-      "name": "[usagov] Interagency Alternative Dispute Resolution Working Group (Interagency Alternative Dispute Resolution Working Group)",
+      "name": "[usagov] Interagency Alternative Dispute Resolution Working Group",
       "usagov": {
         "contact": [
           {
@@ -2453,7 +2453,7 @@
       }
     },
     {
-      "name": "[usagov] Inter-American Foundation (Inter-American Foundation)",
+      "name": "[usagov] Inter-American Foundation",
       "usagov": {
         "contact": [
           {
@@ -2481,7 +2481,7 @@
       }
     },
     {
-      "name": "[usagov] Institute of Peace (Institute of Peace)",
+      "name": "[usagov] Institute of Peace",
       "usagov": {
         "contact": [
           {
@@ -2505,7 +2505,7 @@
       }
     },
     {
-      "name": "[usagov] Institute of Museum and Library Services (Institute of Museum and Library Services)",
+      "name": "[usagov] Institute of Museum and Library Services",
       "usagov": {
         "contact": [
           {
@@ -2542,7 +2542,7 @@
       }
     },
     {
-      "name": "[usagov] International Trade Commission (International Trade Commission)",
+      "name": "[usagov] International Trade Commission",
       "usagov": {
         "contact": [
           {
@@ -2569,7 +2569,7 @@
       }
     },
     {
-      "name": "[usagov] International Development Finance Corporation (DFC) (International Development Finance Corporation (DFC))",
+      "name": "[usagov] International Development Finance Corporation (DFC)",
       "usagov": {
         "acronym": "DFC",
         "contact": [
@@ -2598,7 +2598,7 @@
       }
     },
     {
-      "name": "[usagov] Interagency Council on Homelessness (Interagency Council on Homelessness)",
+      "name": "[usagov] Interagency Council on Homelessness",
       "usagov": {
         "contact": [
           {
@@ -2630,7 +2630,7 @@
       }
     },
     {
-      "name": "[usagov] Judicial Panel on Multidistrict Litigation (Judicial Panel on Multidistrict Litigation)",
+      "name": "[usagov] Judicial Panel on Multidistrict Litigation",
       "usagov": {
         "contact": [
           {
@@ -2658,7 +2658,7 @@
       }
     },
     {
-      "name": "[usagov] Joint Fire Science Program (Joint Fire Science Program)",
+      "name": "[usagov] Joint Fire Science Program",
       "usagov": {
         "contact": [
           {
@@ -2679,7 +2679,7 @@
       }
     },
     {
-      "name": "[usagov] Joint Congressional Committee on Inaugural Ceremonies (Joint Congressional Committee on Inaugural Ceremonies)",
+      "name": "[usagov] Joint Congressional Committee on Inaugural Ceremonies",
       "usagov": {
         "description": "Made up of members of the House and Senate, the Joint Congressional Committee on Inaugural Ceremonies is responsible for planning and carrying out the President's swearing-in ceremony at the U.S. Capitol.",
         "government_branch": "Legislative",
@@ -2693,7 +2693,7 @@
       }
     },
     {
-      "name": "[usagov] Joint Board for the Enrollment of Actuaries (Joint Board for the Enrollment of Actuaries)",
+      "name": "[usagov] Joint Board for the Enrollment of Actuaries",
       "usagov": {
         "contact": [
           {
@@ -2718,7 +2718,7 @@
       }
     },
     {
-      "name": "[usagov] John F. Kennedy Center for the Performing Arts (John F. Kennedy Center for the Performing Arts)",
+      "name": "[usagov] John F. Kennedy Center for the Performing Arts",
       "usagov": {
         "contact": [
           {
@@ -2749,7 +2749,7 @@
       }
     },
     {
-      "name": "[usagov] Japan-United States Friendship Commission (Japan-United States Friendship Commission)",
+      "name": "[usagov] Japan-United States Friendship Commission",
       "usagov": {
         "contact": [
           {
@@ -2777,7 +2777,7 @@
       }
     },
     {
-      "name": "[usagov] James Madison Memorial Fellowship Foundation (James Madison Memorial Fellowship Foundation)",
+      "name": "[usagov] James Madison Memorial Fellowship Foundation",
       "usagov": {
         "description": "The James Madison Memorial Fellowship Foundation offers fellowship opportunities to individuals who are seeking a Master's degree in order to teach secondary students about the U.S. Constitution.",
         "email": {
@@ -2799,7 +2799,7 @@
       }
     },
     {
-      "name": "[usagov] Library of Congress (LOC) (Library of Congress (LOC))",
+      "name": "[usagov] Library of Congress (LOC)",
       "usagov": {
         "acronym": "LOC",
         "contact": [
@@ -2833,7 +2833,7 @@
       }
     },
     {
-      "name": "[usagov] Legal Services Corporation (Legal Services Corporation)",
+      "name": "[usagov] Legal Services Corporation",
       "usagov": {
         "contact": [
           {
@@ -2861,7 +2861,7 @@
       }
     },
     {
-      "name": "[usagov] Merit Systems Protection Board (Merit Systems Protection Board)",
+      "name": "[usagov] Merit Systems Protection Board",
       "usagov": {
         "contact": [
           {
@@ -2899,7 +2899,7 @@
       }
     },
     {
-      "name": "[usagov] Medicare Payment Advisory Commission (Medicare Payment Advisory Commission)",
+      "name": "[usagov] Medicare Payment Advisory Commission",
       "usagov": {
         "contact": [
           {
@@ -2927,7 +2927,7 @@
       }
     },
     {
-      "name": "[usagov] Medicaid and CHIP Payment and Access Commission (Medicaid and CHIP Payment and Access Commission)",
+      "name": "[usagov] Medicaid and CHIP Payment and Access Commission",
       "usagov": {
         "contact": [],
         "description": "The Medicaid and CHIP Payment and Access Commission reviews federal and state medicaid and CHIP policies and makes recommendations to Congress, the department of health and human services, and the states.",
@@ -2941,7 +2941,7 @@
       }
     },
     {
-      "name": "[usagov] Meat and Poultry Hotline (Meat and Poultry Hotline)",
+      "name": "[usagov] Meat and Poultry Hotline",
       "usagov": {
         "description": "This hotline answers questions about the safe storage, handling, and preparation of meat, poultry, and egg products to help you prevent foodborne illness.",
         "government_branch": "Executive Department Sub-Office/Agency/Bureau",
@@ -2959,7 +2959,7 @@
       }
     },
     {
-      "name": "[usagov] Marine Mammal Commission (Marine Mammal Commission)",
+      "name": "[usagov] Marine Mammal Commission",
       "usagov": {
         "contact": [
           {
@@ -2987,7 +2987,7 @@
       }
     },
     {
-      "name": "[usagov] Morris K. Udall and Stewart L. Udall Foundation (Morris K. Udall and Stewart L. Udall Foundation)",
+      "name": "[usagov] Morris K. Udall and Stewart L. Udall Foundation",
       "usagov": {
         "contact": [
           {
@@ -3015,7 +3015,7 @@
       }
     },
     {
-      "name": "[usagov] Mississippi River Commission (Mississippi River Commission)",
+      "name": "[usagov] Mississippi River Commission",
       "usagov": {
         "contact": [
           {
@@ -3043,7 +3043,7 @@
       }
     },
     {
-      "name": "[usagov] Millennium Challenge Corporation (Millennium Challenge Corporation)",
+      "name": "[usagov] Millennium Challenge Corporation",
       "usagov": {
         "contact": [
           {
@@ -3067,7 +3067,7 @@
       }
     },
     {
-      "name": "[usagov] National Endowment for the Arts (NEA) (National Endowment for the Arts (NEA))",
+      "name": "[usagov] National Endowment for the Arts (NEA)",
       "usagov": {
         "acronym": "NEA",
         "contact": [
@@ -3099,7 +3099,7 @@
       }
     },
     {
-      "name": "[usagov] National Credit Union Administration (NCUA) (National Credit Union Administration (NCUA))",
+      "name": "[usagov] National Credit Union Administration (NCUA)",
       "usagov": {
         "acronym": "NCUA",
         "contact": [
@@ -3139,7 +3139,7 @@
       }
     },
     {
-      "name": "[usagov] National Council on Disability (National Council on Disability)",
+      "name": "[usagov] National Council on Disability",
       "usagov": {
         "contact": [
           {
@@ -3167,7 +3167,7 @@
       }
     },
     {
-      "name": "[usagov] National Constitution Center (National Constitution Center)",
+      "name": "[usagov] National Constitution Center",
       "usagov": {
         "contact": [
           {
@@ -3192,7 +3192,7 @@
       }
     },
     {
-      "name": "[usagov] National Capital Planning Commission (National Capital Planning Commission)",
+      "name": "[usagov] National Capital Planning Commission",
       "usagov": {
         "contact": [
           {
@@ -3220,7 +3220,7 @@
       }
     },
     {
-      "name": "[usagov] National Aeronautics and Space Administration (NASA) (National Aeronautics and Space Administration (NASA))",
+      "name": "[usagov] National Aeronautics and Space Administration (NASA)",
       "usagov": {
         "acronym": "NASA",
         "contact": [
@@ -3255,7 +3255,7 @@
       }
     },
     {
-      "name": "[usagov] National Park Foundation (National Park Foundation)",
+      "name": "[usagov] National Park Foundation",
       "usagov": {
         "contact": [
           {
@@ -3289,7 +3289,7 @@
       }
     },
     {
-      "name": "[usagov] National Mediation Board (National Mediation Board)",
+      "name": "[usagov] National Mediation Board",
       "usagov": {
         "contact": [
           {
@@ -3321,7 +3321,7 @@
       }
     },
     {
-      "name": "[usagov] National Labor Relations Board (NLRB) (National Labor Relations Board (NLRB))",
+      "name": "[usagov] National Labor Relations Board (NLRB)",
       "usagov": {
         "acronym": "NLRB",
         "contact": [
@@ -3362,7 +3362,7 @@
       }
     },
     {
-      "name": "[usagov] National Interagency Fire Center (National Interagency Fire Center)",
+      "name": "[usagov] National Interagency Fire Center",
       "usagov": {
         "contact": [
           {
@@ -3394,7 +3394,7 @@
       }
     },
     {
-      "name": "[usagov] National Indian Gaming Commission (National Indian Gaming Commission)",
+      "name": "[usagov] National Indian Gaming Commission",
       "usagov": {
         "contact": [
           {
@@ -3444,7 +3444,7 @@
       }
     },
     {
-      "name": "[usagov] National Gallery of Art (National Gallery of Art)",
+      "name": "[usagov] National Gallery of Art",
       "usagov": {
         "contact": [
           {
@@ -3472,7 +3472,7 @@
       }
     },
     {
-      "name": "[usagov] National Endowment for the Humanities (National Endowment for the Humanities)",
+      "name": "[usagov] National Endowment for the Humanities",
       "usagov": {
         "contact": [
           {
@@ -3511,7 +3511,7 @@
       }
     },
     {
-      "name": "[usagov] Nuclear Waste Technical Review Board (Nuclear Waste Technical Review Board)",
+      "name": "[usagov] Nuclear Waste Technical Review Board",
       "usagov": {
         "description": "The Nuclear Waste Technical Review Board provides scientific and technical oversight of the Department of Energy's program for managing and disposing of high-level nuclear waste and spent nuclear fuel.",
         "government_branch": "Independent Board, Commission, Committee",
@@ -3529,7 +3529,7 @@
       }
     },
     {
-      "name": "[usagov] Nuclear Regulatory Commission (NRC) (Nuclear Regulatory Commission (NRC))",
+      "name": "[usagov] Nuclear Regulatory Commission (NRC)",
       "usagov": {
         "acronym": "NRC",
         "contact": [
@@ -3566,7 +3566,7 @@
       }
     },
     {
-      "name": "[usagov] Northwest Power and Conservation Council (Northwest Power and Conservation Council)",
+      "name": "[usagov] Northwest Power and Conservation Council",
       "usagov": {
         "contact": [
           {
@@ -3597,7 +3597,7 @@
       }
     },
     {
-      "name": "[usagov] Northern Border Regional Commission (Northern Border Regional Commission)",
+      "name": "[usagov] Northern Border Regional Commission",
       "usagov": {
         "description": "The Northern Border Regional Commission is a federal-state partnership for economic, and community development in northern Maine, New Hampshire, Vermont, and New York.",
         "government_branch": "Independent Board, Commission, Committee",
@@ -3621,7 +3621,7 @@
       }
     },
     {
-      "name": "[usagov] National Transportation Safety Board (NTSB) (National Transportation Safety Board (NTSB))",
+      "name": "[usagov] National Transportation Safety Board (NTSB)",
       "usagov": {
         "acronym": "NTSB",
         "contact": [
@@ -3650,7 +3650,7 @@
       }
     },
     {
-      "name": "[usagov] National Science Foundation (NSF) (National Science Foundation (NSF))",
+      "name": "[usagov] National Science Foundation (NSF)",
       "usagov": {
         "acronym": "NSF",
         "contact": [
@@ -3694,7 +3694,7 @@
       }
     },
     {
-      "name": "[usagov] Occupational Safety and Health Review Commission (Occupational Safety and Health Review Commission)",
+      "name": "[usagov] Occupational Safety and Health Review Commission",
       "usagov": {
         "contact": [
           {
@@ -3715,7 +3715,7 @@
       }
     },
     {
-      "name": "[usagov] Office of Special Counsel (Office of Special Counsel)",
+      "name": "[usagov] Office of Special Counsel",
       "usagov": {
         "contact": [
           {
@@ -3746,7 +3746,7 @@
       }
     },
     {
-      "name": "[usagov] Office of Personnel Management (OPM) (Office of Personnel Management (OPM))",
+      "name": "[usagov] Office of Personnel Management (OPM)",
       "usagov": {
         "acronym": "OPM",
         "contact": [
@@ -3778,7 +3778,7 @@
       }
     },
     {
-      "name": "[usagov] Presidio Trust (Presidio Trust)",
+      "name": "[usagov] Presidio Trust",
       "usagov": {
         "description": "The Presidio Trust preserves the Presidio National Park as an enduring resource for the American people.",
         "email": {
@@ -3803,7 +3803,7 @@
       }
     },
     {
-      "name": "[usagov] Postal Service (USPS) (Postal Service (USPS))",
+      "name": "[usagov] Postal Service (USPS)",
       "usagov": {
         "acronym": "USPS",
         "contact": [
@@ -3842,7 +3842,7 @@
       }
     },
     {
-      "name": "[usagov] Postal Regulatory Commission (Postal Regulatory Commission)",
+      "name": "[usagov] Postal Regulatory Commission",
       "usagov": {
         "contact": [
           {
@@ -3866,7 +3866,7 @@
       }
     },
     {
-      "name": "[usagov] Pension Benefit Guaranty Corporation (PBGC) (Pension Benefit Guaranty Corporation (PBGC))",
+      "name": "[usagov] Pension Benefit Guaranty Corporation (PBGC)",
       "usagov": {
         "acronym": "PBGC",
         "contact": [
@@ -3906,7 +3906,7 @@
       }
     },
     {
-      "name": "[usagov] Peace Corps (Peace Corps)",
+      "name": "[usagov] Peace Corps",
       "usagov": {
         "contact": [
           {
@@ -3936,7 +3936,7 @@
       }
     },
     {
-      "name": "[usagov] Privacy and Civil Liberties Oversight Board (PCLOB) (Privacy and Civil Liberties Oversight Board (PCLOB))",
+      "name": "[usagov] Privacy and Civil Liberties Oversight Board (PCLOB)",
       "usagov": {
         "acronym": "PCLOB",
         "contact": [
@@ -3965,7 +3965,7 @@
       }
     },
     {
-      "name": "[usagov] Railroad Retirement Board (RRB) (Railroad Retirement Board (RRB))",
+      "name": "[usagov] Railroad Retirement Board (RRB)",
       "usagov": {
         "acronym": "RRB",
         "contact": [
@@ -4006,7 +4006,7 @@
       }
     },
     {
-      "name": "[usagov] Social Security Advisory Board (Social Security Advisory Board)",
+      "name": "[usagov] Social Security Advisory Board",
       "usagov": {
         "contact": [
           {
@@ -4034,7 +4034,7 @@
       }
     },
     {
-      "name": "[usagov] Social Security Administration (SSA) (Social Security Administration (SSA))",
+      "name": "[usagov] Social Security Administration (SSA)",
       "usagov": {
         "acronym": "SSA",
         "contact": [
@@ -4072,7 +4072,7 @@
       }
     },
     {
-      "name": "[usagov] Smithsonian Institution (Smithsonian Institution)",
+      "name": "[usagov] Smithsonian Institution",
       "usagov": {
         "contact": [
           {
@@ -4109,7 +4109,7 @@
       }
     },
     {
-      "name": "[usagov] Small Business Administration (SBA) (Small Business Administration (SBA))",
+      "name": "[usagov] Small Business Administration (SBA)",
       "usagov": {
         "acronym": "SBA",
         "contact": [
@@ -4151,7 +4151,7 @@
       }
     },
     {
-      "name": "[usagov] Sentencing Commission (Sentencing Commission)",
+      "name": "[usagov] Sentencing Commission",
       "usagov": {
         "contact": [
           {
@@ -4179,7 +4179,7 @@
       }
     },
     {
-      "name": "[usagov] Selective Service System (SSS) (Selective Service System (SSS))",
+      "name": "[usagov] Selective Service System (SSS)",
       "usagov": {
         "acronym": "SSS",
         "contact": [
@@ -4218,7 +4218,7 @@
       }
     },
     {
-      "name": "[usagov] Securities and Exchange Commission (SEC) (Securities and Exchange Commission (SEC))",
+      "name": "[usagov] Securities and Exchange Commission (SEC)",
       "usagov": {
         "acronym": "SEC",
         "contact": [
@@ -4255,7 +4255,7 @@
       }
     },
     {
-      "name": "[usagov] Susquehanna River Basin Commission (Susquehanna River Basin Commission)",
+      "name": "[usagov] Susquehanna River Basin Commission",
       "usagov": {
         "contact": [
           {
@@ -4287,7 +4287,7 @@
       }
     },
     {
-      "name": "[usagov] Surface Transportation Board (Surface Transportation Board)",
+      "name": "[usagov] Surface Transportation Board",
       "usagov": {
         "contact": [
           {
@@ -4320,7 +4320,7 @@
     {
       "children": [
         {
-          "name": "[usagov] Court of Appeals for the Federal Circuit (Court of Appeals for the Federal Circuit)",
+          "name": "[usagov] Court of Appeals for the Federal Circuit",
           "usagov": {
             "contact": [
               {
@@ -4354,7 +4354,7 @@
           }
         },
         {
-          "name": "[usagov] Federal Court Interpreters (Federal Court Interpreters)",
+          "name": "[usagov] Federal Court Interpreters",
           "usagov": {
             "contact": [
               {
@@ -4378,7 +4378,7 @@
           }
         }
       ],
-      "name": "[usagov] Supreme Court of the United States (Supreme Court of the United States)",
+      "name": "[usagov] Supreme Court of the United States",
       "usagov": {
         "contact": [
           {
@@ -4406,7 +4406,7 @@
       }
     },
     {
-      "name": "[usagov] State Justice Institute (State Justice Institute)",
+      "name": "[usagov] State Justice Institute",
       "usagov": {
         "description": "The State Justice Institute is a grant-making organization dedicated to improving the quality of justice in all state courts. It also works to facilitate better coordination between state and federal courts.",
         "email": {
@@ -4432,7 +4432,7 @@
       }
     },
     {
-      "name": "[usagov] Trade and Development Agency (Trade and Development Agency)",
+      "name": "[usagov] Trade and Development Agency",
       "usagov": {
         "contact": [
           {
@@ -4464,7 +4464,7 @@
       }
     },
     {
-      "name": "[usagov] Tennessee Valley Authority (TVA) (Tennessee Valley Authority (TVA))",
+      "name": "[usagov] Tennessee Valley Authority (TVA)",
       "usagov": {
         "acronym": "TVA",
         "contact": [
@@ -4493,7 +4493,7 @@
       }
     },
     {
-      "name": "[usagov] Tax Court (Tax Court)",
+      "name": "[usagov] Tax Court",
       "usagov": {
         "contact": [
           {
@@ -4521,7 +4521,7 @@
       }
     },
     {
-      "name": "[usagov] Woodrow Wilson International Center for Scholars (Woodrow Wilson International Center for Scholars)",
+      "name": "[usagov] Woodrow Wilson International Center for Scholars",
       "usagov": {
         "contact": [
           {
@@ -4551,7 +4551,7 @@
     {
       "children": [
         {
-          "name": "[usagov] Agriculture Department (USDA) (Agriculture Department (USDA))",
+          "name": "[usagov] Agriculture Department (USDA)",
           "usagov": {
             "acronym": "USDA",
             "contact": [
@@ -4606,7 +4606,7 @@
           }
         },
         {
-          "name": "[usagov] Council on Environmental Quality (Council on Environmental Quality)",
+          "name": "[usagov] Council on Environmental Quality",
           "usagov": {
             "contact": [
               {
@@ -4630,7 +4630,7 @@
           }
         },
         {
-          "name": "[usagov] Council of Economic Advisers (Council of Economic Advisers)",
+          "name": "[usagov] Council of Economic Advisers",
           "usagov": {
             "contact": [
               {
@@ -4651,7 +4651,7 @@
           }
         },
         {
-          "name": "[usagov] Commerce Department (DOC) (Commerce Department (DOC))",
+          "name": "[usagov] Commerce Department (DOC)",
           "usagov": {
             "acronym": "DOC",
             "contact": [
@@ -4687,7 +4687,7 @@
           }
         },
         {
-          "name": "[usagov] Defense Department (DOD) (Defense Department (DOD))",
+          "name": "[usagov] Defense Department (DOD)",
           "usagov": {
             "acronym": "DOD",
             "contact": [
@@ -4719,7 +4719,7 @@
           }
         },
         {
-          "name": "[usagov] Department of Veterans Affairs (VA) (Department of Veterans Affairs (VA))",
+          "name": "[usagov] Department of Veterans Affairs (VA)",
           "usagov": {
             "acronym": "VA",
             "contact": [
@@ -4757,7 +4757,7 @@
           }
         },
         {
-          "name": "[usagov] Department of Transportation (DOT) (Department of Transportation (DOT))",
+          "name": "[usagov] Department of Transportation (DOT)",
           "usagov": {
             "acronym": "DOT",
             "contact": [
@@ -4806,7 +4806,7 @@
           }
         },
         {
-          "name": "[usagov] Department of the Treasury (Department of the Treasury)",
+          "name": "[usagov] Department of the Treasury",
           "usagov": {
             "contact": [
               {
@@ -4834,7 +4834,7 @@
           }
         },
         {
-          "name": "[usagov] Department of the Interior (DOI) (Department of the Interior (DOI))",
+          "name": "[usagov] Department of the Interior (DOI)",
           "usagov": {
             "acronym": "DOI",
             "contact": [
@@ -4867,7 +4867,7 @@
           }
         },
         {
-          "name": "[usagov] Department of State (DOS) (Department of State (DOS))",
+          "name": "[usagov] Department of State (DOS)",
           "usagov": {
             "acronym": "DOS",
             "contact": [
@@ -4917,7 +4917,7 @@
           }
         },
         {
-          "name": "[usagov] Department of Labor (DOL) (Department of Labor (DOL))",
+          "name": "[usagov] Department of Labor (DOL)",
           "usagov": {
             "acronym": "DOL",
             "contact": [
@@ -4963,7 +4963,7 @@
           }
         },
         {
-          "name": "[usagov] Department of Justice (DOJ) (Department of Justice (DOJ))",
+          "name": "[usagov] Department of Justice (DOJ)",
           "usagov": {
             "acronym": "DOJ",
             "contact": [
@@ -5000,7 +5000,7 @@
           }
         },
         {
-          "name": "[usagov] Department of Housing and Urban Development (HUD) (Department of Housing and Urban Development (HUD))",
+          "name": "[usagov] Department of Housing and Urban Development (HUD)",
           "usagov": {
             "acronym": "HUD",
             "contact": [
@@ -5058,7 +5058,7 @@
           }
         },
         {
-          "name": "[usagov] Department of Homeland Security (DHS) (Department of Homeland Security (DHS))",
+          "name": "[usagov] Department of Homeland Security (DHS)",
           "usagov": {
             "acronym": "DHS",
             "contact": [
@@ -5087,7 +5087,7 @@
           }
         },
         {
-          "name": "[usagov] Department of Health and Human Services (HHS) (Department of Health and Human Services (HHS))",
+          "name": "[usagov] Department of Health and Human Services (HHS)",
           "usagov": {
             "acronym": "HHS",
             "contact": [
@@ -5116,7 +5116,7 @@
           }
         },
         {
-          "name": "[usagov] Department of Energy (DOE) (Department of Energy (DOE))",
+          "name": "[usagov] Department of Energy (DOE)",
           "usagov": {
             "acronym": "DOE",
             "contact": [
@@ -5152,7 +5152,7 @@
           }
         },
         {
-          "name": "[usagov] Department of Education (ED) (Department of Education (ED))",
+          "name": "[usagov] Department of Education (ED)",
           "usagov": {
             "acronym": "ED",
             "contact": [
@@ -5188,7 +5188,7 @@
           }
         },
         {
-          "name": "[usagov] National Security Council (NSC) (National Security Council (NSC))",
+          "name": "[usagov] National Security Council (NSC)",
           "usagov": {
             "acronym": "NSC",
             "contact": [
@@ -5210,7 +5210,7 @@
           }
         },
         {
-          "name": "[usagov] Office of Science and Technology Policy (Office of Science and Technology Policy)",
+          "name": "[usagov] Office of Science and Technology Policy",
           "usagov": {
             "contact": [
               {
@@ -5238,7 +5238,7 @@
           }
         },
         {
-          "name": "[usagov] Office of National Drug Control Policy (ONDCP) (Office of National Drug Control Policy (ONDCP))",
+          "name": "[usagov] Office of National Drug Control Policy (ONDCP)",
           "usagov": {
             "acronym": "ONDCP",
             "contact": [
@@ -5260,7 +5260,7 @@
           }
         },
         {
-          "name": "[usagov] Office of Management and Budget (OMB) (Office of Management and Budget (OMB))",
+          "name": "[usagov] Office of Management and Budget (OMB)",
           "usagov": {
             "acronym": "OMB",
             "contact": [
@@ -5285,7 +5285,7 @@
           }
         },
         {
-          "name": "[usagov] Trade Representative (Trade Representative)",
+          "name": "[usagov] Trade Representative",
           "usagov": {
             "contact": [
               {
@@ -5309,7 +5309,7 @@
           }
         }
       ],
-      "name": "[usagov] White House (White House)",
+      "name": "[usagov] White House",
       "usagov": {
         "contact": [
           {

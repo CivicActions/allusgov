@@ -5,7 +5,7 @@
     },
     "name": "US FEDERAL GOVERNMENT"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] American Battle Monuments Commission (American Battle Monuments Commission)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] American Battle Monuments Commission": {
     "cisagov": {
       "name": "American Battle Monuments Commission",
       "records": [
@@ -20,9 +20,9 @@
         }
       ]
     },
-    "name": "[cisagov] American Battle Monuments Commission (American Battle Monuments Commission)"
+    "name": "[cisagov] American Battle Monuments Commission"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] American Battle Monuments Commission (American Battle Monuments Commission)/[cisagov] Office of Chief Information Officer (Office of Chief Information Officer)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] American Battle Monuments Commission/[cisagov] Office of Chief Information Officer": {
     "cisagov": {
       "name": "Office of Chief Information Officer",
       "records": [
@@ -109,9 +109,9 @@
         }
       ]
     },
-    "name": "[cisagov] Office of Chief Information Officer (Office of Chief Information Officer)"
+    "name": "[cisagov] Office of Chief Information Officer"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Appraisal Subcommittee (Appraisal Subcommittee)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Appraisal Subcommittee": {
     "cisagov": {
       "name": "Appraisal Subcommittee",
       "records": [
@@ -126,9 +126,9 @@
         }
       ]
     },
-    "name": "[cisagov] Appraisal Subcommittee (Appraisal Subcommittee)"
+    "name": "[cisagov] Appraisal Subcommittee"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Architect of the Capitol (Architect of the Capitol)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Architect of the Capitol": {
     "cisagov": {
       "name": "Architect of the Capitol",
       "records": [
@@ -188,9 +188,9 @@
         }
       ]
     },
-    "name": "[cisagov] Architect of the Capitol (Architect of the Capitol)"
+    "name": "[cisagov] Architect of the Capitol"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Architect of the Capitol (Architect of the Capitol)/[cisagov] AOC (AOC)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Architect of the Capitol/[cisagov] AOC": {
     "cisagov": {
       "name": "AOC",
       "records": [
@@ -205,9 +205,9 @@
         }
       ]
     },
-    "name": "[cisagov] AOC (AOC)"
+    "name": "[cisagov] AOC"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Architect of the Capitol (Architect of the Capitol)/[cisagov] The Architect of the Capitol (The Architect of the Capitol)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Architect of the Capitol/[cisagov] The Architect of the Capitol": {
     "cisagov": {
       "name": "The Architect of the Capitol",
       "records": [
@@ -267,9 +267,9 @@
         }
       ]
     },
-    "name": "[cisagov] The Architect of the Capitol (The Architect of the Capitol)"
+    "name": "[cisagov] The Architect of the Capitol"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Armed Forces Retirement Home (Armed Forces Retirement Home)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Armed Forces Retirement Home": {
     "cisagov": {
       "name": "Armed Forces Retirement Home",
       "records": [
@@ -284,9 +284,9 @@
         }
       ]
     },
-    "name": "[cisagov] Armed Forces Retirement Home (Armed Forces Retirement Home)"
+    "name": "[cisagov] Armed Forces Retirement Home"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Barry Goldwater Scholarship and Excellence in Education Foundation (Barry Goldwater Scholarship and Excellence in Education Foundation)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Barry Goldwater Scholarship and Excellence in Education Foundation": {
     "cisagov": {
       "name": "Barry Goldwater Scholarship and Excellence in Education Foundation",
       "records": [
@@ -301,9 +301,9 @@
         }
       ]
     },
-    "name": "[cisagov] Barry Goldwater Scholarship and Excellence in Education Foundation (Barry Goldwater Scholarship and Excellence in Education Foundation)"
+    "name": "[cisagov] Barry Goldwater Scholarship and Excellence in Education Foundation"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Central Intelligence Agency (Central Intelligence Agency)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Central Intelligence Agency": {
     "cisagov": {
       "name": "Central Intelligence Agency",
       "records": [
@@ -354,9 +354,9 @@
         }
       ]
     },
-    "name": "[cisagov] Central Intelligence Agency (Central Intelligence Agency)"
+    "name": "[cisagov] Central Intelligence Agency"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Central Intelligence Agency (Central Intelligence Agency)/[cisagov] CIA\\GCS OSEG (CIA\\GCS OSEG)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Central Intelligence Agency/[cisagov] CIA\\GCS OSEG": {
     "cisagov": {
       "name": "CIA\\GCS OSEG",
       "records": [
@@ -371,9 +371,9 @@
         }
       ]
     },
-    "name": "[cisagov] CIA\\GCS OSEG (CIA\\GCS OSEG)"
+    "name": "[cisagov] CIA\\GCS OSEG"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Central Intelligence Agency (Central Intelligence Agency)/[cisagov] DNI Open Source Center (DNI Open Source Center)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Central Intelligence Agency/[cisagov] DNI Open Source Center": {
     "cisagov": {
       "name": "DNI Open Source Center",
       "records": [
@@ -388,9 +388,9 @@
         }
       ]
     },
-    "name": "[cisagov] DNI Open Source Center (DNI Open Source Center)"
+    "name": "[cisagov] DNI Open Source Center"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Commodity Futures Trading Commission (Commodity Futures Trading Commission)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Commodity Futures Trading Commission": {
     "cisagov": {
       "name": "Commodity Futures Trading Commission",
       "records": [
@@ -405,9 +405,9 @@
         }
       ]
     },
-    "name": "[cisagov] Commodity Futures Trading Commission (Commodity Futures Trading Commission)"
+    "name": "[cisagov] Commodity Futures Trading Commission"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Commodity Futures Trading Commission (Commodity Futures Trading Commission)/[cisagov] U.S. Commodity Futures Trading Commission (U.S. Commodity Futures Trading Commission)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Commodity Futures Trading Commission/[cisagov] U.S. Commodity Futures Trading Commission": {
     "cisagov": {
       "name": "U.S. Commodity Futures Trading Commission",
       "records": [
@@ -431,9 +431,9 @@
         }
       ]
     },
-    "name": "[cisagov] U.S. Commodity Futures Trading Commission (U.S. Commodity Futures Trading Commission)"
+    "name": "[cisagov] U.S. Commodity Futures Trading Commission"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Congressional Budget Office (Congressional Budget Office)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Congressional Budget Office": {
     "cisagov": {
       "name": "Congressional Budget Office",
       "records": [
@@ -457,9 +457,9 @@
         }
       ]
     },
-    "name": "[cisagov] Congressional Budget Office (Congressional Budget Office)"
+    "name": "[cisagov] Congressional Budget Office"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Consumer Financial Protection Bureau (Consumer Financial Protection Bureau)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Consumer Financial Protection Bureau": {
     "cisagov": {
       "name": "Consumer Financial Protection Bureau",
       "records": [
@@ -564,9 +564,9 @@
         }
       ]
     },
-    "name": "[cisagov] Consumer Financial Protection Bureau (Consumer Financial Protection Bureau)"
+    "name": "[cisagov] Consumer Financial Protection Bureau"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Consumer Product Safety Commission (Consumer Product Safety Commission)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Consumer Product Safety Commission": {
     "cisagov": {
       "name": "Consumer Product Safety Commission",
       "records": [
@@ -608,9 +608,9 @@
         }
       ]
     },
-    "name": "[cisagov] Consumer Product Safety Commission (Consumer Product Safety Commission)"
+    "name": "[cisagov] Consumer Product Safety Commission"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Consumer Product Safety Commission (Consumer Product Safety Commission)/[cisagov] U.S. Consumer Product Safety Commission (U.S. Consumer Product Safety Commission)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Consumer Product Safety Commission/[cisagov] U.S. Consumer Product Safety Commission": {
     "cisagov": {
       "name": "U.S. Consumer Product Safety Commission",
       "records": [
@@ -643,9 +643,9 @@
         }
       ]
     },
-    "name": "[cisagov] U.S. Consumer Product Safety Commission (U.S. Consumer Product Safety Commission)"
+    "name": "[cisagov] U.S. Consumer Product Safety Commission"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Consumer Product Safety Commission (Consumer Product Safety Commission)/[cisagov] US Consumer Product Safety Commission (US Consumer Product Safety Commission)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Consumer Product Safety Commission/[cisagov] US Consumer Product Safety Commission": {
     "cisagov": {
       "name": "US Consumer Product Safety Commission",
       "records": [
@@ -678,9 +678,9 @@
         }
       ]
     },
-    "name": "[cisagov] US Consumer Product Safety Commission (US Consumer Product Safety Commission)"
+    "name": "[cisagov] US Consumer Product Safety Commission"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Cyberspace Solarium Commission (Cyberspace Solarium Commission)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Cyberspace Solarium Commission": {
     "cisagov": {
       "name": "Cyberspace Solarium Commission",
       "records": [
@@ -695,9 +695,9 @@
         }
       ]
     },
-    "name": "[cisagov] Cyberspace Solarium Commission (Cyberspace Solarium Commission)"
+    "name": "[cisagov] Cyberspace Solarium Commission"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Defense Nuclear Facilities Safety Board (Defense Nuclear Facilities Safety Board)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Defense Nuclear Facilities Safety Board": {
     "cisagov": {
       "name": "Defense Nuclear Facilities Safety Board",
       "records": [
@@ -712,9 +712,9 @@
         }
       ]
     },
-    "name": "[cisagov] Defense Nuclear Facilities Safety Board (Defense Nuclear Facilities Safety Board)"
+    "name": "[cisagov] Defense Nuclear Facilities Safety Board"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Delta Regional Authority (Delta Regional Authority)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Delta Regional Authority": {
     "cisagov": {
       "name": "Delta Regional Authority",
       "records": [
@@ -729,9 +729,9 @@
         }
       ]
     },
-    "name": "[cisagov] Delta Regional Authority (Delta Regional Authority)"
+    "name": "[cisagov] Delta Regional Authority"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Denali Commission (Denali Commission)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Denali Commission": {
     "cisagov": {
       "name": "Denali Commission",
       "records": [
@@ -746,9 +746,9 @@
         }
       ]
     },
-    "name": "[cisagov] Denali Commission (Denali Commission)"
+    "name": "[cisagov] Denali Commission"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense (Department of Defense)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense": {
     "cisagov": {
       "name": "Department of Defense",
       "records": [
@@ -763,9 +763,9 @@
         }
       ]
     },
-    "name": "[cisagov] Department of Defense (Department of Defense)"
+    "name": "[cisagov] Department of Defense"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense (Department of Defense)/[cisagov] AFTAC (AFTAC)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense/[cisagov] AFTAC": {
     "cisagov": {
       "name": "AFTAC",
       "records": [
@@ -780,9 +780,9 @@
         }
       ]
     },
-    "name": "[cisagov] AFTAC (AFTAC)"
+    "name": "[cisagov] AFTAC"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense (Department of Defense)/[cisagov] AFTAC/LSCSS (AFTAC/LSCSS)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense/[cisagov] AFTAC/LSCSS": {
     "cisagov": {
       "name": "AFTAC/LSCSS",
       "records": [
@@ -797,9 +797,9 @@
         }
       ]
     },
-    "name": "[cisagov] AFTAC/LSCSS (AFTAC/LSCSS)"
+    "name": "[cisagov] AFTAC/LSCSS"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense (Department of Defense)/[cisagov] Advanced Distributed Learning Initiative (Advanced Distributed Learning Initiative)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense/[cisagov] Advanced Distributed Learning Initiative": {
     "cisagov": {
       "name": "Advanced Distributed Learning Initiative",
       "records": [
@@ -814,9 +814,9 @@
         }
       ]
     },
-    "name": "[cisagov] Advanced Distributed Learning Initiative (Advanced Distributed Learning Initiative)"
+    "name": "[cisagov] Advanced Distributed Learning Initiative"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense (Department of Defense)/[cisagov] CIVIL AIR PATROL, USAF AUX. (CIVIL AIR PATROL, USAF AUX.)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense/[cisagov] CIVIL AIR PATROL, USAF AUX.": {
     "cisagov": {
       "name": "CIVIL AIR PATROL, USAF AUX.",
       "records": [
@@ -831,9 +831,9 @@
         }
       ]
     },
-    "name": "[cisagov] CIVIL AIR PATROL, USAF AUX. (CIVIL AIR PATROL, USAF AUX.)"
+    "name": "[cisagov] CIVIL AIR PATROL, USAF AUX."
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense (Department of Defense)/[cisagov] CNSS Secretariat (CNSS Secretariat)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense/[cisagov] CNSS Secretariat": {
     "cisagov": {
       "name": "CNSS Secretariat",
       "records": [
@@ -848,9 +848,9 @@
         }
       ]
     },
-    "name": "[cisagov] CNSS Secretariat (CNSS Secretariat)"
+    "name": "[cisagov] CNSS Secretariat"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense (Department of Defense)/[cisagov] Civil Air Patrol (Civil Air Patrol)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense/[cisagov] Civil Air Patrol": {
     "cisagov": {
       "name": "Civil Air Patrol",
       "records": [
@@ -865,9 +865,9 @@
         }
       ]
     },
-    "name": "[cisagov] Civil Air Patrol (Civil Air Patrol)"
+    "name": "[cisagov] Civil Air Patrol"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense (Department of Defense)/[cisagov] Combating Terrorism Technical Support Office (Combating Terrorism Technical Support Office)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense/[cisagov] Combating Terrorism Technical Support Office": {
     "cisagov": {
       "name": "Combating Terrorism Technical Support Office",
       "records": [
@@ -882,9 +882,9 @@
         }
       ]
     },
-    "name": "[cisagov] Combating Terrorism Technical Support Office (Combating Terrorism Technical Support Office)"
+    "name": "[cisagov] Combating Terrorism Technical Support Office"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense (Department of Defense)/[cisagov] Defense Counterintelligence and Security Agency (Defense Counterintelligence and Security Agency)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense/[cisagov] Defense Counterintelligence and Security Agency": {
     "cisagov": {
       "name": "Defense Counterintelligence and Security Agency",
       "records": [
@@ -908,9 +908,9 @@
         }
       ]
     },
-    "name": "[cisagov] Defense Counterintelligence and Security Agency (Defense Counterintelligence and Security Agency)"
+    "name": "[cisagov] Defense Counterintelligence and Security Agency"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense (Department of Defense)/[cisagov] Defense Cyber Crime Center (Defense Cyber Crime Center)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense/[cisagov] Defense Cyber Crime Center": {
     "cisagov": {
       "name": "Defense Cyber Crime Center",
       "records": [
@@ -925,9 +925,9 @@
         }
       ]
     },
-    "name": "[cisagov] Defense Cyber Crime Center (Defense Cyber Crime Center)"
+    "name": "[cisagov] Defense Cyber Crime Center"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense (Department of Defense)/[cisagov] Defense Finance and Accounting Service (Defense Finance and Accounting Service)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense/[cisagov] Defense Finance and Accounting Service": {
     "cisagov": {
       "name": "Defense Finance and Accounting Service",
       "records": [
@@ -942,9 +942,9 @@
         }
       ]
     },
-    "name": "[cisagov] Defense Finance and Accounting Service (Defense Finance and Accounting Service)"
+    "name": "[cisagov] Defense Finance and Accounting Service"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense (Department of Defense)/[cisagov] Defense Logistics Agency (Defense Logistics Agency)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense/[cisagov] Defense Logistics Agency": {
     "cisagov": {
       "name": "Defense Logistics Agency",
       "records": [
@@ -959,9 +959,9 @@
         }
       ]
     },
-    "name": "[cisagov] Defense Logistics Agency (Defense Logistics Agency)"
+    "name": "[cisagov] Defense Logistics Agency"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense (Department of Defense)/[cisagov] Defense Media Activity (Defense Media Activity)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense/[cisagov] Defense Media Activity": {
     "cisagov": {
       "name": "Defense Media Activity",
       "records": [
@@ -976,9 +976,9 @@
         }
       ]
     },
-    "name": "[cisagov] Defense Media Activity (Defense Media Activity)"
+    "name": "[cisagov] Defense Media Activity"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense (Department of Defense)/[cisagov] FEHRM (FEHRM)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense/[cisagov] FEHRM": {
     "cisagov": {
       "name": "FEHRM",
       "records": [
@@ -993,9 +993,9 @@
         }
       ]
     },
-    "name": "[cisagov] FEHRM (FEHRM)"
+    "name": "[cisagov] FEHRM"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense (Department of Defense)/[cisagov] Federal Voting Assistance Program (Federal Voting Assistance Program)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense/[cisagov] Federal Voting Assistance Program": {
     "cisagov": {
       "name": "Federal Voting Assistance Program",
       "records": [
@@ -1010,9 +1010,9 @@
         }
       ]
     },
-    "name": "[cisagov] Federal Voting Assistance Program (Federal Voting Assistance Program)"
+    "name": "[cisagov] Federal Voting Assistance Program"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense (Department of Defense)/[cisagov] Interagency OPSEC Support Staff (Interagency OPSEC Support Staff)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense/[cisagov] Interagency OPSEC Support Staff": {
     "cisagov": {
       "name": "Interagency OPSEC Support Staff",
       "records": [
@@ -1027,9 +1027,9 @@
         }
       ]
     },
-    "name": "[cisagov] Interagency OPSEC Support Staff (Interagency OPSEC Support Staff)"
+    "name": "[cisagov] Interagency OPSEC Support Staff"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense (Department of Defense)/[cisagov] Interagency Training Center (Interagency Training Center)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense/[cisagov] Interagency Training Center": {
     "cisagov": {
       "name": "Interagency Training Center",
       "records": [
@@ -1044,9 +1044,9 @@
         }
       ]
     },
-    "name": "[cisagov] Interagency Training Center (Interagency Training Center)"
+    "name": "[cisagov] Interagency Training Center"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense (Department of Defense)/[cisagov] Irregular Warfare Technical Support Directorate (Irregular Warfare Technical Support Directorate)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense/[cisagov] Irregular Warfare Technical Support Directorate": {
     "cisagov": {
       "name": "Irregular Warfare Technical Support Directorate",
       "records": [
@@ -1061,9 +1061,9 @@
         }
       ]
     },
-    "name": "[cisagov] Irregular Warfare Technical Support Directorate (Irregular Warfare Technical Support Directorate)"
+    "name": "[cisagov] Irregular Warfare Technical Support Directorate"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense (Department of Defense)/[cisagov] MCTFT (MCTFT)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense/[cisagov] MCTFT": {
     "cisagov": {
       "name": "MCTFT",
       "records": [
@@ -1078,9 +1078,9 @@
         }
       ]
     },
-    "name": "[cisagov] MCTFT (MCTFT)"
+    "name": "[cisagov] MCTFT"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense (Department of Defense)/[cisagov] NRO (NRO)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense/[cisagov] NRO": {
     "cisagov": {
       "name": "NRO",
       "records": [
@@ -1095,9 +1095,9 @@
         }
       ]
     },
-    "name": "[cisagov] NRO (NRO)"
+    "name": "[cisagov] NRO"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense (Department of Defense)/[cisagov] NSA (NSA)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense/[cisagov] NSA": {
     "cisagov": {
       "name": "NSA",
       "records": [
@@ -1112,9 +1112,9 @@
         }
       ]
     },
-    "name": "[cisagov] NSA (NSA)"
+    "name": "[cisagov] NSA"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense (Department of Defense)/[cisagov] National Security Agency (National Security Agency)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense/[cisagov] National Security Agency": {
     "cisagov": {
       "name": "National Security Agency",
       "records": [
@@ -1138,9 +1138,9 @@
         }
       ]
     },
-    "name": "[cisagov] National Security Agency (National Security Agency)"
+    "name": "[cisagov] National Security Agency"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense (Department of Defense)/[cisagov] National Security Agency, Laboratory for Physical Sciences (National Security Agency, Laboratory for Physical Sciences)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense/[cisagov] National Security Agency, Laboratory for Physical Sciences": {
     "cisagov": {
       "name": "National Security Agency, Laboratory for Physical Sciences",
       "records": [
@@ -1155,9 +1155,9 @@
         }
       ]
     },
-    "name": "[cisagov] National Security Agency, Laboratory for Physical Sciences (National Security Agency, Laboratory for Physical Sciences)"
+    "name": "[cisagov] National Security Agency, Laboratory for Physical Sciences"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense (Department of Defense)/[cisagov] National Security Education Program (NSEP) at DLNSEO (National Security Education Program (NSEP) at DLNSEO)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense/[cisagov] National Security Education Program (NSEP) at DLNSEO": {
     "cisagov": {
       "name": "National Security Education Program (NSEP) at DLNSEO",
       "records": [
@@ -1172,9 +1172,9 @@
         }
       ]
     },
-    "name": "[cisagov] National Security Education Program (NSEP) at DLNSEO (National Security Education Program (NSEP) at DLNSEO)"
+    "name": "[cisagov] National Security Education Program (NSEP) at DLNSEO"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense (Department of Defense)/[cisagov] OFFICE OF WARRIOR CARE POLICY (OFFICE OF WARRIOR CARE POLICY)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense/[cisagov] OFFICE OF WARRIOR CARE POLICY": {
     "cisagov": {
       "name": "OFFICE OF WARRIOR CARE POLICY",
       "records": [
@@ -1198,9 +1198,9 @@
         }
       ]
     },
-    "name": "[cisagov] OFFICE OF WARRIOR CARE POLICY (OFFICE OF WARRIOR CARE POLICY)"
+    "name": "[cisagov] OFFICE OF WARRIOR CARE POLICY"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense (Department of Defense)/[cisagov] Office of Economic Adjustment (Office of Economic Adjustment)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense/[cisagov] Office of Economic Adjustment": {
     "cisagov": {
       "name": "Office of Economic Adjustment",
       "records": [
@@ -1215,9 +1215,9 @@
         }
       ]
     },
-    "name": "[cisagov] Office of Economic Adjustment (Office of Economic Adjustment)"
+    "name": "[cisagov] Office of Economic Adjustment"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense (Department of Defense)/[cisagov] Office of Local Defense Community Cooperation (Office of Local Defense Community Cooperation)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense/[cisagov] Office of Local Defense Community Cooperation": {
     "cisagov": {
       "name": "Office of Local Defense Community Cooperation",
       "records": [
@@ -1232,9 +1232,9 @@
         }
       ]
     },
-    "name": "[cisagov] Office of Local Defense Community Cooperation (Office of Local Defense Community Cooperation)"
+    "name": "[cisagov] Office of Local Defense Community Cooperation"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense (Department of Defense)/[cisagov] Office of the Under Secretary of Defense for Acquisition, Technology and Logistics (Office of the Under Secretary of Defense for Acquisition, Technology and Logistics)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense/[cisagov] Office of the Under Secretary of Defense for Acquisition, Technology and Logistics": {
     "cisagov": {
       "name": "Office of the Under Secretary of Defense for Acquisition, Technology and Logistics",
       "records": [
@@ -1249,9 +1249,9 @@
         }
       ]
     },
-    "name": "[cisagov] Office of the Under Secretary of Defense for Acquisition, Technology and Logistics (Office of the Under Secretary of Defense for Acquisition, Technology and Logistics)"
+    "name": "[cisagov] Office of the Under Secretary of Defense for Acquisition, Technology and Logistics"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense (Department of Defense)/[cisagov] PEO DHMS (PEO DHMS)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense/[cisagov] PEO DHMS": {
     "cisagov": {
       "name": "PEO DHMS",
       "records": [
@@ -1266,9 +1266,9 @@
         }
       ]
     },
-    "name": "[cisagov] PEO DHMS (PEO DHMS)"
+    "name": "[cisagov] PEO DHMS"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense (Department of Defense)/[cisagov] TAK Product Center (TAK Product Center)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense/[cisagov] TAK Product Center": {
     "cisagov": {
       "name": "TAK Product Center",
       "records": [
@@ -1283,9 +1283,9 @@
         }
       ]
     },
-    "name": "[cisagov] TAK Product Center (TAK Product Center)"
+    "name": "[cisagov] TAK Product Center"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense (Department of Defense)/[cisagov] Technical Support Working Group (Technical Support Working Group)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense/[cisagov] Technical Support Working Group": {
     "cisagov": {
       "name": "Technical Support Working Group",
       "records": [
@@ -1300,9 +1300,9 @@
         }
       ]
     },
-    "name": "[cisagov] Technical Support Working Group (Technical Support Working Group)"
+    "name": "[cisagov] Technical Support Working Group"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense (Department of Defense)/[cisagov] US Army Corps of Engineers (US Army Corps of Engineers)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense/[cisagov] US Army Corps of Engineers": {
     "cisagov": {
       "name": "US Army Corps of Engineers",
       "records": [
@@ -1317,9 +1317,9 @@
         }
       ]
     },
-    "name": "[cisagov] US Army Corps of Engineers (US Army Corps of Engineers)"
+    "name": "[cisagov] US Army Corps of Engineers"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense (Department of Defense)/[cisagov] aftac (aftac)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of Defense/[cisagov] aftac": {
     "cisagov": {
       "name": "aftac",
       "records": [
@@ -1334,9 +1334,9 @@
         }
       ]
     },
-    "name": "[cisagov] aftac (aftac)"
+    "name": "[cisagov] aftac"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of Housing and Urban Development (Department of Housing and Urban Development)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of Housing and Urban Development": {
     "cisagov": {
       "name": "Department of Housing and Urban Development",
       "records": [
@@ -1405,9 +1405,9 @@
         }
       ]
     },
-    "name": "[cisagov] Department of Housing and Urban Development (Department of Housing and Urban Development)"
+    "name": "[cisagov] Department of Housing and Urban Development"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of Housing and Urban Development (Department of Housing and Urban Development)/[cisagov] Dept. of Housing and Urban Development (HUD) (Dept. of Housing and Urban Development (HUD))": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of Housing and Urban Development/[cisagov] Dept. of Housing and Urban Development (HUD)": {
     "cisagov": {
       "name": "Dept. of Housing and Urban Development (HUD)",
       "records": [
@@ -1422,9 +1422,9 @@
         }
       ]
     },
-    "name": "[cisagov] Dept. of Housing and Urban Development (HUD) (Dept. of Housing and Urban Development (HUD))"
+    "name": "[cisagov] Dept. of Housing and Urban Development (HUD)"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of Housing and Urban Development (Department of Housing and Urban Development)/[cisagov] Government National Mortgage Association (Government National Mortgage Association)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of Housing and Urban Development/[cisagov] Government National Mortgage Association": {
     "cisagov": {
       "name": "Government National Mortgage Association",
       "records": [
@@ -1439,9 +1439,9 @@
         }
       ]
     },
-    "name": "[cisagov] Government National Mortgage Association (Government National Mortgage Association)"
+    "name": "[cisagov] Government National Mortgage Association"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of Housing and Urban Development (Department of Housing and Urban Development)/[cisagov] U.S. Department of Housing and Urban Development, Office of Policy Development and Research (U.S. Department of Housing and Urban Development, Office of Policy Development and Research)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of Housing and Urban Development/[cisagov] U.S. Department of Housing and Urban Development, Office of Policy Development and Research": {
     "cisagov": {
       "name": "U.S. Department of Housing and Urban Development, Office of Policy Development and Research",
       "records": [
@@ -1456,9 +1456,9 @@
         }
       ]
     },
-    "name": "[cisagov] U.S. Department of Housing and Urban Development, Office of Policy Development and Research (U.S. Department of Housing and Urban Development, Office of Policy Development and Research)"
+    "name": "[cisagov] U.S. Department of Housing and Urban Development, Office of Policy Development and Research"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of Housing and Urban Development (Department of Housing and Urban Development)/[cisagov] Web Master  Pulic Affair (Web Master  Pulic Affair)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of Housing and Urban Development/[cisagov] Web Master  Pulic Affair": {
     "cisagov": {
       "name": "Web Master  Pulic Affair",
       "records": [
@@ -1473,9 +1473,9 @@
         }
       ]
     },
-    "name": "[cisagov] Web Master  Pulic Affair (Web Master  Pulic Affair)"
+    "name": "[cisagov] Web Master  Pulic Affair"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of Veterans Affairs (Department of Veterans Affairs)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of Veterans Affairs": {
     "cisagov": {
       "name": "Department of Veterans Affairs",
       "records": [
@@ -1490,9 +1490,9 @@
         }
       ]
     },
-    "name": "[cisagov] Department of Veterans Affairs (Department of Veterans Affairs)"
+    "name": "[cisagov] Department of Veterans Affairs"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of Veterans Affairs (Department of Veterans Affairs)/[cisagov] Department of Veterans Affairs - PREVENTS (Department of Veterans Affairs - PREVENTS)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of Veterans Affairs/[cisagov] Department of Veterans Affairs - PREVENTS": {
     "cisagov": {
       "name": "Department of Veterans Affairs - PREVENTS",
       "records": [
@@ -1507,9 +1507,9 @@
         }
       ]
     },
-    "name": "[cisagov] Department of Veterans Affairs - PREVENTS (Department of Veterans Affairs - PREVENTS)"
+    "name": "[cisagov] Department of Veterans Affairs - PREVENTS"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of Veterans Affairs (Department of Veterans Affairs)/[cisagov] Office of Information and Technology, IT Operations and Services (ITOPS) (Office of Information and Technology, IT Operations and Services (ITOPS))": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of Veterans Affairs/[cisagov] Office of Information and Technology, IT Operations and Services (ITOPS)": {
     "cisagov": {
       "name": "Office of Information and Technology, IT Operations and Services (ITOPS)",
       "records": [
@@ -1533,9 +1533,9 @@
         }
       ]
     },
-    "name": "[cisagov] Office of Information and Technology, IT Operations and Services (ITOPS) (Office of Information and Technology, IT Operations and Services (ITOPS))"
+    "name": "[cisagov] Office of Information and Technology, IT Operations and Services (ITOPS)"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior (Department of the Interior)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior": {
     "cisagov": {
       "name": "Department of the Interior",
       "records": [
@@ -1577,9 +1577,9 @@
         }
       ]
     },
-    "name": "[cisagov] Department of the Interior (Department of the Interior)"
+    "name": "[cisagov] Department of the Interior"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior (Department of the Interior)/[cisagov] Advisory Committee on Water Information (Advisory Committee on Water Information)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior/[cisagov] Advisory Committee on Water Information": {
     "cisagov": {
       "name": "Advisory Committee on Water Information",
       "records": [
@@ -1594,9 +1594,9 @@
         }
       ]
     },
-    "name": "[cisagov] Advisory Committee on Water Information (Advisory Committee on Water Information)"
+    "name": "[cisagov] Advisory Committee on Water Information"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior (Department of the Interior)/[cisagov] Aquatic Nuisance Species Task Force (Aquatic Nuisance Species Task Force)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior/[cisagov] Aquatic Nuisance Species Task Force": {
     "cisagov": {
       "name": "Aquatic Nuisance Species Task Force",
       "records": [
@@ -1611,9 +1611,9 @@
         }
       ]
     },
-    "name": "[cisagov] Aquatic Nuisance Species Task Force (Aquatic Nuisance Species Task Force)"
+    "name": "[cisagov] Aquatic Nuisance Species Task Force"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior (Department of the Interior)/[cisagov] Aviation Management Directorate (Aviation Management Directorate)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior/[cisagov] Aviation Management Directorate": {
     "cisagov": {
       "name": "Aviation Management Directorate",
       "records": [
@@ -1637,9 +1637,9 @@
         }
       ]
     },
-    "name": "[cisagov] Aviation Management Directorate (Aviation Management Directorate)"
+    "name": "[cisagov] Aviation Management Directorate"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior (Department of the Interior)/[cisagov] Bureau Of Reclamation (Bureau Of Reclamation)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior/[cisagov] Bureau Of Reclamation": {
     "cisagov": {
       "name": "Bureau Of Reclamation",
       "records": [
@@ -1672,9 +1672,9 @@
         }
       ]
     },
-    "name": "[cisagov] Bureau Of Reclamation (Bureau Of Reclamation)"
+    "name": "[cisagov] Bureau Of Reclamation"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior (Department of the Interior)/[cisagov] Bureau of Indian Affairs (Bureau of Indian Affairs)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior/[cisagov] Bureau of Indian Affairs": {
     "cisagov": {
       "name": "Bureau of Indian Affairs",
       "records": [
@@ -1698,9 +1698,9 @@
         }
       ]
     },
-    "name": "[cisagov] Bureau of Indian Affairs (Bureau of Indian Affairs)"
+    "name": "[cisagov] Bureau of Indian Affairs"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior (Department of the Interior)/[cisagov] Bureau of Land Management (Bureau of Land Management)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior/[cisagov] Bureau of Land Management": {
     "cisagov": {
       "name": "Bureau of Land Management",
       "records": [
@@ -1724,9 +1724,9 @@
         }
       ]
     },
-    "name": "[cisagov] Bureau of Land Management (Bureau of Land Management)"
+    "name": "[cisagov] Bureau of Land Management"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior (Department of the Interior)/[cisagov] Bureau of Land Management - Main Domain (Bureau of Land Management - Main Domain)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior/[cisagov] Bureau of Land Management - Main Domain": {
     "cisagov": {
       "name": "Bureau of Land Management - Main Domain",
       "records": [
@@ -1741,9 +1741,9 @@
         }
       ]
     },
-    "name": "[cisagov] Bureau of Land Management - Main Domain (Bureau of Land Management - Main Domain)"
+    "name": "[cisagov] Bureau of Land Management - Main Domain"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior (Department of the Interior)/[cisagov] Bureau of Land Management - Utah Fire Info Domain (Bureau of Land Management - Utah Fire Info Domain)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior/[cisagov] Bureau of Land Management - Utah Fire Info Domain": {
     "cisagov": {
       "name": "Bureau of Land Management - Utah Fire Info Domain",
       "records": [
@@ -1758,9 +1758,9 @@
         }
       ]
     },
-    "name": "[cisagov] Bureau of Land Management - Utah Fire Info Domain (Bureau of Land Management - Utah Fire Info Domain)"
+    "name": "[cisagov] Bureau of Land Management - Utah Fire Info Domain"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior (Department of the Interior)/[cisagov] Bureau of Reclamation (Bureau of Reclamation)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior/[cisagov] Bureau of Reclamation": {
     "cisagov": {
       "name": "Bureau of Reclamation",
       "records": [
@@ -1793,9 +1793,9 @@
         }
       ]
     },
-    "name": "[cisagov] Bureau of Reclamation (Bureau of Reclamation)"
+    "name": "[cisagov] Bureau of Reclamation"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior (Department of the Interior)/[cisagov] DOI - Bureau of Trust Funds Administration (DOI - Bureau of Trust Funds Administration)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior/[cisagov] DOI - Bureau of Trust Funds Administration": {
     "cisagov": {
       "name": "DOI - Bureau of Trust Funds Administration",
       "records": [
@@ -1810,9 +1810,9 @@
         }
       ]
     },
-    "name": "[cisagov] DOI - Bureau of Trust Funds Administration (DOI - Bureau of Trust Funds Administration)"
+    "name": "[cisagov] DOI - Bureau of Trust Funds Administration"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior (Department of the Interior)/[cisagov] DOI - U.S. Fish and Wildlife Service (DOI - U.S. Fish and Wildlife Service)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior/[cisagov] DOI - U.S. Fish and Wildlife Service": {
     "cisagov": {
       "name": "DOI - U.S. Fish and Wildlife Service",
       "records": [
@@ -1827,9 +1827,9 @@
         }
       ]
     },
-    "name": "[cisagov] DOI - U.S. Fish and Wildlife Service (DOI - U.S. Fish and Wildlife Service)"
+    "name": "[cisagov] DOI - U.S. Fish and Wildlife Service"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior (Department of the Interior)/[cisagov] Department of Interior (Department of Interior)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior/[cisagov] Department of Interior": {
     "cisagov": {
       "name": "Department of Interior",
       "records": [
@@ -1844,9 +1844,9 @@
         }
       ]
     },
-    "name": "[cisagov] Department of Interior (Department of Interior)"
+    "name": "[cisagov] Department of Interior"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior (Department of the Interior)/[cisagov] Interior Business Center (Interior Business Center)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior/[cisagov] Interior Business Center": {
     "cisagov": {
       "name": "Interior Business Center",
       "records": [
@@ -1861,9 +1861,9 @@
         }
       ]
     },
-    "name": "[cisagov] Interior Business Center (Interior Business Center)"
+    "name": "[cisagov] Interior Business Center"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior (Department of the Interior)/[cisagov] Joint Fire Science Program (Joint Fire Science Program)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior/[cisagov] Joint Fire Science Program": {
     "cisagov": {
       "name": "Joint Fire Science Program",
       "records": [
@@ -1878,9 +1878,9 @@
         }
       ]
     },
-    "name": "[cisagov] Joint Fire Science Program (Joint Fire Science Program)"
+    "name": "[cisagov] Joint Fire Science Program"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior (Department of the Interior)/[cisagov] Minerals Management Service (Minerals Management Service)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior/[cisagov] Minerals Management Service": {
     "cisagov": {
       "name": "Minerals Management Service",
       "records": [
@@ -1922,9 +1922,9 @@
         }
       ]
     },
-    "name": "[cisagov] Minerals Management Service (Minerals Management Service)"
+    "name": "[cisagov] Minerals Management Service"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior (Department of the Interior)/[cisagov] National Business Center (National Business Center)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior/[cisagov] National Business Center": {
     "cisagov": {
       "name": "National Business Center",
       "records": [
@@ -1948,9 +1948,9 @@
         }
       ]
     },
-    "name": "[cisagov] National Business Center (National Business Center)"
+    "name": "[cisagov] National Business Center"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior (Department of the Interior)/[cisagov] National Fire Plan Operations & Reporting System (National Fire Plan Operations & Reporting System)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior/[cisagov] National Fire Plan Operations & Reporting System": {
     "cisagov": {
       "name": "National Fire Plan Operations & Reporting System",
       "records": [
@@ -1965,9 +1965,9 @@
         }
       ]
     },
-    "name": "[cisagov] National Fire Plan Operations & Reporting System (National Fire Plan Operations & Reporting System)"
+    "name": "[cisagov] National Fire Plan Operations & Reporting System"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior (Department of the Interior)/[cisagov] National Interagency Fire Center (National Interagency Fire Center)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior/[cisagov] National Interagency Fire Center": {
     "cisagov": {
       "name": "National Interagency Fire Center",
       "records": [
@@ -1982,9 +1982,9 @@
         }
       ]
     },
-    "name": "[cisagov] National Interagency Fire Center (National Interagency Fire Center)"
+    "name": "[cisagov] National Interagency Fire Center"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior (Department of the Interior)/[cisagov] National Park Service (National Park Service)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior/[cisagov] National Park Service": {
     "cisagov": {
       "name": "National Park Service",
       "records": [
@@ -2026,9 +2026,9 @@
         }
       ]
     },
-    "name": "[cisagov] National Park Service (National Park Service)"
+    "name": "[cisagov] National Park Service"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior (Department of the Interior)/[cisagov] National Wildfire Coordinating Group (National Wildfire Coordinating Group)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior/[cisagov] National Wildfire Coordinating Group": {
     "cisagov": {
       "name": "National Wildfire Coordinating Group",
       "records": [
@@ -2052,9 +2052,9 @@
         }
       ]
     },
-    "name": "[cisagov] National Wildfire Coordinating Group (National Wildfire Coordinating Group)"
+    "name": "[cisagov] National Wildfire Coordinating Group"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior (Department of the Interior)/[cisagov] Office of Aviation Services (Office of Aviation Services)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior/[cisagov] Office of Aviation Services": {
     "cisagov": {
       "name": "Office of Aviation Services",
       "records": [
@@ -2069,9 +2069,9 @@
         }
       ]
     },
-    "name": "[cisagov] Office of Aviation Services (Office of Aviation Services)"
+    "name": "[cisagov] Office of Aviation Services"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior (Department of the Interior)/[cisagov] Office of Navajo and Hopi Indian Relocation (Office of Navajo and Hopi Indian Relocation)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior/[cisagov] Office of Navajo and Hopi Indian Relocation": {
     "cisagov": {
       "name": "Office of Navajo and Hopi Indian Relocation",
       "records": [
@@ -2086,9 +2086,9 @@
         }
       ]
     },
-    "name": "[cisagov] Office of Navajo and Hopi Indian Relocation (Office of Navajo and Hopi Indian Relocation)"
+    "name": "[cisagov] Office of Navajo and Hopi Indian Relocation"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior (Department of the Interior)/[cisagov] Office of Surface Mining (Office of Surface Mining)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior/[cisagov] Office of Surface Mining": {
     "cisagov": {
       "name": "Office of Surface Mining",
       "records": [
@@ -2112,9 +2112,9 @@
         }
       ]
     },
-    "name": "[cisagov] Office of Surface Mining (Office of Surface Mining)"
+    "name": "[cisagov] Office of Surface Mining"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior (Department of the Interior)/[cisagov] Piedras Blancas Light Station (Piedras Blancas Light Station)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior/[cisagov] Piedras Blancas Light Station": {
     "cisagov": {
       "name": "Piedras Blancas Light Station",
       "records": [
@@ -2129,9 +2129,9 @@
         }
       ]
     },
-    "name": "[cisagov] Piedras Blancas Light Station (Piedras Blancas Light Station)"
+    "name": "[cisagov] Piedras Blancas Light Station"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior (Department of the Interior)/[cisagov] U. S. Geological Survey (U. S. Geological Survey)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior/[cisagov] U. S. Geological Survey": {
     "cisagov": {
       "name": "U. S. Geological Survey",
       "records": [
@@ -2146,9 +2146,9 @@
         }
       ]
     },
-    "name": "[cisagov] U. S. Geological Survey (U. S. Geological Survey)"
+    "name": "[cisagov] U. S. Geological Survey"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior (Department of the Interior)/[cisagov] U.S Geological Survey (U.S Geological Survey)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior/[cisagov] U.S Geological Survey": {
     "cisagov": {
       "name": "U.S Geological Survey",
       "records": [
@@ -2163,9 +2163,9 @@
         }
       ]
     },
-    "name": "[cisagov] U.S Geological Survey (U.S Geological Survey)"
+    "name": "[cisagov] U.S Geological Survey"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior (Department of the Interior)/[cisagov] U.S. DEPARTMENT OF INTERIOR / OIG (U.S. DEPARTMENT OF INTERIOR / OIG)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior/[cisagov] U.S. DEPARTMENT OF INTERIOR / OIG": {
     "cisagov": {
       "name": "U.S. DEPARTMENT OF INTERIOR / OIG",
       "records": [
@@ -2180,9 +2180,9 @@
         }
       ]
     },
-    "name": "[cisagov] U.S. DEPARTMENT OF INTERIOR / OIG (U.S. DEPARTMENT OF INTERIOR / OIG)"
+    "name": "[cisagov] U.S. DEPARTMENT OF INTERIOR / OIG"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior (Department of the Interior)/[cisagov] U.S. Fish and Wildlife Service (U.S. Fish and Wildlife Service)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior/[cisagov] U.S. Fish and Wildlife Service": {
     "cisagov": {
       "name": "U.S. Fish and Wildlife Service",
       "records": [
@@ -2197,9 +2197,9 @@
         }
       ]
     },
-    "name": "[cisagov] U.S. Fish and Wildlife Service (U.S. Fish and Wildlife Service)"
+    "name": "[cisagov] U.S. Fish and Wildlife Service"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior (Department of the Interior)/[cisagov] U.S. Geological Survey (U.S. Geological Survey)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior/[cisagov] U.S. Geological Survey": {
     "cisagov": {
       "name": "U.S. Geological Survey",
       "records": [
@@ -2304,9 +2304,9 @@
         }
       ]
     },
-    "name": "[cisagov] U.S. Geological Survey (U.S. Geological Survey)"
+    "name": "[cisagov] U.S. Geological Survey"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior (Department of the Interior)/[cisagov] US Department of the Interior (US Department of the Interior)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior/[cisagov] US Department of the Interior": {
     "cisagov": {
       "name": "US Department of the Interior",
       "records": [
@@ -2321,9 +2321,9 @@
         }
       ]
     },
-    "name": "[cisagov] US Department of the Interior (US Department of the Interior)"
+    "name": "[cisagov] US Department of the Interior"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior (Department of the Interior)/[cisagov] US Geological Survey (US Geological Survey)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior/[cisagov] US Geological Survey": {
     "cisagov": {
       "name": "US Geological Survey",
       "records": [
@@ -2347,9 +2347,9 @@
         }
       ]
     },
-    "name": "[cisagov] US Geological Survey (US Geological Survey)"
+    "name": "[cisagov] US Geological Survey"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior (Department of the Interior)/[cisagov] US Geological Survey/Volcano Science Center (US Geological Survey/Volcano Science Center)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior/[cisagov] US Geological Survey/Volcano Science Center": {
     "cisagov": {
       "name": "US Geological Survey/Volcano Science Center",
       "records": [
@@ -2364,9 +2364,9 @@
         }
       ]
     },
-    "name": "[cisagov] US Geological Survey/Volcano Science Center (US Geological Survey/Volcano Science Center)"
+    "name": "[cisagov] US Geological Survey/Volcano Science Center"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior (Department of the Interior)/[cisagov] USGS (USGS)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior/[cisagov] USGS": {
     "cisagov": {
       "name": "USGS",
       "records": [
@@ -2381,9 +2381,9 @@
         }
       ]
     },
-    "name": "[cisagov] USGS (USGS)"
+    "name": "[cisagov] USGS"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior (Department of the Interior)/[cisagov] USGS Bird Banding Laboratory (USGS Bird Banding Laboratory)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior/[cisagov] USGS Bird Banding Laboratory": {
     "cisagov": {
       "name": "USGS Bird Banding Laboratory",
       "records": [
@@ -2398,9 +2398,9 @@
         }
       ]
     },
-    "name": "[cisagov] USGS Bird Banding Laboratory (USGS Bird Banding Laboratory)"
+    "name": "[cisagov] USGS Bird Banding Laboratory"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior (Department of the Interior)/[cisagov] USGS-NWRC (USGS-NWRC)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior/[cisagov] USGS-NWRC": {
     "cisagov": {
       "name": "USGS-NWRC",
       "records": [
@@ -2415,9 +2415,9 @@
         }
       ]
     },
-    "name": "[cisagov] USGS-NWRC (USGS-NWRC)"
+    "name": "[cisagov] USGS-NWRC"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior (Department of the Interior)/[cisagov] USGS/Denver Federal Center (USGS/Denver Federal Center)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior/[cisagov] USGS/Denver Federal Center": {
     "cisagov": {
       "name": "USGS/Denver Federal Center",
       "records": [
@@ -2432,9 +2432,9 @@
         }
       ]
     },
-    "name": "[cisagov] USGS/Denver Federal Center (USGS/Denver Federal Center)"
+    "name": "[cisagov] USGS/Denver Federal Center"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior (Department of the Interior)/[cisagov] Yosemite National Park (Yosemite National Park)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Department of the Interior/[cisagov] Yosemite National Park": {
     "cisagov": {
       "name": "Yosemite National Park",
       "records": [
@@ -2449,9 +2449,9 @@
         }
       ]
     },
-    "name": "[cisagov] Yosemite National Park (Yosemite National Park)"
+    "name": "[cisagov] Yosemite National Park"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Election Assistance Commission (Election Assistance Commission)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Election Assistance Commission": {
     "cisagov": {
       "name": "Election Assistance Commission",
       "records": [
@@ -2466,9 +2466,9 @@
         }
       ]
     },
-    "name": "[cisagov] Election Assistance Commission (Election Assistance Commission)"
+    "name": "[cisagov] Election Assistance Commission"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Election Assistance Commission (Election Assistance Commission)/[cisagov] U. S. ELECTION ASSISTANCE COMMISSION (U. S. ELECTION ASSISTANCE COMMISSION)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Election Assistance Commission/[cisagov] U. S. ELECTION ASSISTANCE COMMISSION": {
     "cisagov": {
       "name": "U. S. ELECTION ASSISTANCE COMMISSION",
       "records": [
@@ -2483,9 +2483,9 @@
         }
       ]
     },
-    "name": "[cisagov] U. S. ELECTION ASSISTANCE COMMISSION (U. S. ELECTION ASSISTANCE COMMISSION)"
+    "name": "[cisagov] U. S. ELECTION ASSISTANCE COMMISSION"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Election Assistance Commission (Election Assistance Commission)/[cisagov] US Election Assistance Commission (US Election Assistance Commission)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Election Assistance Commission/[cisagov] US Election Assistance Commission": {
     "cisagov": {
       "name": "US Election Assistance Commission",
       "records": [
@@ -2500,9 +2500,9 @@
         }
       ]
     },
-    "name": "[cisagov] US Election Assistance Commission (US Election Assistance Commission)"
+    "name": "[cisagov] US Election Assistance Commission"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Environmental Protection Agency (Environmental Protection Agency)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Environmental Protection Agency": {
     "cisagov": {
       "name": "Environmental Protection Agency",
       "records": [
@@ -2562,9 +2562,9 @@
         }
       ]
     },
-    "name": "[cisagov] Environmental Protection Agency (Environmental Protection Agency)"
+    "name": "[cisagov] Environmental Protection Agency"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Environmental Protection Agency (Environmental Protection Agency)/[cisagov] EPA OIG (EPA OIG)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Environmental Protection Agency/[cisagov] EPA OIG": {
     "cisagov": {
       "name": "EPA OIG",
       "records": [
@@ -2579,9 +2579,9 @@
         }
       ]
     },
-    "name": "[cisagov] EPA OIG (EPA OIG)"
+    "name": "[cisagov] EPA OIG"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Environmental Protection Agency (Environmental Protection Agency)/[cisagov] Federal Remediation Roundtable (Federal Remediation Roundtable)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Environmental Protection Agency/[cisagov] Federal Remediation Roundtable": {
     "cisagov": {
       "name": "Federal Remediation Roundtable",
       "records": [
@@ -2596,9 +2596,9 @@
         }
       ]
     },
-    "name": "[cisagov] Federal Remediation Roundtable (Federal Remediation Roundtable)"
+    "name": "[cisagov] Federal Remediation Roundtable"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Environmental Protection Agency (Environmental Protection Agency)/[cisagov] Office of Federal Sustainability (Office of Federal Sustainability)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Environmental Protection Agency/[cisagov] Office of Federal Sustainability": {
     "cisagov": {
       "name": "Office of Federal Sustainability",
       "records": [
@@ -2622,9 +2622,9 @@
         }
       ]
     },
-    "name": "[cisagov] Office of Federal Sustainability (Office of Federal Sustainability)"
+    "name": "[cisagov] Office of Federal Sustainability"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Environmental Protection Agency (Environmental Protection Agency)/[cisagov] U.S. EPA  (U.S. EPA )": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Environmental Protection Agency/[cisagov] U.S. EPA ": {
     "cisagov": {
       "name": "U.S. EPA ",
       "records": [
@@ -2639,9 +2639,9 @@
         }
       ]
     },
-    "name": "[cisagov] U.S. EPA  (U.S. EPA )"
+    "name": "[cisagov] U.S. EPA "
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Environmental Protection Agency (Environmental Protection Agency)/[cisagov] U.S. Environmental Protection Agency (U.S. Environmental Protection Agency)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Environmental Protection Agency/[cisagov] U.S. Environmental Protection Agency": {
     "cisagov": {
       "name": "U.S. Environmental Protection Agency",
       "records": [
@@ -2656,9 +2656,9 @@
         }
       ]
     },
-    "name": "[cisagov] U.S. Environmental Protection Agency (U.S. Environmental Protection Agency)"
+    "name": "[cisagov] U.S. Environmental Protection Agency"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Environmental Protection Agency (Environmental Protection Agency)/[cisagov] US EPA, Great Lakes National Program Office (US EPA, Great Lakes National Program Office)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Environmental Protection Agency/[cisagov] US EPA, Great Lakes National Program Office": {
     "cisagov": {
       "name": "US EPA, Great Lakes National Program Office",
       "records": [
@@ -2673,9 +2673,9 @@
         }
       ]
     },
-    "name": "[cisagov] US EPA, Great Lakes National Program Office (US EPA, Great Lakes National Program Office)"
+    "name": "[cisagov] US EPA, Great Lakes National Program Office"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Environmental Protection Agency (Environmental Protection Agency)/[cisagov] US Environmental Protection Agency (US Environmental Protection Agency)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Environmental Protection Agency/[cisagov] US Environmental Protection Agency": {
     "cisagov": {
       "name": "US Environmental Protection Agency",
       "records": [
@@ -2690,9 +2690,9 @@
         }
       ]
     },
-    "name": "[cisagov] US Environmental Protection Agency (US Environmental Protection Agency)"
+    "name": "[cisagov] US Environmental Protection Agency"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Executive Office of the President (Executive Office of the President)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Executive Office of the President": {
     "cisagov": {
       "name": "Executive Office of the President",
       "records": [
@@ -2833,9 +2833,9 @@
         }
       ]
     },
-    "name": "[cisagov] Executive Office of the President (Executive Office of the President)"
+    "name": "[cisagov] Executive Office of the President"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Executive Office of the President (Executive Office of the President)/[cisagov] Council on Environmental Quality (Council on Environmental Quality)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Executive Office of the President/[cisagov] Council on Environmental Quality": {
     "cisagov": {
       "name": "Council on Environmental Quality",
       "records": [
@@ -2850,9 +2850,9 @@
         }
       ]
     },
-    "name": "[cisagov] Council on Environmental Quality (Council on Environmental Quality)"
+    "name": "[cisagov] Council on Environmental Quality"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Executive Office of the President (Executive Office of the President)/[cisagov] Domestic Policy Council (Domestic Policy Council)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Executive Office of the President/[cisagov] Domestic Policy Council": {
     "cisagov": {
       "name": "Domestic Policy Council",
       "records": [
@@ -2867,9 +2867,9 @@
         }
       ]
     },
-    "name": "[cisagov] Domestic Policy Council (Domestic Policy Council)"
+    "name": "[cisagov] Domestic Policy Council"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Executive Office of the President (Executive Office of the President)/[cisagov] EOP (EOP)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Executive Office of the President/[cisagov] EOP": {
     "cisagov": {
       "name": "EOP",
       "records": [
@@ -2893,9 +2893,9 @@
         }
       ]
     },
-    "name": "[cisagov] EOP (EOP)"
+    "name": "[cisagov] EOP"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Executive Office of the President (Executive Office of the President)/[cisagov] National Nanotechnology Coordination Office (National Nanotechnology Coordination Office)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Executive Office of the President/[cisagov] National Nanotechnology Coordination Office": {
     "cisagov": {
       "name": "National Nanotechnology Coordination Office",
       "records": [
@@ -2910,9 +2910,9 @@
         }
       ]
     },
-    "name": "[cisagov] National Nanotechnology Coordination Office (National Nanotechnology Coordination Office)"
+    "name": "[cisagov] National Nanotechnology Coordination Office"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Executive Office of the President (Executive Office of the President)/[cisagov] National Quantum Coordination Office (NQCO)  (National Quantum Coordination Office (NQCO) )": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Executive Office of the President/[cisagov] National Quantum Coordination Office (NQCO) ": {
     "cisagov": {
       "name": "National Quantum Coordination Office (NQCO) ",
       "records": [
@@ -2927,9 +2927,9 @@
         }
       ]
     },
-    "name": "[cisagov] National Quantum Coordination Office (NQCO)  (National Quantum Coordination Office (NQCO) )"
+    "name": "[cisagov] National Quantum Coordination Office (NQCO) "
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Executive Office of the President (Executive Office of the President)/[cisagov] OMB (OMB)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Executive Office of the President/[cisagov] OMB": {
     "cisagov": {
       "name": "OMB",
       "records": [
@@ -2944,9 +2944,9 @@
         }
       ]
     },
-    "name": "[cisagov] OMB (OMB)"
+    "name": "[cisagov] OMB"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Executive Office of the President (Executive Office of the President)/[cisagov] Office of Administration (Office of Administration)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Executive Office of the President/[cisagov] Office of Administration": {
     "cisagov": {
       "name": "Office of Administration",
       "records": [
@@ -2979,9 +2979,9 @@
         }
       ]
     },
-    "name": "[cisagov] Office of Administration (Office of Administration)"
+    "name": "[cisagov] Office of Administration"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Executive Office of the President (Executive Office of the President)/[cisagov] Office of Management and Budget (Office of Management and Budget)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Executive Office of the President/[cisagov] Office of Management and Budget": {
     "cisagov": {
       "name": "Office of Management and Budget",
       "records": [
@@ -2996,9 +2996,9 @@
         }
       ]
     },
-    "name": "[cisagov] Office of Management and Budget (Office of Management and Budget)"
+    "name": "[cisagov] Office of Management and Budget"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Executive Office of the President (Executive Office of the President)/[cisagov] Office of Management and Budget, Budget Review Division (Office of Management and Budget, Budget Review Division)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Executive Office of the President/[cisagov] Office of Management and Budget, Budget Review Division": {
     "cisagov": {
       "name": "Office of Management and Budget, Budget Review Division",
       "records": [
@@ -3013,9 +3013,9 @@
         }
       ]
     },
-    "name": "[cisagov] Office of Management and Budget, Budget Review Division (Office of Management and Budget, Budget Review Division)"
+    "name": "[cisagov] Office of Management and Budget, Budget Review Division"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Executive Office of the President (Executive Office of the President)/[cisagov] Office of National Drug Control Policy (Office of National Drug Control Policy)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Executive Office of the President/[cisagov] Office of National Drug Control Policy": {
     "cisagov": {
       "name": "Office of National Drug Control Policy",
       "records": [
@@ -3030,9 +3030,9 @@
         }
       ]
     },
-    "name": "[cisagov] Office of National Drug Control Policy (Office of National Drug Control Policy)"
+    "name": "[cisagov] Office of National Drug Control Policy"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Executive Office of the President (Executive Office of the President)/[cisagov] Office of Science and Technology Policy - White House (Office of Science and Technology Policy - White House)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Executive Office of the President/[cisagov] Office of Science and Technology Policy - White House": {
     "cisagov": {
       "name": "Office of Science and Technology Policy - White House",
       "records": [
@@ -3047,9 +3047,9 @@
         }
       ]
     },
-    "name": "[cisagov] Office of Science and Technology Policy - White House (Office of Science and Technology Policy - White House)"
+    "name": "[cisagov] Office of Science and Technology Policy - White House"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Executive Office of the President (Executive Office of the President)/[cisagov] Presidential Community of Interest (Presidential Community of Interest)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Executive Office of the President/[cisagov] Presidential Community of Interest": {
     "cisagov": {
       "name": "Presidential Community of Interest",
       "records": [
@@ -3064,9 +3064,9 @@
         }
       ]
     },
-    "name": "[cisagov] Presidential Community of Interest (Presidential Community of Interest)"
+    "name": "[cisagov] Presidential Community of Interest"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Executive Office of the President (Executive Office of the President)/[cisagov] United States Digital Service (United States Digital Service)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Executive Office of the President/[cisagov] United States Digital Service": {
     "cisagov": {
       "name": "United States Digital Service",
       "records": [
@@ -3090,9 +3090,9 @@
         }
       ]
     },
-    "name": "[cisagov] United States Digital Service (United States Digital Service)"
+    "name": "[cisagov] United States Digital Service"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Executive Office of the President (Executive Office of the President)/[cisagov] United States Trade Representative (United States Trade Representative)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Executive Office of the President/[cisagov] United States Trade Representative": {
     "cisagov": {
       "name": "United States Trade Representative",
       "records": [
@@ -3107,9 +3107,9 @@
         }
       ]
     },
-    "name": "[cisagov] United States Trade Representative (United States Trade Representative)"
+    "name": "[cisagov] United States Trade Representative"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Executive Office of the President (Executive Office of the President)/[cisagov] White House (White House)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Executive Office of the President/[cisagov] White House": {
     "cisagov": {
       "name": "White House",
       "records": [
@@ -3124,9 +3124,9 @@
         }
       ]
     },
-    "name": "[cisagov] White House (White House)"
+    "name": "[cisagov] White House"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Executive Office of the President (Executive Office of the President)/[cisagov] White House Council on Environmental Quality (CEQ) (White House Council on Environmental Quality (CEQ))": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Executive Office of the President/[cisagov] White House Council on Environmental Quality (CEQ)": {
     "cisagov": {
       "name": "White House Council on Environmental Quality (CEQ)",
       "records": [
@@ -3150,9 +3150,44 @@
         }
       ]
     },
-    "name": "[cisagov] White House Council on Environmental Quality (CEQ) (White House Council on Environmental Quality (CEQ))"
+    "name": "[cisagov] White House Council on Environmental Quality (CEQ)"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Federal Communications Commission (Federal Communications Commission)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Executive Office of the President/[cisagov] White House Office": {
+    "cisagov": {
+      "name": "White House Office",
+      "records": [
+        {
+          "agency": "Executive Office of the President",
+          "city": "Washington",
+          "domain_name": "INVEST.GOV",
+          "domain_type": "Federal - Executive",
+          "organization": "White House Office",
+          "security_contact_email": "russell.a.barnes@oa.eop.gov",
+          "state": "DC"
+        },
+        {
+          "agency": "Executive Office of the President",
+          "city": "Washington",
+          "domain_name": "INVESTINAMERICA.GOV",
+          "domain_type": "Federal - Executive",
+          "organization": "White House Office",
+          "security_contact_email": "russell.a.barnes@oa.eop.gov",
+          "state": "DC"
+        },
+        {
+          "agency": "Executive Office of the President",
+          "city": "Washington",
+          "domain_name": "INVESTINGINAMERICA.GOV",
+          "domain_type": "Federal - Executive",
+          "organization": "White House Office",
+          "security_contact_email": "russell.a.barnes@oa.eop.gov",
+          "state": "DC"
+        }
+      ]
+    },
+    "name": "[cisagov] White House Office"
+  },
+  "/US FEDERAL GOVERNMENT/[cisagov] Federal Communications Commission": {
     "cisagov": {
       "name": "Federal Communications Commission",
       "records": [
@@ -3176,9 +3211,9 @@
         }
       ]
     },
-    "name": "[cisagov] Federal Communications Commission (Federal Communications Commission)"
+    "name": "[cisagov] Federal Communications Commission"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Federal Communications Commission (Federal Communications Commission)/[cisagov] Office of the Managing Director (Office of the Managing Director)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Federal Communications Commission/[cisagov] Office of the Managing Director": {
     "cisagov": {
       "name": "Office of the Managing Director",
       "records": [
@@ -3202,9 +3237,9 @@
         }
       ]
     },
-    "name": "[cisagov] Office of the Managing Director (Office of the Managing Director)"
+    "name": "[cisagov] Office of the Managing Director"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Federal Deposit Insurance Corporation (Federal Deposit Insurance Corporation)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Federal Deposit Insurance Corporation": {
     "cisagov": {
       "name": "Federal Deposit Insurance Corporation",
       "records": [
@@ -3273,9 +3308,9 @@
         }
       ]
     },
-    "name": "[cisagov] Federal Deposit Insurance Corporation (Federal Deposit Insurance Corporation)"
+    "name": "[cisagov] Federal Deposit Insurance Corporation"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Federal Deposit Insurance Corporation (Federal Deposit Insurance Corporation)/[cisagov] Federal Deposit Insurance Coprporation (Federal Deposit Insurance Coprporation)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Federal Deposit Insurance Corporation/[cisagov] Federal Deposit Insurance Coprporation": {
     "cisagov": {
       "name": "Federal Deposit Insurance Coprporation",
       "records": [
@@ -3290,9 +3325,9 @@
         }
       ]
     },
-    "name": "[cisagov] Federal Deposit Insurance Coprporation (Federal Deposit Insurance Coprporation)"
+    "name": "[cisagov] Federal Deposit Insurance Coprporation"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Federal Election Commission (Federal Election Commission)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Federal Election Commission": {
     "cisagov": {
       "name": "Federal Election Commission",
       "records": [
@@ -3307,9 +3342,9 @@
         }
       ]
     },
-    "name": "[cisagov] Federal Election Commission (Federal Election Commission)"
+    "name": "[cisagov] Federal Election Commission"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Federal Energy Regulatory Commission (Federal Energy Regulatory Commission)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Federal Energy Regulatory Commission": {
     "cisagov": {
       "name": "Federal Energy Regulatory Commission",
       "records": [
@@ -3324,9 +3359,9 @@
         }
       ]
     },
-    "name": "[cisagov] Federal Energy Regulatory Commission (Federal Energy Regulatory Commission)"
+    "name": "[cisagov] Federal Energy Regulatory Commission"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Federal Housing Finance Agency (Federal Housing Finance Agency)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Federal Housing Finance Agency": {
     "cisagov": {
       "name": "Federal Housing Finance Agency",
       "records": [
@@ -3350,9 +3385,9 @@
         }
       ]
     },
-    "name": "[cisagov] Federal Housing Finance Agency (Federal Housing Finance Agency)"
+    "name": "[cisagov] Federal Housing Finance Agency"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Federal Housing Finance Agency (Federal Housing Finance Agency)/[cisagov] Federal Housing Finance Agency Office of Inspector General  (Federal Housing Finance Agency Office of Inspector General )": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Federal Housing Finance Agency/[cisagov] Federal Housing Finance Agency Office of Inspector General ": {
     "cisagov": {
       "name": "Federal Housing Finance Agency Office of Inspector General ",
       "records": [
@@ -3367,9 +3402,9 @@
         }
       ]
     },
-    "name": "[cisagov] Federal Housing Finance Agency Office of Inspector General  (Federal Housing Finance Agency Office of Inspector General )"
+    "name": "[cisagov] Federal Housing Finance Agency Office of Inspector General "
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Federal Maritime Commission (Federal Maritime Commission)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Federal Maritime Commission": {
     "cisagov": {
       "name": "Federal Maritime Commission",
       "records": [
@@ -3384,9 +3419,9 @@
         }
       ]
     },
-    "name": "[cisagov] Federal Maritime Commission (Federal Maritime Commission)"
+    "name": "[cisagov] Federal Maritime Commission"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Federal Permitting Improvement Steering Council (Federal Permitting Improvement Steering Council)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Federal Permitting Improvement Steering Council": {
     "cisagov": {
       "name": "Federal Permitting Improvement Steering Council",
       "records": [
@@ -3401,9 +3436,9 @@
         }
       ]
     },
-    "name": "[cisagov] Federal Permitting Improvement Steering Council (Federal Permitting Improvement Steering Council)"
+    "name": "[cisagov] Federal Permitting Improvement Steering Council"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Federal Permitting Improvement Steering Council (Federal Permitting Improvement Steering Council)/[cisagov] FPISC (FPISC)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Federal Permitting Improvement Steering Council/[cisagov] FPISC": {
     "cisagov": {
       "name": "FPISC",
       "records": [
@@ -3418,9 +3453,9 @@
         }
       ]
     },
-    "name": "[cisagov] FPISC (FPISC)"
+    "name": "[cisagov] FPISC"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors (Federal Reserve Board of Governors)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors": {
     "cisagov": {
       "name": "Federal Reserve Board of Governors",
       "records": [
@@ -3444,9 +3479,9 @@
         }
       ]
     },
-    "name": "[cisagov] Federal Reserve Board of Governors (Federal Reserve Board of Governors)"
+    "name": "[cisagov] Federal Reserve Board of Governors"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors (Federal Reserve Board of Governors)/[cisagov] Board of Governors of the Federal Reserve (Board of Governors of the Federal Reserve)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors/[cisagov] Board of Governors of the Federal Reserve": {
     "cisagov": {
       "name": "Board of Governors of the Federal Reserve",
       "records": [
@@ -3461,9 +3496,9 @@
         }
       ]
     },
-    "name": "[cisagov] Board of Governors of the Federal Reserve (Board of Governors of the Federal Reserve)"
+    "name": "[cisagov] Board of Governors of the Federal Reserve"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors (Federal Reserve Board of Governors)/[cisagov] Department of Commerce (Department of Commerce)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors/[cisagov] Department of Commerce": {
     "cisagov": {
       "name": "Department of Commerce",
       "records": [
@@ -3478,9 +3513,9 @@
         }
       ]
     },
-    "name": "[cisagov] Department of Commerce (Department of Commerce)"
+    "name": "[cisagov] Department of Commerce"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors (Federal Reserve Board of Governors)/[cisagov] Department of Commerce (Department of Commerce)/[cisagov] Bureau of Economic Analysis (Bureau of Economic Analysis)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors/[cisagov] Department of Commerce/[cisagov] Bureau of Economic Analysis": {
     "cisagov": {
       "name": "Bureau of Economic Analysis",
       "records": [
@@ -3495,9 +3530,9 @@
         }
       ]
     },
-    "name": "[cisagov] Bureau of Economic Analysis (Bureau of Economic Analysis)"
+    "name": "[cisagov] Bureau of Economic Analysis"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors (Federal Reserve Board of Governors)/[cisagov] Department of Commerce (Department of Commerce)/[cisagov] Bureau of Industries and Security (BIS) (Bureau of Industries and Security (BIS))": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors/[cisagov] Department of Commerce/[cisagov] Bureau of Industries and Security (BIS)": {
     "cisagov": {
       "name": "Bureau of Industries and Security (BIS)",
       "records": [
@@ -3512,9 +3547,9 @@
         }
       ]
     },
-    "name": "[cisagov] Bureau of Industries and Security (BIS) (Bureau of Industries and Security (BIS))"
+    "name": "[cisagov] Bureau of Industries and Security (BIS)"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors (Federal Reserve Board of Governors)/[cisagov] Department of Commerce (Department of Commerce)/[cisagov] Bureau of Industry and Security (BIS) (Bureau of Industry and Security (BIS))": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors/[cisagov] Department of Commerce/[cisagov] Bureau of Industry and Security (BIS)": {
     "cisagov": {
       "name": "Bureau of Industry and Security (BIS)",
       "records": [
@@ -3529,9 +3564,9 @@
         }
       ]
     },
-    "name": "[cisagov] Bureau of Industry and Security (BIS) (Bureau of Industry and Security (BIS))"
+    "name": "[cisagov] Bureau of Industry and Security (BIS)"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors (Federal Reserve Board of Governors)/[cisagov] Department of Commerce (Department of Commerce)/[cisagov] Bureau of the Census (Bureau of the Census)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors/[cisagov] Department of Commerce/[cisagov] Bureau of the Census": {
     "cisagov": {
       "name": "Bureau of the Census",
       "records": [
@@ -3546,9 +3581,9 @@
         }
       ]
     },
-    "name": "[cisagov] Bureau of the Census (Bureau of the Census)"
+    "name": "[cisagov] Bureau of the Census"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors (Federal Reserve Board of Governors)/[cisagov] Department of Commerce (Department of Commerce)/[cisagov] Depatment of Commerce (Depatment of Commerce)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors/[cisagov] Department of Commerce/[cisagov] Depatment of Commerce": {
     "cisagov": {
       "name": "Depatment of Commerce",
       "records": [
@@ -3563,9 +3598,9 @@
         }
       ]
     },
-    "name": "[cisagov] Depatment of Commerce (Depatment of Commerce)"
+    "name": "[cisagov] Depatment of Commerce"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors (Federal Reserve Board of Governors)/[cisagov] Department of Commerce (Department of Commerce)/[cisagov] ECONOMIC DEVELOPMENT ADMINISTRATION (ECONOMIC DEVELOPMENT ADMINISTRATION)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors/[cisagov] Department of Commerce/[cisagov] ECONOMIC DEVELOPMENT ADMINISTRATION": {
     "cisagov": {
       "name": "ECONOMIC DEVELOPMENT ADMINISTRATION",
       "records": [
@@ -3580,9 +3615,9 @@
         }
       ]
     },
-    "name": "[cisagov] ECONOMIC DEVELOPMENT ADMINISTRATION (ECONOMIC DEVELOPMENT ADMINISTRATION)"
+    "name": "[cisagov] ECONOMIC DEVELOPMENT ADMINISTRATION"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors (Federal Reserve Board of Governors)/[cisagov] Department of Commerce (Department of Commerce)/[cisagov] International Trade Administration (International Trade Administration)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors/[cisagov] Department of Commerce/[cisagov] International Trade Administration": {
     "cisagov": {
       "name": "International Trade Administration",
       "records": [
@@ -3593,6 +3628,15 @@
           "domain_type": "Federal - Executive",
           "organization": "International Trade Administration",
           "security_contact_email": "OpSec@trade.gov",
+          "state": "DC"
+        },
+        {
+          "agency": "Department of Commerce",
+          "city": "Washington DC",
+          "domain_name": "DATAPRIVACYFRAMEWORK.GOV",
+          "domain_type": "Federal - Executive",
+          "organization": "International Trade Administration",
+          "security_contact_email": "chuck.hicks@trade.gov",
           "state": "DC"
         },
         {
@@ -3660,9 +3704,9 @@
         }
       ]
     },
-    "name": "[cisagov] International Trade Administration (International Trade Administration)"
+    "name": "[cisagov] International Trade Administration"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors (Federal Reserve Board of Governors)/[cisagov] Department of Commerce (Department of Commerce)/[cisagov] MBDA (Minority Business Development Agency) (MBDA (Minority Business Development Agency))": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors/[cisagov] Department of Commerce/[cisagov] MBDA (Minority Business Development Agency)": {
     "cisagov": {
       "name": "MBDA (Minority Business Development Agency)",
       "records": [
@@ -3677,9 +3721,9 @@
         }
       ]
     },
-    "name": "[cisagov] MBDA (Minority Business Development Agency) (MBDA (Minority Business Development Agency))"
+    "name": "[cisagov] MBDA (Minority Business Development Agency)"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors (Federal Reserve Board of Governors)/[cisagov] Department of Commerce (Department of Commerce)/[cisagov] NASA GSFC (NASA GSFC)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors/[cisagov] Department of Commerce/[cisagov] NASA GSFC": {
     "cisagov": {
       "name": "NASA GSFC",
       "records": [
@@ -3694,9 +3738,9 @@
         }
       ]
     },
-    "name": "[cisagov] NASA GSFC (NASA GSFC)"
+    "name": "[cisagov] NASA GSFC"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors (Federal Reserve Board of Governors)/[cisagov] Department of Commerce (Department of Commerce)/[cisagov] NOAA Climate Program Office (NOAA Climate Program Office)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors/[cisagov] Department of Commerce/[cisagov] NOAA Climate Program Office": {
     "cisagov": {
       "name": "NOAA Climate Program Office",
       "records": [
@@ -3711,9 +3755,9 @@
         }
       ]
     },
-    "name": "[cisagov] NOAA Climate Program Office (NOAA Climate Program Office)"
+    "name": "[cisagov] NOAA Climate Program Office"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors (Federal Reserve Board of Governors)/[cisagov] Department of Commerce (Department of Commerce)/[cisagov] NOAA Coastal Services Center (NOAA Coastal Services Center)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors/[cisagov] Department of Commerce/[cisagov] NOAA Coastal Services Center": {
     "cisagov": {
       "name": "NOAA Coastal Services Center",
       "records": [
@@ -3728,9 +3772,9 @@
         }
       ]
     },
-    "name": "[cisagov] NOAA Coastal Services Center (NOAA Coastal Services Center)"
+    "name": "[cisagov] NOAA Coastal Services Center"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors (Federal Reserve Board of Governors)/[cisagov] Department of Commerce (Department of Commerce)/[cisagov] NOAA Fisheries (NOAA Fisheries)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors/[cisagov] Department of Commerce/[cisagov] NOAA Fisheries": {
     "cisagov": {
       "name": "NOAA Fisheries",
       "records": [
@@ -3745,9 +3789,9 @@
         }
       ]
     },
-    "name": "[cisagov] NOAA Fisheries (NOAA Fisheries)"
+    "name": "[cisagov] NOAA Fisheries"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors (Federal Reserve Board of Governors)/[cisagov] Department of Commerce (Department of Commerce)/[cisagov] NOAA/NCDC (NOAA/NCDC)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors/[cisagov] Department of Commerce/[cisagov] NOAA/NCDC": {
     "cisagov": {
       "name": "NOAA/NCDC",
       "records": [
@@ -3762,9 +3806,9 @@
         }
       ]
     },
-    "name": "[cisagov] NOAA/NCDC (NOAA/NCDC)"
+    "name": "[cisagov] NOAA/NCDC"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors (Federal Reserve Board of Governors)/[cisagov] Department of Commerce (Department of Commerce)/[cisagov] NOAA/National Hurricane Center (NOAA/National Hurricane Center)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors/[cisagov] Department of Commerce/[cisagov] NOAA/National Hurricane Center": {
     "cisagov": {
       "name": "NOAA/National Hurricane Center",
       "records": [
@@ -3779,9 +3823,9 @@
         }
       ]
     },
-    "name": "[cisagov] NOAA/National Hurricane Center (NOAA/National Hurricane Center)"
+    "name": "[cisagov] NOAA/National Hurricane Center"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors (Federal Reserve Board of Governors)/[cisagov] Department of Commerce (Department of Commerce)/[cisagov] NOAA/Space Weather Prediction Center (NOAA/Space Weather Prediction Center)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors/[cisagov] Department of Commerce/[cisagov] NOAA/Space Weather Prediction Center": {
     "cisagov": {
       "name": "NOAA/Space Weather Prediction Center",
       "records": [
@@ -3796,9 +3840,9 @@
         }
       ]
     },
-    "name": "[cisagov] NOAA/Space Weather Prediction Center (NOAA/Space Weather Prediction Center)"
+    "name": "[cisagov] NOAA/Space Weather Prediction Center"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors (Federal Reserve Board of Governors)/[cisagov] Department of Commerce (Department of Commerce)/[cisagov] NWS/OPS33 (NWS/OPS33)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors/[cisagov] Department of Commerce/[cisagov] NWS/OPS33": {
     "cisagov": {
       "name": "NWS/OPS33",
       "records": [
@@ -3813,9 +3857,9 @@
         }
       ]
     },
-    "name": "[cisagov] NWS/OPS33 (NWS/OPS33)"
+    "name": "[cisagov] NWS/OPS33"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors (Federal Reserve Board of Governors)/[cisagov] Department of Commerce (Department of Commerce)/[cisagov] National Executive Committee for Space-Based PNT (National Executive Committee for Space-Based PNT)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors/[cisagov] Department of Commerce/[cisagov] National Executive Committee for Space-Based PNT": {
     "cisagov": {
       "name": "National Executive Committee for Space-Based PNT",
       "records": [
@@ -3830,9 +3874,9 @@
         }
       ]
     },
-    "name": "[cisagov] National Executive Committee for Space-Based PNT (National Executive Committee for Space-Based PNT)"
+    "name": "[cisagov] National Executive Committee for Space-Based PNT"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors (Federal Reserve Board of Governors)/[cisagov] Department of Commerce (Department of Commerce)/[cisagov] National Institute of Standards & Technology (National Institute of Standards & Technology)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors/[cisagov] Department of Commerce/[cisagov] National Institute of Standards & Technology": {
     "cisagov": {
       "name": "National Institute of Standards & Technology",
       "records": [
@@ -3856,9 +3900,26 @@
         }
       ]
     },
-    "name": "[cisagov] National Institute of Standards & Technology (National Institute of Standards & Technology)"
+    "name": "[cisagov] National Institute of Standards & Technology"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors (Federal Reserve Board of Governors)/[cisagov] Department of Commerce (Department of Commerce)/[cisagov] National Institute of Standards and Technology (NIST) (National Institute of Standards and Technology (NIST))": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors/[cisagov] Department of Commerce/[cisagov] National Institute of Standards and Technology": {
+    "cisagov": {
+      "name": "National Institute of Standards and Technology",
+      "records": [
+        {
+          "agency": "Department of Commerce",
+          "city": "Gaithersburg",
+          "domain_name": "DNSOPS.GOV",
+          "domain_type": "Federal - Executive",
+          "organization": "National Institute of Standards and Technology",
+          "security_contact_email": "antd-siirt@nist.gov",
+          "state": "MD"
+        }
+      ]
+    },
+    "name": "[cisagov] National Institute of Standards and Technology"
+  },
+  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors/[cisagov] Department of Commerce/[cisagov] National Institute of Standards and Technology (NIST)": {
     "cisagov": {
       "name": "National Institute of Standards and Technology (NIST)",
       "records": [
@@ -3963,26 +4024,9 @@
         }
       ]
     },
-    "name": "[cisagov] National Institute of Standards and Technology (NIST) (National Institute of Standards and Technology (NIST))"
+    "name": "[cisagov] National Institute of Standards and Technology (NIST)"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors (Federal Reserve Board of Governors)/[cisagov] Department of Commerce (Department of Commerce)/[cisagov] National Institute of Standards and Technology (National Institute of Standards and Technology)": {
-    "cisagov": {
-      "name": "National Institute of Standards and Technology",
-      "records": [
-        {
-          "agency": "Department of Commerce",
-          "city": "Gaithersburg",
-          "domain_name": "DNSOPS.GOV",
-          "domain_type": "Federal - Executive",
-          "organization": "National Institute of Standards and Technology",
-          "security_contact_email": "antd-siirt@nist.gov",
-          "state": "MD"
-        }
-      ]
-    },
-    "name": "[cisagov] National Institute of Standards and Technology (National Institute of Standards and Technology)"
-  },
-  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors (Federal Reserve Board of Governors)/[cisagov] Department of Commerce (Department of Commerce)/[cisagov] National Oceanic and Atmospheric Administration (National Oceanic and Atmospheric Administration)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors/[cisagov] Department of Commerce/[cisagov] National Oceanic and Atmospheric Administration": {
     "cisagov": {
       "name": "National Oceanic and Atmospheric Administration",
       "records": [
@@ -4001,7 +4045,7 @@
           "domain_name": "PAPAHANAUMOKUAKEA.GOV",
           "domain_type": "Federal - Executive",
           "organization": "National Oceanic and Atmospheric Administration",
-          "security_contact_email": "security@noaa.gov",
+          "security_contact_email": "james.cooperman@noaa.gov",
           "state": "MD"
         },
         {
@@ -4015,9 +4059,9 @@
         }
       ]
     },
-    "name": "[cisagov] National Oceanic and Atmospheric Administration (National Oceanic and Atmospheric Administration)"
+    "name": "[cisagov] National Oceanic and Atmospheric Administration"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors (Federal Reserve Board of Governors)/[cisagov] Department of Commerce (Department of Commerce)/[cisagov] National Oceanic and Atmospheric Administration Office of the Federal Coordinator for Meteorology (National Oceanic and Atmospheric Administration Office of the Federal Coordinator for Meteorology)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors/[cisagov] Department of Commerce/[cisagov] National Oceanic and Atmospheric Administration Office of the Federal Coordinator for Meteorology": {
     "cisagov": {
       "name": "National Oceanic and Atmospheric Administration Office of the Federal Coordinator for Meteorology",
       "records": [
@@ -4032,9 +4076,9 @@
         }
       ]
     },
-    "name": "[cisagov] National Oceanic and Atmospheric Administration Office of the Federal Coordinator for Meteorology (National Oceanic and Atmospheric Administration Office of the Federal Coordinator for Meteorology)"
+    "name": "[cisagov] National Oceanic and Atmospheric Administration Office of the Federal Coordinator for Meteorology"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors (Federal Reserve Board of Governors)/[cisagov] Department of Commerce (Department of Commerce)/[cisagov] National Science and Technology Council (National Science and Technology Council)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors/[cisagov] Department of Commerce/[cisagov] National Science and Technology Council": {
     "cisagov": {
       "name": "National Science and Technology Council",
       "records": [
@@ -4049,9 +4093,9 @@
         }
       ]
     },
-    "name": "[cisagov] National Science and Technology Council (National Science and Technology Council)"
+    "name": "[cisagov] National Science and Technology Council"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors (Federal Reserve Board of Governors)/[cisagov] Department of Commerce (Department of Commerce)/[cisagov] National Technical Information Service (National Technical Information Service)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors/[cisagov] Department of Commerce/[cisagov] National Technical Information Service": {
     "cisagov": {
       "name": "National Technical Information Service",
       "records": [
@@ -4066,9 +4110,9 @@
         }
       ]
     },
-    "name": "[cisagov] National Technical Information Service (National Technical Information Service)"
+    "name": "[cisagov] National Technical Information Service"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors (Federal Reserve Board of Governors)/[cisagov] Department of Commerce (Department of Commerce)/[cisagov] National Telecommunications and Information Administration (National Telecommunications and Information Administration)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors/[cisagov] Department of Commerce/[cisagov] National Telecommunications and Information Administration": {
     "cisagov": {
       "name": "National Telecommunications and Information Administration",
       "records": [
@@ -4119,9 +4163,9 @@
         }
       ]
     },
-    "name": "[cisagov] National Telecommunications and Information Administration (National Telecommunications and Information Administration)"
+    "name": "[cisagov] National Telecommunications and Information Administration"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors (Federal Reserve Board of Governors)/[cisagov] Department of Commerce (Department of Commerce)/[cisagov] National Weather Service (National Weather Service)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors/[cisagov] Department of Commerce/[cisagov] National Weather Service": {
     "cisagov": {
       "name": "National Weather Service",
       "records": [
@@ -4136,9 +4180,9 @@
         }
       ]
     },
-    "name": "[cisagov] National Weather Service (National Weather Service)"
+    "name": "[cisagov] National Weather Service"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors (Federal Reserve Board of Governors)/[cisagov] Department of Commerce (Department of Commerce)/[cisagov] Office of the Chief Information Officer (Office of the Chief Information Officer)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors/[cisagov] Department of Commerce/[cisagov] Office of the Chief Information Officer": {
     "cisagov": {
       "name": "Office of the Chief Information Officer",
       "records": [
@@ -4207,9 +4251,9 @@
         }
       ]
     },
-    "name": "[cisagov] Office of the Chief Information Officer (Office of the Chief Information Officer)"
+    "name": "[cisagov] Office of the Chief Information Officer"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors (Federal Reserve Board of Governors)/[cisagov] Department of Commerce (Department of Commerce)/[cisagov] Office of the Federal Coordinator for Meteorolgy (Office of the Federal Coordinator for Meteorolgy)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors/[cisagov] Department of Commerce/[cisagov] Office of the Federal Coordinator for Meteorolgy": {
     "cisagov": {
       "name": "Office of the Federal Coordinator for Meteorolgy",
       "records": [
@@ -4224,9 +4268,9 @@
         }
       ]
     },
-    "name": "[cisagov] Office of the Federal Coordinator for Meteorolgy (Office of the Federal Coordinator for Meteorolgy)"
+    "name": "[cisagov] Office of the Federal Coordinator for Meteorolgy"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors (Federal Reserve Board of Governors)/[cisagov] Department of Commerce (Department of Commerce)/[cisagov] Space Environment Center W/NP9 (Space Environment Center W/NP9)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors/[cisagov] Department of Commerce/[cisagov] Space Environment Center W/NP9": {
     "cisagov": {
       "name": "Space Environment Center W/NP9",
       "records": [
@@ -4241,9 +4285,9 @@
         }
       ]
     },
-    "name": "[cisagov] Space Environment Center W/NP9 (Space Environment Center W/NP9)"
+    "name": "[cisagov] Space Environment Center W/NP9"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors (Federal Reserve Board of Governors)/[cisagov] Department of Commerce (Department of Commerce)/[cisagov] TCD / BIS / Dept of Commerce (TCD / BIS / Dept of Commerce)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors/[cisagov] Department of Commerce/[cisagov] TCD / BIS / Dept of Commerce": {
     "cisagov": {
       "name": "TCD / BIS / Dept of Commerce",
       "records": [
@@ -4258,9 +4302,9 @@
         }
       ]
     },
-    "name": "[cisagov] TCD / BIS / Dept of Commerce (TCD / BIS / Dept of Commerce)"
+    "name": "[cisagov] TCD / BIS / Dept of Commerce"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors (Federal Reserve Board of Governors)/[cisagov] Department of Commerce (Department of Commerce)/[cisagov] U. S. National Ice Center (U. S. National Ice Center)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors/[cisagov] Department of Commerce/[cisagov] U. S. National Ice Center": {
     "cisagov": {
       "name": "U. S. National Ice Center",
       "records": [
@@ -4275,9 +4319,9 @@
         }
       ]
     },
-    "name": "[cisagov] U. S. National Ice Center (U. S. National Ice Center)"
+    "name": "[cisagov] U. S. National Ice Center"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors (Federal Reserve Board of Governors)/[cisagov] Department of Commerce (Department of Commerce)/[cisagov] U.S. Census Bureau (U.S. Census Bureau)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors/[cisagov] Department of Commerce/[cisagov] U.S. Census Bureau": {
     "cisagov": {
       "name": "U.S. Census Bureau",
       "records": [
@@ -4310,9 +4354,9 @@
         }
       ]
     },
-    "name": "[cisagov] U.S. Census Bureau (U.S. Census Bureau)"
+    "name": "[cisagov] U.S. Census Bureau"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors (Federal Reserve Board of Governors)/[cisagov] Department of Commerce (Department of Commerce)/[cisagov] US Census Bureau (US Census Bureau)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors/[cisagov] Department of Commerce/[cisagov] US Census Bureau": {
     "cisagov": {
       "name": "US Census Bureau",
       "records": [
@@ -4336,9 +4380,9 @@
         }
       ]
     },
-    "name": "[cisagov] US Census Bureau (US Census Bureau)"
+    "name": "[cisagov] US Census Bureau"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors (Federal Reserve Board of Governors)/[cisagov] Department of Commerce (Department of Commerce)/[cisagov] USPTO (USPTO)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors/[cisagov] Department of Commerce/[cisagov] USPTO": {
     "cisagov": {
       "name": "USPTO",
       "records": [
@@ -4353,9 +4397,9 @@
         }
       ]
     },
-    "name": "[cisagov] USPTO (USPTO)"
+    "name": "[cisagov] USPTO"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors (Federal Reserve Board of Governors)/[cisagov] Department of Commerce (Department of Commerce)/[cisagov] West Coast & Alaska Tsunami Warning Center (West Coast & Alaska Tsunami Warning Center)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors/[cisagov] Department of Commerce/[cisagov] West Coast & Alaska Tsunami Warning Center": {
     "cisagov": {
       "name": "West Coast & Alaska Tsunami Warning Center",
       "records": [
@@ -4370,9 +4414,9 @@
         }
       ]
     },
-    "name": "[cisagov] West Coast & Alaska Tsunami Warning Center (West Coast & Alaska Tsunami Warning Center)"
+    "name": "[cisagov] West Coast & Alaska Tsunami Warning Center"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors (Federal Reserve Board of Governors)/[cisagov] Federal Financial Institutions Examination Council  (Federal Financial Institutions Examination Council )": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors/[cisagov] Federal Financial Institutions Examination Council ": {
     "cisagov": {
       "name": "Federal Financial Institutions Examination Council ",
       "records": [
@@ -4387,9 +4431,9 @@
         }
       ]
     },
-    "name": "[cisagov] Federal Financial Institutions Examination Council  (Federal Financial Institutions Examination Council )"
+    "name": "[cisagov] Federal Financial Institutions Examination Council "
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors (Federal Reserve Board of Governors)/[cisagov] Federal Reserve Bank (Federal Reserve Bank)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors/[cisagov] Federal Reserve Bank": {
     "cisagov": {
       "name": "Federal Reserve Bank",
       "records": [
@@ -4404,9 +4448,9 @@
         }
       ]
     },
-    "name": "[cisagov] Federal Reserve Bank (Federal Reserve Bank)"
+    "name": "[cisagov] Federal Reserve Bank"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors (Federal Reserve Board of Governors)/[cisagov] Federal Reserve Board (Federal Reserve Board)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors/[cisagov] Federal Reserve Board": {
     "cisagov": {
       "name": "Federal Reserve Board",
       "records": [
@@ -4448,9 +4492,9 @@
         }
       ]
     },
-    "name": "[cisagov] Federal Reserve Board (Federal Reserve Board)"
+    "name": "[cisagov] Federal Reserve Board"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors (Federal Reserve Board of Governors)/[cisagov] The Financial and Banking Information Infrastructure Committee (The Financial and Banking Information Infrastructure Committee)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Federal Reserve Board of Governors/[cisagov] The Financial and Banking Information Infrastructure Committee": {
     "cisagov": {
       "name": "The Financial and Banking Information Infrastructure Committee",
       "records": [
@@ -4465,9 +4509,9 @@
         }
       ]
     },
-    "name": "[cisagov] The Financial and Banking Information Infrastructure Committee (The Financial and Banking Information Infrastructure Committee)"
+    "name": "[cisagov] The Financial and Banking Information Infrastructure Committee"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration (General Services Administration)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration": {
     "cisagov": {
       "name": "General Services Administration",
       "records": [
@@ -4518,9 +4562,9 @@
         }
       ]
     },
-    "name": "[cisagov] General Services Administration (General Services Administration)"
+    "name": "[cisagov] General Services Administration"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration (General Services Administration)/[cisagov] 400 Years of African American History Commission (400 Years of African American History Commission)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration/[cisagov] 400 Years of African American History Commission": {
     "cisagov": {
       "name": "400 Years of African American History Commission",
       "records": [
@@ -4535,9 +4579,9 @@
         }
       ]
     },
-    "name": "[cisagov] 400 Years of African American History Commission (400 Years of African American History Commission)"
+    "name": "[cisagov] 400 Years of African American History Commission"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration (General Services Administration)/[cisagov] Civilian Board of Contract Appeals (Civilian Board of Contract Appeals)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration/[cisagov] Civilian Board of Contract Appeals": {
     "cisagov": {
       "name": "Civilian Board of Contract Appeals",
       "records": [
@@ -4552,9 +4596,9 @@
         }
       ]
     },
-    "name": "[cisagov] Civilian Board of Contract Appeals (Civilian Board of Contract Appeals)"
+    "name": "[cisagov] Civilian Board of Contract Appeals"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration (General Services Administration)/[cisagov] GSA (GSA)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration/[cisagov] GSA": {
     "cisagov": {
       "name": "GSA",
       "records": [
@@ -4569,9 +4613,9 @@
         }
       ]
     },
-    "name": "[cisagov] GSA (GSA)"
+    "name": "[cisagov] GSA"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration (General Services Administration)/[cisagov] GSA Office of Inspector General (GSA Office of Inspector General)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration/[cisagov] GSA Office of Inspector General": {
     "cisagov": {
       "name": "GSA Office of Inspector General",
       "records": [
@@ -4586,9 +4630,9 @@
         }
       ]
     },
-    "name": "[cisagov] GSA Office of Inspector General (GSA Office of Inspector General)"
+    "name": "[cisagov] GSA Office of Inspector General"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration (General Services Administration)/[cisagov] GSA Technology Transformation Services (GSA Technology Transformation Services)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration/[cisagov] GSA Technology Transformation Services": {
     "cisagov": {
       "name": "GSA Technology Transformation Services",
       "records": [
@@ -4603,9 +4647,9 @@
         }
       ]
     },
-    "name": "[cisagov] GSA Technology Transformation Services (GSA Technology Transformation Services)"
+    "name": "[cisagov] GSA Technology Transformation Services"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration (General Services Administration)/[cisagov] GSA, CABs (GSA, CABs)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration/[cisagov] GSA, CABs": {
     "cisagov": {
       "name": "GSA, CABs",
       "records": [
@@ -4620,9 +4664,9 @@
         }
       ]
     },
-    "name": "[cisagov] GSA, CABs (GSA, CABs)"
+    "name": "[cisagov] GSA, CABs"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration (General Services Administration)/[cisagov] GSA, CIO.GOV (GSA, CIO.GOV)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration/[cisagov] GSA, CIO.GOV": {
     "cisagov": {
       "name": "GSA, CIO.GOV",
       "records": [
@@ -4637,9 +4681,9 @@
         }
       ]
     },
-    "name": "[cisagov] GSA, CIO.GOV (GSA, CIO.GOV)"
+    "name": "[cisagov] GSA, CIO.GOV"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration (General Services Administration)/[cisagov] GSA, FAS, Acquisition (GSA, FAS, Acquisition)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration/[cisagov] GSA, FAS, Acquisition": {
     "cisagov": {
       "name": "GSA, FAS, Acquisition",
       "records": [
@@ -4654,9 +4698,9 @@
         }
       ]
     },
-    "name": "[cisagov] GSA, FAS, Acquisition (GSA, FAS, Acquisition)"
+    "name": "[cisagov] GSA, FAS, Acquisition"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration (General Services Administration)/[cisagov] GSA, FAS, Advantage (GSA, FAS, Advantage)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration/[cisagov] GSA, FAS, Advantage": {
     "cisagov": {
       "name": "GSA, FAS, Advantage",
       "records": [
@@ -4671,9 +4715,9 @@
         }
       ]
     },
-    "name": "[cisagov] GSA, FAS, Advantage (GSA, FAS, Advantage)"
+    "name": "[cisagov] GSA, FAS, Advantage"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration (General Services Administration)/[cisagov] GSA, FAS, ClearPath (GSA, FAS, ClearPath)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration/[cisagov] GSA, FAS, ClearPath": {
     "cisagov": {
       "name": "GSA, FAS, ClearPath",
       "records": [
@@ -4688,9 +4732,9 @@
         }
       ]
     },
-    "name": "[cisagov] GSA, FAS, ClearPath (GSA, FAS, ClearPath)"
+    "name": "[cisagov] GSA, FAS, ClearPath"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration (General Services Administration)/[cisagov] GSA, FAS, ECPIC (GSA, FAS, ECPIC)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration/[cisagov] GSA, FAS, ECPIC": {
     "cisagov": {
       "name": "GSA, FAS, ECPIC",
       "records": [
@@ -4705,9 +4749,9 @@
         }
       ]
     },
-    "name": "[cisagov] GSA, FAS, ECPIC (GSA, FAS, ECPIC)"
+    "name": "[cisagov] GSA, FAS, ECPIC"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration (General Services Administration)/[cisagov] GSA, FAS, FPDS (GSA, FAS, FPDS)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration/[cisagov] GSA, FAS, FPDS": {
     "cisagov": {
       "name": "GSA, FAS, FPDS",
       "records": [
@@ -4722,9 +4766,9 @@
         }
       ]
     },
-    "name": "[cisagov] GSA, FAS, FPDS (GSA, FAS, FPDS)"
+    "name": "[cisagov] GSA, FAS, FPDS"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration (General Services Administration)/[cisagov] GSA, FAS, FPKI (GSA, FAS, FPKI)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration/[cisagov] GSA, FAS, FPKI": {
     "cisagov": {
       "name": "GSA, FAS, FPKI",
       "records": [
@@ -4748,9 +4792,9 @@
         }
       ]
     },
-    "name": "[cisagov] GSA, FAS, FPKI (GSA, FAS, FPKI)"
+    "name": "[cisagov] GSA, FAS, FPKI"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration (General Services Administration)/[cisagov] GSA, FAS, Integrated Award Environment (GSA, FAS, Integrated Award Environment)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration/[cisagov] GSA, FAS, Integrated Award Environment": {
     "cisagov": {
       "name": "GSA, FAS, Integrated Award Environment",
       "records": [
@@ -4765,9 +4809,9 @@
         }
       ]
     },
-    "name": "[cisagov] GSA, FAS, Integrated Award Environment (GSA, FAS, Integrated Award Environment)"
+    "name": "[cisagov] GSA, FAS, Integrated Award Environment"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration (General Services Administration)/[cisagov] GSA, FAS, Office of Enterprise Strategy Management (GSA, FAS, Office of Enterprise Strategy Management)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration/[cisagov] GSA, FAS, Office of Enterprise Strategy Management": {
     "cisagov": {
       "name": "GSA, FAS, Office of Enterprise Strategy Management",
       "records": [
@@ -4782,9 +4826,9 @@
         }
       ]
     },
-    "name": "[cisagov] GSA, FAS, Office of Enterprise Strategy Management (GSA, FAS, Office of Enterprise Strategy Management)"
+    "name": "[cisagov] GSA, FAS, Office of Enterprise Strategy Management"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration (General Services Administration)/[cisagov] GSA, FAS, SASy (GSA, FAS, SASy)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration/[cisagov] GSA, FAS, SASy": {
     "cisagov": {
       "name": "GSA, FAS, SASy",
       "records": [
@@ -4799,9 +4843,9 @@
         }
       ]
     },
-    "name": "[cisagov] GSA, FAS, SASy (GSA, FAS, SASy)"
+    "name": "[cisagov] GSA, FAS, SASy"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration (General Services Administration)/[cisagov] GSA, FAS, System for Award Management (GSA, FAS, System for Award Management)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration/[cisagov] GSA, FAS, System for Award Management": {
     "cisagov": {
       "name": "GSA, FAS, System for Award Management",
       "records": [
@@ -4834,9 +4878,9 @@
         }
       ]
     },
-    "name": "[cisagov] GSA, FAS, System for Award Management (GSA, FAS, System for Award Management)"
+    "name": "[cisagov] GSA, FAS, System for Award Management"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration (General Services Administration)/[cisagov] GSA, IC, Acquisition (GSA, IC, Acquisition)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration/[cisagov] GSA, IC, Acquisition": {
     "cisagov": {
       "name": "GSA, IC, Acquisition",
       "records": [
@@ -4869,9 +4913,9 @@
         }
       ]
     },
-    "name": "[cisagov] GSA, IC, Acquisition (GSA, IC, Acquisition)"
+    "name": "[cisagov] GSA, IC, Acquisition"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration (General Services Administration)/[cisagov] GSA, IC, FAI (GSA, IC, FAI)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration/[cisagov] GSA, IC, FAI": {
     "cisagov": {
       "name": "GSA, IC, FAI",
       "records": [
@@ -4886,9 +4930,9 @@
         }
       ]
     },
-    "name": "[cisagov] GSA, IC, FAI (GSA, IC, FAI)"
+    "name": "[cisagov] GSA, IC, FAI"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration (General Services Administration)/[cisagov] GSA, IC, OGP Web Portfolio (GSA, IC, OGP Web Portfolio)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration/[cisagov] GSA, IC, OGP Web Portfolio": {
     "cisagov": {
       "name": "GSA, IC, OGP Web Portfolio",
       "records": [
@@ -4957,9 +5001,9 @@
         }
       ]
     },
-    "name": "[cisagov] GSA, IC, OGP Web Portfolio (GSA, IC, OGP Web Portfolio)"
+    "name": "[cisagov] GSA, IC, OGP Web Portfolio"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration (General Services Administration)/[cisagov] GSA, IC, OGP Web Portolio (GSA, IC, OGP Web Portolio)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration/[cisagov] GSA, IC, OGP Web Portolio": {
     "cisagov": {
       "name": "GSA, IC, OGP Web Portolio",
       "records": [
@@ -4974,9 +5018,9 @@
         }
       ]
     },
-    "name": "[cisagov] GSA, IC, OGP Web Portolio (GSA, IC, OGP Web Portolio)"
+    "name": "[cisagov] GSA, IC, OGP Web Portolio"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration (General Services Administration)/[cisagov] GSA, IC, OGP WebPortfolio (GSA, IC, OGP WebPortfolio)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration/[cisagov] GSA, IC, OGP WebPortfolio": {
     "cisagov": {
       "name": "GSA, IC, OGP WebPortfolio",
       "records": [
@@ -4991,9 +5035,9 @@
         }
       ]
     },
-    "name": "[cisagov] GSA, IC, OGP WebPortfolio (GSA, IC, OGP WebPortfolio)"
+    "name": "[cisagov] GSA, IC, OGP WebPortfolio"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration (General Services Administration)/[cisagov] GSA, IC, ROCIS (GSA, IC, ROCIS)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration/[cisagov] GSA, IC, ROCIS": {
     "cisagov": {
       "name": "GSA, IC, ROCIS",
       "records": [
@@ -5017,9 +5061,9 @@
         }
       ]
     },
-    "name": "[cisagov] GSA, IC, ROCIS (GSA, IC, ROCIS)"
+    "name": "[cisagov] GSA, IC, ROCIS"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration (General Services Administration)/[cisagov] GSA, IDI, EAS-SF (GSA, IDI, EAS-SF)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration/[cisagov] GSA, IDI, EAS-SF": {
     "cisagov": {
       "name": "GSA, IDI, EAS-SF",
       "records": [
@@ -5034,9 +5078,9 @@
         }
       ]
     },
-    "name": "[cisagov] GSA, IDI, EAS-SF (GSA, IDI, EAS-SF)"
+    "name": "[cisagov] GSA, IDI, EAS-SF"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration (General Services Administration)/[cisagov] GSA, IDI, ECAS II (GSA, IDI, ECAS II)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration/[cisagov] GSA, IDI, ECAS II": {
     "cisagov": {
       "name": "GSA, IDI, ECAS II",
       "records": [
@@ -5078,9 +5122,9 @@
         }
       ]
     },
-    "name": "[cisagov] GSA, IDI, ECAS II (GSA, IDI, ECAS II)"
+    "name": "[cisagov] GSA, IDI, ECAS II"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration (General Services Administration)/[cisagov] GSA, IDI, Enterprise Application Services (GSA, IDI, Enterprise Application Services)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration/[cisagov] GSA, IDI, Enterprise Application Services": {
     "cisagov": {
       "name": "GSA, IDI, Enterprise Application Services",
       "records": [
@@ -5095,9 +5139,9 @@
         }
       ]
     },
-    "name": "[cisagov] GSA, IDI, Enterprise Application Services (GSA, IDI, Enterprise Application Services)"
+    "name": "[cisagov] GSA, IDI, Enterprise Application Services"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration (General Services Administration)/[cisagov] GSA, IDI, Presidential Transition Team (GSA, IDI, Presidential Transition Team)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration/[cisagov] GSA, IDI, Presidential Transition Team": {
     "cisagov": {
       "name": "GSA, IDI, Presidential Transition Team",
       "records": [
@@ -5112,9 +5156,9 @@
         }
       ]
     },
-    "name": "[cisagov] GSA, IDI, Presidential Transition Team (GSA, IDI, Presidential Transition Team)"
+    "name": "[cisagov] GSA, IDI, Presidential Transition Team"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration (General Services Administration)/[cisagov] GSA, IDI,EAS (GSA, IDI,EAS)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration/[cisagov] GSA, IDI,EAS": {
     "cisagov": {
       "name": "GSA, IDI,EAS",
       "records": [
@@ -5129,9 +5173,9 @@
         }
       ]
     },
-    "name": "[cisagov] GSA, IDI,EAS (GSA, IDI,EAS)"
+    "name": "[cisagov] GSA, IDI,EAS"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration (General Services Administration)/[cisagov] GSA, IDI-EAS-SF-FRPG (GSA, IDI-EAS-SF-FRPG)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration/[cisagov] GSA, IDI-EAS-SF-FRPG": {
     "cisagov": {
       "name": "GSA, IDI-EAS-SF-FRPG",
       "records": [
@@ -5146,9 +5190,9 @@
         }
       ]
     },
-    "name": "[cisagov] GSA, IDI-EAS-SF-FRPG (GSA, IDI-EAS-SF-FRPG)"
+    "name": "[cisagov] GSA, IDI-EAS-SF-FRPG"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration (General Services Administration)/[cisagov] GSA, IQ, CAT (GSA, IQ, CAT)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration/[cisagov] GSA, IQ, CAT": {
     "cisagov": {
       "name": "GSA, IQ, CAT",
       "records": [
@@ -5172,9 +5216,9 @@
         }
       ]
     },
-    "name": "[cisagov] GSA, IQ, CAT (GSA, IQ, CAT)"
+    "name": "[cisagov] GSA, IQ, CAT"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration (General Services Administration)/[cisagov] GSA, IQ, Clearpath (GSA, IQ, Clearpath)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration/[cisagov] GSA, IQ, Clearpath": {
     "cisagov": {
       "name": "GSA, IQ, Clearpath",
       "records": [
@@ -5189,9 +5233,9 @@
         }
       ]
     },
-    "name": "[cisagov] GSA, IQ, Clearpath (GSA, IQ, Clearpath)"
+    "name": "[cisagov] GSA, IQ, Clearpath"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration (General Services Administration)/[cisagov] GSA, IQ, IAE (GSA, IQ, IAE)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration/[cisagov] GSA, IQ, IAE": {
     "cisagov": {
       "name": "GSA, IQ, IAE",
       "records": [
@@ -5206,9 +5250,9 @@
         }
       ]
     },
-    "name": "[cisagov] GSA, IQ, IAE (GSA, IQ, IAE)"
+    "name": "[cisagov] GSA, IQ, IAE"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration (General Services Administration)/[cisagov] GSA, IQ, eRulemaking (GSA, IQ, eRulemaking)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration/[cisagov] GSA, IQ, eRulemaking": {
     "cisagov": {
       "name": "GSA, IQ, eRulemaking",
       "records": [
@@ -5232,9 +5276,9 @@
         }
       ]
     },
-    "name": "[cisagov] GSA, IQ, eRulemaking (GSA, IQ, eRulemaking)"
+    "name": "[cisagov] GSA, IQ, eRulemaking"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration (General Services Administration)/[cisagov] GSA, IQ-CAP (GSA, IQ-CAP)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration/[cisagov] GSA, IQ-CAP": {
     "cisagov": {
       "name": "GSA, IQ-CAP",
       "records": [
@@ -5249,9 +5293,9 @@
         }
       ]
     },
-    "name": "[cisagov] GSA, IQ-CAP (GSA, IQ-CAP)"
+    "name": "[cisagov] GSA, IQ-CAP"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration (General Services Administration)/[cisagov] GSA, IQ-ESRS-FSRS (GSA, IQ-ESRS-FSRS)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration/[cisagov] GSA, IQ-ESRS-FSRS": {
     "cisagov": {
       "name": "GSA, IQ-ESRS-FSRS",
       "records": [
@@ -5266,9 +5310,9 @@
         }
       ]
     },
-    "name": "[cisagov] GSA, IQ-ESRS-FSRS (GSA, IQ-ESRS-FSRS)"
+    "name": "[cisagov] GSA, IQ-ESRS-FSRS"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration (General Services Administration)/[cisagov] GSA, IQ-FPDS-FPDS Portal (GSA, IQ-FPDS-FPDS Portal)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration/[cisagov] GSA, IQ-FPDS-FPDS Portal": {
     "cisagov": {
       "name": "GSA, IQ-FPDS-FPDS Portal",
       "records": [
@@ -5283,9 +5327,9 @@
         }
       ]
     },
-    "name": "[cisagov] GSA, IQ-FPDS-FPDS Portal (GSA, IQ-FPDS-FPDS Portal)"
+    "name": "[cisagov] GSA, IQ-FPDS-FPDS Portal"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration (General Services Administration)/[cisagov] GSA, IQ-FSD-FSD Portal (GSA, IQ-FSD-FSD Portal)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration/[cisagov] GSA, IQ-FSD-FSD Portal": {
     "cisagov": {
       "name": "GSA, IQ-FSD-FSD Portal",
       "records": [
@@ -5300,9 +5344,9 @@
         }
       ]
     },
-    "name": "[cisagov] GSA, IQ-FSD-FSD Portal (GSA, IQ-FSD-FSD Portal)"
+    "name": "[cisagov] GSA, IQ-FSD-FSD Portal"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration (General Services Administration)/[cisagov] GSA, IQ-GSAAdvantage-Main (GSA, IQ-GSAAdvantage-Main)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration/[cisagov] GSA, IQ-GSAAdvantage-Main": {
     "cisagov": {
       "name": "GSA, IQ-GSAAdvantage-Main",
       "records": [
@@ -5317,9 +5361,9 @@
         }
       ]
     },
-    "name": "[cisagov] GSA, IQ-GSAAdvantage-Main (GSA, IQ-GSAAdvantage-Main)"
+    "name": "[cisagov] GSA, IQ-GSAAdvantage-Main"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration (General Services Administration)/[cisagov] GSA, IQ-SASy-GSAAuctions (GSA, IQ-SASy-GSAAuctions)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration/[cisagov] GSA, IQ-SASy-GSAAuctions": {
     "cisagov": {
       "name": "GSA, IQ-SASy-GSAAuctions",
       "records": [
@@ -5334,9 +5378,9 @@
         }
       ]
     },
-    "name": "[cisagov] GSA, IQ-SASy-GSAAuctions (GSA, IQ-SASy-GSAAuctions)"
+    "name": "[cisagov] GSA, IQ-SASy-GSAAuctions"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration (General Services Administration)/[cisagov] GSA, OGP, Web Portfolio (GSA, OGP, Web Portfolio)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration/[cisagov] GSA, OGP, Web Portfolio": {
     "cisagov": {
       "name": "GSA, OGP, Web Portfolio",
       "records": [
@@ -5351,9 +5395,9 @@
         }
       ]
     },
-    "name": "[cisagov] GSA, OGP, Web Portfolio (GSA, OGP, Web Portfolio)"
+    "name": "[cisagov] GSA, OGP, Web Portfolio"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration (General Services Administration)/[cisagov] GSA, Office of Government-wide Policy (GSA, Office of Government-wide Policy)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration/[cisagov] GSA, Office of Government-wide Policy": {
     "cisagov": {
       "name": "GSA, Office of Government-wide Policy",
       "records": [
@@ -5368,9 +5412,9 @@
         }
       ]
     },
-    "name": "[cisagov] GSA, Office of Government-wide Policy (GSA, Office of Government-wide Policy)"
+    "name": "[cisagov] GSA, Office of Government-wide Policy"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration (General Services Administration)/[cisagov] GSA, Q-FPKI (GSA, Q-FPKI)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration/[cisagov] GSA, Q-FPKI": {
     "cisagov": {
       "name": "GSA, Q-FPKI",
       "records": [
@@ -5394,9 +5438,9 @@
         }
       ]
     },
-    "name": "[cisagov] GSA, Q-FPKI (GSA, Q-FPKI)"
+    "name": "[cisagov] GSA, Q-FPKI"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration (General Services Administration)/[cisagov] GSA, TTS (GSA, TTS)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration/[cisagov] GSA, TTS": {
     "cisagov": {
       "name": "GSA, TTS",
       "records": [
@@ -5618,9 +5662,9 @@
         }
       ]
     },
-    "name": "[cisagov] GSA, TTS (GSA, TTS)"
+    "name": "[cisagov] GSA, TTS"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration (General Services Administration)/[cisagov] GSA, TTS, Federalist (GSA, TTS, Federalist)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration/[cisagov] GSA, TTS, Federalist": {
     "cisagov": {
       "name": "GSA, TTS, Federalist",
       "records": [
@@ -5635,9 +5679,9 @@
         }
       ]
     },
-    "name": "[cisagov] GSA, TTS, Federalist (GSA, TTS, Federalist)"
+    "name": "[cisagov] GSA, TTS, Federalist"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration (General Services Administration)/[cisagov] GSA,FAS,Technology Transformation Service (GSA,FAS,Technology Transformation Service)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration/[cisagov] GSA,FAS,Technology Transformation Service": {
     "cisagov": {
       "name": "GSA,FAS,Technology Transformation Service",
       "records": [
@@ -5688,9 +5732,9 @@
         }
       ]
     },
-    "name": "[cisagov] GSA,FAS,Technology Transformation Service (GSA,FAS,Technology Transformation Service)"
+    "name": "[cisagov] GSA,FAS,Technology Transformation Service"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration (General Services Administration)/[cisagov] GSA,FAS,Technology Transformation ServiceService Administration (GSA,FAS,Technology Transformation ServiceService Administration)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration/[cisagov] GSA,FAS,Technology Transformation ServiceService Administration": {
     "cisagov": {
       "name": "GSA,FAS,Technology Transformation ServiceService Administration",
       "records": [
@@ -5705,9 +5749,9 @@
         }
       ]
     },
-    "name": "[cisagov] GSA,FAS,Technology Transformation ServiceService Administration (GSA,FAS,Technology Transformation ServiceService Administration)"
+    "name": "[cisagov] GSA,FAS,Technology Transformation ServiceService Administration"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration (General Services Administration)/[cisagov] General Services Administration  (General Services Administration )": {
+  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration/[cisagov] General Services Administration ": {
     "cisagov": {
       "name": "General Services Administration ",
       "records": [
@@ -5731,9 +5775,9 @@
         }
       ]
     },
-    "name": "[cisagov] General Services Administration  (General Services Administration )"
+    "name": "[cisagov] General Services Administration "
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration (General Services Administration)/[cisagov] Office of Government-wide Policy (Office of Government-wide Policy)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration/[cisagov] Office of Government-wide Policy": {
     "cisagov": {
       "name": "Office of Government-wide Policy",
       "records": [
@@ -5748,9 +5792,9 @@
         }
       ]
     },
-    "name": "[cisagov] Office of Government-wide Policy (Office of Government-wide Policy)"
+    "name": "[cisagov] Office of Government-wide Policy"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration (General Services Administration)/[cisagov] Technology Transformation Services (Technology Transformation Services)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration/[cisagov] Technology Transformation Services": {
     "cisagov": {
       "name": "Technology Transformation Services",
       "records": [
@@ -5765,9 +5809,9 @@
         }
       ]
     },
-    "name": "[cisagov] Technology Transformation Services (Technology Transformation Services)"
+    "name": "[cisagov] Technology Transformation Services"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration (General Services Administration)/[cisagov] The Confederate Base Naming Commission (The Confederate Base Naming Commission)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration/[cisagov] The Confederate Base Naming Commission": {
     "cisagov": {
       "name": "The Confederate Base Naming Commission",
       "records": [
@@ -5782,9 +5826,9 @@
         }
       ]
     },
-    "name": "[cisagov] The Confederate Base Naming Commission (The Confederate Base Naming Commission)"
+    "name": "[cisagov] The Confederate Base Naming Commission"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration (General Services Administration)/[cisagov] U.S General Services Administration  (U.S General Services Administration )": {
+  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration/[cisagov] U.S General Services Administration ": {
     "cisagov": {
       "name": "U.S General Services Administration ",
       "records": [
@@ -5799,26 +5843,9 @@
         }
       ]
     },
-    "name": "[cisagov] U.S General Services Administration  (U.S General Services Administration )"
+    "name": "[cisagov] U.S General Services Administration "
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration (General Services Administration)/[cisagov] U.S. General Services Administration (GSA) (U.S. General Services Administration (GSA))": {
-    "cisagov": {
-      "name": "U.S. General Services Administration (GSA)",
-      "records": [
-        {
-          "agency": "General Services Administration",
-          "city": "Washington",
-          "domain_name": "RPA.GOV",
-          "domain_type": "Federal - Executive",
-          "organization": "U.S. General Services Administration (GSA)",
-          "security_contact_email": "gsa-vulnerability-reports@gsa.gov",
-          "state": "DC"
-        }
-      ]
-    },
-    "name": "[cisagov] U.S. General Services Administration (GSA) (U.S. General Services Administration (GSA))"
-  },
-  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration (General Services Administration)/[cisagov] U.S. General Services Administration (U.S. General Services Administration)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration/[cisagov] U.S. General Services Administration": {
     "cisagov": {
       "name": "U.S. General Services Administration",
       "records": [
@@ -5842,9 +5869,26 @@
         }
       ]
     },
-    "name": "[cisagov] U.S. General Services Administration (U.S. General Services Administration)"
+    "name": "[cisagov] U.S. General Services Administration"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Government Accountability Office (Government Accountability Office)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] General Services Administration/[cisagov] U.S. General Services Administration (GSA)": {
+    "cisagov": {
+      "name": "U.S. General Services Administration (GSA)",
+      "records": [
+        {
+          "agency": "General Services Administration",
+          "city": "Washington",
+          "domain_name": "RPA.GOV",
+          "domain_type": "Federal - Executive",
+          "organization": "U.S. General Services Administration (GSA)",
+          "security_contact_email": "gsa-vulnerability-reports@gsa.gov",
+          "state": "DC"
+        }
+      ]
+    },
+    "name": "[cisagov] U.S. General Services Administration (GSA)"
+  },
+  "/US FEDERAL GOVERNMENT/[cisagov] Government Accountability Office": {
     "cisagov": {
       "name": "Government Accountability Office",
       "records": [
@@ -5895,9 +5939,9 @@
         }
       ]
     },
-    "name": "[cisagov] Government Accountability Office (Government Accountability Office)"
+    "name": "[cisagov] Government Accountability Office"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Government Accountability Office (Government Accountability Office)/[cisagov] FASAB (FASAB)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Government Accountability Office/[cisagov] FASAB": {
     "cisagov": {
       "name": "FASAB",
       "records": [
@@ -5912,9 +5956,9 @@
         }
       ]
     },
-    "name": "[cisagov] FASAB (FASAB)"
+    "name": "[cisagov] FASAB"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Government Accountability Office (Government Accountability Office)/[cisagov] US Government Accountability Office (US Government Accountability Office)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Government Accountability Office/[cisagov] US Government Accountability Office": {
     "cisagov": {
       "name": "US Government Accountability Office",
       "records": [
@@ -5929,9 +5973,9 @@
         }
       ]
     },
-    "name": "[cisagov] US Government Accountability Office (US Government Accountability Office)"
+    "name": "[cisagov] US Government Accountability Office"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Government Publishing Office (Government Publishing Office)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Government Publishing Office": {
     "cisagov": {
       "name": "Government Publishing Office",
       "records": [
@@ -5991,9 +6035,9 @@
         }
       ]
     },
-    "name": "[cisagov] Government Publishing Office (Government Publishing Office)"
+    "name": "[cisagov] Government Publishing Office"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Government Publishing Office (Government Publishing Office)/[cisagov] Office of Federal Register (NF) (Office of Federal Register (NF))": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Government Publishing Office/[cisagov] Office of Federal Register (NF)": {
     "cisagov": {
       "name": "Office of Federal Register (NF)",
       "records": [
@@ -6008,9 +6052,9 @@
         }
       ]
     },
-    "name": "[cisagov] Office of Federal Register (NF) (Office of Federal Register (NF))"
+    "name": "[cisagov] Office of Federal Register (NF)"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Government Publishing Office (Government Publishing Office)/[cisagov] U.S. Government Publishing Office (U.S. Government Publishing Office)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Government Publishing Office/[cisagov] U.S. Government Publishing Office": {
     "cisagov": {
       "name": "U.S. Government Publishing Office",
       "records": [
@@ -6034,9 +6078,9 @@
         }
       ]
     },
-    "name": "[cisagov] U.S. Government Publishing Office (U.S. Government Publishing Office)"
+    "name": "[cisagov] U.S. Government Publishing Office"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Government Publishing Office (Government Publishing Office)/[cisagov] US Government Publishing Office (US Government Publishing Office)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Government Publishing Office/[cisagov] US Government Publishing Office": {
     "cisagov": {
       "name": "US Government Publishing Office",
       "records": [
@@ -6069,9 +6113,9 @@
         }
       ]
     },
-    "name": "[cisagov] US Government Publishing Office (US Government Publishing Office)"
+    "name": "[cisagov] US Government Publishing Office"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Government Publishing Office (Government Publishing Office)/[cisagov] US Govt Publishing Office (US Govt Publishing Office)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Government Publishing Office/[cisagov] US Govt Publishing Office": {
     "cisagov": {
       "name": "US Govt Publishing Office",
       "records": [
@@ -6095,9 +6139,9 @@
         }
       ]
     },
-    "name": "[cisagov] US Govt Publishing Office (US Govt Publishing Office)"
+    "name": "[cisagov] US Govt Publishing Office"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Government Publishing Office (Government Publishing Office)/[cisagov] United States Government Publishing Office (United States Government Publishing Office)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Government Publishing Office/[cisagov] United States Government Publishing Office": {
     "cisagov": {
       "name": "United States Government Publishing Office",
       "records": [
@@ -6121,9 +6165,9 @@
         }
       ]
     },
-    "name": "[cisagov] United States Government Publishing Office (United States Government Publishing Office)"
+    "name": "[cisagov] United States Government Publishing Office"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Harry S. Truman Scholarship Foundation (Harry S. Truman Scholarship Foundation)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Harry S. Truman Scholarship Foundation": {
     "cisagov": {
       "name": "Harry S. Truman Scholarship Foundation",
       "records": [
@@ -6138,9 +6182,9 @@
         }
       ]
     },
-    "name": "[cisagov] Harry S. Truman Scholarship Foundation (Harry S. Truman Scholarship Foundation)"
+    "name": "[cisagov] Harry S. Truman Scholarship Foundation"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Inter-American Foundation (Inter-American Foundation)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Inter-American Foundation": {
     "cisagov": {
       "name": "Inter-American Foundation",
       "records": [
@@ -6155,9 +6199,9 @@
         }
       ]
     },
-    "name": "[cisagov] Inter-American Foundation (Inter-American Foundation)"
+    "name": "[cisagov] Inter-American Foundation"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] James Madison Memorial Fellowship Foundation (James Madison Memorial Fellowship Foundation)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] James Madison Memorial Fellowship Foundation": {
     "cisagov": {
       "name": "James Madison Memorial Fellowship Foundation",
       "records": [
@@ -6172,9 +6216,9 @@
         }
       ]
     },
-    "name": "[cisagov] James Madison Memorial Fellowship Foundation (James Madison Memorial Fellowship Foundation)"
+    "name": "[cisagov] James Madison Memorial Fellowship Foundation"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Japan-US Friendship Commission (Japan-US Friendship Commission)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Japan-US Friendship Commission": {
     "cisagov": {
       "name": "Japan-US Friendship Commission",
       "records": [
@@ -6189,9 +6233,9 @@
         }
       ]
     },
-    "name": "[cisagov] Japan-US Friendship Commission (Japan-US Friendship Commission)"
+    "name": "[cisagov] Japan-US Friendship Commission"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Legal Services Corporation (Legal Services Corporation)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Legal Services Corporation": {
     "cisagov": {
       "name": "Legal Services Corporation",
       "records": [
@@ -6206,9 +6250,9 @@
         }
       ]
     },
-    "name": "[cisagov] Legal Services Corporation (Legal Services Corporation)"
+    "name": "[cisagov] Legal Services Corporation"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Library of Congress (Library of Congress)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Library of Congress": {
     "cisagov": {
       "name": "Library of Congress",
       "records": [
@@ -6493,9 +6537,9 @@
         }
       ]
     },
-    "name": "[cisagov] Library of Congress (Library of Congress)"
+    "name": "[cisagov] Library of Congress"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Library of Congress (Library of Congress)/[cisagov] Congressional Research Service (Congressional Research Service)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Library of Congress/[cisagov] Congressional Research Service": {
     "cisagov": {
       "name": "Congressional Research Service",
       "records": [
@@ -6510,9 +6554,9 @@
         }
       ]
     },
-    "name": "[cisagov] Congressional Research Service (Congressional Research Service)"
+    "name": "[cisagov] Congressional Research Service"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Library of Congress (Library of Congress)/[cisagov] Copyright Royalty Board (Copyright Royalty Board)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Library of Congress/[cisagov] Copyright Royalty Board": {
     "cisagov": {
       "name": "Copyright Royalty Board",
       "records": [
@@ -6527,9 +6571,9 @@
         }
       ]
     },
-    "name": "[cisagov] Copyright Royalty Board (Copyright Royalty Board)"
+    "name": "[cisagov] Copyright Royalty Board"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Marine Mammal Commission (Marine Mammal Commission)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Marine Mammal Commission": {
     "cisagov": {
       "name": "Marine Mammal Commission",
       "records": [
@@ -6544,9 +6588,9 @@
         }
       ]
     },
-    "name": "[cisagov] Marine Mammal Commission (Marine Mammal Commission)"
+    "name": "[cisagov] Marine Mammal Commission"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Medicaid and CHIP Payment and Access Commission (Medicaid and CHIP Payment and Access Commission)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Medicaid and CHIP Payment and Access Commission": {
     "cisagov": {
       "name": "Medicaid and CHIP Payment and Access Commission",
       "records": [
@@ -6561,9 +6605,9 @@
         }
       ]
     },
-    "name": "[cisagov] Medicaid and CHIP Payment and Access Commission (Medicaid and CHIP Payment and Access Commission)"
+    "name": "[cisagov] Medicaid and CHIP Payment and Access Commission"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Millennium Challenge Corporation (Millennium Challenge Corporation)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Millennium Challenge Corporation": {
     "cisagov": {
       "name": "Millennium Challenge Corporation",
       "records": [
@@ -6578,9 +6622,9 @@
         }
       ]
     },
-    "name": "[cisagov] Millennium Challenge Corporation (Millennium Challenge Corporation)"
+    "name": "[cisagov] Millennium Challenge Corporation"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Millennium Challenge Corporation (Millennium Challenge Corporation)/[cisagov] MCC (MCC)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Millennium Challenge Corporation/[cisagov] MCC": {
     "cisagov": {
       "name": "MCC",
       "records": [
@@ -6595,9 +6639,9 @@
         }
       ]
     },
-    "name": "[cisagov] MCC (MCC)"
+    "name": "[cisagov] MCC"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] National Archives and Records Administration (National Archives and Records Administration)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] National Archives and Records Administration": {
     "cisagov": {
       "name": "National Archives and Records Administration",
       "records": [
@@ -6765,9 +6809,9 @@
         }
       ]
     },
-    "name": "[cisagov] National Archives and Records Administration (National Archives and Records Administration)"
+    "name": "[cisagov] National Archives and Records Administration"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] National Archives and Records Administration (National Archives and Records Administration)/[cisagov] Gerald R. Ford Library and Museum (Gerald R. Ford Library and Museum)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] National Archives and Records Administration/[cisagov] Gerald R. Ford Library and Museum": {
     "cisagov": {
       "name": "Gerald R. Ford Library and Museum",
       "records": [
@@ -6782,9 +6826,9 @@
         }
       ]
     },
-    "name": "[cisagov] Gerald R. Ford Library and Museum (Gerald R. Ford Library and Museum)"
+    "name": "[cisagov] Gerald R. Ford Library and Museum"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] National Archives and Records Administration (National Archives and Records Administration)/[cisagov] Jimmy Carter Library & Museum (Jimmy Carter Library & Museum)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] National Archives and Records Administration/[cisagov] Jimmy Carter Library & Museum": {
     "cisagov": {
       "name": "Jimmy Carter Library & Museum",
       "records": [
@@ -6799,9 +6843,9 @@
         }
       ]
     },
-    "name": "[cisagov] Jimmy Carter Library & Museum (Jimmy Carter Library & Museum)"
+    "name": "[cisagov] Jimmy Carter Library & Museum"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] National Archives and Records Administration (National Archives and Records Administration)/[cisagov] NARA (NARA)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] National Archives and Records Administration/[cisagov] NARA": {
     "cisagov": {
       "name": "NARA",
       "records": [
@@ -6816,9 +6860,9 @@
         }
       ]
     },
-    "name": "[cisagov] NARA (NARA)"
+    "name": "[cisagov] NARA"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] National Archives and Records Administration (National Archives and Records Administration)/[cisagov] NPOL (NPOL)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] National Archives and Records Administration/[cisagov] NPOL": {
     "cisagov": {
       "name": "NPOL",
       "records": [
@@ -6833,9 +6877,9 @@
         }
       ]
     },
-    "name": "[cisagov] NPOL (NPOL)"
+    "name": "[cisagov] NPOL"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] National Archives and Records Administration (National Archives and Records Administration)/[cisagov] National Archives (National Archives)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] National Archives and Records Administration/[cisagov] National Archives": {
     "cisagov": {
       "name": "National Archives",
       "records": [
@@ -6859,9 +6903,9 @@
         }
       ]
     },
-    "name": "[cisagov] National Archives (National Archives)"
+    "name": "[cisagov] National Archives"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] National Archives and Records Administration (National Archives and Records Administration)/[cisagov] Policy and Planning (Policy and Planning)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] National Archives and Records Administration/[cisagov] Policy and Planning": {
     "cisagov": {
       "name": "Policy and Planning",
       "records": [
@@ -6876,9 +6920,9 @@
         }
       ]
     },
-    "name": "[cisagov] Policy and Planning (Policy and Planning)"
+    "name": "[cisagov] Policy and Planning"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] National Archives and Records Administration (National Archives and Records Administration)/[cisagov] U.S. National Archives and Records Administration (U.S. National Archives and Records Administration)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] National Archives and Records Administration/[cisagov] U.S. National Archives and Records Administration": {
     "cisagov": {
       "name": "U.S. National Archives and Records Administration",
       "records": [
@@ -6902,9 +6946,9 @@
         }
       ]
     },
-    "name": "[cisagov] U.S. National Archives and Records Administration (U.S. National Archives and Records Administration)"
+    "name": "[cisagov] U.S. National Archives and Records Administration"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] National Archives and Records Administration (National Archives and Records Administration)/[cisagov] William Clinton Presidential Library (William Clinton Presidential Library)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] National Archives and Records Administration/[cisagov] William Clinton Presidential Library": {
     "cisagov": {
       "name": "William Clinton Presidential Library",
       "records": [
@@ -6919,9 +6963,9 @@
         }
       ]
     },
-    "name": "[cisagov] William Clinton Presidential Library (William Clinton Presidential Library)"
+    "name": "[cisagov] William Clinton Presidential Library"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] National Capital Planning Commission (National Capital Planning Commission)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] National Capital Planning Commission": {
     "cisagov": {
       "name": "National Capital Planning Commission",
       "records": [
@@ -6936,9 +6980,9 @@
         }
       ]
     },
-    "name": "[cisagov] National Capital Planning Commission (National Capital Planning Commission)"
+    "name": "[cisagov] National Capital Planning Commission"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] National Council on Disability (National Council on Disability)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] National Council on Disability": {
     "cisagov": {
       "name": "National Council on Disability",
       "records": [
@@ -6953,9 +6997,9 @@
         }
       ]
     },
-    "name": "[cisagov] National Council on Disability (National Council on Disability)"
+    "name": "[cisagov] National Council on Disability"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] National Credit Union Administration (National Credit Union Administration)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] National Credit Union Administration": {
     "cisagov": {
       "name": "National Credit Union Administration",
       "records": [
@@ -6970,9 +7014,9 @@
         }
       ]
     },
-    "name": "[cisagov] National Credit Union Administration (National Credit Union Administration)"
+    "name": "[cisagov] National Credit Union Administration"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] National Credit Union Administration (National Credit Union Administration)/[cisagov] NCUA (NCUA)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] National Credit Union Administration/[cisagov] NCUA": {
     "cisagov": {
       "name": "NCUA",
       "records": [
@@ -6987,9 +7031,9 @@
         }
       ]
     },
-    "name": "[cisagov] NCUA (NCUA)"
+    "name": "[cisagov] NCUA"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] National Labor Relations Board (National Labor Relations Board)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] National Labor Relations Board": {
     "cisagov": {
       "name": "National Labor Relations Board",
       "records": [
@@ -7004,9 +7048,9 @@
         }
       ]
     },
-    "name": "[cisagov] National Labor Relations Board (National Labor Relations Board)"
+    "name": "[cisagov] National Labor Relations Board"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] National Mediation Board (National Mediation Board)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] National Mediation Board": {
     "cisagov": {
       "name": "National Mediation Board",
       "records": [
@@ -7021,9 +7065,9 @@
         }
       ]
     },
-    "name": "[cisagov] National Mediation Board (National Mediation Board)"
+    "name": "[cisagov] National Mediation Board"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] National Science Foundation (National Science Foundation)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] National Science Foundation": {
     "cisagov": {
       "name": "National Science Foundation",
       "records": [
@@ -7047,9 +7091,9 @@
         }
       ]
     },
-    "name": "[cisagov] National Science Foundation (National Science Foundation)"
+    "name": "[cisagov] National Science Foundation"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] National Science Foundation (National Science Foundation)/[cisagov] National Science Foundation, Office of Polar Programs (National Science Foundation, Office of Polar Programs)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] National Science Foundation/[cisagov] National Science Foundation, Office of Polar Programs": {
     "cisagov": {
       "name": "National Science Foundation, Office of Polar Programs",
       "records": [
@@ -7064,9 +7108,9 @@
         }
       ]
     },
-    "name": "[cisagov] National Science Foundation, Office of Polar Programs (National Science Foundation, Office of Polar Programs)"
+    "name": "[cisagov] National Science Foundation, Office of Polar Programs"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] National Science Foundation (National Science Foundation)/[cisagov] Small Agency Council (Small Agency Council)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] National Science Foundation/[cisagov] Small Agency Council": {
     "cisagov": {
       "name": "Small Agency Council",
       "records": [
@@ -7081,9 +7125,9 @@
         }
       ]
     },
-    "name": "[cisagov] Small Agency Council (Small Agency Council)"
+    "name": "[cisagov] Small Agency Council"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] National Science Foundation (National Science Foundation)/[cisagov] U.S. Arctic Research Commission (U.S. Arctic Research Commission)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] National Science Foundation/[cisagov] U.S. Arctic Research Commission": {
     "cisagov": {
       "name": "U.S. Arctic Research Commission",
       "records": [
@@ -7098,9 +7142,9 @@
         }
       ]
     },
-    "name": "[cisagov] U.S. Arctic Research Commission (U.S. Arctic Research Commission)"
+    "name": "[cisagov] U.S. Arctic Research Commission"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] National Security Commission on Artificial Intelligence (National Security Commission on Artificial Intelligence)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] National Security Commission on Artificial Intelligence": {
     "cisagov": {
       "name": "National Security Commission on Artificial Intelligence",
       "records": [
@@ -7115,9 +7159,9 @@
         }
       ]
     },
-    "name": "[cisagov] National Security Commission on Artificial Intelligence (National Security Commission on Artificial Intelligence)"
+    "name": "[cisagov] National Security Commission on Artificial Intelligence"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] National Transportation Safety Board (National Transportation Safety Board)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] National Transportation Safety Board": {
     "cisagov": {
       "name": "National Transportation Safety Board",
       "records": [
@@ -7132,9 +7176,9 @@
         }
       ]
     },
-    "name": "[cisagov] National Transportation Safety Board (National Transportation Safety Board)"
+    "name": "[cisagov] National Transportation Safety Board"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Northern Border Regional Commission (Northern Border Regional Commission)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Northern Border Regional Commission": {
     "cisagov": {
       "name": "Northern Border Regional Commission",
       "records": [
@@ -7149,9 +7193,9 @@
         }
       ]
     },
-    "name": "[cisagov] Northern Border Regional Commission (Northern Border Regional Commission)"
+    "name": "[cisagov] Northern Border Regional Commission"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Nuclear Regulatory Commission (Nuclear Regulatory Commission)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Nuclear Regulatory Commission": {
     "cisagov": {
       "name": "Nuclear Regulatory Commission",
       "records": [
@@ -7166,9 +7210,9 @@
         }
       ]
     },
-    "name": "[cisagov] Nuclear Regulatory Commission (Nuclear Regulatory Commission)"
+    "name": "[cisagov] Nuclear Regulatory Commission"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Nuclear Regulatory Commission (Nuclear Regulatory Commission)/[cisagov] U.S. Nuclear Regulatory Commission (U.S. Nuclear Regulatory Commission)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Nuclear Regulatory Commission/[cisagov] U.S. Nuclear Regulatory Commission": {
     "cisagov": {
       "name": "U.S. Nuclear Regulatory Commission",
       "records": [
@@ -7183,9 +7227,9 @@
         }
       ]
     },
-    "name": "[cisagov] U.S. Nuclear Regulatory Commission (U.S. Nuclear Regulatory Commission)"
+    "name": "[cisagov] U.S. Nuclear Regulatory Commission"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Occupational Safety & Health Review Commission (Occupational Safety & Health Review Commission)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Occupational Safety & Health Review Commission": {
     "cisagov": {
       "name": "Occupational Safety & Health Review Commission",
       "records": [
@@ -7200,9 +7244,9 @@
         }
       ]
     },
-    "name": "[cisagov] Occupational Safety & Health Review Commission (Occupational Safety & Health Review Commission)"
+    "name": "[cisagov] Occupational Safety & Health Review Commission"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Office of Congressional Workplace Rights (Office of Congressional Workplace Rights)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Office of Congressional Workplace Rights": {
     "cisagov": {
       "name": "Office of Congressional Workplace Rights",
       "records": [
@@ -7217,9 +7261,9 @@
         }
       ]
     },
-    "name": "[cisagov] Office of Congressional Workplace Rights (Office of Congressional Workplace Rights)"
+    "name": "[cisagov] Office of Congressional Workplace Rights"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Office of Congressional Workplace Rights (Office of Congressional Workplace Rights)/[cisagov] Congressional Office of Compliance (Congressional Office of Compliance)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Office of Congressional Workplace Rights/[cisagov] Congressional Office of Compliance": {
     "cisagov": {
       "name": "Congressional Office of Compliance",
       "records": [
@@ -7234,9 +7278,9 @@
         }
       ]
     },
-    "name": "[cisagov] Congressional Office of Compliance (Congressional Office of Compliance)"
+    "name": "[cisagov] Congressional Office of Compliance"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Office of Government Ethics (Office of Government Ethics)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Office of Government Ethics": {
     "cisagov": {
       "name": "Office of Government Ethics",
       "records": [
@@ -7260,9 +7304,9 @@
         }
       ]
     },
-    "name": "[cisagov] Office of Government Ethics (Office of Government Ethics)"
+    "name": "[cisagov] Office of Government Ethics"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Postal Regulatory Commission (Postal Regulatory Commission)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Postal Regulatory Commission": {
     "cisagov": {
       "name": "Postal Regulatory Commission",
       "records": [
@@ -7277,9 +7321,9 @@
         }
       ]
     },
-    "name": "[cisagov] Postal Regulatory Commission (Postal Regulatory Commission)"
+    "name": "[cisagov] Postal Regulatory Commission"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Presidio Trust (Presidio Trust)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Presidio Trust": {
     "cisagov": {
       "name": "Presidio Trust",
       "records": [
@@ -7312,9 +7356,9 @@
         }
       ]
     },
-    "name": "[cisagov] Presidio Trust (Presidio Trust)"
+    "name": "[cisagov] Presidio Trust"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Selective Service System (Selective Service System)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Selective Service System": {
     "cisagov": {
       "name": "Selective Service System",
       "records": [
@@ -7329,9 +7373,9 @@
         }
       ]
     },
-    "name": "[cisagov] Selective Service System (Selective Service System)"
+    "name": "[cisagov] Selective Service System"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Smithsonian Institution (Smithsonian Institution)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Smithsonian Institution": {
     "cisagov": {
       "name": "Smithsonian Institution",
       "records": [
@@ -7346,9 +7390,9 @@
         }
       ]
     },
-    "name": "[cisagov] Smithsonian Institution (Smithsonian Institution)"
+    "name": "[cisagov] Smithsonian Institution"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Social Security Advisory Board (Social Security Advisory Board)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Social Security Advisory Board": {
     "cisagov": {
       "name": "Social Security Advisory Board",
       "records": [
@@ -7363,9 +7407,9 @@
         }
       ]
     },
-    "name": "[cisagov] Social Security Advisory Board (Social Security Advisory Board)"
+    "name": "[cisagov] Social Security Advisory Board"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Southeast Crescent Regional Commission (Southeast Crescent Regional Commission)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Southeast Crescent Regional Commission": {
     "cisagov": {
       "name": "Southeast Crescent Regional Commission",
       "records": [
@@ -7380,9 +7424,9 @@
         }
       ]
     },
-    "name": "[cisagov] Southeast Crescent Regional Commission (Southeast Crescent Regional Commission)"
+    "name": "[cisagov] Southeast Crescent Regional Commission"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] State Justice Institute (State Justice Institute)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] State Justice Institute": {
     "cisagov": {
       "name": "State Justice Institute",
       "records": [
@@ -7397,9 +7441,9 @@
         }
       ]
     },
-    "name": "[cisagov] State Justice Institute (State Justice Institute)"
+    "name": "[cisagov] State Justice Institute"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Surface Transportation Board (Surface Transportation Board)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Surface Transportation Board": {
     "cisagov": {
       "name": "Surface Transportation Board",
       "records": [
@@ -7414,9 +7458,9 @@
         }
       ]
     },
-    "name": "[cisagov] Surface Transportation Board (Surface Transportation Board)"
+    "name": "[cisagov] Surface Transportation Board"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] The United States World War One Centennial Commission (The United States World War One Centennial Commission)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] The United States World War One Centennial Commission": {
     "cisagov": {
       "name": "The United States World War One Centennial Commission",
       "records": [
@@ -7431,9 +7475,9 @@
         }
       ]
     },
-    "name": "[cisagov] The United States World War One Centennial Commission (The United States World War One Centennial Commission)"
+    "name": "[cisagov] The United States World War One Centennial Commission"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] U.S. Agency for International Development (U.S. Agency for International Development)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] U.S. Agency for International Development": {
     "cisagov": {
       "name": "U.S. Agency for International Development",
       "records": [
@@ -7457,9 +7501,9 @@
         }
       ]
     },
-    "name": "[cisagov] U.S. Agency for International Development (U.S. Agency for International Development)"
+    "name": "[cisagov] U.S. Agency for International Development"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] U.S. Agency for International Development (U.S. Agency for International Development)/[cisagov] Bureau for Global Health (Bureau for Global Health)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] U.S. Agency for International Development/[cisagov] Bureau for Global Health": {
     "cisagov": {
       "name": "Bureau for Global Health",
       "records": [
@@ -7483,9 +7527,9 @@
         }
       ]
     },
-    "name": "[cisagov] Bureau for Global Health (Bureau for Global Health)"
+    "name": "[cisagov] Bureau for Global Health"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] U.S. Agency for International Development (U.S. Agency for International Development)/[cisagov] Bureau for Resilience and Food Security (RFS) (Bureau for Resilience and Food Security (RFS))": {
+  "/US FEDERAL GOVERNMENT/[cisagov] U.S. Agency for International Development/[cisagov] Bureau for Resilience and Food Security (RFS)": {
     "cisagov": {
       "name": "Bureau for Resilience and Food Security (RFS)",
       "records": [
@@ -7500,9 +7544,9 @@
         }
       ]
     },
-    "name": "[cisagov] Bureau for Resilience and Food Security (RFS) (Bureau for Resilience and Food Security (RFS))"
+    "name": "[cisagov] Bureau for Resilience and Food Security (RFS)"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] U.S. Agency for International Development (U.S. Agency for International Development)/[cisagov] Foreign Assistance Office (F/PPS) (Foreign Assistance Office (F/PPS))": {
+  "/US FEDERAL GOVERNMENT/[cisagov] U.S. Agency for International Development/[cisagov] Foreign Assistance Office (F/PPS)": {
     "cisagov": {
       "name": "Foreign Assistance Office (F/PPS)",
       "records": [
@@ -7517,9 +7561,9 @@
         }
       ]
     },
-    "name": "[cisagov] Foreign Assistance Office (F/PPS) (Foreign Assistance Office (F/PPS))"
+    "name": "[cisagov] Foreign Assistance Office (F/PPS)"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] U.S. Agency for International Development (U.S. Agency for International Development)/[cisagov] M/CIO (M/CIO)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] U.S. Agency for International Development/[cisagov] M/CIO": {
     "cisagov": {
       "name": "M/CIO",
       "records": [
@@ -7534,9 +7578,9 @@
         }
       ]
     },
-    "name": "[cisagov] M/CIO (M/CIO)"
+    "name": "[cisagov] M/CIO"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] U.S. Agency for International Development (U.S. Agency for International Development)/[cisagov] Office of the Director of U.S. Foreign Assistance (Office of the Director of U.S. Foreign Assistance)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] U.S. Agency for International Development/[cisagov] Office of the Director of U.S. Foreign Assistance": {
     "cisagov": {
       "name": "Office of the Director of U.S. Foreign Assistance",
       "records": [
@@ -7551,9 +7595,9 @@
         }
       ]
     },
-    "name": "[cisagov] Office of the Director of U.S. Foreign Assistance (Office of the Director of U.S. Foreign Assistance)"
+    "name": "[cisagov] Office of the Director of U.S. Foreign Assistance"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] U.S. Agency for International Development (U.S. Agency for International Development)/[cisagov] USAID/GH.CECA (USAID/GH.CECA)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] U.S. Agency for International Development/[cisagov] USAID/GH.CECA": {
     "cisagov": {
       "name": "USAID/GH.CECA",
       "records": [
@@ -7568,9 +7612,9 @@
         }
       ]
     },
-    "name": "[cisagov] USAID/GH.CECA (USAID/GH.CECA)"
+    "name": "[cisagov] USAID/GH.CECA"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] U.S. Capitol Police (U.S. Capitol Police)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] U.S. Capitol Police": {
     "cisagov": {
       "name": "U.S. Capitol Police",
       "records": [
@@ -7585,9 +7629,9 @@
         }
       ]
     },
-    "name": "[cisagov] U.S. Capitol Police (U.S. Capitol Police)"
+    "name": "[cisagov] U.S. Capitol Police"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] U.S. Capitol Police (U.S. Capitol Police)/[cisagov] United States Capitol Police (United States Capitol Police)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] U.S. Capitol Police/[cisagov] United States Capitol Police": {
     "cisagov": {
       "name": "United States Capitol Police",
       "records": [
@@ -7602,9 +7646,9 @@
         }
       ]
     },
-    "name": "[cisagov] United States Capitol Police (United States Capitol Police)"
+    "name": "[cisagov] United States Capitol Police"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] U.S. Courts (U.S. Courts)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] U.S. Courts": {
     "cisagov": {
       "name": "U.S. Courts",
       "records": [
@@ -7628,9 +7672,9 @@
         }
       ]
     },
-    "name": "[cisagov] U.S. Courts (U.S. Courts)"
+    "name": "[cisagov] U.S. Courts"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] U.S. Courts (U.S. Courts)/[cisagov] Administrative Office U.S. Courts (Administrative Office U.S. Courts)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] U.S. Courts/[cisagov] Administrative Office U.S. Courts": {
     "cisagov": {
       "name": "Administrative Office U.S. Courts",
       "records": [
@@ -7708,9 +7752,9 @@
         }
       ]
     },
-    "name": "[cisagov] Administrative Office U.S. Courts (Administrative Office U.S. Courts)"
+    "name": "[cisagov] Administrative Office U.S. Courts"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] U.S. Courts (U.S. Courts)/[cisagov] Federal Judicial Center (Federal Judicial Center)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] U.S. Courts/[cisagov] Federal Judicial Center": {
     "cisagov": {
       "name": "Federal Judicial Center",
       "records": [
@@ -7725,9 +7769,9 @@
         }
       ]
     },
-    "name": "[cisagov] Federal Judicial Center (Federal Judicial Center)"
+    "name": "[cisagov] Federal Judicial Center"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] U.S. Courts (U.S. Courts)/[cisagov] US Court of Appeals for Veterans Claims (US Court of Appeals for Veterans Claims)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] U.S. Courts/[cisagov] US Court of Appeals for Veterans Claims": {
     "cisagov": {
       "name": "US Court of Appeals for Veterans Claims",
       "records": [
@@ -7751,9 +7795,9 @@
         }
       ]
     },
-    "name": "[cisagov] US Court of Appeals for Veterans Claims (US Court of Appeals for Veterans Claims)"
+    "name": "[cisagov] US Court of Appeals for Veterans Claims"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] U.S. Courts (U.S. Courts)/[cisagov] US Sentencing Commission (US Sentencing Commission)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] U.S. Courts/[cisagov] US Sentencing Commission": {
     "cisagov": {
       "name": "US Sentencing Commission",
       "records": [
@@ -7768,9 +7812,9 @@
         }
       ]
     },
-    "name": "[cisagov] US Sentencing Commission (US Sentencing Commission)"
+    "name": "[cisagov] US Sentencing Commission"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] U.S. Courts (U.S. Courts)/[cisagov] United States Tax Court (United States Tax Court)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] U.S. Courts/[cisagov] United States Tax Court": {
     "cisagov": {
       "name": "United States Tax Court",
       "records": [
@@ -7785,9 +7829,9 @@
         }
       ]
     },
-    "name": "[cisagov] United States Tax Court (United States Tax Court)"
+    "name": "[cisagov] United States Tax Court"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] United States Holocaust Memorial Museum (United States Holocaust Memorial Museum)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] United States Holocaust Memorial Museum": {
     "cisagov": {
       "name": "United States Holocaust Memorial Museum",
       "records": [
@@ -7802,9 +7846,9 @@
         }
       ]
     },
-    "name": "[cisagov] United States Holocaust Memorial Museum (United States Holocaust Memorial Museum)"
+    "name": "[cisagov] United States Holocaust Memorial Museum"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] United States Interagency Council on Homelessness (United States Interagency Council on Homelessness)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] United States Interagency Council on Homelessness": {
     "cisagov": {
       "name": "United States Interagency Council on Homelessness",
       "records": [
@@ -7828,9 +7872,9 @@
         }
       ]
     },
-    "name": "[cisagov] United States Interagency Council on Homelessness (United States Interagency Council on Homelessness)"
+    "name": "[cisagov] United States Interagency Council on Homelessness"
   },
-  "/US FEDERAL GOVERNMENT/[cisagov] Western Hemisphere Drug Policy Commission (Western Hemisphere Drug Policy Commission)": {
+  "/US FEDERAL GOVERNMENT/[cisagov] Western Hemisphere Drug Policy Commission": {
     "cisagov": {
       "name": "Western Hemisphere Drug Policy Commission",
       "records": [
@@ -7845,6 +7889,6 @@
         }
       ]
     },
-    "name": "[cisagov] Western Hemisphere Drug Policy Commission (Western Hemisphere Drug Policy Commission)"
+    "name": "[cisagov] Western Hemisphere Drug Policy Commission"
   }
 }

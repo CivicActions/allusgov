@@ -89,7 +89,7 @@
               }
             ]
           },
-          "name": "[cisagov] Office of Chief Information Officer (Office of Chief Information Officer)"
+          "name": "[cisagov] Office of Chief Information Officer"
         }
       ],
       "cisagov": {
@@ -106,7 +106,7 @@
           }
         ]
       },
-      "name": "[cisagov] American Battle Monuments Commission (American Battle Monuments Commission)"
+      "name": "[cisagov] American Battle Monuments Commission"
     },
     {
       "cisagov": {
@@ -123,7 +123,7 @@
           }
         ]
       },
-      "name": "[cisagov] Appraisal Subcommittee (Appraisal Subcommittee)"
+      "name": "[cisagov] Appraisal Subcommittee"
     },
     {
       "cisagov": {
@@ -140,7 +140,7 @@
           }
         ]
       },
-      "name": "[cisagov] Armed Forces Retirement Home (Armed Forces Retirement Home)"
+      "name": "[cisagov] Armed Forces Retirement Home"
     },
     {
       "cisagov": {
@@ -157,7 +157,7 @@
           }
         ]
       },
-      "name": "[cisagov] Barry Goldwater Scholarship and Excellence in Education Foundation (Barry Goldwater Scholarship and Excellence in Education Foundation)"
+      "name": "[cisagov] Barry Goldwater Scholarship and Excellence in Education Foundation"
     },
     {
       "children": [
@@ -176,7 +176,7 @@
               }
             ]
           },
-          "name": "[cisagov] DNI Open Source Center (DNI Open Source Center)"
+          "name": "[cisagov] DNI Open Source Center"
         },
         {
           "cisagov": {
@@ -193,7 +193,7 @@
               }
             ]
           },
-          "name": "[cisagov] CIA\\GCS OSEG (CIA\\GCS OSEG)"
+          "name": "[cisagov] CIA\\GCS OSEG"
         }
       ],
       "cisagov": {
@@ -246,7 +246,7 @@
           }
         ]
       },
-      "name": "[cisagov] Central Intelligence Agency (Central Intelligence Agency)"
+      "name": "[cisagov] Central Intelligence Agency"
     },
     {
       "children": [
@@ -274,7 +274,7 @@
               }
             ]
           },
-          "name": "[cisagov] U.S. Commodity Futures Trading Commission (U.S. Commodity Futures Trading Commission)"
+          "name": "[cisagov] U.S. Commodity Futures Trading Commission"
         }
       ],
       "cisagov": {
@@ -291,7 +291,7 @@
           }
         ]
       },
-      "name": "[cisagov] Commodity Futures Trading Commission (Commodity Futures Trading Commission)"
+      "name": "[cisagov] Commodity Futures Trading Commission"
     },
     {
       "cisagov": {
@@ -398,7 +398,7 @@
           }
         ]
       },
-      "name": "[cisagov] Consumer Financial Protection Bureau (Consumer Financial Protection Bureau)"
+      "name": "[cisagov] Consumer Financial Protection Bureau"
     },
     {
       "children": [
@@ -435,7 +435,7 @@
               }
             ]
           },
-          "name": "[cisagov] US Consumer Product Safety Commission (US Consumer Product Safety Commission)"
+          "name": "[cisagov] US Consumer Product Safety Commission"
         },
         {
           "cisagov": {
@@ -470,7 +470,7 @@
               }
             ]
           },
-          "name": "[cisagov] U.S. Consumer Product Safety Commission (U.S. Consumer Product Safety Commission)"
+          "name": "[cisagov] U.S. Consumer Product Safety Commission"
         }
       ],
       "cisagov": {
@@ -514,7 +514,7 @@
           }
         ]
       },
-      "name": "[cisagov] Consumer Product Safety Commission (Consumer Product Safety Commission)"
+      "name": "[cisagov] Consumer Product Safety Commission"
     },
     {
       "cisagov": {
@@ -531,7 +531,7 @@
           }
         ]
       },
-      "name": "[cisagov] Defense Nuclear Facilities Safety Board (Defense Nuclear Facilities Safety Board)"
+      "name": "[cisagov] Defense Nuclear Facilities Safety Board"
     },
     {
       "cisagov": {
@@ -548,7 +548,7 @@
           }
         ]
       },
-      "name": "[cisagov] Delta Regional Authority (Delta Regional Authority)"
+      "name": "[cisagov] Delta Regional Authority"
     },
     {
       "cisagov": {
@@ -565,7 +565,7 @@
           }
         ]
       },
-      "name": "[cisagov] Denali Commission (Denali Commission)"
+      "name": "[cisagov] Denali Commission"
     },
     {
       "children": [
@@ -584,7 +584,7 @@
               }
             ]
           },
-          "name": "[cisagov] Advanced Distributed Learning Initiative (Advanced Distributed Learning Initiative)"
+          "name": "[cisagov] Advanced Distributed Learning Initiative"
         },
         {
           "cisagov": {
@@ -601,7 +601,7 @@
               }
             ]
           },
-          "name": "[cisagov] AFTAC (AFTAC)"
+          "name": "[cisagov] AFTAC"
         },
         {
           "cisagov": {
@@ -618,7 +618,7 @@
               }
             ]
           },
-          "name": "[cisagov] aftac (aftac)"
+          "name": "[cisagov] aftac"
         },
         {
           "cisagov": {
@@ -635,7 +635,7 @@
               }
             ]
           },
-          "name": "[cisagov] Office of the Under Secretary of Defense for Acquisition, Technology and Logistics (Office of the Under Secretary of Defense for Acquisition, Technology and Logistics)"
+          "name": "[cisagov] Office of the Under Secretary of Defense for Acquisition, Technology and Logistics"
         },
         {
           "cisagov": {
@@ -652,7 +652,7 @@
               }
             ]
           },
-          "name": "[cisagov] CIVIL AIR PATROL, USAF AUX. (CIVIL AIR PATROL, USAF AUX.)"
+          "name": "[cisagov] CIVIL AIR PATROL, USAF AUX."
         },
         {
           "cisagov": {
@@ -669,7 +669,7 @@
               }
             ]
           },
-          "name": "[cisagov] Civil Air Patrol (Civil Air Patrol)"
+          "name": "[cisagov] Civil Air Patrol"
         },
         {
           "cisagov": {
@@ -686,7 +686,7 @@
               }
             ]
           },
-          "name": "[cisagov] US Army Corps of Engineers (US Army Corps of Engineers)"
+          "name": "[cisagov] US Army Corps of Engineers"
         },
         {
           "cisagov": {
@@ -703,7 +703,7 @@
               }
             ]
           },
-          "name": "[cisagov] CNSS Secretariat (CNSS Secretariat)"
+          "name": "[cisagov] CNSS Secretariat"
         },
         {
           "cisagov": {
@@ -720,7 +720,7 @@
               }
             ]
           },
-          "name": "[cisagov] MCTFT (MCTFT)"
+          "name": "[cisagov] MCTFT"
         },
         {
           "cisagov": {
@@ -737,7 +737,7 @@
               }
             ]
           },
-          "name": "[cisagov] Combating Terrorism Technical Support Office (Combating Terrorism Technical Support Office)"
+          "name": "[cisagov] Combating Terrorism Technical Support Office"
         },
         {
           "cisagov": {
@@ -754,7 +754,7 @@
               }
             ]
           },
-          "name": "[cisagov] Defense Cyber Crime Center (Defense Cyber Crime Center)"
+          "name": "[cisagov] Defense Cyber Crime Center"
         },
         {
           "cisagov": {
@@ -771,7 +771,7 @@
               }
             ]
           },
-          "name": "[cisagov] Defense Media Activity (Defense Media Activity)"
+          "name": "[cisagov] Defense Media Activity"
         },
         {
           "cisagov": {
@@ -788,7 +788,7 @@
               }
             ]
           },
-          "name": "[cisagov] FEHRM (FEHRM)"
+          "name": "[cisagov] FEHRM"
         },
         {
           "cisagov": {
@@ -805,7 +805,7 @@
               }
             ]
           },
-          "name": "[cisagov] Federal Voting Assistance Program (Federal Voting Assistance Program)"
+          "name": "[cisagov] Federal Voting Assistance Program"
         },
         {
           "cisagov": {
@@ -822,7 +822,7 @@
               }
             ]
           },
-          "name": "[cisagov] PEO DHMS (PEO DHMS)"
+          "name": "[cisagov] PEO DHMS"
         },
         {
           "cisagov": {
@@ -848,7 +848,7 @@
               }
             ]
           },
-          "name": "[cisagov] National Security Agency (National Security Agency)"
+          "name": "[cisagov] National Security Agency"
         },
         {
           "cisagov": {
@@ -865,7 +865,7 @@
               }
             ]
           },
-          "name": "[cisagov] Interagency OPSEC Support Staff (Interagency OPSEC Support Staff)"
+          "name": "[cisagov] Interagency OPSEC Support Staff"
         },
         {
           "cisagov": {
@@ -882,7 +882,7 @@
               }
             ]
           },
-          "name": "[cisagov] Interagency Training Center (Interagency Training Center)"
+          "name": "[cisagov] Interagency Training Center"
         },
         {
           "cisagov": {
@@ -899,7 +899,7 @@
               }
             ]
           },
-          "name": "[cisagov] Irregular Warfare Technical Support Directorate (Irregular Warfare Technical Support Directorate)"
+          "name": "[cisagov] Irregular Warfare Technical Support Directorate"
         },
         {
           "cisagov": {
@@ -916,7 +916,7 @@
               }
             ]
           },
-          "name": "[cisagov] Defense Logistics Agency (Defense Logistics Agency)"
+          "name": "[cisagov] Defense Logistics Agency"
         },
         {
           "cisagov": {
@@ -933,7 +933,7 @@
               }
             ]
           },
-          "name": "[cisagov] National Security Agency, Laboratory for Physical Sciences (National Security Agency, Laboratory for Physical Sciences)"
+          "name": "[cisagov] National Security Agency, Laboratory for Physical Sciences"
         },
         {
           "cisagov": {
@@ -950,7 +950,7 @@
               }
             ]
           },
-          "name": "[cisagov] Defense Finance and Accounting Service (Defense Finance and Accounting Service)"
+          "name": "[cisagov] Defense Finance and Accounting Service"
         },
         {
           "cisagov": {
@@ -976,7 +976,7 @@
               }
             ]
           },
-          "name": "[cisagov] OFFICE OF WARRIOR CARE POLICY (OFFICE OF WARRIOR CARE POLICY)"
+          "name": "[cisagov] OFFICE OF WARRIOR CARE POLICY"
         },
         {
           "cisagov": {
@@ -1002,7 +1002,7 @@
               }
             ]
           },
-          "name": "[cisagov] Defense Counterintelligence and Security Agency (Defense Counterintelligence and Security Agency)"
+          "name": "[cisagov] Defense Counterintelligence and Security Agency"
         },
         {
           "cisagov": {
@@ -1019,7 +1019,7 @@
               }
             ]
           },
-          "name": "[cisagov] NRO (NRO)"
+          "name": "[cisagov] NRO"
         },
         {
           "cisagov": {
@@ -1036,7 +1036,7 @@
               }
             ]
           },
-          "name": "[cisagov] NSA (NSA)"
+          "name": "[cisagov] NSA"
         },
         {
           "cisagov": {
@@ -1053,7 +1053,7 @@
               }
             ]
           },
-          "name": "[cisagov] National Security Education Program (NSEP) at DLNSEO (National Security Education Program (NSEP) at DLNSEO)"
+          "name": "[cisagov] National Security Education Program (NSEP) at DLNSEO"
         },
         {
           "cisagov": {
@@ -1070,7 +1070,7 @@
               }
             ]
           },
-          "name": "[cisagov] Office of Economic Adjustment (Office of Economic Adjustment)"
+          "name": "[cisagov] Office of Economic Adjustment"
         },
         {
           "cisagov": {
@@ -1087,7 +1087,7 @@
               }
             ]
           },
-          "name": "[cisagov] Office of Local Defense Community Cooperation (Office of Local Defense Community Cooperation)"
+          "name": "[cisagov] Office of Local Defense Community Cooperation"
         },
         {
           "cisagov": {
@@ -1104,7 +1104,7 @@
               }
             ]
           },
-          "name": "[cisagov] TAK Product Center (TAK Product Center)"
+          "name": "[cisagov] TAK Product Center"
         },
         {
           "cisagov": {
@@ -1121,7 +1121,7 @@
               }
             ]
           },
-          "name": "[cisagov] Technical Support Working Group (Technical Support Working Group)"
+          "name": "[cisagov] Technical Support Working Group"
         },
         {
           "cisagov": {
@@ -1138,7 +1138,7 @@
               }
             ]
           },
-          "name": "[cisagov] AFTAC/LSCSS (AFTAC/LSCSS)"
+          "name": "[cisagov] AFTAC/LSCSS"
         }
       ],
       "cisagov": {
@@ -1155,7 +1155,7 @@
           }
         ]
       },
-      "name": "[cisagov] Department of Defense (Department of Defense)"
+      "name": "[cisagov] Department of Defense"
     },
     {
       "children": [
@@ -1174,7 +1174,7 @@
               }
             ]
           },
-          "name": "[cisagov] Dept. of Housing and Urban Development (HUD) (Dept. of Housing and Urban Development (HUD))"
+          "name": "[cisagov] Dept. of Housing and Urban Development (HUD)"
         },
         {
           "cisagov": {
@@ -1191,7 +1191,7 @@
               }
             ]
           },
-          "name": "[cisagov] Government National Mortgage Association (Government National Mortgage Association)"
+          "name": "[cisagov] Government National Mortgage Association"
         },
         {
           "cisagov": {
@@ -1208,7 +1208,7 @@
               }
             ]
           },
-          "name": "[cisagov] Web Master  Pulic Affair (Web Master  Pulic Affair)"
+          "name": "[cisagov] Web Master  Pulic Affair"
         },
         {
           "cisagov": {
@@ -1225,7 +1225,7 @@
               }
             ]
           },
-          "name": "[cisagov] U.S. Department of Housing and Urban Development, Office of Policy Development and Research (U.S. Department of Housing and Urban Development, Office of Policy Development and Research)"
+          "name": "[cisagov] U.S. Department of Housing and Urban Development, Office of Policy Development and Research"
         }
       ],
       "cisagov": {
@@ -1296,7 +1296,7 @@
           }
         ]
       },
-      "name": "[cisagov] Department of Housing and Urban Development (Department of Housing and Urban Development)"
+      "name": "[cisagov] Department of Housing and Urban Development"
     },
     {
       "children": [
@@ -1315,7 +1315,7 @@
               }
             ]
           },
-          "name": "[cisagov] Department of Veterans Affairs - PREVENTS (Department of Veterans Affairs - PREVENTS)"
+          "name": "[cisagov] Department of Veterans Affairs - PREVENTS"
         },
         {
           "cisagov": {
@@ -1341,7 +1341,7 @@
               }
             ]
           },
-          "name": "[cisagov] Office of Information and Technology, IT Operations and Services (ITOPS) (Office of Information and Technology, IT Operations and Services (ITOPS))"
+          "name": "[cisagov] Office of Information and Technology, IT Operations and Services (ITOPS)"
         }
       ],
       "cisagov": {
@@ -1358,7 +1358,7 @@
           }
         ]
       },
-      "name": "[cisagov] Department of Veterans Affairs (Department of Veterans Affairs)"
+      "name": "[cisagov] Department of Veterans Affairs"
     },
     {
       "children": [
@@ -1386,7 +1386,7 @@
               }
             ]
           },
-          "name": "[cisagov] Bureau of Land Management (Bureau of Land Management)"
+          "name": "[cisagov] Bureau of Land Management"
         },
         {
           "cisagov": {
@@ -1403,7 +1403,7 @@
               }
             ]
           },
-          "name": "[cisagov] Advisory Committee on Water Information (Advisory Committee on Water Information)"
+          "name": "[cisagov] Advisory Committee on Water Information"
         },
         {
           "cisagov": {
@@ -1447,7 +1447,7 @@
               }
             ]
           },
-          "name": "[cisagov] National Park Service (National Park Service)"
+          "name": "[cisagov] National Park Service"
         },
         {
           "cisagov": {
@@ -1464,7 +1464,7 @@
               }
             ]
           },
-          "name": "[cisagov] Aquatic Nuisance Species Task Force (Aquatic Nuisance Species Task Force)"
+          "name": "[cisagov] Aquatic Nuisance Species Task Force"
         },
         {
           "cisagov": {
@@ -1490,7 +1490,7 @@
               }
             ]
           },
-          "name": "[cisagov] Bureau of Indian Affairs (Bureau of Indian Affairs)"
+          "name": "[cisagov] Bureau of Indian Affairs"
         },
         {
           "cisagov": {
@@ -1507,7 +1507,7 @@
               }
             ]
           },
-          "name": "[cisagov] Bureau of Land Management - Main Domain (Bureau of Land Management - Main Domain)"
+          "name": "[cisagov] Bureau of Land Management - Main Domain"
         },
         {
           "cisagov": {
@@ -1551,7 +1551,7 @@
               }
             ]
           },
-          "name": "[cisagov] Minerals Management Service (Minerals Management Service)"
+          "name": "[cisagov] Minerals Management Service"
         },
         {
           "cisagov": {
@@ -1568,7 +1568,7 @@
               }
             ]
           },
-          "name": "[cisagov] US Department of the Interior (US Department of the Interior)"
+          "name": "[cisagov] US Department of the Interior"
         },
         {
           "cisagov": {
@@ -1603,7 +1603,7 @@
               }
             ]
           },
-          "name": "[cisagov] Bureau Of Reclamation (Bureau Of Reclamation)"
+          "name": "[cisagov] Bureau Of Reclamation"
         },
         {
           "cisagov": {
@@ -1620,7 +1620,7 @@
               }
             ]
           },
-          "name": "[cisagov] DOI - Bureau of Trust Funds Administration (DOI - Bureau of Trust Funds Administration)"
+          "name": "[cisagov] DOI - Bureau of Trust Funds Administration"
         },
         {
           "cisagov": {
@@ -1637,7 +1637,7 @@
               }
             ]
           },
-          "name": "[cisagov] U.S Geological Survey (U.S Geological Survey)"
+          "name": "[cisagov] U.S Geological Survey"
         },
         {
           "cisagov": {
@@ -1654,7 +1654,7 @@
               }
             ]
           },
-          "name": "[cisagov] USGS (USGS)"
+          "name": "[cisagov] USGS"
         },
         {
           "cisagov": {
@@ -1689,7 +1689,7 @@
               }
             ]
           },
-          "name": "[cisagov] Bureau of Reclamation (Bureau of Reclamation)"
+          "name": "[cisagov] Bureau of Reclamation"
         },
         {
           "cisagov": {
@@ -1706,7 +1706,7 @@
               }
             ]
           },
-          "name": "[cisagov] U.S. DEPARTMENT OF INTERIOR / OIG (U.S. DEPARTMENT OF INTERIOR / OIG)"
+          "name": "[cisagov] U.S. DEPARTMENT OF INTERIOR / OIG"
         },
         {
           "cisagov": {
@@ -1813,7 +1813,7 @@
               }
             ]
           },
-          "name": "[cisagov] U.S. Geological Survey (U.S. Geological Survey)"
+          "name": "[cisagov] U.S. Geological Survey"
         },
         {
           "cisagov": {
@@ -1830,7 +1830,7 @@
               }
             ]
           },
-          "name": "[cisagov] Interior Business Center (Interior Business Center)"
+          "name": "[cisagov] Interior Business Center"
         },
         {
           "cisagov": {
@@ -1847,7 +1847,7 @@
               }
             ]
           },
-          "name": "[cisagov] U. S. Geological Survey (U. S. Geological Survey)"
+          "name": "[cisagov] U. S. Geological Survey"
         },
         {
           "cisagov": {
@@ -1873,7 +1873,7 @@
               }
             ]
           },
-          "name": "[cisagov] National Wildfire Coordinating Group (National Wildfire Coordinating Group)"
+          "name": "[cisagov] National Wildfire Coordinating Group"
         },
         {
           "cisagov": {
@@ -1890,7 +1890,7 @@
               }
             ]
           },
-          "name": "[cisagov] Joint Fire Science Program (Joint Fire Science Program)"
+          "name": "[cisagov] Joint Fire Science Program"
         },
         {
           "cisagov": {
@@ -1907,7 +1907,7 @@
               }
             ]
           },
-          "name": "[cisagov] U.S. Fish and Wildlife Service (U.S. Fish and Wildlife Service)"
+          "name": "[cisagov] U.S. Fish and Wildlife Service"
         },
         {
           "cisagov": {
@@ -1924,7 +1924,7 @@
               }
             ]
           },
-          "name": "[cisagov] Department of Interior (Department of Interior)"
+          "name": "[cisagov] Department of Interior"
         },
         {
           "cisagov": {
@@ -1941,7 +1941,7 @@
               }
             ]
           },
-          "name": "[cisagov] Office of Aviation Services (Office of Aviation Services)"
+          "name": "[cisagov] Office of Aviation Services"
         },
         {
           "cisagov": {
@@ -1967,7 +1967,7 @@
               }
             ]
           },
-          "name": "[cisagov] National Business Center (National Business Center)"
+          "name": "[cisagov] National Business Center"
         },
         {
           "cisagov": {
@@ -1984,7 +1984,7 @@
               }
             ]
           },
-          "name": "[cisagov] USGS-NWRC (USGS-NWRC)"
+          "name": "[cisagov] USGS-NWRC"
         },
         {
           "cisagov": {
@@ -2010,7 +2010,7 @@
               }
             ]
           },
-          "name": "[cisagov] US Geological Survey (US Geological Survey)"
+          "name": "[cisagov] US Geological Survey"
         },
         {
           "cisagov": {
@@ -2027,7 +2027,7 @@
               }
             ]
           },
-          "name": "[cisagov] National Fire Plan Operations & Reporting System (National Fire Plan Operations & Reporting System)"
+          "name": "[cisagov] National Fire Plan Operations & Reporting System"
         },
         {
           "cisagov": {
@@ -2044,7 +2044,7 @@
               }
             ]
           },
-          "name": "[cisagov] National Interagency Fire Center (National Interagency Fire Center)"
+          "name": "[cisagov] National Interagency Fire Center"
         },
         {
           "cisagov": {
@@ -2061,7 +2061,7 @@
               }
             ]
           },
-          "name": "[cisagov] Office of Navajo and Hopi Indian Relocation (Office of Navajo and Hopi Indian Relocation)"
+          "name": "[cisagov] Office of Navajo and Hopi Indian Relocation"
         },
         {
           "cisagov": {
@@ -2087,7 +2087,7 @@
               }
             ]
           },
-          "name": "[cisagov] Office of Surface Mining (Office of Surface Mining)"
+          "name": "[cisagov] Office of Surface Mining"
         },
         {
           "cisagov": {
@@ -2104,7 +2104,7 @@
               }
             ]
           },
-          "name": "[cisagov] Piedras Blancas Light Station (Piedras Blancas Light Station)"
+          "name": "[cisagov] Piedras Blancas Light Station"
         },
         {
           "cisagov": {
@@ -2121,7 +2121,7 @@
               }
             ]
           },
-          "name": "[cisagov] USGS Bird Banding Laboratory (USGS Bird Banding Laboratory)"
+          "name": "[cisagov] USGS Bird Banding Laboratory"
         },
         {
           "cisagov": {
@@ -2138,7 +2138,7 @@
               }
             ]
           },
-          "name": "[cisagov] DOI - U.S. Fish and Wildlife Service (DOI - U.S. Fish and Wildlife Service)"
+          "name": "[cisagov] DOI - U.S. Fish and Wildlife Service"
         },
         {
           "cisagov": {
@@ -2164,7 +2164,7 @@
               }
             ]
           },
-          "name": "[cisagov] Aviation Management Directorate (Aviation Management Directorate)"
+          "name": "[cisagov] Aviation Management Directorate"
         },
         {
           "cisagov": {
@@ -2181,7 +2181,7 @@
               }
             ]
           },
-          "name": "[cisagov] USGS/Denver Federal Center (USGS/Denver Federal Center)"
+          "name": "[cisagov] USGS/Denver Federal Center"
         },
         {
           "cisagov": {
@@ -2198,7 +2198,7 @@
               }
             ]
           },
-          "name": "[cisagov] Yosemite National Park (Yosemite National Park)"
+          "name": "[cisagov] Yosemite National Park"
         },
         {
           "cisagov": {
@@ -2215,7 +2215,7 @@
               }
             ]
           },
-          "name": "[cisagov] Bureau of Land Management - Utah Fire Info Domain (Bureau of Land Management - Utah Fire Info Domain)"
+          "name": "[cisagov] Bureau of Land Management - Utah Fire Info Domain"
         },
         {
           "cisagov": {
@@ -2232,7 +2232,7 @@
               }
             ]
           },
-          "name": "[cisagov] US Geological Survey/Volcano Science Center (US Geological Survey/Volcano Science Center)"
+          "name": "[cisagov] US Geological Survey/Volcano Science Center"
         }
       ],
       "cisagov": {
@@ -2276,7 +2276,7 @@
           }
         ]
       },
-      "name": "[cisagov] Department of the Interior (Department of the Interior)"
+      "name": "[cisagov] Department of the Interior"
     },
     {
       "children": [
@@ -2295,7 +2295,7 @@
               }
             ]
           },
-          "name": "[cisagov] US Election Assistance Commission (US Election Assistance Commission)"
+          "name": "[cisagov] US Election Assistance Commission"
         },
         {
           "cisagov": {
@@ -2312,7 +2312,7 @@
               }
             ]
           },
-          "name": "[cisagov] U. S. ELECTION ASSISTANCE COMMISSION (U. S. ELECTION ASSISTANCE COMMISSION)"
+          "name": "[cisagov] U. S. ELECTION ASSISTANCE COMMISSION"
         }
       ],
       "cisagov": {
@@ -2329,7 +2329,7 @@
           }
         ]
       },
-      "name": "[cisagov] Election Assistance Commission (Election Assistance Commission)"
+      "name": "[cisagov] Election Assistance Commission"
     },
     {
       "children": [
@@ -2348,7 +2348,7 @@
               }
             ]
           },
-          "name": "[cisagov] U.S. Environmental Protection Agency (U.S. Environmental Protection Agency)"
+          "name": "[cisagov] U.S. Environmental Protection Agency"
         },
         {
           "cisagov": {
@@ -2365,7 +2365,7 @@
               }
             ]
           },
-          "name": "[cisagov] EPA OIG (EPA OIG)"
+          "name": "[cisagov] EPA OIG"
         },
         {
           "cisagov": {
@@ -2382,7 +2382,7 @@
               }
             ]
           },
-          "name": "[cisagov] US Environmental Protection Agency (US Environmental Protection Agency)"
+          "name": "[cisagov] US Environmental Protection Agency"
         },
         {
           "cisagov": {
@@ -2399,7 +2399,7 @@
               }
             ]
           },
-          "name": "[cisagov] Federal Remediation Roundtable (Federal Remediation Roundtable)"
+          "name": "[cisagov] Federal Remediation Roundtable"
         },
         {
           "cisagov": {
@@ -2416,7 +2416,7 @@
               }
             ]
           },
-          "name": "[cisagov] US EPA, Great Lakes National Program Office (US EPA, Great Lakes National Program Office)"
+          "name": "[cisagov] US EPA, Great Lakes National Program Office"
         },
         {
           "cisagov": {
@@ -2442,7 +2442,7 @@
               }
             ]
           },
-          "name": "[cisagov] Office of Federal Sustainability (Office of Federal Sustainability)"
+          "name": "[cisagov] Office of Federal Sustainability"
         },
         {
           "cisagov": {
@@ -2459,7 +2459,7 @@
               }
             ]
           },
-          "name": "[cisagov] U.S. EPA  (U.S. EPA )"
+          "name": "[cisagov] U.S. EPA "
         }
       ],
       "cisagov": {
@@ -2521,7 +2521,7 @@
           }
         ]
       },
-      "name": "[cisagov] Environmental Protection Agency (Environmental Protection Agency)"
+      "name": "[cisagov] Environmental Protection Agency"
     },
     {
       "children": [
@@ -2540,7 +2540,7 @@
               }
             ]
           },
-          "name": "[cisagov] Office of Management and Budget (Office of Management and Budget)"
+          "name": "[cisagov] Office of Management and Budget"
         },
         {
           "cisagov": {
@@ -2575,7 +2575,7 @@
               }
             ]
           },
-          "name": "[cisagov] Office of Administration (Office of Administration)"
+          "name": "[cisagov] Office of Administration"
         },
         {
           "cisagov": {
@@ -2592,7 +2592,7 @@
               }
             ]
           },
-          "name": "[cisagov] OMB (OMB)"
+          "name": "[cisagov] OMB"
         },
         {
           "cisagov": {
@@ -2618,7 +2618,7 @@
               }
             ]
           },
-          "name": "[cisagov] White House Council on Environmental Quality (CEQ) (White House Council on Environmental Quality (CEQ))"
+          "name": "[cisagov] White House Council on Environmental Quality (CEQ)"
         },
         {
           "cisagov": {
@@ -2644,7 +2644,42 @@
               }
             ]
           },
-          "name": "[cisagov] EOP (EOP)"
+          "name": "[cisagov] EOP"
+        },
+        {
+          "cisagov": {
+            "name": "White House Office",
+            "records": [
+              {
+                "agency": "Executive Office of the President",
+                "city": "Washington",
+                "domain_name": "INVEST.GOV",
+                "domain_type": "Federal - Executive",
+                "organization": "White House Office",
+                "security_contact_email": "russell.a.barnes@oa.eop.gov",
+                "state": "DC"
+              },
+              {
+                "agency": "Executive Office of the President",
+                "city": "Washington",
+                "domain_name": "INVESTINAMERICA.GOV",
+                "domain_type": "Federal - Executive",
+                "organization": "White House Office",
+                "security_contact_email": "russell.a.barnes@oa.eop.gov",
+                "state": "DC"
+              },
+              {
+                "agency": "Executive Office of the President",
+                "city": "Washington",
+                "domain_name": "INVESTINGINAMERICA.GOV",
+                "domain_type": "Federal - Executive",
+                "organization": "White House Office",
+                "security_contact_email": "russell.a.barnes@oa.eop.gov",
+                "state": "DC"
+              }
+            ]
+          },
+          "name": "[cisagov] White House Office"
         },
         {
           "cisagov": {
@@ -2661,7 +2696,7 @@
               }
             ]
           },
-          "name": "[cisagov] Office of Management and Budget, Budget Review Division (Office of Management and Budget, Budget Review Division)"
+          "name": "[cisagov] Office of Management and Budget, Budget Review Division"
         },
         {
           "cisagov": {
@@ -2678,7 +2713,7 @@
               }
             ]
           },
-          "name": "[cisagov] National Nanotechnology Coordination Office (National Nanotechnology Coordination Office)"
+          "name": "[cisagov] National Nanotechnology Coordination Office"
         },
         {
           "cisagov": {
@@ -2695,7 +2730,7 @@
               }
             ]
           },
-          "name": "[cisagov] Council on Environmental Quality (Council on Environmental Quality)"
+          "name": "[cisagov] Council on Environmental Quality"
         },
         {
           "cisagov": {
@@ -2712,7 +2747,7 @@
               }
             ]
           },
-          "name": "[cisagov] Office of National Drug Control Policy (Office of National Drug Control Policy)"
+          "name": "[cisagov] Office of National Drug Control Policy"
         },
         {
           "cisagov": {
@@ -2729,7 +2764,7 @@
               }
             ]
           },
-          "name": "[cisagov] Office of Science and Technology Policy - White House (Office of Science and Technology Policy - White House)"
+          "name": "[cisagov] Office of Science and Technology Policy - White House"
         },
         {
           "cisagov": {
@@ -2746,7 +2781,7 @@
               }
             ]
           },
-          "name": "[cisagov] Presidential Community of Interest (Presidential Community of Interest)"
+          "name": "[cisagov] Presidential Community of Interest"
         },
         {
           "cisagov": {
@@ -2763,7 +2798,7 @@
               }
             ]
           },
-          "name": "[cisagov] National Quantum Coordination Office (NQCO)  (National Quantum Coordination Office (NQCO) )"
+          "name": "[cisagov] National Quantum Coordination Office (NQCO) "
         },
         {
           "cisagov": {
@@ -2780,7 +2815,7 @@
               }
             ]
           },
-          "name": "[cisagov] Domestic Policy Council (Domestic Policy Council)"
+          "name": "[cisagov] Domestic Policy Council"
         },
         {
           "cisagov": {
@@ -2806,7 +2841,7 @@
               }
             ]
           },
-          "name": "[cisagov] United States Digital Service (United States Digital Service)"
+          "name": "[cisagov] United States Digital Service"
         },
         {
           "cisagov": {
@@ -2823,7 +2858,7 @@
               }
             ]
           },
-          "name": "[cisagov] United States Trade Representative (United States Trade Representative)"
+          "name": "[cisagov] United States Trade Representative"
         },
         {
           "cisagov": {
@@ -2840,7 +2875,7 @@
               }
             ]
           },
-          "name": "[cisagov] White House (White House)"
+          "name": "[cisagov] White House"
         }
       ],
       "cisagov": {
@@ -2983,7 +3018,7 @@
           }
         ]
       },
-      "name": "[cisagov] Executive Office of the President (Executive Office of the President)"
+      "name": "[cisagov] Executive Office of the President"
     },
     {
       "children": [
@@ -3011,7 +3046,7 @@
               }
             ]
           },
-          "name": "[cisagov] Office of the Managing Director (Office of the Managing Director)"
+          "name": "[cisagov] Office of the Managing Director"
         }
       ],
       "cisagov": {
@@ -3037,7 +3072,7 @@
           }
         ]
       },
-      "name": "[cisagov] Federal Communications Commission (Federal Communications Commission)"
+      "name": "[cisagov] Federal Communications Commission"
     },
     {
       "children": [
@@ -3056,7 +3091,7 @@
               }
             ]
           },
-          "name": "[cisagov] Federal Deposit Insurance Coprporation (Federal Deposit Insurance Coprporation)"
+          "name": "[cisagov] Federal Deposit Insurance Coprporation"
         }
       ],
       "cisagov": {
@@ -3127,7 +3162,7 @@
           }
         ]
       },
-      "name": "[cisagov] Federal Deposit Insurance Corporation (Federal Deposit Insurance Corporation)"
+      "name": "[cisagov] Federal Deposit Insurance Corporation"
     },
     {
       "cisagov": {
@@ -3144,7 +3179,7 @@
           }
         ]
       },
-      "name": "[cisagov] Federal Election Commission (Federal Election Commission)"
+      "name": "[cisagov] Federal Election Commission"
     },
     {
       "cisagov": {
@@ -3161,7 +3196,7 @@
           }
         ]
       },
-      "name": "[cisagov] Federal Energy Regulatory Commission (Federal Energy Regulatory Commission)"
+      "name": "[cisagov] Federal Energy Regulatory Commission"
     },
     {
       "children": [
@@ -3180,7 +3215,7 @@
               }
             ]
           },
-          "name": "[cisagov] Federal Housing Finance Agency Office of Inspector General  (Federal Housing Finance Agency Office of Inspector General )"
+          "name": "[cisagov] Federal Housing Finance Agency Office of Inspector General "
         }
       ],
       "cisagov": {
@@ -3206,7 +3241,7 @@
           }
         ]
       },
-      "name": "[cisagov] Federal Housing Finance Agency (Federal Housing Finance Agency)"
+      "name": "[cisagov] Federal Housing Finance Agency"
     },
     {
       "cisagov": {
@@ -3223,7 +3258,7 @@
           }
         ]
       },
-      "name": "[cisagov] Federal Maritime Commission (Federal Maritime Commission)"
+      "name": "[cisagov] Federal Maritime Commission"
     },
     {
       "children": [
@@ -3242,7 +3277,7 @@
               }
             ]
           },
-          "name": "[cisagov] FPISC (FPISC)"
+          "name": "[cisagov] FPISC"
         }
       ],
       "cisagov": {
@@ -3259,7 +3294,7 @@
           }
         ]
       },
-      "name": "[cisagov] Federal Permitting Improvement Steering Council (Federal Permitting Improvement Steering Council)"
+      "name": "[cisagov] Federal Permitting Improvement Steering Council"
     },
     {
       "children": [
@@ -3305,7 +3340,7 @@
               }
             ]
           },
-          "name": "[cisagov] Federal Reserve Board (Federal Reserve Board)"
+          "name": "[cisagov] Federal Reserve Board"
         },
         {
           "cisagov": {
@@ -3322,7 +3357,7 @@
               }
             ]
           },
-          "name": "[cisagov] The Financial and Banking Information Infrastructure Committee (The Financial and Banking Information Infrastructure Committee)"
+          "name": "[cisagov] The Financial and Banking Information Infrastructure Committee"
         },
         {
           "cisagov": {
@@ -3339,7 +3374,7 @@
               }
             ]
           },
-          "name": "[cisagov] Federal Reserve Bank (Federal Reserve Bank)"
+          "name": "[cisagov] Federal Reserve Bank"
         },
         {
           "cisagov": {
@@ -3356,7 +3391,7 @@
               }
             ]
           },
-          "name": "[cisagov] Board of Governors of the Federal Reserve (Board of Governors of the Federal Reserve)"
+          "name": "[cisagov] Board of Governors of the Federal Reserve"
         },
         {
           "cisagov": {
@@ -3373,7 +3408,7 @@
               }
             ]
           },
-          "name": "[cisagov] Federal Financial Institutions Examination Council  (Federal Financial Institutions Examination Council )"
+          "name": "[cisagov] Federal Financial Institutions Examination Council "
         },
         {
           "children": [
@@ -3410,7 +3445,7 @@
                   }
                 ]
               },
-              "name": "[cisagov] U.S. Census Bureau (U.S. Census Bureau)"
+              "name": "[cisagov] U.S. Census Bureau"
             },
             {
               "cisagov": {
@@ -3427,7 +3462,7 @@
                   }
                 ]
               },
-              "name": "[cisagov] TCD / BIS / Dept of Commerce (TCD / BIS / Dept of Commerce)"
+              "name": "[cisagov] TCD / BIS / Dept of Commerce"
             },
             {
               "cisagov": {
@@ -3444,7 +3479,7 @@
                   }
                 ]
               },
-              "name": "[cisagov] National Weather Service (National Weather Service)"
+              "name": "[cisagov] National Weather Service"
             },
             {
               "cisagov": {
@@ -3461,7 +3496,7 @@
                   }
                 ]
               },
-              "name": "[cisagov] Bureau of Economic Analysis (Bureau of Economic Analysis)"
+              "name": "[cisagov] Bureau of Economic Analysis"
             },
             {
               "cisagov": {
@@ -3478,7 +3513,7 @@
                   }
                 ]
               },
-              "name": "[cisagov] Bureau of Industry and Security (BIS) (Bureau of Industry and Security (BIS))"
+              "name": "[cisagov] Bureau of Industry and Security (BIS)"
             },
             {
               "cisagov": {
@@ -3585,7 +3620,7 @@
                   }
                 ]
               },
-              "name": "[cisagov] National Institute of Standards and Technology (NIST) (National Institute of Standards and Technology (NIST))"
+              "name": "[cisagov] National Institute of Standards and Technology (NIST)"
             },
             {
               "cisagov": {
@@ -3598,6 +3633,15 @@
                     "domain_type": "Federal - Executive",
                     "organization": "International Trade Administration",
                     "security_contact_email": "OpSec@trade.gov",
+                    "state": "DC"
+                  },
+                  {
+                    "agency": "Department of Commerce",
+                    "city": "Washington DC",
+                    "domain_name": "DATAPRIVACYFRAMEWORK.GOV",
+                    "domain_type": "Federal - Executive",
+                    "organization": "International Trade Administration",
+                    "security_contact_email": "chuck.hicks@trade.gov",
                     "state": "DC"
                   },
                   {
@@ -3665,7 +3709,7 @@
                   }
                 ]
               },
-              "name": "[cisagov] International Trade Administration (International Trade Administration)"
+              "name": "[cisagov] International Trade Administration"
             },
             {
               "cisagov": {
@@ -3691,7 +3735,7 @@
                   }
                 ]
               },
-              "name": "[cisagov] National Institute of Standards & Technology (National Institute of Standards & Technology)"
+              "name": "[cisagov] National Institute of Standards & Technology"
             },
             {
               "cisagov": {
@@ -3708,7 +3752,7 @@
                   }
                 ]
               },
-              "name": "[cisagov] NWS/OPS33 (NWS/OPS33)"
+              "name": "[cisagov] NWS/OPS33"
             },
             {
               "cisagov": {
@@ -3725,7 +3769,7 @@
                   }
                 ]
               },
-              "name": "[cisagov] Depatment of Commerce (Depatment of Commerce)"
+              "name": "[cisagov] Depatment of Commerce"
             },
             {
               "cisagov": {
@@ -3742,7 +3786,7 @@
                   }
                 ]
               },
-              "name": "[cisagov] Bureau of Industries and Security (BIS) (Bureau of Industries and Security (BIS))"
+              "name": "[cisagov] Bureau of Industries and Security (BIS)"
             },
             {
               "cisagov": {
@@ -3759,7 +3803,7 @@
                   }
                 ]
               },
-              "name": "[cisagov] National Institute of Standards and Technology (National Institute of Standards and Technology)"
+              "name": "[cisagov] National Institute of Standards and Technology"
             },
             {
               "cisagov": {
@@ -3830,7 +3874,7 @@
                   }
                 ]
               },
-              "name": "[cisagov] Office of the Chief Information Officer (Office of the Chief Information Officer)"
+              "name": "[cisagov] Office of the Chief Information Officer"
             },
             {
               "cisagov": {
@@ -3847,7 +3891,7 @@
                   }
                 ]
               },
-              "name": "[cisagov] NOAA/NCDC (NOAA/NCDC)"
+              "name": "[cisagov] NOAA/NCDC"
             },
             {
               "cisagov": {
@@ -3864,7 +3908,7 @@
                   }
                 ]
               },
-              "name": "[cisagov] ECONOMIC DEVELOPMENT ADMINISTRATION (ECONOMIC DEVELOPMENT ADMINISTRATION)"
+              "name": "[cisagov] ECONOMIC DEVELOPMENT ADMINISTRATION"
             },
             {
               "cisagov": {
@@ -3917,7 +3961,7 @@
                   }
                 ]
               },
-              "name": "[cisagov] National Telecommunications and Information Administration (National Telecommunications and Information Administration)"
+              "name": "[cisagov] National Telecommunications and Information Administration"
             },
             {
               "cisagov": {
@@ -3934,7 +3978,7 @@
                   }
                 ]
               },
-              "name": "[cisagov] NOAA Fisheries (NOAA Fisheries)"
+              "name": "[cisagov] NOAA Fisheries"
             },
             {
               "cisagov": {
@@ -3951,7 +3995,7 @@
                   }
                 ]
               },
-              "name": "[cisagov] NASA GSFC (NASA GSFC)"
+              "name": "[cisagov] NASA GSFC"
             },
             {
               "cisagov": {
@@ -3968,7 +4012,7 @@
                   }
                 ]
               },
-              "name": "[cisagov] National Executive Committee for Space-Based PNT (National Executive Committee for Space-Based PNT)"
+              "name": "[cisagov] National Executive Committee for Space-Based PNT"
             },
             {
               "cisagov": {
@@ -3985,7 +4029,7 @@
                   }
                 ]
               },
-              "name": "[cisagov] NOAA Climate Program Office (NOAA Climate Program Office)"
+              "name": "[cisagov] NOAA Climate Program Office"
             },
             {
               "cisagov": {
@@ -4002,7 +4046,7 @@
                   }
                 ]
               },
-              "name": "[cisagov] NOAA/National Hurricane Center (NOAA/National Hurricane Center)"
+              "name": "[cisagov] NOAA/National Hurricane Center"
             },
             {
               "cisagov": {
@@ -4019,7 +4063,7 @@
                   }
                 ]
               },
-              "name": "[cisagov] National Oceanic and Atmospheric Administration Office of the Federal Coordinator for Meteorology (National Oceanic and Atmospheric Administration Office of the Federal Coordinator for Meteorology)"
+              "name": "[cisagov] National Oceanic and Atmospheric Administration Office of the Federal Coordinator for Meteorology"
             },
             {
               "cisagov": {
@@ -4045,7 +4089,7 @@
                   }
                 ]
               },
-              "name": "[cisagov] US Census Bureau (US Census Bureau)"
+              "name": "[cisagov] US Census Bureau"
             },
             {
               "cisagov": {
@@ -4062,7 +4106,7 @@
                   }
                 ]
               },
-              "name": "[cisagov] NOAA Coastal Services Center (NOAA Coastal Services Center)"
+              "name": "[cisagov] NOAA Coastal Services Center"
             },
             {
               "cisagov": {
@@ -4079,7 +4123,7 @@
                   }
                 ]
               },
-              "name": "[cisagov] MBDA (Minority Business Development Agency) (MBDA (Minority Business Development Agency))"
+              "name": "[cisagov] MBDA (Minority Business Development Agency)"
             },
             {
               "cisagov": {
@@ -4100,7 +4144,7 @@
                     "domain_name": "PAPAHANAUMOKUAKEA.GOV",
                     "domain_type": "Federal - Executive",
                     "organization": "National Oceanic and Atmospheric Administration",
-                    "security_contact_email": "security@noaa.gov",
+                    "security_contact_email": "james.cooperman@noaa.gov",
                     "state": "MD"
                   },
                   {
@@ -4114,7 +4158,7 @@
                   }
                 ]
               },
-              "name": "[cisagov] National Oceanic and Atmospheric Administration (National Oceanic and Atmospheric Administration)"
+              "name": "[cisagov] National Oceanic and Atmospheric Administration"
             },
             {
               "cisagov": {
@@ -4131,7 +4175,7 @@
                   }
                 ]
               },
-              "name": "[cisagov] National Technical Information Service (National Technical Information Service)"
+              "name": "[cisagov] National Technical Information Service"
             },
             {
               "cisagov": {
@@ -4148,7 +4192,7 @@
                   }
                 ]
               },
-              "name": "[cisagov] Office of the Federal Coordinator for Meteorolgy (Office of the Federal Coordinator for Meteorolgy)"
+              "name": "[cisagov] Office of the Federal Coordinator for Meteorolgy"
             },
             {
               "cisagov": {
@@ -4165,7 +4209,7 @@
                   }
                 ]
               },
-              "name": "[cisagov] National Science and Technology Council (National Science and Technology Council)"
+              "name": "[cisagov] National Science and Technology Council"
             },
             {
               "cisagov": {
@@ -4182,7 +4226,7 @@
                   }
                 ]
               },
-              "name": "[cisagov] Space Environment Center W/NP9 (Space Environment Center W/NP9)"
+              "name": "[cisagov] Space Environment Center W/NP9"
             },
             {
               "cisagov": {
@@ -4199,7 +4243,7 @@
                   }
                 ]
               },
-              "name": "[cisagov] NOAA/Space Weather Prediction Center (NOAA/Space Weather Prediction Center)"
+              "name": "[cisagov] NOAA/Space Weather Prediction Center"
             },
             {
               "cisagov": {
@@ -4216,7 +4260,7 @@
                   }
                 ]
               },
-              "name": "[cisagov] West Coast & Alaska Tsunami Warning Center (West Coast & Alaska Tsunami Warning Center)"
+              "name": "[cisagov] West Coast & Alaska Tsunami Warning Center"
             },
             {
               "cisagov": {
@@ -4233,7 +4277,7 @@
                   }
                 ]
               },
-              "name": "[cisagov] U. S. National Ice Center (U. S. National Ice Center)"
+              "name": "[cisagov] U. S. National Ice Center"
             },
             {
               "cisagov": {
@@ -4250,7 +4294,7 @@
                   }
                 ]
               },
-              "name": "[cisagov] USPTO (USPTO)"
+              "name": "[cisagov] USPTO"
             },
             {
               "cisagov": {
@@ -4267,7 +4311,7 @@
                   }
                 ]
               },
-              "name": "[cisagov] Bureau of the Census (Bureau of the Census)"
+              "name": "[cisagov] Bureau of the Census"
             }
           ],
           "cisagov": {
@@ -4284,7 +4328,7 @@
               }
             ]
           },
-          "name": "[cisagov] Department of Commerce (Department of Commerce)"
+          "name": "[cisagov] Department of Commerce"
         }
       ],
       "cisagov": {
@@ -4310,7 +4354,7 @@
           }
         ]
       },
-      "name": "[cisagov] Federal Reserve Board of Governors (Federal Reserve Board of Governors)"
+      "name": "[cisagov] Federal Reserve Board of Governors"
     },
     {
       "children": [
@@ -4536,7 +4580,7 @@
               }
             ]
           },
-          "name": "[cisagov] GSA, TTS (GSA, TTS)"
+          "name": "[cisagov] GSA, TTS"
         },
         {
           "cisagov": {
@@ -4553,7 +4597,7 @@
               }
             ]
           },
-          "name": "[cisagov] 400 Years of African American History Commission (400 Years of African American History Commission)"
+          "name": "[cisagov] 400 Years of African American History Commission"
         },
         {
           "cisagov": {
@@ -4624,7 +4668,7 @@
               }
             ]
           },
-          "name": "[cisagov] GSA, IC, OGP Web Portfolio (GSA, IC, OGP Web Portfolio)"
+          "name": "[cisagov] GSA, IC, OGP Web Portfolio"
         },
         {
           "cisagov": {
@@ -4659,7 +4703,7 @@
               }
             ]
           },
-          "name": "[cisagov] GSA, IC, Acquisition (GSA, IC, Acquisition)"
+          "name": "[cisagov] GSA, IC, Acquisition"
         },
         {
           "cisagov": {
@@ -4676,7 +4720,7 @@
               }
             ]
           },
-          "name": "[cisagov] GSA, FAS, Office of Enterprise Strategy Management (GSA, FAS, Office of Enterprise Strategy Management)"
+          "name": "[cisagov] GSA, FAS, Office of Enterprise Strategy Management"
         },
         {
           "cisagov": {
@@ -4693,7 +4737,7 @@
               }
             ]
           },
-          "name": "[cisagov] GSA, FAS, Advantage (GSA, FAS, Advantage)"
+          "name": "[cisagov] GSA, FAS, Advantage"
         },
         {
           "cisagov": {
@@ -4710,7 +4754,7 @@
               }
             ]
           },
-          "name": "[cisagov] GSA, IC, OGP Web Portolio (GSA, IC, OGP Web Portolio)"
+          "name": "[cisagov] GSA, IC, OGP Web Portolio"
         },
         {
           "cisagov": {
@@ -4727,7 +4771,7 @@
               }
             ]
           },
-          "name": "[cisagov] GSA, FAS, Acquisition (GSA, FAS, Acquisition)"
+          "name": "[cisagov] GSA, FAS, Acquisition"
         },
         {
           "cisagov": {
@@ -4744,7 +4788,7 @@
               }
             ]
           },
-          "name": "[cisagov] Civilian Board of Contract Appeals (Civilian Board of Contract Appeals)"
+          "name": "[cisagov] Civilian Board of Contract Appeals"
         },
         {
           "cisagov": {
@@ -4761,7 +4805,7 @@
               }
             ]
           },
-          "name": "[cisagov] GSA, CIO.GOV (GSA, CIO.GOV)"
+          "name": "[cisagov] GSA, CIO.GOV"
         },
         {
           "cisagov": {
@@ -4814,7 +4858,7 @@
               }
             ]
           },
-          "name": "[cisagov] GSA,FAS,Technology Transformation Service (GSA,FAS,Technology Transformation Service)"
+          "name": "[cisagov] GSA,FAS,Technology Transformation Service"
         },
         {
           "cisagov": {
@@ -4831,7 +4875,7 @@
               }
             ]
           },
-          "name": "[cisagov] GSA, FAS, ClearPath (GSA, FAS, ClearPath)"
+          "name": "[cisagov] GSA, FAS, ClearPath"
         },
         {
           "cisagov": {
@@ -4848,7 +4892,7 @@
               }
             ]
           },
-          "name": "[cisagov] GSA, FAS, FPDS (GSA, FAS, FPDS)"
+          "name": "[cisagov] GSA, FAS, FPDS"
         },
         {
           "cisagov": {
@@ -4883,7 +4927,7 @@
               }
             ]
           },
-          "name": "[cisagov] GSA, FAS, System for Award Management (GSA, FAS, System for Award Management)"
+          "name": "[cisagov] GSA, FAS, System for Award Management"
         },
         {
           "cisagov": {
@@ -4900,7 +4944,7 @@
               }
             ]
           },
-          "name": "[cisagov] GSA, CABs (GSA, CABs)"
+          "name": "[cisagov] GSA, CABs"
         },
         {
           "cisagov": {
@@ -4917,7 +4961,7 @@
               }
             ]
           },
-          "name": "[cisagov] GSA, FAS, ECPIC (GSA, FAS, ECPIC)"
+          "name": "[cisagov] GSA, FAS, ECPIC"
         },
         {
           "cisagov": {
@@ -4934,7 +4978,7 @@
               }
             ]
           },
-          "name": "[cisagov] Office of Government-wide Policy (Office of Government-wide Policy)"
+          "name": "[cisagov] Office of Government-wide Policy"
         },
         {
           "cisagov": {
@@ -4951,7 +4995,7 @@
               }
             ]
           },
-          "name": "[cisagov] Technology Transformation Services (Technology Transformation Services)"
+          "name": "[cisagov] Technology Transformation Services"
         },
         {
           "cisagov": {
@@ -4995,7 +5039,7 @@
               }
             ]
           },
-          "name": "[cisagov] GSA, IDI, ECAS II (GSA, IDI, ECAS II)"
+          "name": "[cisagov] GSA, IDI, ECAS II"
         },
         {
           "cisagov": {
@@ -5012,7 +5056,7 @@
               }
             ]
           },
-          "name": "[cisagov] GSA, IDI, Enterprise Application Services (GSA, IDI, Enterprise Application Services)"
+          "name": "[cisagov] GSA, IDI, Enterprise Application Services"
         },
         {
           "cisagov": {
@@ -5029,7 +5073,7 @@
               }
             ]
           },
-          "name": "[cisagov] GSA, IC, FAI (GSA, IC, FAI)"
+          "name": "[cisagov] GSA, IC, FAI"
         },
         {
           "cisagov": {
@@ -5046,7 +5090,7 @@
               }
             ]
           },
-          "name": "[cisagov] GSA, IQ, IAE (GSA, IQ, IAE)"
+          "name": "[cisagov] GSA, IQ, IAE"
         },
         {
           "cisagov": {
@@ -5063,7 +5107,7 @@
               }
             ]
           },
-          "name": "[cisagov] GSA, IQ-CAP (GSA, IQ-CAP)"
+          "name": "[cisagov] GSA, IQ-CAP"
         },
         {
           "cisagov": {
@@ -5089,7 +5133,7 @@
               }
             ]
           },
-          "name": "[cisagov] General Services Administration  (General Services Administration )"
+          "name": "[cisagov] General Services Administration "
         },
         {
           "cisagov": {
@@ -5115,7 +5159,7 @@
               }
             ]
           },
-          "name": "[cisagov] GSA, IQ, eRulemaking (GSA, IQ, eRulemaking)"
+          "name": "[cisagov] GSA, IQ, eRulemaking"
         },
         {
           "cisagov": {
@@ -5141,7 +5185,7 @@
               }
             ]
           },
-          "name": "[cisagov] GSA, IQ, CAT (GSA, IQ, CAT)"
+          "name": "[cisagov] GSA, IQ, CAT"
         },
         {
           "cisagov": {
@@ -5158,7 +5202,7 @@
               }
             ]
           },
-          "name": "[cisagov] GSA, IC, OGP WebPortfolio (GSA, IC, OGP WebPortfolio)"
+          "name": "[cisagov] GSA, IC, OGP WebPortfolio"
         },
         {
           "cisagov": {
@@ -5175,7 +5219,7 @@
               }
             ]
           },
-          "name": "[cisagov] GSA, TTS, Federalist (GSA, TTS, Federalist)"
+          "name": "[cisagov] GSA, TTS, Federalist"
         },
         {
           "cisagov": {
@@ -5192,7 +5236,7 @@
               }
             ]
           },
-          "name": "[cisagov] GSA, IQ-FPDS-FPDS Portal (GSA, IQ-FPDS-FPDS Portal)"
+          "name": "[cisagov] GSA, IQ-FPDS-FPDS Portal"
         },
         {
           "cisagov": {
@@ -5218,7 +5262,7 @@
               }
             ]
           },
-          "name": "[cisagov] GSA, Q-FPKI (GSA, Q-FPKI)"
+          "name": "[cisagov] GSA, Q-FPKI"
         },
         {
           "cisagov": {
@@ -5235,7 +5279,7 @@
               }
             ]
           },
-          "name": "[cisagov] GSA, IDI-EAS-SF-FRPG (GSA, IDI-EAS-SF-FRPG)"
+          "name": "[cisagov] GSA, IDI-EAS-SF-FRPG"
         },
         {
           "cisagov": {
@@ -5252,7 +5296,7 @@
               }
             ]
           },
-          "name": "[cisagov] GSA, IQ-FSD-FSD Portal (GSA, IQ-FSD-FSD Portal)"
+          "name": "[cisagov] GSA, IQ-FSD-FSD Portal"
         },
         {
           "cisagov": {
@@ -5269,7 +5313,7 @@
               }
             ]
           },
-          "name": "[cisagov] GSA, IQ-ESRS-FSRS (GSA, IQ-ESRS-FSRS)"
+          "name": "[cisagov] GSA, IQ-ESRS-FSRS"
         },
         {
           "cisagov": {
@@ -5286,7 +5330,7 @@
               }
             ]
           },
-          "name": "[cisagov] GSA, IQ-GSAAdvantage-Main (GSA, IQ-GSAAdvantage-Main)"
+          "name": "[cisagov] GSA, IQ-GSAAdvantage-Main"
         },
         {
           "cisagov": {
@@ -5303,7 +5347,7 @@
               }
             ]
           },
-          "name": "[cisagov] GSA, IQ-SASy-GSAAuctions (GSA, IQ-SASy-GSAAuctions)"
+          "name": "[cisagov] GSA, IQ-SASy-GSAAuctions"
         },
         {
           "cisagov": {
@@ -5320,7 +5364,7 @@
               }
             ]
           },
-          "name": "[cisagov] GSA Office of Inspector General (GSA Office of Inspector General)"
+          "name": "[cisagov] GSA Office of Inspector General"
         },
         {
           "cisagov": {
@@ -5337,7 +5381,7 @@
               }
             ]
           },
-          "name": "[cisagov] GSA, IQ, Clearpath (GSA, IQ, Clearpath)"
+          "name": "[cisagov] GSA, IQ, Clearpath"
         },
         {
           "cisagov": {
@@ -5354,7 +5398,7 @@
               }
             ]
           },
-          "name": "[cisagov] GSA, Office of Government-wide Policy (GSA, Office of Government-wide Policy)"
+          "name": "[cisagov] GSA, Office of Government-wide Policy"
         },
         {
           "cisagov": {
@@ -5371,7 +5415,7 @@
               }
             ]
           },
-          "name": "[cisagov] GSA Technology Transformation Services (GSA Technology Transformation Services)"
+          "name": "[cisagov] GSA Technology Transformation Services"
         },
         {
           "cisagov": {
@@ -5388,7 +5432,7 @@
               }
             ]
           },
-          "name": "[cisagov] U.S General Services Administration  (U.S General Services Administration )"
+          "name": "[cisagov] U.S General Services Administration "
         },
         {
           "cisagov": {
@@ -5414,7 +5458,7 @@
               }
             ]
           },
-          "name": "[cisagov] GSA, FAS, FPKI (GSA, FAS, FPKI)"
+          "name": "[cisagov] GSA, FAS, FPKI"
         },
         {
           "cisagov": {
@@ -5431,7 +5475,7 @@
               }
             ]
           },
-          "name": "[cisagov] GSA, FAS, Integrated Award Environment (GSA, FAS, Integrated Award Environment)"
+          "name": "[cisagov] GSA, FAS, Integrated Award Environment"
         },
         {
           "cisagov": {
@@ -5448,7 +5492,7 @@
               }
             ]
           },
-          "name": "[cisagov] GSA (GSA)"
+          "name": "[cisagov] GSA"
         },
         {
           "cisagov": {
@@ -5465,7 +5509,7 @@
               }
             ]
           },
-          "name": "[cisagov] GSA,FAS,Technology Transformation ServiceService Administration (GSA,FAS,Technology Transformation ServiceService Administration)"
+          "name": "[cisagov] GSA,FAS,Technology Transformation ServiceService Administration"
         },
         {
           "cisagov": {
@@ -5482,7 +5526,7 @@
               }
             ]
           },
-          "name": "[cisagov] GSA, IDI, Presidential Transition Team (GSA, IDI, Presidential Transition Team)"
+          "name": "[cisagov] GSA, IDI, Presidential Transition Team"
         },
         {
           "cisagov": {
@@ -5499,7 +5543,7 @@
               }
             ]
           },
-          "name": "[cisagov] GSA, FAS, SASy (GSA, FAS, SASy)"
+          "name": "[cisagov] GSA, FAS, SASy"
         },
         {
           "cisagov": {
@@ -5516,7 +5560,7 @@
               }
             ]
           },
-          "name": "[cisagov] GSA, IDI,EAS (GSA, IDI,EAS)"
+          "name": "[cisagov] GSA, IDI,EAS"
         },
         {
           "cisagov": {
@@ -5542,7 +5586,7 @@
               }
             ]
           },
-          "name": "[cisagov] GSA, IC, ROCIS (GSA, IC, ROCIS)"
+          "name": "[cisagov] GSA, IC, ROCIS"
         },
         {
           "cisagov": {
@@ -5559,7 +5603,7 @@
               }
             ]
           },
-          "name": "[cisagov] GSA, IDI, EAS-SF (GSA, IDI, EAS-SF)"
+          "name": "[cisagov] GSA, IDI, EAS-SF"
         },
         {
           "cisagov": {
@@ -5576,7 +5620,7 @@
               }
             ]
           },
-          "name": "[cisagov] U.S. General Services Administration (GSA) (U.S. General Services Administration (GSA))"
+          "name": "[cisagov] U.S. General Services Administration (GSA)"
         },
         {
           "cisagov": {
@@ -5602,7 +5646,7 @@
               }
             ]
           },
-          "name": "[cisagov] U.S. General Services Administration (U.S. General Services Administration)"
+          "name": "[cisagov] U.S. General Services Administration"
         },
         {
           "cisagov": {
@@ -5619,7 +5663,7 @@
               }
             ]
           },
-          "name": "[cisagov] The Confederate Base Naming Commission (The Confederate Base Naming Commission)"
+          "name": "[cisagov] The Confederate Base Naming Commission"
         },
         {
           "cisagov": {
@@ -5636,7 +5680,7 @@
               }
             ]
           },
-          "name": "[cisagov] GSA, OGP, Web Portfolio (GSA, OGP, Web Portfolio)"
+          "name": "[cisagov] GSA, OGP, Web Portfolio"
         }
       ],
       "cisagov": {
@@ -5689,7 +5733,7 @@
           }
         ]
       },
-      "name": "[cisagov] General Services Administration (General Services Administration)"
+      "name": "[cisagov] General Services Administration"
     },
     {
       "cisagov": {
@@ -5706,7 +5750,7 @@
           }
         ]
       },
-      "name": "[cisagov] Harry S. Truman Scholarship Foundation (Harry S. Truman Scholarship Foundation)"
+      "name": "[cisagov] Harry S. Truman Scholarship Foundation"
     },
     {
       "cisagov": {
@@ -5723,7 +5767,7 @@
           }
         ]
       },
-      "name": "[cisagov] Inter-American Foundation (Inter-American Foundation)"
+      "name": "[cisagov] Inter-American Foundation"
     },
     {
       "cisagov": {
@@ -5740,7 +5784,7 @@
           }
         ]
       },
-      "name": "[cisagov] James Madison Memorial Fellowship Foundation (James Madison Memorial Fellowship Foundation)"
+      "name": "[cisagov] James Madison Memorial Fellowship Foundation"
     },
     {
       "cisagov": {
@@ -5757,7 +5801,7 @@
           }
         ]
       },
-      "name": "[cisagov] Japan-US Friendship Commission (Japan-US Friendship Commission)"
+      "name": "[cisagov] Japan-US Friendship Commission"
     },
     {
       "cisagov": {
@@ -5774,7 +5818,7 @@
           }
         ]
       },
-      "name": "[cisagov] Legal Services Corporation (Legal Services Corporation)"
+      "name": "[cisagov] Legal Services Corporation"
     },
     {
       "cisagov": {
@@ -5791,7 +5835,7 @@
           }
         ]
       },
-      "name": "[cisagov] Marine Mammal Commission (Marine Mammal Commission)"
+      "name": "[cisagov] Marine Mammal Commission"
     },
     {
       "children": [
@@ -5810,7 +5854,7 @@
               }
             ]
           },
-          "name": "[cisagov] MCC (MCC)"
+          "name": "[cisagov] MCC"
         }
       ],
       "cisagov": {
@@ -5827,7 +5871,7 @@
           }
         ]
       },
-      "name": "[cisagov] Millennium Challenge Corporation (Millennium Challenge Corporation)"
+      "name": "[cisagov] Millennium Challenge Corporation"
     },
     {
       "children": [
@@ -5846,7 +5890,7 @@
               }
             ]
           },
-          "name": "[cisagov] William Clinton Presidential Library (William Clinton Presidential Library)"
+          "name": "[cisagov] William Clinton Presidential Library"
         },
         {
           "cisagov": {
@@ -5872,7 +5916,7 @@
               }
             ]
           },
-          "name": "[cisagov] U.S. National Archives and Records Administration (U.S. National Archives and Records Administration)"
+          "name": "[cisagov] U.S. National Archives and Records Administration"
         },
         {
           "cisagov": {
@@ -5889,7 +5933,7 @@
               }
             ]
           },
-          "name": "[cisagov] Gerald R. Ford Library and Museum (Gerald R. Ford Library and Museum)"
+          "name": "[cisagov] Gerald R. Ford Library and Museum"
         },
         {
           "cisagov": {
@@ -5915,7 +5959,7 @@
               }
             ]
           },
-          "name": "[cisagov] National Archives (National Archives)"
+          "name": "[cisagov] National Archives"
         },
         {
           "cisagov": {
@@ -5932,7 +5976,7 @@
               }
             ]
           },
-          "name": "[cisagov] NARA (NARA)"
+          "name": "[cisagov] NARA"
         },
         {
           "cisagov": {
@@ -5949,7 +5993,7 @@
               }
             ]
           },
-          "name": "[cisagov] Jimmy Carter Library & Museum (Jimmy Carter Library & Museum)"
+          "name": "[cisagov] Jimmy Carter Library & Museum"
         },
         {
           "cisagov": {
@@ -5966,7 +6010,7 @@
               }
             ]
           },
-          "name": "[cisagov] NPOL (NPOL)"
+          "name": "[cisagov] NPOL"
         },
         {
           "cisagov": {
@@ -5983,7 +6027,7 @@
               }
             ]
           },
-          "name": "[cisagov] Policy and Planning (Policy and Planning)"
+          "name": "[cisagov] Policy and Planning"
         }
       ],
       "cisagov": {
@@ -6153,7 +6197,7 @@
           }
         ]
       },
-      "name": "[cisagov] National Archives and Records Administration (National Archives and Records Administration)"
+      "name": "[cisagov] National Archives and Records Administration"
     },
     {
       "cisagov": {
@@ -6170,7 +6214,7 @@
           }
         ]
       },
-      "name": "[cisagov] National Capital Planning Commission (National Capital Planning Commission)"
+      "name": "[cisagov] National Capital Planning Commission"
     },
     {
       "cisagov": {
@@ -6187,7 +6231,7 @@
           }
         ]
       },
-      "name": "[cisagov] National Council on Disability (National Council on Disability)"
+      "name": "[cisagov] National Council on Disability"
     },
     {
       "children": [
@@ -6206,7 +6250,7 @@
               }
             ]
           },
-          "name": "[cisagov] NCUA (NCUA)"
+          "name": "[cisagov] NCUA"
         }
       ],
       "cisagov": {
@@ -6223,7 +6267,7 @@
           }
         ]
       },
-      "name": "[cisagov] National Credit Union Administration (National Credit Union Administration)"
+      "name": "[cisagov] National Credit Union Administration"
     },
     {
       "cisagov": {
@@ -6240,7 +6284,7 @@
           }
         ]
       },
-      "name": "[cisagov] National Labor Relations Board (National Labor Relations Board)"
+      "name": "[cisagov] National Labor Relations Board"
     },
     {
       "cisagov": {
@@ -6257,7 +6301,7 @@
           }
         ]
       },
-      "name": "[cisagov] National Mediation Board (National Mediation Board)"
+      "name": "[cisagov] National Mediation Board"
     },
     {
       "children": [
@@ -6276,7 +6320,7 @@
               }
             ]
           },
-          "name": "[cisagov] U.S. Arctic Research Commission (U.S. Arctic Research Commission)"
+          "name": "[cisagov] U.S. Arctic Research Commission"
         },
         {
           "cisagov": {
@@ -6293,7 +6337,7 @@
               }
             ]
           },
-          "name": "[cisagov] Small Agency Council (Small Agency Council)"
+          "name": "[cisagov] Small Agency Council"
         },
         {
           "cisagov": {
@@ -6310,7 +6354,7 @@
               }
             ]
           },
-          "name": "[cisagov] National Science Foundation, Office of Polar Programs (National Science Foundation, Office of Polar Programs)"
+          "name": "[cisagov] National Science Foundation, Office of Polar Programs"
         }
       ],
       "cisagov": {
@@ -6336,7 +6380,7 @@
           }
         ]
       },
-      "name": "[cisagov] National Science Foundation (National Science Foundation)"
+      "name": "[cisagov] National Science Foundation"
     },
     {
       "cisagov": {
@@ -6353,7 +6397,7 @@
           }
         ]
       },
-      "name": "[cisagov] National Security Commission on Artificial Intelligence (National Security Commission on Artificial Intelligence)"
+      "name": "[cisagov] National Security Commission on Artificial Intelligence"
     },
     {
       "cisagov": {
@@ -6370,7 +6414,7 @@
           }
         ]
       },
-      "name": "[cisagov] National Transportation Safety Board (National Transportation Safety Board)"
+      "name": "[cisagov] National Transportation Safety Board"
     },
     {
       "cisagov": {
@@ -6387,7 +6431,7 @@
           }
         ]
       },
-      "name": "[cisagov] Northern Border Regional Commission (Northern Border Regional Commission)"
+      "name": "[cisagov] Northern Border Regional Commission"
     },
     {
       "children": [
@@ -6406,7 +6450,7 @@
               }
             ]
           },
-          "name": "[cisagov] U.S. Nuclear Regulatory Commission (U.S. Nuclear Regulatory Commission)"
+          "name": "[cisagov] U.S. Nuclear Regulatory Commission"
         }
       ],
       "cisagov": {
@@ -6423,7 +6467,7 @@
           }
         ]
       },
-      "name": "[cisagov] Nuclear Regulatory Commission (Nuclear Regulatory Commission)"
+      "name": "[cisagov] Nuclear Regulatory Commission"
     },
     {
       "cisagov": {
@@ -6440,7 +6484,7 @@
           }
         ]
       },
-      "name": "[cisagov] Occupational Safety & Health Review Commission (Occupational Safety & Health Review Commission)"
+      "name": "[cisagov] Occupational Safety & Health Review Commission"
     },
     {
       "cisagov": {
@@ -6466,7 +6510,7 @@
           }
         ]
       },
-      "name": "[cisagov] Office of Government Ethics (Office of Government Ethics)"
+      "name": "[cisagov] Office of Government Ethics"
     },
     {
       "cisagov": {
@@ -6483,7 +6527,7 @@
           }
         ]
       },
-      "name": "[cisagov] Postal Regulatory Commission (Postal Regulatory Commission)"
+      "name": "[cisagov] Postal Regulatory Commission"
     },
     {
       "cisagov": {
@@ -6518,7 +6562,7 @@
           }
         ]
       },
-      "name": "[cisagov] Presidio Trust (Presidio Trust)"
+      "name": "[cisagov] Presidio Trust"
     },
     {
       "cisagov": {
@@ -6535,7 +6579,7 @@
           }
         ]
       },
-      "name": "[cisagov] Selective Service System (Selective Service System)"
+      "name": "[cisagov] Selective Service System"
     },
     {
       "cisagov": {
@@ -6552,7 +6596,7 @@
           }
         ]
       },
-      "name": "[cisagov] Smithsonian Institution (Smithsonian Institution)"
+      "name": "[cisagov] Smithsonian Institution"
     },
     {
       "cisagov": {
@@ -6569,7 +6613,7 @@
           }
         ]
       },
-      "name": "[cisagov] Social Security Advisory Board (Social Security Advisory Board)"
+      "name": "[cisagov] Social Security Advisory Board"
     },
     {
       "cisagov": {
@@ -6586,7 +6630,7 @@
           }
         ]
       },
-      "name": "[cisagov] Southeast Crescent Regional Commission (Southeast Crescent Regional Commission)"
+      "name": "[cisagov] Southeast Crescent Regional Commission"
     },
     {
       "cisagov": {
@@ -6603,7 +6647,7 @@
           }
         ]
       },
-      "name": "[cisagov] State Justice Institute (State Justice Institute)"
+      "name": "[cisagov] State Justice Institute"
     },
     {
       "cisagov": {
@@ -6620,7 +6664,7 @@
           }
         ]
       },
-      "name": "[cisagov] Surface Transportation Board (Surface Transportation Board)"
+      "name": "[cisagov] Surface Transportation Board"
     },
     {
       "cisagov": {
@@ -6637,7 +6681,7 @@
           }
         ]
       },
-      "name": "[cisagov] The United States World War One Centennial Commission (The United States World War One Centennial Commission)"
+      "name": "[cisagov] The United States World War One Centennial Commission"
     },
     {
       "children": [
@@ -6656,7 +6700,7 @@
               }
             ]
           },
-          "name": "[cisagov] USAID/GH.CECA (USAID/GH.CECA)"
+          "name": "[cisagov] USAID/GH.CECA"
         },
         {
           "cisagov": {
@@ -6673,7 +6717,7 @@
               }
             ]
           },
-          "name": "[cisagov] Office of the Director of U.S. Foreign Assistance (Office of the Director of U.S. Foreign Assistance)"
+          "name": "[cisagov] Office of the Director of U.S. Foreign Assistance"
         },
         {
           "cisagov": {
@@ -6690,7 +6734,7 @@
               }
             ]
           },
-          "name": "[cisagov] Bureau for Resilience and Food Security (RFS) (Bureau for Resilience and Food Security (RFS))"
+          "name": "[cisagov] Bureau for Resilience and Food Security (RFS)"
         },
         {
           "cisagov": {
@@ -6707,7 +6751,7 @@
               }
             ]
           },
-          "name": "[cisagov] Foreign Assistance Office (F/PPS) (Foreign Assistance Office (F/PPS))"
+          "name": "[cisagov] Foreign Assistance Office (F/PPS)"
         },
         {
           "cisagov": {
@@ -6733,7 +6777,7 @@
               }
             ]
           },
-          "name": "[cisagov] Bureau for Global Health (Bureau for Global Health)"
+          "name": "[cisagov] Bureau for Global Health"
         },
         {
           "cisagov": {
@@ -6750,7 +6794,7 @@
               }
             ]
           },
-          "name": "[cisagov] M/CIO (M/CIO)"
+          "name": "[cisagov] M/CIO"
         }
       ],
       "cisagov": {
@@ -6776,7 +6820,7 @@
           }
         ]
       },
-      "name": "[cisagov] U.S. Agency for International Development (U.S. Agency for International Development)"
+      "name": "[cisagov] U.S. Agency for International Development"
     },
     {
       "cisagov": {
@@ -6793,7 +6837,7 @@
           }
         ]
       },
-      "name": "[cisagov] United States Holocaust Memorial Museum (United States Holocaust Memorial Museum)"
+      "name": "[cisagov] United States Holocaust Memorial Museum"
     },
     {
       "cisagov": {
@@ -6819,7 +6863,7 @@
           }
         ]
       },
-      "name": "[cisagov] United States Interagency Council on Homelessness (United States Interagency Council on Homelessness)"
+      "name": "[cisagov] United States Interagency Council on Homelessness"
     },
     {
       "children": [
@@ -6901,7 +6945,7 @@
               }
             ]
           },
-          "name": "[cisagov] Administrative Office U.S. Courts (Administrative Office U.S. Courts)"
+          "name": "[cisagov] Administrative Office U.S. Courts"
         },
         {
           "cisagov": {
@@ -6927,7 +6971,7 @@
               }
             ]
           },
-          "name": "[cisagov] US Court of Appeals for Veterans Claims (US Court of Appeals for Veterans Claims)"
+          "name": "[cisagov] US Court of Appeals for Veterans Claims"
         },
         {
           "cisagov": {
@@ -6944,7 +6988,7 @@
               }
             ]
           },
-          "name": "[cisagov] Federal Judicial Center (Federal Judicial Center)"
+          "name": "[cisagov] Federal Judicial Center"
         },
         {
           "cisagov": {
@@ -6961,7 +7005,7 @@
               }
             ]
           },
-          "name": "[cisagov] US Sentencing Commission (US Sentencing Commission)"
+          "name": "[cisagov] US Sentencing Commission"
         },
         {
           "cisagov": {
@@ -6978,7 +7022,7 @@
               }
             ]
           },
-          "name": "[cisagov] United States Tax Court (United States Tax Court)"
+          "name": "[cisagov] United States Tax Court"
         }
       ],
       "cisagov": {
@@ -7004,7 +7048,7 @@
           }
         ]
       },
-      "name": "[cisagov] U.S. Courts (U.S. Courts)"
+      "name": "[cisagov] U.S. Courts"
     },
     {
       "children": [
@@ -7068,7 +7112,7 @@
               }
             ]
           },
-          "name": "[cisagov] The Architect of the Capitol (The Architect of the Capitol)"
+          "name": "[cisagov] The Architect of the Capitol"
         },
         {
           "cisagov": {
@@ -7085,7 +7129,7 @@
               }
             ]
           },
-          "name": "[cisagov] AOC (AOC)"
+          "name": "[cisagov] AOC"
         }
       ],
       "cisagov": {
@@ -7147,7 +7191,7 @@
           }
         ]
       },
-      "name": "[cisagov] Architect of the Capitol (Architect of the Capitol)"
+      "name": "[cisagov] Architect of the Capitol"
     },
     {
       "cisagov": {
@@ -7173,7 +7217,7 @@
           }
         ]
       },
-      "name": "[cisagov] Congressional Budget Office (Congressional Budget Office)"
+      "name": "[cisagov] Congressional Budget Office"
     },
     {
       "cisagov": {
@@ -7190,7 +7234,7 @@
           }
         ]
       },
-      "name": "[cisagov] Cyberspace Solarium Commission (Cyberspace Solarium Commission)"
+      "name": "[cisagov] Cyberspace Solarium Commission"
     },
     {
       "children": [
@@ -7209,7 +7253,7 @@
               }
             ]
           },
-          "name": "[cisagov] FASAB (FASAB)"
+          "name": "[cisagov] FASAB"
         },
         {
           "cisagov": {
@@ -7226,7 +7270,7 @@
               }
             ]
           },
-          "name": "[cisagov] US Government Accountability Office (US Government Accountability Office)"
+          "name": "[cisagov] US Government Accountability Office"
         }
       ],
       "cisagov": {
@@ -7279,7 +7323,7 @@
           }
         ]
       },
-      "name": "[cisagov] Government Accountability Office (Government Accountability Office)"
+      "name": "[cisagov] Government Accountability Office"
     },
     {
       "children": [
@@ -7316,7 +7360,7 @@
               }
             ]
           },
-          "name": "[cisagov] US Government Publishing Office (US Government Publishing Office)"
+          "name": "[cisagov] US Government Publishing Office"
         },
         {
           "cisagov": {
@@ -7342,7 +7386,7 @@
               }
             ]
           },
-          "name": "[cisagov] U.S. Government Publishing Office (U.S. Government Publishing Office)"
+          "name": "[cisagov] U.S. Government Publishing Office"
         },
         {
           "cisagov": {
@@ -7368,7 +7412,7 @@
               }
             ]
           },
-          "name": "[cisagov] US Govt Publishing Office (US Govt Publishing Office)"
+          "name": "[cisagov] US Govt Publishing Office"
         },
         {
           "cisagov": {
@@ -7394,7 +7438,7 @@
               }
             ]
           },
-          "name": "[cisagov] United States Government Publishing Office (United States Government Publishing Office)"
+          "name": "[cisagov] United States Government Publishing Office"
         },
         {
           "cisagov": {
@@ -7411,7 +7455,7 @@
               }
             ]
           },
-          "name": "[cisagov] Office of Federal Register (NF) (Office of Federal Register (NF))"
+          "name": "[cisagov] Office of Federal Register (NF)"
         }
       ],
       "cisagov": {
@@ -7473,7 +7517,7 @@
           }
         ]
       },
-      "name": "[cisagov] Government Publishing Office (Government Publishing Office)"
+      "name": "[cisagov] Government Publishing Office"
     },
     {
       "children": [
@@ -7492,7 +7536,7 @@
               }
             ]
           },
-          "name": "[cisagov] Copyright Royalty Board (Copyright Royalty Board)"
+          "name": "[cisagov] Copyright Royalty Board"
         },
         {
           "cisagov": {
@@ -7509,7 +7553,7 @@
               }
             ]
           },
-          "name": "[cisagov] Congressional Research Service (Congressional Research Service)"
+          "name": "[cisagov] Congressional Research Service"
         }
       ],
       "cisagov": {
@@ -7796,7 +7840,7 @@
           }
         ]
       },
-      "name": "[cisagov] Library of Congress (Library of Congress)"
+      "name": "[cisagov] Library of Congress"
     },
     {
       "cisagov": {
@@ -7813,7 +7857,7 @@
           }
         ]
       },
-      "name": "[cisagov] Medicaid and CHIP Payment and Access Commission (Medicaid and CHIP Payment and Access Commission)"
+      "name": "[cisagov] Medicaid and CHIP Payment and Access Commission"
     },
     {
       "children": [
@@ -7832,7 +7876,7 @@
               }
             ]
           },
-          "name": "[cisagov] Congressional Office of Compliance (Congressional Office of Compliance)"
+          "name": "[cisagov] Congressional Office of Compliance"
         }
       ],
       "cisagov": {
@@ -7849,7 +7893,7 @@
           }
         ]
       },
-      "name": "[cisagov] Office of Congressional Workplace Rights (Office of Congressional Workplace Rights)"
+      "name": "[cisagov] Office of Congressional Workplace Rights"
     },
     {
       "children": [
@@ -7868,7 +7912,7 @@
               }
             ]
           },
-          "name": "[cisagov] United States Capitol Police (United States Capitol Police)"
+          "name": "[cisagov] United States Capitol Police"
         }
       ],
       "cisagov": {
@@ -7885,7 +7929,7 @@
           }
         ]
       },
-      "name": "[cisagov] U.S. Capitol Police (U.S. Capitol Police)"
+      "name": "[cisagov] U.S. Capitol Police"
     },
     {
       "cisagov": {
@@ -7902,7 +7946,7 @@
           }
         ]
       },
-      "name": "[cisagov] Western Hemisphere Drug Policy Commission (Western Hemisphere Drug Policy Commission)"
+      "name": "[cisagov] Western Hemisphere Drug Policy Commission"
     }
   ],
   "cisagov": {

@@ -1,7 +1,7 @@
 {
   "children": [
     {
-      "name": "[opmgov] DEPARTMENT OF ENERGY (DEPARTMENT OF ENERGY)",
+      "name": "[opmgov] DEPARTMENT OF ENERGY",
       "opmgov": {
         "employment": "16453",
         "id": "DEPARTMENT OF ENERGY",
@@ -10,7 +10,7 @@
       }
     },
     {
-      "name": "[opmgov] DEPARTMENT OF STATE (DEPARTMENT OF STATE)",
+      "name": "[opmgov] DEPARTMENT OF STATE",
       "opmgov": {
         "employment": "11622",
         "id": "DEPARTMENT OF STATE",
@@ -19,7 +19,7 @@
       }
     },
     {
-      "name": "[opmgov] NATIONAL CREDIT UNION ADMINISTRATION (NATIONAL CREDIT UNION ADMINISTRATION)",
+      "name": "[opmgov] NATIONAL CREDIT UNION ADMINISTRATION",
       "opmgov": {
         "employment": "1009",
         "id": "NATIONAL CREDIT UNION ADMINISTRATION",
@@ -28,7 +28,7 @@
       }
     },
     {
-      "name": "[opmgov] EQUAL EMPLOYMENT OPPORTUNITY COMMISSION (EQUAL EMPLOYMENT OPPORTUNITY COMMISSION)",
+      "name": "[opmgov] EQUAL EMPLOYMENT OPPORTUNITY COMMISSION",
       "opmgov": {
         "employment": "2388",
         "id": "EQUAL EMPLOYMENT OPPORTUNITY COMMISSION",
@@ -37,7 +37,7 @@
       }
     },
     {
-      "name": "[opmgov] ENVIRONMENTAL PROTECTION AGENCY (ENVIRONMENTAL PROTECTION AGENCY)",
+      "name": "[opmgov] ENVIRONMENTAL PROTECTION AGENCY",
       "opmgov": {
         "employment": "18448",
         "id": "ENVIRONMENTAL PROTECTION AGENCY",
@@ -46,7 +46,7 @@
       }
     },
     {
-      "name": "[opmgov] FEDERAL COMMUNICATIONS COMMISSION (FEDERAL COMMUNICATIONS COMMISSION)",
+      "name": "[opmgov] FEDERAL COMMUNICATIONS COMMISSION",
       "opmgov": {
         "employment": "1890",
         "id": "FEDERAL COMMUNICATIONS COMMISSION",
@@ -55,7 +55,7 @@
       }
     },
     {
-      "name": "[opmgov] FEDERAL DEPOSIT INSURANCE CORPORATION (FEDERAL DEPOSIT INSURANCE CORPORATION)",
+      "name": "[opmgov] FEDERAL DEPOSIT INSURANCE CORPORATION",
       "opmgov": {
         "employment": "6708",
         "id": "FEDERAL DEPOSIT INSURANCE CORPORATION",
@@ -64,7 +64,7 @@
       }
     },
     {
-      "name": "[opmgov] FEDERAL TRADE COMMISSION (FEDERAL TRADE COMMISSION)",
+      "name": "[opmgov] FEDERAL TRADE COMMISSION",
       "opmgov": {
         "employment": "1121",
         "id": "FEDERAL TRADE COMMISSION",
@@ -73,7 +73,7 @@
       }
     },
     {
-      "name": "[opmgov] BROADCASTING BOARD OF GOVERNORS (BROADCASTING BOARD OF GOVERNORS)",
+      "name": "[opmgov] BROADCASTING BOARD OF GOVERNORS",
       "opmgov": {
         "employment": "1754",
         "id": "BROADCASTING BOARD OF GOVERNORS",
@@ -82,7 +82,7 @@
       }
     },
     {
-      "name": "[opmgov] GOVERNMENT PRINTING OFFICE (GOVERNMENT PRINTING OFFICE)",
+      "name": "[opmgov] GOVERNMENT PRINTING OFFICE",
       "opmgov": {
         "employment": "2309",
         "id": "GOVERNMENT PRINTING OFFICE",
@@ -91,7 +91,7 @@
       }
     },
     {
-      "name": "[opmgov] NATIONAL SCIENCE FOUNDATION (NATIONAL SCIENCE FOUNDATION)",
+      "name": "[opmgov] NATIONAL SCIENCE FOUNDATION",
       "opmgov": {
         "employment": "1504",
         "id": "NATIONAL SCIENCE FOUNDATION",
@@ -100,7 +100,7 @@
       }
     },
     {
-      "name": "[opmgov] NATIONAL LABOR RELATIONS BOARD (NATIONAL LABOR RELATIONS BOARD)",
+      "name": "[opmgov] NATIONAL LABOR RELATIONS BOARD",
       "opmgov": {
         "employment": "1663",
         "id": "NATIONAL LABOR RELATIONS BOARD",
@@ -109,7 +109,7 @@
       }
     },
     {
-      "name": "[opmgov] NATIONAL ARCHIVES AND RECORDS ADMINISTRATION (NATIONAL ARCHIVES AND RECORDS ADMINISTRATION)",
+      "name": "[opmgov] NATIONAL ARCHIVES AND RECORDS ADMINISTRATION",
       "opmgov": {
         "employment": "3469",
         "id": "NATIONAL ARCHIVES AND RECORDS ADMINISTRATION",
@@ -118,7 +118,7 @@
       }
     },
     {
-      "name": "[opmgov] NUCLEAR REGULATORY COMMISSION (NUCLEAR REGULATORY COMMISSION)",
+      "name": "[opmgov] NUCLEAR REGULATORY COMMISSION",
       "opmgov": {
         "employment": "4161",
         "id": "NUCLEAR REGULATORY COMMISSION",
@@ -127,7 +127,7 @@
       }
     },
     {
-      "name": "[opmgov] OFFICE OF PERSONNEL MANAGEMENT (OFFICE OF PERSONNEL MANAGEMENT)",
+      "name": "[opmgov] OFFICE OF PERSONNEL MANAGEMENT",
       "opmgov": {
         "employment": "5907",
         "id": "OFFICE OF PERSONNEL MANAGEMENT",
@@ -136,7 +136,7 @@
       }
     },
     {
-      "name": "[opmgov] SMALL BUSINESS ADMINISTRATION (SMALL BUSINESS ADMINISTRATION)",
+      "name": "[opmgov] SMALL BUSINESS ADMINISTRATION",
       "opmgov": {
         "employment": "3877",
         "id": "SMALL BUSINESS ADMINISTRATION",
@@ -145,7 +145,7 @@
       }
     },
     {
-      "name": "[opmgov] SECURITIES AND EXCHANGE COMMISSION (SECURITIES AND EXCHANGE COMMISSION)",
+      "name": "[opmgov] SECURITIES AND EXCHANGE COMMISSION",
       "opmgov": {
         "employment": "3750",
         "id": "SECURITIES AND EXCHANGE COMMISSION",
@@ -154,7 +154,7 @@
       }
     },
     {
-      "name": "[opmgov] SOCIAL SECURITY ADMINISTRATION (SOCIAL SECURITY ADMINISTRATION)",
+      "name": "[opmgov] SOCIAL SECURITY ADMINISTRATION",
       "opmgov": {
         "employment": "67486",
         "id": "SOCIAL SECURITY ADMINISTRATION",
@@ -163,7 +163,7 @@
       }
     },
     {
-      "name": "[opmgov] FEDERAL LABOR RELATIONS AUTHORITY (FEDERAL LABOR RELATIONS AUTHORITY)",
+      "name": "[opmgov] FEDERAL LABOR RELATIONS AUTHORITY",
       "opmgov": {
         "employment": "134",
         "id": "FEDERAL LABOR RELATIONS AUTHORITY",
@@ -172,7 +172,7 @@
       }
     },
     {
-      "name": "[opmgov] MERIT SYSTEMS PROTECTION BOARD (MERIT SYSTEMS PROTECTION BOARD)",
+      "name": "[opmgov] MERIT SYSTEMS PROTECTION BOARD",
       "opmgov": {
         "employment": "213",
         "id": "MERIT SYSTEMS PROTECTION BOARD",
@@ -181,7 +181,7 @@
       }
     },
     {
-      "name": "[opmgov] DEFENSE NUCLEAR FACILITIES SAFETY BOARD (DEFENSE NUCLEAR FACILITIES SAFETY BOARD)",
+      "name": "[opmgov] DEFENSE NUCLEAR FACILITIES SAFETY BOARD",
       "opmgov": {
         "employment": "102",
         "id": "DEFENSE NUCLEAR FACILITIES SAFETY BOARD",
@@ -190,7 +190,7 @@
       }
     },
     {
-      "name": "[opmgov] PENSION BENEFIT GUARANTY CORPORATION (PENSION BENEFIT GUARANTY CORPORATION)",
+      "name": "[opmgov] PENSION BENEFIT GUARANTY CORPORATION",
       "opmgov": {
         "employment": "922",
         "id": "PENSION BENEFIT GUARANTY CORPORATION",
@@ -199,7 +199,7 @@
       }
     },
     {
-      "name": "[opmgov] OFFICE OF MANAGEMENT AND BUDGET (OFFICE OF MANAGEMENT AND BUDGET)",
+      "name": "[opmgov] OFFICE OF MANAGEMENT AND BUDGET",
       "opmgov": {
         "employment": "536",
         "id": "OFFICE OF MANAGEMENT AND BUDGET",
@@ -208,7 +208,7 @@
       }
     },
     {
-      "name": "[opmgov] COMMODITY FUTURES TRADING COMMISSION (COMMODITY FUTURES TRADING COMMISSION)",
+      "name": "[opmgov] COMMODITY FUTURES TRADING COMMISSION",
       "opmgov": {
         "employment": "593",
         "id": "COMMODITY FUTURES TRADING COMMISSION",
@@ -217,7 +217,7 @@
       }
     },
     {
-      "name": "[opmgov] EXPORT (EXPORT)",
+      "name": "[opmgov] EXPORT",
       "opmgov": {
         "employment": "388",
         "id": "EXPORT",
@@ -226,7 +226,7 @@
       }
     },
     {
-      "name": "[opmgov] OFFICE OF ADMINISTRATION (OFFICE OF ADMINISTRATION)",
+      "name": "[opmgov] OFFICE OF ADMINISTRATION",
       "opmgov": {
         "employment": "226",
         "id": "OFFICE OF ADMINISTRATION",
@@ -235,7 +235,7 @@
       }
     },
     {
-      "name": "[opmgov] FARM CREDIT ADMINISTRATION (FARM CREDIT ADMINISTRATION)",
+      "name": "[opmgov] FARM CREDIT ADMINISTRATION",
       "opmgov": {
         "employment": "278",
         "id": "FARM CREDIT ADMINISTRATION",
@@ -244,7 +244,7 @@
       }
     },
     {
-      "name": "[opmgov] FEDERAL MEDIATION AND CONCILIATION SERVICE (FEDERAL MEDIATION AND CONCILIATION SERVICE)",
+      "name": "[opmgov] FEDERAL MEDIATION AND CONCILIATION SERVICE",
       "opmgov": {
         "employment": "251",
         "id": "FEDERAL MEDIATION AND CONCILIATION SERVICE",
@@ -253,7 +253,7 @@
       }
     },
     {
-      "name": "[opmgov] OFFICE OF SPECIAL COUNSEL (OFFICE OF SPECIAL COUNSEL)",
+      "name": "[opmgov] OFFICE OF SPECIAL COUNSEL",
       "opmgov": {
         "employment": "105",
         "id": "OFFICE OF SPECIAL COUNSEL",
@@ -262,7 +262,7 @@
       }
     },
     {
-      "name": "[opmgov] OVERSEAS PRIVATE INVESTMENT CORPORATION (OVERSEAS PRIVATE INVESTMENT CORPORATION)",
+      "name": "[opmgov] OVERSEAS PRIVATE INVESTMENT CORPORATION",
       "opmgov": {
         "employment": "204",
         "id": "OVERSEAS PRIVATE INVESTMENT CORPORATION",
@@ -271,7 +271,7 @@
       }
     },
     {
-      "name": "[opmgov] PRESIDIO TRUST (PRESIDIO TRUST)",
+      "name": "[opmgov] PRESIDIO TRUST",
       "opmgov": {
         "employment": "340",
         "id": "PRESIDIO TRUST",
@@ -280,7 +280,7 @@
       }
     },
     {
-      "name": "[opmgov] INTERNATIONAL BOUNDARY AND WATER COMMISSION:  UNITED STATES AND MEXICO (INTERNATIONAL BOUNDARY AND WATER COMMISSION:  UNITED STATES AND MEXICO)",
+      "name": "[opmgov] INTERNATIONAL BOUNDARY AND WATER COMMISSION:  UNITED STATES AND MEXICO",
       "opmgov": {
         "employment": "277",
         "id": "INTERNATIONAL BOUNDARY AND WATER COMMISSION:  UNITED STATES AND MEXICO",
@@ -289,7 +289,7 @@
       }
     },
     {
-      "name": "[opmgov] U.S. HOLOCAUST MEMORIAL MUSEUM (U.S. HOLOCAUST MEMORIAL MUSEUM)",
+      "name": "[opmgov] U.S. HOLOCAUST MEMORIAL MUSEUM",
       "opmgov": {
         "employment": "192",
         "id": "U.S. HOLOCAUST MEMORIAL MUSEUM",
@@ -298,7 +298,7 @@
       }
     },
     {
-      "name": "[opmgov] FEDERAL HOUSING FINANCE AGENCY (FEDERAL HOUSING FINANCE AGENCY)",
+      "name": "[opmgov] FEDERAL HOUSING FINANCE AGENCY",
       "opmgov": {
         "employment": "433",
         "id": "FEDERAL HOUSING FINANCE AGENCY",
@@ -307,7 +307,7 @@
       }
     },
     {
-      "name": "[opmgov] CORPORATION FOR NATIONAL AND COMMUNITY SERVICE (CORPORATION FOR NATIONAL AND COMMUNITY SERVICE)",
+      "name": "[opmgov] CORPORATION FOR NATIONAL AND COMMUNITY SERVICE",
       "opmgov": {
         "employment": "586",
         "id": "CORPORATION FOR NATIONAL AND COMMUNITY SERVICE",
@@ -316,7 +316,7 @@
       }
     },
     {
-      "name": "[opmgov] FEDERAL ELECTION COMMISSION (FEDERAL ELECTION COMMISSION)",
+      "name": "[opmgov] FEDERAL ELECTION COMMISSION",
       "opmgov": {
         "employment": "365",
         "id": "FEDERAL ELECTION COMMISSION",
@@ -325,7 +325,7 @@
       }
     },
     {
-      "name": "[opmgov] U.S. TAX COURT (U.S. TAX COURT)",
+      "name": "[opmgov] U.S. TAX COURT",
       "opmgov": {
         "employment": "228",
         "id": "U.S. TAX COURT",
@@ -334,7 +334,7 @@
       }
     },
     {
-      "name": "[opmgov] FEDERAL MARITIME COMMISSION (FEDERAL MARITIME COMMISSION)",
+      "name": "[opmgov] FEDERAL MARITIME COMMISSION",
       "opmgov": {
         "employment": "125",
         "id": "FEDERAL MARITIME COMMISSION",
@@ -343,7 +343,7 @@
       }
     },
     {
-      "name": "[opmgov] MILLENNIUM CHALLENGE CORPORATION (MILLENNIUM CHALLENGE CORPORATION)",
+      "name": "[opmgov] MILLENNIUM CHALLENGE CORPORATION",
       "opmgov": {
         "employment": "289",
         "id": "MILLENNIUM CHALLENGE CORPORATION",
@@ -352,7 +352,7 @@
       }
     },
     {
-      "name": "[opmgov] PEACE CORPS (PEACE CORPS)",
+      "name": "[opmgov] PEACE CORPS",
       "opmgov": {
         "employment": "855",
         "id": "PEACE CORPS",
@@ -361,7 +361,7 @@
       }
     },
     {
-      "name": "[opmgov] ARMED FORCES RETIREMENT HOME (ARMED FORCES RETIREMENT HOME)",
+      "name": "[opmgov] ARMED FORCES RETIREMENT HOME",
       "opmgov": {
         "employment": "258",
         "id": "ARMED FORCES RETIREMENT HOME",
@@ -370,7 +370,7 @@
       }
     },
     {
-      "name": "[opmgov] RAILROAD RETIREMENT BOARD (RAILROAD RETIREMENT BOARD)",
+      "name": "[opmgov] RAILROAD RETIREMENT BOARD",
       "opmgov": {
         "employment": "967",
         "id": "RAILROAD RETIREMENT BOARD",
@@ -379,7 +379,7 @@
       }
     },
     {
-      "name": "[opmgov] CONSUMER PRODUCT SAFETY COMMISSION (CONSUMER PRODUCT SAFETY COMMISSION)",
+      "name": "[opmgov] CONSUMER PRODUCT SAFETY COMMISSION",
       "opmgov": {
         "employment": "477",
         "id": "CONSUMER PRODUCT SAFETY COMMISSION",
@@ -388,7 +388,7 @@
       }
     },
     {
-      "name": "[opmgov] SELECTIVE SERVICE SYSTEM (SELECTIVE SERVICE SYSTEM)",
+      "name": "[opmgov] SELECTIVE SERVICE SYSTEM",
       "opmgov": {
         "employment": "178",
         "id": "SELECTIVE SERVICE SYSTEM",
@@ -397,7 +397,7 @@
       }
     },
     {
-      "name": "[opmgov] NATIONAL TRANSPORTATION SAFETY BOARD (NATIONAL TRANSPORTATION SAFETY BOARD)",
+      "name": "[opmgov] NATIONAL TRANSPORTATION SAFETY BOARD",
       "opmgov": {
         "employment": "386",
         "id": "NATIONAL TRANSPORTATION SAFETY BOARD",
@@ -406,7 +406,7 @@
       }
     },
     {
-      "name": "[opmgov] U.S. INTERNATIONAL TRADE COMMISSION (U.S. INTERNATIONAL TRADE COMMISSION)",
+      "name": "[opmgov] U.S. INTERNATIONAL TRADE COMMISSION",
       "opmgov": {
         "employment": "396",
         "id": "U.S. INTERNATIONAL TRADE COMMISSION",
@@ -415,7 +415,7 @@
       }
     },
     {
-      "name": "[opmgov] OFFICE OF THE U.S. TRADE REPRESENTATIVE (OFFICE OF THE U.S. TRADE REPRESENTATIVE)",
+      "name": "[opmgov] OFFICE OF THE U.S. TRADE REPRESENTATIVE",
       "opmgov": {
         "employment": "231",
         "id": "OFFICE OF THE U.S. TRADE REPRESENTATIVE",
@@ -424,7 +424,7 @@
       }
     },
     {
-      "name": "[opmgov] AFRICAN DEVELOPMENT FOUNDATION (AFRICAN DEVELOPMENT FOUNDATION)",
+      "name": "[opmgov] AFRICAN DEVELOPMENT FOUNDATION",
       "opmgov": {
         "employment": "27",
         "id": "AFRICAN DEVELOPMENT FOUNDATION",
@@ -433,7 +433,7 @@
       }
     },
     {
-      "name": "[opmgov] APPALACHIAN REGIONAL COMMISSION (APPALACHIAN REGIONAL COMMISSION)",
+      "name": "[opmgov] APPALACHIAN REGIONAL COMMISSION",
       "opmgov": {
         "employment": "9",
         "id": "APPALACHIAN REGIONAL COMMISSION",
@@ -442,7 +442,7 @@
       }
     },
     {
-      "name": "[opmgov] ARCTIC RESEARCH COMMISSION (ARCTIC RESEARCH COMMISSION)",
+      "name": "[opmgov] ARCTIC RESEARCH COMMISSION",
       "opmgov": {
         "employment": "10",
         "id": "ARCTIC RESEARCH COMMISSION",
@@ -451,7 +451,7 @@
       }
     },
     {
-      "name": "[opmgov] JAMES MADISON MEMORIAL FELLOWSHIP FOUNDATION (JAMES MADISON MEMORIAL FELLOWSHIP FOUNDATION)",
+      "name": "[opmgov] JAMES MADISON MEMORIAL FELLOWSHIP FOUNDATION",
       "opmgov": {
         "employment": "6",
         "id": "JAMES MADISON MEMORIAL FELLOWSHIP FOUNDATION",
@@ -460,7 +460,7 @@
       }
     },
     {
-      "name": "[opmgov] ARCHITECTURAL AND TRANSPORTATION BARRIERS COMPLIANCE BOARD (ARCHITECTURAL AND TRANSPORTATION BARRIERS COMPLIANCE BOARD)",
+      "name": "[opmgov] ARCHITECTURAL AND TRANSPORTATION BARRIERS COMPLIANCE BOARD",
       "opmgov": {
         "employment": "41",
         "id": "ARCHITECTURAL AND TRANSPORTATION BARRIERS COMPLIANCE BOARD",
@@ -469,7 +469,7 @@
       }
     },
     {
-      "name": "[opmgov] NUCLEAR WASTE TECHNICAL REVIEW BOARD (NUCLEAR WASTE TECHNICAL REVIEW BOARD)",
+      "name": "[opmgov] NUCLEAR WASTE TECHNICAL REVIEW BOARD",
       "opmgov": {
         "employment": "24",
         "id": "NUCLEAR WASTE TECHNICAL REVIEW BOARD",
@@ -478,7 +478,7 @@
       }
     },
     {
-      "name": "[opmgov] CHRISTOPHER COLUMBUS FELLOWSHIP FOUNDATION (CHRISTOPHER COLUMBUS FELLOWSHIP FOUNDATION)",
+      "name": "[opmgov] CHRISTOPHER COLUMBUS FELLOWSHIP FOUNDATION",
       "opmgov": {
         "employment": "9",
         "id": "CHRISTOPHER COLUMBUS FELLOWSHIP FOUNDATION",
@@ -487,7 +487,7 @@
       }
     },
     {
-      "name": "[opmgov] COMMISSION ON CIVIL RIGHTS (COMMISSION ON CIVIL RIGHTS)",
+      "name": "[opmgov] COMMISSION ON CIVIL RIGHTS",
       "opmgov": {
         "employment": "50",
         "id": "COMMISSION ON CIVIL RIGHTS",
@@ -496,7 +496,7 @@
       }
     },
     {
-      "name": "[opmgov] COUNCIL OF ECONOMIC ADVISERS (COUNCIL OF ECONOMIC ADVISERS)",
+      "name": "[opmgov] COUNCIL OF ECONOMIC ADVISERS",
       "opmgov": {
         "employment": "27",
         "id": "COUNCIL OF ECONOMIC ADVISERS",
@@ -505,7 +505,7 @@
       }
     },
     {
-      "name": "[opmgov] COMMISSION OF FINE ARTS (COMMISSION OF FINE ARTS)",
+      "name": "[opmgov] COMMISSION OF FINE ARTS",
       "opmgov": {
         "employment": "11",
         "id": "COMMISSION OF FINE ARTS",
@@ -514,7 +514,7 @@
       }
     },
     {
-      "name": "[opmgov] NATIONAL COMMISSION ON LIBRARIES AND INFORMATION SCIENCE (NATIONAL COMMISSION ON LIBRARIES AND INFORMATION SCIENCE)",
+      "name": "[opmgov] NATIONAL COMMISSION ON LIBRARIES AND INFORMATION SCIENCE",
       "opmgov": {
         "employment": "17",
         "id": "NATIONAL COMMISSION ON LIBRARIES AND INFORMATION SCIENCE",
@@ -523,7 +523,7 @@
       }
     },
     {
-      "name": "[opmgov] PUBLIC INTEREST DECLASSIFICATION BOARD (PUBLIC INTEREST DECLASSIFICATION BOARD)",
+      "name": "[opmgov] PUBLIC INTEREST DECLASSIFICATION BOARD",
       "opmgov": {
         "employment": "7",
         "id": "PUBLIC INTEREST DECLASSIFICATION BOARD",
@@ -532,7 +532,7 @@
       }
     },
     {
-      "name": "[opmgov] DENALI COMMISSION (DENALI COMMISSION)",
+      "name": "[opmgov] DENALI COMMISSION",
       "opmgov": {
         "employment": "22",
         "id": "DENALI COMMISSION",
@@ -541,7 +541,7 @@
       }
     },
     {
-      "name": "[opmgov] COUNCIL ON ENVIRONMENTAL QUALITY/OFFICE OF ENVIRONMENTAL QUALITY (COUNCIL ON ENVIRONMENTAL QUALITY/OFFICE OF ENVIRONMENTAL QUALITY)",
+      "name": "[opmgov] COUNCIL ON ENVIRONMENTAL QUALITY/OFFICE OF ENVIRONMENTAL QUALITY",
       "opmgov": {
         "employment": "24",
         "id": "COUNCIL ON ENVIRONMENTAL QUALITY/OFFICE OF ENVIRONMENTAL QUALITY",
@@ -550,7 +550,7 @@
       }
     },
     {
-      "name": "[opmgov] TRADE AND DEVELOPMENT AGENCY (TRADE AND DEVELOPMENT AGENCY)",
+      "name": "[opmgov] TRADE AND DEVELOPMENT AGENCY",
       "opmgov": {
         "employment": "45",
         "id": "TRADE AND DEVELOPMENT AGENCY",
@@ -559,7 +559,7 @@
       }
     },
     {
-      "name": "[opmgov] FEDERAL FINANCIAL INSTITUTIONS EXAMINATION COUNCIL (FEDERAL FINANCIAL INSTITUTIONS EXAMINATION COUNCIL)",
+      "name": "[opmgov] FEDERAL FINANCIAL INSTITUTIONS EXAMINATION COUNCIL",
       "opmgov": {
         "employment": "10",
         "id": "FEDERAL FINANCIAL INSTITUTIONS EXAMINATION COUNCIL",
@@ -568,7 +568,7 @@
       }
     },
     {
-      "name": "[opmgov] CHEMICAL SAFETY AND HAZARD INVESTIGATION BOARD (CHEMICAL SAFETY AND HAZARD INVESTIGATION BOARD)",
+      "name": "[opmgov] CHEMICAL SAFETY AND HAZARD INVESTIGATION BOARD",
       "opmgov": {
         "employment": "39",
         "id": "CHEMICAL SAFETY AND HAZARD INVESTIGATION BOARD",
@@ -577,7 +577,7 @@
       }
     },
     {
-      "name": "[opmgov] FARM CREDIT SYSTEM INSURANCE CORPORATION (FARM CREDIT SYSTEM INSURANCE CORPORATION)",
+      "name": "[opmgov] FARM CREDIT SYSTEM INSURANCE CORPORATION",
       "opmgov": {
         "employment": "11",
         "id": "FARM CREDIT SYSTEM INSURANCE CORPORATION",
@@ -586,7 +586,7 @@
       }
     },
     {
-      "name": "[opmgov] BARRY GOLDWATER SCHOLARSHIP AND EXCELLENCE IN EDUCATION FOUNDATION (BARRY GOLDWATER SCHOLARSHIP AND EXCELLENCE IN EDUCATION FOUNDATION)",
+      "name": "[opmgov] BARRY GOLDWATER SCHOLARSHIP AND EXCELLENCE IN EDUCATION FOUNDATION",
       "opmgov": {
         "employment": "7",
         "id": "BARRY GOLDWATER SCHOLARSHIP AND EXCELLENCE IN EDUCATION FOUNDATION",
@@ -595,7 +595,7 @@
       }
     },
     {
-      "name": "[opmgov] OFFICE OF GOVERNMENT ETHICS (OFFICE OF GOVERNMENT ETHICS)",
+      "name": "[opmgov] OFFICE OF GOVERNMENT ETHICS",
       "opmgov": {
         "employment": "75",
         "id": "OFFICE OF GOVERNMENT ETHICS",
@@ -604,7 +604,7 @@
       }
     },
     {
-      "name": "[opmgov] VALLES CALDERA TRUST (VALLES CALDERA TRUST)",
+      "name": "[opmgov] VALLES CALDERA TRUST",
       "opmgov": {
         "employment": "39",
         "id": "VALLES CALDERA TRUST",
@@ -613,7 +613,7 @@
       }
     },
     {
-      "name": "[opmgov] VIETNAM EDUCATION FOUNDATION (VIETNAM EDUCATION FOUNDATION)",
+      "name": "[opmgov] VIETNAM EDUCATION FOUNDATION",
       "opmgov": {
         "employment": "8",
         "id": "VIETNAM EDUCATION FOUNDATION",
@@ -622,7 +622,7 @@
       }
     },
     {
-      "name": "[opmgov] ELECTION ASSISTANCE COMMISSION (ELECTION ASSISTANCE COMMISSION)",
+      "name": "[opmgov] ELECTION ASSISTANCE COMMISSION",
       "opmgov": {
         "employment": "56",
         "id": "ELECTION ASSISTANCE COMMISSION",
@@ -631,7 +631,7 @@
       }
     },
     {
-      "name": "[opmgov] INTERNATIONAL BOUNDARY COMMISSION:  UNITED STATES AND CANADA (INTERNATIONAL BOUNDARY COMMISSION:  UNITED STATES AND CANADA)",
+      "name": "[opmgov] INTERNATIONAL BOUNDARY COMMISSION:  UNITED STATES AND CANADA",
       "opmgov": {
         "employment": "5",
         "id": "INTERNATIONAL BOUNDARY COMMISSION:  UNITED STATES AND CANADA",
@@ -640,7 +640,7 @@
       }
     },
     {
-      "name": "[opmgov] INTERNATIONAL JOINT COMMISSION:  UNITED STATES AND CANADA (INTERNATIONAL JOINT COMMISSION:  UNITED STATES AND CANADA)",
+      "name": "[opmgov] INTERNATIONAL JOINT COMMISSION:  UNITED STATES AND CANADA",
       "opmgov": {
         "employment": "18",
         "id": "INTERNATIONAL JOINT COMMISSION:  UNITED STATES AND CANADA",
@@ -649,7 +649,7 @@
       }
     },
     {
-      "name": "[opmgov] COMMITTEE FOR PURCHASE FROM PEOPLE WHO ARE BLIND OR SEVERELY DISABLED (COMMITTEE FOR PURCHASE FROM PEOPLE WHO ARE BLIND OR SEVERELY DISABLED)",
+      "name": "[opmgov] COMMITTEE FOR PURCHASE FROM PEOPLE WHO ARE BLIND OR SEVERELY DISABLED",
       "opmgov": {
         "employment": "28",
         "id": "COMMITTEE FOR PURCHASE FROM PEOPLE WHO ARE BLIND OR SEVERELY DISABLED",
@@ -658,7 +658,7 @@
       }
     },
     {
-      "name": "[opmgov] ADVISORY COUNCIL ON HISTORIC PRESERVATION (ADVISORY COUNCIL ON HISTORIC PRESERVATION)",
+      "name": "[opmgov] ADVISORY COUNCIL ON HISTORIC PRESERVATION",
       "opmgov": {
         "employment": "53",
         "id": "ADVISORY COUNCIL ON HISTORIC PRESERVATION",
@@ -667,7 +667,7 @@
       }
     },
     {
-      "name": "[opmgov] HARRY S. TRUMAN SCHOLARSHIP FOUNDATION (HARRY S. TRUMAN SCHOLARSHIP FOUNDATION)",
+      "name": "[opmgov] HARRY S. TRUMAN SCHOLARSHIP FOUNDATION",
       "opmgov": {
         "employment": "4",
         "id": "HARRY S. TRUMAN SCHOLARSHIP FOUNDATION",
@@ -676,7 +676,7 @@
       }
     },
     {
-      "name": "[opmgov] U.S. INTERAGENCY COUNCIL ON HOMELESSNESS (U.S. INTERAGENCY COUNCIL ON HOMELESSNESS)",
+      "name": "[opmgov] U.S. INTERAGENCY COUNCIL ON HOMELESSNESS",
       "opmgov": {
         "employment": "15",
         "id": "U.S. INTERAGENCY COUNCIL ON HOMELESSNESS",
@@ -685,7 +685,7 @@
       }
     },
     {
-      "name": "[opmgov] INTER (INTER)",
+      "name": "[opmgov] INTER",
       "opmgov": {
         "employment": "45",
         "id": "INTER",
@@ -694,7 +694,7 @@
       }
     },
     {
-      "name": "[opmgov] MARINE MAMMAL COMMISSION (MARINE MAMMAL COMMISSION)",
+      "name": "[opmgov] MARINE MAMMAL COMMISSION",
       "opmgov": {
         "employment": "22",
         "id": "MARINE MAMMAL COMMISSION",
@@ -703,7 +703,7 @@
       }
     },
     {
-      "name": "[opmgov] NATIONAL COUNCIL ON DISABILITY (NATIONAL COUNCIL ON DISABILITY)",
+      "name": "[opmgov] NATIONAL COUNCIL ON DISABILITY",
       "opmgov": {
         "employment": "23",
         "id": "NATIONAL COUNCIL ON DISABILITY",
@@ -712,7 +712,7 @@
       }
     },
     {
-      "name": "[opmgov] NATIONAL MEDIATION BOARD (NATIONAL MEDIATION BOARD)",
+      "name": "[opmgov] NATIONAL MEDIATION BOARD",
       "opmgov": {
         "employment": "48",
         "id": "NATIONAL MEDIATION BOARD",
@@ -721,7 +721,7 @@
       }
     },
     {
-      "name": "[opmgov] NATIONAL CAPITAL PLANNING COMMISSION (NATIONAL CAPITAL PLANNING COMMISSION)",
+      "name": "[opmgov] NATIONAL CAPITAL PLANNING COMMISSION",
       "opmgov": {
         "employment": "46",
         "id": "NATIONAL CAPITAL PLANNING COMMISSION",
@@ -730,7 +730,7 @@
       }
     },
     {
-      "name": "[opmgov] NATIONAL SECURITY COUNCIL (NATIONAL SECURITY COUNCIL)",
+      "name": "[opmgov] NATIONAL SECURITY COUNCIL",
       "opmgov": {
         "employment": "69",
         "id": "NATIONAL SECURITY COUNCIL",
@@ -739,7 +739,7 @@
       }
     },
     {
-      "name": "[opmgov] OCCUPATIONAL SAFETY AND HEALTH REVIEW COMMISSION (OCCUPATIONAL SAFETY AND HEALTH REVIEW COMMISSION)",
+      "name": "[opmgov] OCCUPATIONAL SAFETY AND HEALTH REVIEW COMMISSION",
       "opmgov": {
         "employment": "57",
         "id": "OCCUPATIONAL SAFETY AND HEALTH REVIEW COMMISSION",
@@ -748,7 +748,7 @@
       }
     },
     {
-      "name": "[opmgov] OFFICE OF NATIONAL DRUG CONTROL POLICY (OFFICE OF NATIONAL DRUG CONTROL POLICY)",
+      "name": "[opmgov] OFFICE OF NATIONAL DRUG CONTROL POLICY",
       "opmgov": {
         "employment": "97",
         "id": "OFFICE OF NATIONAL DRUG CONTROL POLICY",
@@ -757,7 +757,7 @@
       }
     },
     {
-      "name": "[opmgov] OFFICE OF NAVAJO AND HOPI INDIAN RELOCATION (OFFICE OF NAVAJO AND HOPI INDIAN RELOCATION)",
+      "name": "[opmgov] OFFICE OF NAVAJO AND HOPI INDIAN RELOCATION",
       "opmgov": {
         "employment": "45",
         "id": "OFFICE OF NAVAJO AND HOPI INDIAN RELOCATION",
@@ -766,7 +766,7 @@
       }
     },
     {
-      "name": "[opmgov] FEDERAL RETIREMENT THRIFT INVESTMENT BOARD (FEDERAL RETIREMENT THRIFT INVESTMENT BOARD)",
+      "name": "[opmgov] FEDERAL RETIREMENT THRIFT INVESTMENT BOARD",
       "opmgov": {
         "employment": "85",
         "id": "FEDERAL RETIREMENT THRIFT INVESTMENT BOARD",
@@ -775,7 +775,7 @@
       }
     },
     {
-      "name": "[opmgov] FEDERAL MINE SAFETY AND HEALTH REVIEW COMMISSION (FEDERAL MINE SAFETY AND HEALTH REVIEW COMMISSION)",
+      "name": "[opmgov] FEDERAL MINE SAFETY AND HEALTH REVIEW COMMISSION",
       "opmgov": {
         "employment": "45",
         "id": "FEDERAL MINE SAFETY AND HEALTH REVIEW COMMISSION",
@@ -784,7 +784,7 @@
       }
     },
     {
-      "name": "[opmgov] RECOVERY ACT ACCOUNTABILITY & TRANSPARENCY BOARD (RECOVERY ACT ACCOUNTABILITY & TRANSPARENCY BOARD)",
+      "name": "[opmgov] RECOVERY ACT ACCOUNTABILITY & TRANSPARENCY BOARD",
       "opmgov": {
         "employment": "24",
         "id": "RECOVERY ACT ACCOUNTABILITY & TRANSPARENCY BOARD",
@@ -793,7 +793,7 @@
       }
     },
     {
-      "name": "[opmgov] OFFICE OF SCIENCE AND TECHNOLOGY POLICY (OFFICE OF SCIENCE AND TECHNOLOGY POLICY)",
+      "name": "[opmgov] OFFICE OF SCIENCE AND TECHNOLOGY POLICY",
       "opmgov": {
         "employment": "29",
         "id": "OFFICE OF SCIENCE AND TECHNOLOGY POLICY",
@@ -802,7 +802,7 @@
       }
     },
     {
-      "name": "[opmgov] JAPAN (JAPAN)",
+      "name": "[opmgov] JAPAN",
       "opmgov": {
         "employment": "13",
         "id": "JAPAN",
@@ -811,7 +811,7 @@
       }
     },
     {
-      "name": "[opmgov] UTAH RECLAMATION MITIGATION AND CONSERVATION COMMISSION (UTAH RECLAMATION MITIGATION AND CONSERVATION COMMISSION)",
+      "name": "[opmgov] UTAH RECLAMATION MITIGATION AND CONSERVATION COMMISSION",
       "opmgov": {
         "employment": "15",
         "id": "UTAH RECLAMATION MITIGATION AND CONSERVATION COMMISSION",
@@ -820,7 +820,7 @@
       }
     },
     {
-      "name": "[opmgov] FINANCIAL CRISIS INQUIRY COMMISSION (FINANCIAL CRISIS INQUIRY COMMISSION)",
+      "name": "[opmgov] FINANCIAL CRISIS INQUIRY COMMISSION",
       "opmgov": {
         "employment": "30",
         "id": "FINANCIAL CRISIS INQUIRY COMMISSION",
@@ -829,7 +829,7 @@
       }
     },
     {
-      "name": "[opmgov] MEDICARE PAYMENT ADVISORY COMMISSION (MEDICARE PAYMENT ADVISORY COMMISSION)",
+      "name": "[opmgov] MEDICARE PAYMENT ADVISORY COMMISSION",
       "opmgov": {
         "employment": "49",
         "id": "MEDICARE PAYMENT ADVISORY COMMISSION",
@@ -838,7 +838,7 @@
       }
     },
     {
-      "name": "[opmgov] U.S. COMMISSION ON INTERNATIONAL RELIGIOUS FREEDOM (U.S. COMMISSION ON INTERNATIONAL RELIGIOUS FREEDOM)",
+      "name": "[opmgov] U.S. COMMISSION ON INTERNATIONAL RELIGIOUS FREEDOM",
       "opmgov": {
         "employment": "24",
         "id": "U.S. COMMISSION ON INTERNATIONAL RELIGIOUS FREEDOM",
@@ -847,7 +847,7 @@
       }
     },
     {
-      "name": "[opmgov] UNITED STATES (UNITED STATES)",
+      "name": "[opmgov] UNITED STATES",
       "opmgov": {
         "employment": "31",
         "id": "UNITED STATES",
@@ -856,7 +856,7 @@
       }
     },
     {
-      "name": "[opmgov] DWIGHT D. EISENHOWER MEMORIAL COMMISSION (DWIGHT D. EISENHOWER MEMORIAL COMMISSION)",
+      "name": "[opmgov] DWIGHT D. EISENHOWER MEMORIAL COMMISSION",
       "opmgov": {
         "employment": "11",
         "id": "DWIGHT D. EISENHOWER MEMORIAL COMMISSION",

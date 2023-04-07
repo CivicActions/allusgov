@@ -808,7 +808,7 @@ US FEDERAL GOVERNMENT - budget, cisagov, opmgov, samgov, usagov, usaspending
 │   ├── WEST AFRICAN RICE DEVELOPMENT ASSOCIATION - samgov
 │   ├── WHITE HOUSE COMMISSION ON PRESIDENTIAL SCHOLARS - samgov
 │   ├── WHITE HOUSE CONFERENCE ON INDIAN EDUCATION - samgov
-│   ├── WHITE HOUSE OFFICE - samgov
+│   ├── White House Office - cisagov, samgov
 │   ├── Office of Management and Budget - budget, cisagov, opmgov
 │   ├── Office of the  National Cyber Director - budget
 │   ├── Office of National Drug Control Policy - budget, cisagov, opmgov
@@ -4475,6 +4475,7 @@ US FEDERAL GOVERNMENT - budget, cisagov, opmgov, samgov, usagov, usaspending
 │   ├── OMB - cisagov
 │   ├── White House Council on Environmental Quality (CEQ) - cisagov
 │   ├── EOP - cisagov
+│   ├── White House Office - cisagov
 │   ├── Office of Management and Budget, Budget Review Division - cisagov
 │   ├── National Nanotechnology Coordination Office - cisagov
 │   ├── Council on Environmental Quality - cisagov
