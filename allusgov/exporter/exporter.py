@@ -148,7 +148,9 @@ class WideCSVExporter(FlatBaseExporter):
     def export(self) -> None:
         self.logger.info("Saving the " + self.source + " tree in wide CSV format...")
         with open(self.export_path("csv", "wide"), "w", encoding="utf8") as f:
-            writer = csv.DictWriter(f, fieldnames=self.attrib_names)
+            writer = csv.DictWriter(
+                f, fieldnames=self.attrib_names, lineterminator="\n"
+            )
             for org in self.orgs:
                 del org["node"]
                 writer.writerow(org)

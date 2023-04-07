@@ -149,7 +149,7 @@ def merge(
 @click.option(
     "--merge/--no-merge",
     " /-M",
-    "to_spider",
+    "to_merge",
     default=True,
     help="Enable/disable merge step (default: True)",
 )
@@ -185,7 +185,7 @@ def all_steps(
             sources=sources,
             data_dir=data_dir,
             exporters=exporters,
-            export=to_export,
+            to_export=to_export,
         )
 
     if to_merge:
