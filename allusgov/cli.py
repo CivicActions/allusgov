@@ -11,12 +11,12 @@ from scrapy.crawler import CrawlerProcess
 
 from . import settings
 from .cli_options import (
-    logger,
-    global_options,
-    spider_options,
-    build_options,
-    merge_options,
     CustomGroup,
+    build_options,
+    global_options,
+    logger,
+    merge_options,
+    spider_options,
 )
 from .merger import merger
 from .utils.utils import scrapy_settings, scrapy_spider_closed

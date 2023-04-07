@@ -1043,7 +1043,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT",
-        "name": "/US FEDERAL GOVERNMENT",
+        "name": "US FEDERAL GOVERNMENT",
+        "path": "/US FEDERAL GOVERNMENT",
         "usagov_name": "US FEDERAL GOVERNMENT",
         "value": "/US FEDERAL GOVERNMENT"
       }
@@ -1051,7 +1052,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Agency for International Development (USAID)",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Agency for International Development (USAID)",
+        "name": "[usagov] Agency for International Development (USAID)",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Agency for International Development (USAID)",
         "usagov_acronym": "USAID",
         "usagov_contact_0_link": "https://www.usaid.gov/contact-us",
         "usagov_contact_0_title": "Contact the U.S. Agency for International Development",
@@ -1077,7 +1079,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Agency for Global Media",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Agency for Global Media",
+        "name": "[usagov] Agency for Global Media",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Agency for Global Media",
         "usagov_contact_0_link": "https://www.usagm.gov/news-and-information/press-room/",
         "usagov_contact_0_title": "Contact the U.S. Agency for Global Media",
         "usagov_description": "The U.S. Agency for Global Media, formerly known as the Broadcasting Board of Governors, broadcasts news and information about the United States and the world to audiences abroad.",
@@ -1095,7 +1098,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] African Development Foundation",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] African Development Foundation",
+        "name": "[usagov] African Development Foundation",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] African Development Foundation",
         "usagov_contact_0_link": "http://www.usadf.gov/contact-us/",
         "usagov_contact_0_title": "Contact the African Development Foundation",
         "usagov_description": "The African Development Foundation provides grants to community groups and small enterprises that benefit under-served and marginalized groups in Africa.",
@@ -1113,7 +1117,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Advisory Council on Historic Preservation",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Advisory Council on Historic Preservation",
+        "name": "[usagov] Advisory Council on Historic Preservation",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Advisory Council on Historic Preservation",
         "usagov_contact_0_link": "https://www.achp.gov/contact/feedback",
         "usagov_contact_0_title": "Contact the Advisory Council on Historic Preservation",
         "usagov_description": "The Advisory Council on Historic Preservation encourages the preservation of historic properties across the nation.",
@@ -1131,7 +1136,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Administrative Office of the U.S. Courts",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Administrative Office of the U.S. Courts",
+        "name": "[usagov] Administrative Office of the U.S. Courts",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Administrative Office of the U.S. Courts",
         "usagov_contact_0_link": "https://www.uscourts.gov/contact-us",
         "usagov_contact_0_title": "Contact the Administrative Office of the U.S. Courts",
         "usagov_description": "The Administrative Office of the United States Courts handles the nonjudicial, administrative business of the United States Courts such as maintaining statistics and managing Court budgets.",
@@ -1151,7 +1157,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Administrative Conference of the United States",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Administrative Conference of the United States",
+        "name": "[usagov] Administrative Conference of the United States",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Administrative Conference of the United States",
         "usagov_contact_0_link": "https://www.acus.gov/directory/staff",
         "usagov_contact_0_title": "Contact the Administrative Conference of the United States",
         "usagov_description": "The Administrative Conference of the United States is an independent federal agency dedicated to improving federal agency administrative processes and procedures.",
@@ -1169,7 +1176,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Access Board",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Access Board",
+        "name": "[usagov] Access Board",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Access Board",
         "usagov_contact_0_link": "https://www.access-board.gov/contact/",
         "usagov_contact_0_title": "Contact the U.S. Access Board",
         "usagov_contact_1_link": "https://consumercomplaints.fcc.gov/hc/en-us",
@@ -1194,7 +1202,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] AbilityOne Commission",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] AbilityOne Commission",
+        "name": "[usagov] AbilityOne Commission",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] AbilityOne Commission",
         "usagov_contact_0_link": "https://www.abilityone.gov/contact_us/index.html",
         "usagov_contact_0_title": "Contact the U.S. AbilityOne Commission",
         "usagov_description": "The AbilityOne Commission creates job opportunities for people who are blind or have other significant disabilities in the manufacture and delivery of products and services to the Federal Government.",
@@ -1213,7 +1222,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Armed Forces Retirement Home",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Armed Forces Retirement Home",
+        "name": "[usagov] Armed Forces Retirement Home",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Armed Forces Retirement Home",
         "usagov_contact_0_link": "https://www.afrh.gov/contactus",
         "usagov_contact_0_title": "Contact the Armed Forces Retirement Home",
         "usagov_description": "The Gulfport and Washington campuses of the Armed Forces Retirement Home are retirement centers for veterans of the U.S. military.",
@@ -1233,7 +1243,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Arctic Research Commission",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Arctic Research Commission",
+        "name": "[usagov] Arctic Research Commission",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Arctic Research Commission",
         "usagov_contact_0_link": "https://www.arctic.gov/contact/",
         "usagov_contact_0_title": "Contact the U.S. Arctic Research Commission",
         "usagov_description": "The U.S. Arctic Research Commission develops and recommends a national Arctic research policy.",
@@ -1251,7 +1262,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Archives, National Archives and Records Administration (NARA)",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Archives, National Archives and Records Administration (NARA)",
+        "name": "[usagov] Archives, National Archives and Records Administration (NARA)",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Archives, National Archives and Records Administration (NARA)",
         "usagov_acronym": "NARA",
         "usagov_contact_0_link": "https://www.archives.gov/contact",
         "usagov_contact_0_title": "Contact the National Archives and Records Administration",
@@ -1273,7 +1285,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Appalachian Regional Commission",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Appalachian Regional Commission",
+        "name": "[usagov] Appalachian Regional Commission",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Appalachian Regional Commission",
         "usagov_contact_0_link": "https://www.arc.gov/contact-arc/",
         "usagov_contact_0_title": "Contact the Appalachian Regional Commission",
         "usagov_description": "The Appalachian Regional Commission works for sustainable community and economic development in Appalachia.",
@@ -1291,7 +1304,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Amtrak (AMTRAK)",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Amtrak (AMTRAK)",
+        "name": "[usagov] Amtrak (AMTRAK)",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Amtrak (AMTRAK)",
         "usagov_acronym": "AMTRAK",
         "usagov_contact_0_link": "https://www.amtrak.com/contact-us",
         "usagov_contact_0_title": "Contact the National Railroad Passenger Corporation (AMTRAK)",
@@ -1310,7 +1324,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] AmeriCorps",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] AmeriCorps",
+        "name": "[usagov] AmeriCorps",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] AmeriCorps",
         "usagov_contact_0_link": "https://americorps.gov/contact",
         "usagov_contact_0_title": "Contact AmeriCorps",
         "usagov_description": "Formerly known as the Corporation for National and Community Service, AmeriCorps, and AmeriCorps Seniors engage volunteers in serving directly with nonprofit organizations to tackle the nation's most pressing challenges.",
@@ -1330,7 +1345,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] American Battle Monuments Commission",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] American Battle Monuments Commission",
+        "name": "[usagov] American Battle Monuments Commission",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] American Battle Monuments Commission",
         "usagov_contact_0_link": "https://www.abmc.gov/contact-us",
         "usagov_contact_0_title": "Contact the American Battle Monuments Commission",
         "usagov_contact_1_link": "https://www.abmc.gov/about-us/our-services/flowers-our-sites",
@@ -1354,7 +1370,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Bureau of Consumer Financial Protection",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Bureau of Consumer Financial Protection",
+        "name": "[usagov] Bureau of Consumer Financial Protection",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Bureau of Consumer Financial Protection",
         "usagov_contact_0_link": "https://www.consumerfinance.gov/about-us/contact-us/",
         "usagov_contact_0_title": "Contact the Consumer Financial Protection Bureau",
         "usagov_contact_1_link": "https://www.consumerfinance.gov/complaint/",
@@ -1373,7 +1390,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Barry M. Goldwater Scholarship and Excellence in Education Program",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Barry M. Goldwater Scholarship and Excellence in Education Program",
+        "name": "[usagov] Barry M. Goldwater Scholarship and Excellence in Education Program",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Barry M. Goldwater Scholarship and Excellence in Education Program",
         "usagov_contact_0_link": "https://goldwater.scholarsapply.org/contact-us/",
         "usagov_contact_0_title": "Contact the Barry M. Goldwater Scholarship and Excellence in Education Program",
         "usagov_description": "The Barry Goldwater Scholarship and Excellence in Education Program awards scholarships to college students who intend to pursue careers in science, mathematics, and engineering.",
@@ -1390,7 +1408,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Bankruptcy Courts",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Bankruptcy Courts",
+        "name": "[usagov] Bankruptcy Courts",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Bankruptcy Courts",
         "usagov_contact_0_link": "https://www.uscourts.gov/about-federal-courts/federal-courts-public/court-website-links",
         "usagov_contact_0_title": "Contact the Bankruptcy Courts",
         "usagov_description": "Each of the 94 federal judicial districts  handles bankruptcy matters, and in almost all districts, bankruptcy cases are filed in the bankruptcy court. Bankruptcy laws help people who can no longer pay their creditors get a fresh start by liquidating their assets to pay their debts, or by creating a repayment plan.",
@@ -1408,7 +1427,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Citizens' Stamp Advisory Committee",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Citizens' Stamp Advisory Committee",
+        "name": "[usagov] Citizens' Stamp Advisory Committee",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Citizens' Stamp Advisory Committee",
         "usagov_description": "The Citizens' Stamp Advisory Committee evaluates all stamp proposals. The Committee's primary goal is to select subjects of broad national interest for recommendation to the Postmaster General that are both interesting and educational.",
         "usagov_government_branch": "Independent Board, Commission, Committee",
         "usagov_main_address": "475 L\u2019Enfant Plaza, SW",
@@ -1421,7 +1441,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Circuit Courts of Appeal",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Circuit Courts of Appeal",
+        "name": "[usagov] Circuit Courts of Appeal",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Circuit Courts of Appeal",
         "usagov_contact_0_link": "http://cafc.uscourts.gov/contact/clerks-office",
         "usagov_contact_0_title": "Contact the U.S. Courts of Appeal",
         "usagov_description": "The U.S. Courts of Appeal hear appeals from lower courts of both civil and criminal trials, but do not investigate the facts of a case. Rather, the Appeals Courts investigate whether or not the law has been fairly and correctly applied by the lower courts.",
@@ -1439,7 +1460,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Chief Information Officers Council",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Chief Information Officers Council",
+        "name": "[usagov] Chief Information Officers Council",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Chief Information Officers Council",
         "usagov_description": "The CIO Council is the principal interagency forum on Federal agency practices for information technology management.",
         "usagov_email_link": "mailto:feedback@cio.gov",
         "usagov_email_title": "",
@@ -1453,7 +1475,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Chief Human Capital Officers Council",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Chief Human Capital Officers Council",
+        "name": "[usagov] Chief Human Capital Officers Council",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Chief Human Capital Officers Council",
         "usagov_description": "The Chief Human Capital Officers Council works to modernize human resources systems, improve the quality of human resources information, and advises on legislation affecting human resources operations.",
         "usagov_email_link": "mailto:chcoc@opm.gov",
         "usagov_email_title": "",
@@ -1468,7 +1491,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Chief Financial Officers Council",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Chief Financial Officers Council",
+        "name": "[usagov] Chief Financial Officers Council",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Chief Financial Officers Council",
         "usagov_description": "The Chief Financial Officers Council works to improve financial management in the U.S. government.",
         "usagov_government_branch": "None",
         "usagov_name": "Chief Financial Officers Council",
@@ -1480,7 +1504,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Chief Acquisition Officers Council",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Chief Acquisition Officers Council",
+        "name": "[usagov] Chief Acquisition Officers Council",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Chief Acquisition Officers Council",
         "usagov_description": "The Chief Acquisition Officers Council monitors and improves the federal acquisition system.",
         "usagov_email_link": "mailto:acquisition_gov.systemadmin@gsa.gov",
         "usagov_email_title": "",
@@ -1494,7 +1519,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Chemical Safety Board",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Chemical Safety Board",
+        "name": "[usagov] Chemical Safety Board",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Chemical Safety Board",
         "usagov_contact_0_link": "https://www.csb.gov/contact/",
         "usagov_contact_0_title": "Contact the Chemical Safety Board",
         "usagov_description": "The Chemical Safety Board investigates industrial chemical accidents.",
@@ -1512,7 +1538,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Central Intelligence Agency (CIA)",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Central Intelligence Agency (CIA)",
+        "name": "[usagov] Central Intelligence Agency (CIA)",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Central Intelligence Agency (CIA)",
         "usagov_acronym": "CIA",
         "usagov_contact_0_link": "https://www.cia.gov/contact-cia/",
         "usagov_contact_0_title": "Contact the Central Intelligence Agency",
@@ -1528,7 +1555,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Court of Appeals for the Armed Forces",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Court of Appeals for the Armed Forces",
+        "name": "[usagov] Court of Appeals for the Armed Forces",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Court of Appeals for the Armed Forces",
         "usagov_contact_0_link": "https://www.armfor.uscourts.gov/newcaaf/contact.htm",
         "usagov_contact_0_title": "Contact the Court of Appeals for the Armed Forces",
         "usagov_description": "The Court of Appeals for the Armed Forces is an appeals court with worldwide jurisdiction for anyone subject to the Uniform Code of Military Justice.",
@@ -1544,7 +1572,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Council of the Inspectors General on Integrity and Efficiency",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Council of the Inspectors General on Integrity and Efficiency",
+        "name": "[usagov] Council of the Inspectors General on Integrity and Efficiency",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Council of the Inspectors General on Integrity and Efficiency",
         "usagov_contact_0_link": "https://www.ignet.gov/content/inspectors-general-directory",
         "usagov_contact_0_title": "Inspectors General Directory",
         "usagov_contact_1_link": "https://www.ignet.gov/node/207",
@@ -1563,7 +1592,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Coordinating Council on Juvenile Justice and Delinquency Prevention",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Coordinating Council on Juvenile Justice and Delinquency Prevention",
+        "name": "[usagov] Coordinating Council on Juvenile Justice and Delinquency Prevention",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Coordinating Council on Juvenile Justice and Delinquency Prevention",
         "usagov_contact_0_link": "https://juvenilecouncil.ojp.gov/contact",
         "usagov_contact_0_title": "Contact the Coordinating Council on Juvenile Justice and Delinquency Prevention",
         "usagov_description": "The Coordinating Council on Juvenile Justice and Delinquency Prevention coordinates, studies the effectiveness of, and makes recommendations on juvenile crime prevention activities.",
@@ -1579,7 +1609,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Consumer Product Safety Commission (CPSC)",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Consumer Product Safety Commission (CPSC)",
+        "name": "[usagov] Consumer Product Safety Commission (CPSC)",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Consumer Product Safety Commission (CPSC)",
         "usagov_acronym": "CPSC",
         "usagov_contact_0_link": "https://www.cpsc.gov/About-CPSC/Contact-Information",
         "usagov_contact_0_title": "Contact the Consumer Product Safety Commission",
@@ -1608,7 +1639,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Congress\u2014U.S. Senate",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Congress\u2014U.S. Senate",
+        "name": "[usagov] Congress\u2014U.S. Senate",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Congress\u2014U.S. Senate",
         "usagov_contact_0_link": "http://www.senate.gov/general/contact_information/senators_cfm.cfm",
         "usagov_contact_0_title": "Contact the U.S. Senate",
         "usagov_description": "The U.S. Senate and the U.S. House of Representatives make up the two chambers of Congress.  The Senate has 100 members, 2 from each state, who are elected to serve for a term of 6 years.",
@@ -1633,7 +1665,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Congress\u2014U.S. House of Representatives",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Congress\u2014U.S. House of Representatives",
+        "name": "[usagov] Congress\u2014U.S. House of Representatives",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Congress\u2014U.S. House of Representatives",
         "usagov_contact_0_link": "https://www.house.gov/representatives",
         "usagov_contact_0_title": "Contact the U.S. House of Representatives",
         "usagov_contact_1_link": "https://www.house.gov/representatives/find-your-representative",
@@ -1660,7 +1693,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Commodity Futures Trading Commission (CFTC)",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Commodity Futures Trading Commission (CFTC)",
+        "name": "[usagov] Commodity Futures Trading Commission (CFTC)",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Commodity Futures Trading Commission (CFTC)",
         "usagov_acronym": "CFTC",
         "usagov_contact_0_link": "https://www.cftc.gov/Contact/index.htm",
         "usagov_contact_0_title": "Contact the Commodity Futures Trading Commission",
@@ -1682,7 +1716,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Commission on Security and Cooperation in Europe (Helsinki Commission)",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Commission on Security and Cooperation in Europe (Helsinki Commission)",
+        "name": "[usagov] Commission on Security and Cooperation in Europe (Helsinki Commission)",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Commission on Security and Cooperation in Europe (Helsinki Commission)",
         "usagov_contact_0_link": "https://www.csce.gov/",
         "usagov_contact_0_title": "Contact the Commission on Security and Cooperation in Europe (Helsinki Commission)",
         "usagov_description": "The Commission on Security and Cooperation in Europe monitors and encourages compliance with the Helsinki Final Act and other Organization for Security and Co-operation in Europe commitments.",
@@ -1700,7 +1735,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Commission on International Religious Freedom",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Commission on International Religious Freedom",
+        "name": "[usagov] Commission on International Religious Freedom",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Commission on International Religious Freedom",
         "usagov_contact_0_link": "http://www.uscirf.gov/about-uscirf/contact-us",
         "usagov_contact_0_title": "Contact the U.S. Commission on International Religious Freedom",
         "usagov_description": "The U.S. Commission on International Religious Freedom reviews the facts and circumstances of violations of religious freedom internationally and to make policy recommendations to the President, the Secretary of State and Congress.",
@@ -1718,7 +1754,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Commission on Civil Rights",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Commission on Civil Rights",
+        "name": "[usagov] Commission on Civil Rights",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Commission on Civil Rights",
         "usagov_contact_0_link": "https://www.usccr.gov/contact/offices",
         "usagov_contact_0_title": "Contact the Commission on Civil Rights",
         "usagov_description": "The U.S. Commission on Civil Rights is an independent, bipartisan agency charged with monitoring federal civil rights enforcement.",
@@ -1739,7 +1776,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Commission of Fine Arts",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Commission of Fine Arts",
+        "name": "[usagov] Commission of Fine Arts",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Commission of Fine Arts",
         "usagov_contact_0_link": "https://www.cfa.gov/contact-us",
         "usagov_contact_0_title": "Contact the U.S. Commission of Fine Arts",
         "usagov_description": "The U. S. Commission of Fine Arts advises the government on matters pertaining to the arts, and to guide the architectural development of Washington.",
@@ -1757,7 +1795,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Court Services and Offender Supervision Agency for the District of Columbia",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Court Services and Offender Supervision Agency for the District of Columbia",
+        "name": "[usagov] Court Services and Offender Supervision Agency for the District of Columbia",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Court Services and Offender Supervision Agency for the District of Columbia",
         "usagov_contact_0_link": "https://www.csosa.gov/contact-us",
         "usagov_contact_0_title": "Contact the Court Services and Offender Supervision Agency for the District of Columbia",
         "usagov_description": "The Court Services and Offender Supervision Agency provides supervision of adults on parole, probation, and supervised release in the District of Columbia.",
@@ -1775,7 +1814,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Court of International Trade",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Court of International Trade",
+        "name": "[usagov] Court of International Trade",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Court of International Trade",
         "usagov_contact_0_link": "http://www.cit.uscourts.gov/court-info/court-locations",
         "usagov_contact_0_title": "Contact the Court of International Trade",
         "usagov_description": "The United States Court of International Trade resolves trade disputes by interpreting and applying customs and international trade laws.",
@@ -1793,7 +1833,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Court of Federal Claims",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Court of Federal Claims",
+        "name": "[usagov] Court of Federal Claims",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Court of Federal Claims",
         "usagov_contact_0_link": "http://www.uscfc.uscourts.gov/court-directory",
         "usagov_contact_0_title": "Contact the Court of Federal Claims",
         "usagov_description": "The U.S. Court of Federal Claims has jurisdiction over claims seeking money judgments against the United States.",
@@ -1813,7 +1854,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Court of Appeals for Veterans Claims",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Court of Appeals for Veterans Claims",
+        "name": "[usagov] Court of Appeals for Veterans Claims",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Court of Appeals for Veterans Claims",
         "usagov_contact_0_link": "http://www.uscourts.cavc.gov/contact.php",
         "usagov_contact_0_title": "Contact the U.S. Court of Appeals for Veterans Claims",
         "usagov_description": "The Court of Appeals for Veterans Claims hears appeals of decisions made by the Board of Veterans Appeals. You must have a decision from the Board of Veterans Appeals to bring a case before this court.",
@@ -1834,7 +1876,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Delta Regional Authority",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Delta Regional Authority",
+        "name": "[usagov] Delta Regional Authority",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Delta Regional Authority",
         "usagov_contact_0_link": "https://dra.gov/accountability/connect/",
         "usagov_contact_0_title": "Contact the\u00a0Delta Regional Authority",
         "usagov_description": "The Delta Regional Authority is a partnership to improve economic and community growth in eight states. Those states are Alabama, Arkansas, Illinois, Kentucky, Louisiana, Mississippi, Missouri, and Tennessee.",
@@ -1850,7 +1893,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Delaware River Basin Commission",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Delaware River Basin Commission",
+        "name": "[usagov] Delaware River Basin Commission",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Delaware River Basin Commission",
         "usagov_contact_0_link": "http://www.nj.gov/drbc/contact/",
         "usagov_contact_0_title": "Contact the Delaware River Basin Commission",
         "usagov_contact_1_link": "http://www.nj.gov/drbc/about/staff/index.html",
@@ -1872,7 +1916,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Defense Nuclear Facilities Safety Board",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Defense Nuclear Facilities Safety Board",
+        "name": "[usagov] Defense Nuclear Facilities Safety Board",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Defense Nuclear Facilities Safety Board",
         "usagov_contact_0_link": "https://www.dnfsb.gov/contact-us",
         "usagov_contact_0_title": "Contact the Defense Nuclear Facilities Safety Board",
         "usagov_description": "The Defense Nuclear Facilities Safety Board reviews the content and implementation of health and safety standards at Department of Energy Defense Nuclear Facilities. The board also makes recommendations to the President and Secretary of Energy regarding health and safety issues at Defense Nuclear Facilities.",
@@ -1890,7 +1935,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Director of National Intelligence, Office of",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Director of National Intelligence, Office of",
+        "name": "[usagov] Director of National Intelligence, Office of",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Director of National Intelligence, Office of",
         "usagov_contact_0_link": "https://www.dni.gov/",
         "usagov_contact_0_title": "Contact the Office of the Director of National Intelligence",
         "usagov_description": "The Office of the Director of National Intelligence integrates the intelligence gathering and analysis functions performed across the intelligence community to provide intelligence to decision makers.",
@@ -1906,7 +1952,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Denali Commission",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Denali Commission",
+        "name": "[usagov] Denali Commission",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Denali Commission",
         "usagov_contact_0_link": "https://www.denali.gov/contact/",
         "usagov_contact_0_title": "Contact the Denali Commission",
         "usagov_contact_1_link": "https://www.denali.gov/about/our-staff/",
@@ -1927,7 +1974,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Equal Employment Opportunity Commission (EEOC)",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Equal Employment Opportunity Commission (EEOC)",
+        "name": "[usagov] Equal Employment Opportunity Commission (EEOC)",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Equal Employment Opportunity Commission (EEOC)",
         "usagov_acronym": "EEOC",
         "usagov_contact_0_link": "https://www.eeoc.gov/contact-eeoc",
         "usagov_contact_0_title": "Contact the Equal Employment Opportunity Commission",
@@ -1950,7 +1998,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Environmental Protection Agency (EPA)",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Environmental Protection Agency (EPA)",
+        "name": "[usagov] Environmental Protection Agency (EPA)",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Environmental Protection Agency (EPA)",
         "usagov_acronym": "EPA",
         "usagov_contact_0_link": "https://www.epa.gov/aboutepa/forms/contact-epa",
         "usagov_contact_0_title": "Contact the Environmental Protection Agency",
@@ -1968,7 +2017,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Election Assistance Commission (EAC)",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Election Assistance Commission (EAC)",
+        "name": "[usagov] Election Assistance Commission (EAC)",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Election Assistance Commission (EAC)",
         "usagov_acronym": "EAC",
         "usagov_contact_0_link": "https://www.eac.gov/contactuseac",
         "usagov_contact_0_title": "Contact the Election Assistance Commission",
@@ -1986,7 +2036,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Economic Growth, Energy, and the Environment",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Economic Growth, Energy, and the Environment",
+        "name": "[usagov] Economic Growth, Energy, and the Environment",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Economic Growth, Energy, and the Environment",
         "usagov_contact_0_link": "https://register.state.gov/contactus/",
         "usagov_contact_0_title": "Contact\u00a0Economic Growth, Energy, and the Environment",
         "usagov_description": "The Under Secretary of State for Economic Growth, Energy, and the Environment leads the State Department\u2019s efforts to develop and implement international policies related to economic growth, energy, agriculture, the ocean, the environment, and science and technology.",
@@ -2000,7 +2051,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Export-Import Bank of the United States",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Export-Import Bank of the United States",
+        "name": "[usagov] Export-Import Bank of the United States",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Export-Import Bank of the United States",
         "usagov_contact_0_link": "https://www.exim.gov/contact",
         "usagov_contact_0_title": "Contact the Export-Import Bank of the United States",
         "usagov_description": "The Export-Import Bank assists American businesses export their goods by providing financial assistance in the form of loans, loan guarantees and insurance. The focus of the Export-Import Bank is on assisting small businesses.",
@@ -2022,7 +2074,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Federal Financial Institutions Examination Council",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Federal Financial Institutions Examination Council",
+        "name": "[usagov] Federal Financial Institutions Examination Council",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Federal Financial Institutions Examination Council",
         "usagov_contact_0_link": "http://www.ffiec.gov/contact/default.aspx",
         "usagov_contact_0_title": "Contact the Federal Financial Institutions Examination Council",
         "usagov_description": "The Federal Financial Institutions Examination Council is an interagency body that seeks to standardize the oversight criteria and methods of the various financial regulatory bodies.",
@@ -2038,7 +2091,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Federal Election Commission",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Federal Election Commission",
+        "name": "[usagov] Federal Election Commission",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Federal Election Commission",
         "usagov_contact_0_link": "https://www.fec.gov/contact/",
         "usagov_contact_0_title": "Contact the Federal Election Commission",
         "usagov_contact_1_link": "https://www.fec.gov/introduction-campaign-finance/how-to-research-public-records/",
@@ -2062,7 +2116,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Federal Deposit Insurance Corporation (FDIC)",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Federal Deposit Insurance Corporation (FDIC)",
+        "name": "[usagov] Federal Deposit Insurance Corporation (FDIC)",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Federal Deposit Insurance Corporation (FDIC)",
         "usagov_acronym": "FDIC",
         "usagov_contact_0_link": "https://www.fdic.gov/contact/",
         "usagov_contact_0_title": "Contact the Federal Deposit Insurance Corporation",
@@ -2082,7 +2137,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Federal Communications Commission (FCC)",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Federal Communications Commission (FCC)",
+        "name": "[usagov] Federal Communications Commission (FCC)",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Federal Communications Commission (FCC)",
         "usagov_acronym": "FCC",
         "usagov_contact_0_link": "https://www.fcc.gov/about/contact",
         "usagov_contact_0_title": "Contact the Federal Communications Commission",
@@ -2106,7 +2162,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Federal Accounting Standards Advisory Board",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Federal Accounting Standards Advisory Board",
+        "name": "[usagov] Federal Accounting Standards Advisory Board",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Federal Accounting Standards Advisory Board",
         "usagov_contact_0_link": "https://www.faa.gov/contact/",
         "usagov_contact_0_title": "Contact the Federal Accounting Standards Advisory Board",
         "usagov_contact_1_link": "http://files.fasab.gov/pdffiles/staff_contact_info.pdf",
@@ -2126,7 +2183,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Farm Credit System Insurance Corporation",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Farm Credit System Insurance Corporation",
+        "name": "[usagov] Farm Credit System Insurance Corporation",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Farm Credit System Insurance Corporation",
         "usagov_contact_0_link": "https://www.fcsic.gov/site/contact",
         "usagov_contact_0_title": "Contact the Farm Credit System Insurance Corporation",
         "usagov_description": "The Farm Credit System Insurance Corporation ensures the payment of principal and interest on insured notes, bonds, and other obligations issued on behalf of Farm Credit System.",
@@ -2145,7 +2203,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Farm Credit Administration",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Farm Credit Administration",
+        "name": "[usagov] Farm Credit Administration",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Farm Credit Administration",
         "usagov_contact_0_link": "https://www.fca.gov/utility-pages/contact-us",
         "usagov_contact_0_title": "Contact the Farm Credit Administration",
         "usagov_description": "The Farm Credit Administration is an independent financial regulatory agency that oversees the Farm Credit System, a nationwide network of lending institutions that serve farmers, ranchers, agricultural cooperatives, and other eligible borrowers. It also oversees the Federal Agricultural Mortgage Corporation or Farmer Mac, which provides a secondary market for agricultural real estate mortgage loans, rural housing loans, and rural cooperative loans.",
@@ -2164,7 +2223,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Federal Trade Commission (FTC)",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Federal Trade Commission (FTC)",
+        "name": "[usagov] Federal Trade Commission (FTC)",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Federal Trade Commission (FTC)",
         "usagov_acronym": "FTC",
         "usagov_contact_0_link": "https://www.ftc.gov/about-ftc/contact",
         "usagov_contact_0_title": "Contact the Federal Trade Commission",
@@ -2189,7 +2249,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Federal Retirement Thrift Investment Board",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Federal Retirement Thrift Investment Board",
+        "name": "[usagov] Federal Retirement Thrift Investment Board",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Federal Retirement Thrift Investment Board",
         "usagov_contact_0_link": "https://www.frtib.gov/contacts/",
         "usagov_contact_0_title": "Contact the Federal Retirement Thrift Investment Board",
         "usagov_description": "The Federal Retirement Thrift Investment Board administers the Thrift Savings Plan, a tax-deferred retirement account similar to a 401(k).",
@@ -2207,7 +2268,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Federal Reserve System",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Federal Reserve System",
+        "name": "[usagov] Federal Reserve System",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Federal Reserve System",
         "usagov_contact_0_link": "https://www.federalreserve.gov/apps/ContactUs/feedback.aspx?refUrl=/aboutthefed/contact-us-topics/other.htm",
         "usagov_contact_0_title": "Contact the Federal Reserve System",
         "usagov_contact_1_link": "https://forms.federalreserveconsumerhelp.gov/secure/complaint/complaintType",
@@ -2231,7 +2293,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Federal Mine Safety and Health Review Commission",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Federal Mine Safety and Health Review Commission",
+        "name": "[usagov] Federal Mine Safety and Health Review Commission",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Federal Mine Safety and Health Review Commission",
         "usagov_contact_0_link": "http://www.fmshrc.gov/contact",
         "usagov_contact_0_title": "Contact the Federal Mine Safety and Health Review Commission",
         "usagov_description": "The Federal Mine Safety and Health Review Commission is an independent agency that administers trials and hears appeals of disputes relating directly to the Mine Safety and Health Act of 1977.",
@@ -2249,7 +2312,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Federal Mediation and Conciliation Service",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Federal Mediation and Conciliation Service",
+        "name": "[usagov] Federal Mediation and Conciliation Service",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Federal Mediation and Conciliation Service",
         "usagov_contact_0_link": "http://www.fmcs.gov/internet/categoryList.asp?categoryID=63",
         "usagov_contact_0_title": "Contact the Federal Mediation and Conciliation Service",
         "usagov_contact_1_link": "http://www.fmcs.gov/internet/itemDetail.asp?categoryID=82&itemID=16282",
@@ -2269,7 +2333,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Federal Maritime Commission",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Federal Maritime Commission",
+        "name": "[usagov] Federal Maritime Commission",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Federal Maritime Commission",
         "usagov_contact_0_link": "https://www.fmc.gov/contact",
         "usagov_contact_0_title": "Contact the Federal Maritime Commission",
         "usagov_contact_1_link": "https://www.fmc.gov/about-the-fmc/bureaus-offices/",
@@ -2289,7 +2354,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Federal Library and Information Center Committee",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Federal Library and Information Center Committee",
+        "name": "[usagov] Federal Library and Information Center Committee",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Federal Library and Information Center Committee",
         "usagov_contact_0_link": "https://www.loc.gov/flicc/Staff/staff2.html",
         "usagov_contact_0_title": "Contact the Federal Library and Information Center Committee",
         "usagov_description": "The Federal Library and Information Center Committee coordinates and shares available resources to provide continuing education and training to federal library and information center employees.",
@@ -2305,7 +2371,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Federal Laboratory Consortium for Technology Transfer",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Federal Laboratory Consortium for Technology Transfer",
+        "name": "[usagov] Federal Laboratory Consortium for Technology Transfer",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Federal Laboratory Consortium for Technology Transfer",
         "usagov_contact_0_link": "https://federallabs.org/webforms/contact",
         "usagov_contact_0_title": "Contact the Federal Laboratory Consortium for Technology Transfer",
         "usagov_description": "The Federal Laboratory Consortium for Technology Transfer facilitates knowledge and technology sharing across federal laboratories, and speeds the adoption of new knowledge and technologies in the wider economy by facilitating the sharing federal research with non-governmental public and private entities.",
@@ -2323,7 +2390,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Federal Labor Relations Authority (FLRA)",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Federal Labor Relations Authority (FLRA)",
+        "name": "[usagov] Federal Labor Relations Authority (FLRA)",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Federal Labor Relations Authority (FLRA)",
         "usagov_acronym": "FLRA",
         "usagov_contact_0_link": "http://www.flra.gov/contact",
         "usagov_contact_0_title": "Contact the Federal Labor Relations Authority",
@@ -2341,7 +2409,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Federal Judicial Center",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Federal Judicial Center",
+        "name": "[usagov] Federal Judicial Center",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Federal Judicial Center",
         "usagov_description": "The Federal Judicial Center conducts policy research and provides continuing education resources for the judicial branch.",
         "usagov_government_branch": "Judicial",
         "usagov_main_address": "Thurgood Marshall Federal Judiciary Building",
@@ -2355,7 +2424,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Federal Interagency Council on Statistical Policy",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Federal Interagency Council on Statistical Policy",
+        "name": "[usagov] Federal Interagency Council on Statistical Policy",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Federal Interagency Council on Statistical Policy",
         "usagov_contact_0_link": "https://nces.ed.gov/FCSM/contact_us.asp",
         "usagov_contact_0_title": "Contact the Federal Interagency Council on Statistical Policy (FedStats)",
         "usagov_description": "FedStats is a community of practice for over 100 agencies that produce and distribute official federal statistics.",
@@ -2368,7 +2438,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Federal Housing Finance Agency",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Federal Housing Finance Agency",
+        "name": "[usagov] Federal Housing Finance Agency",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Federal Housing Finance Agency",
         "usagov_contact_0_link": "https://www.fhfa.gov/AboutUs/Contact",
         "usagov_contact_0_title": "Contact the Federal Housing Finance Agency",
         "usagov_description": "The Federal Housing Finance Agency provides supervision, regulation, and housing mission oversight of Fannie Mae, Freddie Mac, and the Federal Home Loan Banks.",
@@ -2386,7 +2457,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Federal Geographic Data Committee",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Federal Geographic Data Committee",
+        "name": "[usagov] Federal Geographic Data Committee",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Federal Geographic Data Committee",
         "usagov_contact_0_link": "http://www.fgdc.gov/aboutus",
         "usagov_contact_0_title": "Contact the Federal Geographic Data Committee",
         "usagov_description": "The Federal Geographic Data Committee is an interagency group that promotes and coordinates the production, use, and publication of geospatial data.",
@@ -2403,7 +2475,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Government Ethics, Office of (OGE)",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Government Ethics, Office of (OGE)",
+        "name": "[usagov] Government Ethics, Office of (OGE)",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Government Ethics, Office of (OGE)",
         "usagov_acronym": "OGE",
         "usagov_contact_0_link": "https://www.oge.gov/web/oge.nsf/about_contacts",
         "usagov_contact_0_title": "Contact the Office of Government Ethics",
@@ -2427,7 +2500,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] General Services Administration (GSA)",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] General Services Administration (GSA)",
+        "name": "[usagov] General Services Administration (GSA)",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] General Services Administration (GSA)",
         "usagov_acronym": "GSA",
         "usagov_contact_0_link": "https://www.gsa.gov/staff-directory#contactUsForm",
         "usagov_contact_0_title": "Contact the General Services Administration (GSA)",
@@ -2447,7 +2521,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Holocaust Memorial Museum",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Holocaust Memorial Museum",
+        "name": "[usagov] Holocaust Memorial Museum",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Holocaust Memorial Museum",
         "usagov_contact_0_link": "https://www.ushmm.org/information/connect-with-the-museum",
         "usagov_contact_0_title": "Contact the Holocaust Memorial Museum",
         "usagov_description": "A living memorial to the victims of the Holocaust, the Memorial Museum was built on donated federal land and is funded through private donations.",
@@ -2466,7 +2541,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Harry S. Truman Scholarship Foundation",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Harry S. Truman Scholarship Foundation",
+        "name": "[usagov] Harry S. Truman Scholarship Foundation",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Harry S. Truman Scholarship Foundation",
         "usagov_contact_0_link": "https://www.truman.gov/about-us/contact-us",
         "usagov_contact_0_title": "Contact the Harry S. Truman Scholarship Foundation",
         "usagov_description": "The Harry S. Truman Scholarship Foundation provides scholarships to college juniors who demonstrate outstanding potential, and who plan to pursue a career in public service.",
@@ -2484,7 +2560,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Interagency Committee for the Management of Noxious and Exotic Weeds",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Interagency Committee for the Management of Noxious and Exotic Weeds",
+        "name": "[usagov] Interagency Committee for the Management of Noxious and Exotic Weeds",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Interagency Committee for the Management of Noxious and Exotic Weeds",
         "usagov_description": "With representatives from 16 federal agencies, this committee partners with the public and private organizations to identify and manage invasive plants in the U.S.",
         "usagov_government_branch": "Independent Board, Commission, Committee",
         "usagov_name": "Interagency Committee for the Management of Noxious and Exotic Weeds",
@@ -2495,7 +2572,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Interagency Alternative Dispute Resolution Working Group",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Interagency Alternative Dispute Resolution Working Group",
+        "name": "[usagov] Interagency Alternative Dispute Resolution Working Group",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Interagency Alternative Dispute Resolution Working Group",
         "usagov_contact_0_link": "https://adr.gov/contact/",
         "usagov_contact_0_title": "Federal Alternative Dispute Resolution Programs and Contacts",
         "usagov_description": "The Interagency Alternative Dispute Resolution Working Group helps federal agencies develop and implement Alternative Dispute Resolution programs.",
@@ -2512,7 +2590,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Inter-American Foundation",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Inter-American Foundation",
+        "name": "[usagov] Inter-American Foundation",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Inter-American Foundation",
         "usagov_contact_0_link": "https://www.iaf.gov/contact/",
         "usagov_contact_0_title": "Contact the Inter-American Foundation",
         "usagov_description": "The Inter-American Foundation provides grant support to Latin American and Caribbean grass-roots groups and non-governmental organizations with creative self-help ideas.",
@@ -2530,7 +2609,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Institute of Peace",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Institute of Peace",
+        "name": "[usagov] Institute of Peace",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Institute of Peace",
         "usagov_contact_0_link": "http://www.usip.org/contact",
         "usagov_contact_0_title": "Contact the Institute of Peace",
         "usagov_description": "The Institute of Peace promotes research, policy analysis, education, and training on international peace and conflict resolution in an effort to prevent and resolve violent conflicts, and to promote post-conflict stability.",
@@ -2546,7 +2626,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Institute of Museum and Library Services",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Institute of Museum and Library Services",
+        "name": "[usagov] Institute of Museum and Library Services",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Institute of Museum and Library Services",
         "usagov_contact_0_link": "https://www.imls.gov/contact/contact-us",
         "usagov_contact_0_title": "Contact the Institute of Museum and Library Services",
         "usagov_description": "The Institute of Museum and Library Services is a grant making organization that also conducts research and develops policy. The Institute helps libraries and museums innovate, fosters lifelong learning and cultural and civic engagement.",
@@ -2569,7 +2650,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] International Trade Commission",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] International Trade Commission",
+        "name": "[usagov] International Trade Commission",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] International Trade Commission",
         "usagov_contact_0_link": "https://www.usitc.gov/contact_us.htm",
         "usagov_contact_0_title": "Contact the U.S. International Trade Commission",
         "usagov_description": "The International Trade Commission investigates whether or not, and to what extent, an unfair trade practice harms U.S. businesses. When unfair trade practices are found to harm U.S. businesses, the Commission may implement corrective measures. The Commission also provides the President and Congress impartial information on international trade to inform trade policy.",
@@ -2586,7 +2668,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] International Development Finance Corporation (DFC)",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] International Development Finance Corporation (DFC)",
+        "name": "[usagov] International Development Finance Corporation (DFC)",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] International Development Finance Corporation (DFC)",
         "usagov_acronym": "DFC",
         "usagov_contact_0_link": "https://www.dfc.gov/who-we-are/contact",
         "usagov_contact_0_title": "Contact the International Development Finance Corporation (DFC)",
@@ -2605,7 +2688,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Interagency Council on Homelessness",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Interagency Council on Homelessness",
+        "name": "[usagov] Interagency Council on Homelessness",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Interagency Council on Homelessness",
         "usagov_contact_0_link": "https://www.usich.gov/about-usich/contact",
         "usagov_contact_0_title": "Contact the Interagency Council on Homelessness",
         "usagov_contact_1_link": "https://www.usich.gov/need-help",
@@ -2625,7 +2709,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Judicial Panel on Multidistrict Litigation",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Judicial Panel on Multidistrict Litigation",
+        "name": "[usagov] Judicial Panel on Multidistrict Litigation",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Judicial Panel on Multidistrict Litigation",
         "usagov_contact_0_link": "http://www.jpml.uscourts.gov/court-info/court-locations",
         "usagov_contact_0_title": "Contact the Judicial Panel on Multidistrict Litigation",
         "usagov_description": "The Judicial Panel on Multidistrict Litigation determines whether civil actions pending in two or more federal judicial districts should be transferred to a single federal district court for pretrial proceedings.",
@@ -2643,7 +2728,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Joint Fire Science Program",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Joint Fire Science Program",
+        "name": "[usagov] Joint Fire Science Program",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Joint Fire Science Program",
         "usagov_contact_0_link": "https://www.firescience.gov/JFSP_Contact_Us.cfm",
         "usagov_contact_0_title": "Contact the Joint Fire Science Program",
         "usagov_description": "The Joint Fire Science Program provides fire science information, resources and funding announcements for scientists, fire practitioners, and decision makers.",
@@ -2658,7 +2744,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Joint Congressional Committee on Inaugural Ceremonies",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Joint Congressional Committee on Inaugural Ceremonies",
+        "name": "[usagov] Joint Congressional Committee on Inaugural Ceremonies",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Joint Congressional Committee on Inaugural Ceremonies",
         "usagov_description": "Made up of members of the House and Senate, the Joint Congressional Committee on Inaugural Ceremonies is responsible for planning and carrying out the President's swearing-in ceremony at the U.S. Capitol.",
         "usagov_government_branch": "Legislative",
         "usagov_name": "Joint Congressional Committee on Inaugural Ceremonies",
@@ -2670,7 +2757,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Joint Board for the Enrollment of Actuaries",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Joint Board for the Enrollment of Actuaries",
+        "name": "[usagov] Joint Board for the Enrollment of Actuaries",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Joint Board for the Enrollment of Actuaries",
         "usagov_contact_0_link": "https://www.irs.gov/tax-professionals/enrolled-actuaries/how-to-contact-us",
         "usagov_contact_0_title": "Contact the Joint Board for the Enrollment of Actuaries",
         "usagov_description": "The Joint Board for the Enrollment of Actuaries specifies the standards and qualifications an individual must meet in order to perform actuarial services.",
@@ -2687,7 +2775,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] John F. Kennedy Center for the Performing Arts",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] John F. Kennedy Center for the Performing Arts",
+        "name": "[usagov] John F. Kennedy Center for the Performing Arts",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] John F. Kennedy Center for the Performing Arts",
         "usagov_contact_0_link": "https://www.kennedy-center.org/contact/",
         "usagov_contact_0_title": "Contact the John F. Kennedy Center for the Performing Arts",
         "usagov_description": "The John F. Kennedy Center for the Performing Arts is a living memorial to President John F. Kennedy. The Center offers a wide range of performances, including frequent free or low-cost performances. The Center also runs a number of educational and outreach programs.",
@@ -2706,7 +2795,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Japan-United States Friendship Commission",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Japan-United States Friendship Commission",
+        "name": "[usagov] Japan-United States Friendship Commission",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Japan-United States Friendship Commission",
         "usagov_contact_0_link": "https://www.jusfc.gov/contact/",
         "usagov_contact_0_title": "Contact the Japan-United States Friendship Commission",
         "usagov_description": "The Japan-United States Friendship Commission gives grants to stimulate engagement in business, educational, or cultural exchanges with Japan.",
@@ -2724,7 +2814,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] James Madison Memorial Fellowship Foundation",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] James Madison Memorial Fellowship Foundation",
+        "name": "[usagov] James Madison Memorial Fellowship Foundation",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] James Madison Memorial Fellowship Foundation",
         "usagov_description": "The James Madison Memorial Fellowship Foundation offers fellowship opportunities to individuals who are seeking a Master's degree in order to teach secondary students about the U.S. Constitution.",
         "usagov_email_link": "mailto:oalwes@jamesmadison.gov",
         "usagov_email_title": "",
@@ -2740,7 +2831,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Library of Congress (LOC)",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Library of Congress (LOC)",
+        "name": "[usagov] Library of Congress (LOC)",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Library of Congress (LOC)",
         "usagov_acronym": "LOC",
         "usagov_contact_0_link": "https://www.loc.gov/contact/",
         "usagov_contact_0_title": "Contact the Library of Congress",
@@ -2762,7 +2854,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Legal Services Corporation",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Legal Services Corporation",
+        "name": "[usagov] Legal Services Corporation",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Legal Services Corporation",
         "usagov_contact_0_link": "https://www.lsc.gov/about-lsc/contact-us",
         "usagov_contact_0_title": "Contact the Legal Services Corporation",
         "usagov_description": "The Legal Services Corporation is an independent corporation founded by Congress that provides grant funds, training, and technical assistance to civil legal aid programs. The Corporation ensures low income individuals and families have access to quality legal aid.",
@@ -2780,7 +2873,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Merit Systems Protection Board",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Merit Systems Protection Board",
+        "name": "[usagov] Merit Systems Protection Board",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Merit Systems Protection Board",
         "usagov_contact_0_link": "https://www.mspb.gov/about/contact.htm",
         "usagov_contact_0_title": "Contact the Merit Systems Protection Board",
         "usagov_description": "The Merit Systems Protection Board hears appeals from federal employees, and studies federal merit systems in an effort to protect the rights of federal employees.",
@@ -2802,7 +2896,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Medicare Payment Advisory Commission",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Medicare Payment Advisory Commission",
+        "name": "[usagov] Medicare Payment Advisory Commission",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Medicare Payment Advisory Commission",
         "usagov_contact_0_link": "https://www.medpac.gov/what-we-do/contact/",
         "usagov_contact_0_title": "Contact the Medicare Payment Advisory Commission",
         "usagov_description": "The Medicare Payment Advisory Commission advises Congress on a range of issues affecting Medicare, including payments, services, access, and regulations.",
@@ -2820,7 +2915,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Medicaid and CHIP Payment and Access Commission",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Medicaid and CHIP Payment and Access Commission",
+        "name": "[usagov] Medicaid and CHIP Payment and Access Commission",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Medicaid and CHIP Payment and Access Commission",
         "usagov_contact": "[]",
         "usagov_description": "The Medicaid and CHIP Payment and Access Commission reviews federal and state medicaid and CHIP policies and makes recommendations to Congress, the department of health and human services, and the states.",
         "usagov_government_branch": "Legislative",
@@ -2834,7 +2930,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Meat and Poultry Hotline",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Meat and Poultry Hotline",
+        "name": "[usagov] Meat and Poultry Hotline",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Meat and Poultry Hotline",
         "usagov_description": "This hotline answers questions about the safe storage, handling, and preparation of meat, poultry, and egg products to help you prevent foodborne illness.",
         "usagov_government_branch": "Executive Department Sub-Office/Agency/Bureau",
         "usagov_main_address": "1400 Independence Ave., SW",
@@ -2848,7 +2945,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Marine Mammal Commission",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Marine Mammal Commission",
+        "name": "[usagov] Marine Mammal Commission",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Marine Mammal Commission",
         "usagov_contact_0_link": "https://www.mmc.gov/about-the-commission/contact-us/",
         "usagov_contact_0_title": "Contact the Marine Mammal Commission",
         "usagov_description": "The Marine Mammal Commission provides oversight of all marine mammal conservation policies and programs carried out by federal regulatory agencies.",
@@ -2866,7 +2964,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Morris K. Udall and Stewart L. Udall Foundation",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Morris K. Udall and Stewart L. Udall Foundation",
+        "name": "[usagov] Morris K. Udall and Stewart L. Udall Foundation",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Morris K. Udall and Stewart L. Udall Foundation",
         "usagov_contact_0_link": "http://www.udall.gov/AboutUs/Contactus.aspx",
         "usagov_contact_0_title": "Contact the Morris K. Udall and Stewart L. Udall Foundation",
         "usagov_description": "The Morris K. Udall and Stewart L. Udall Foundation provides assessment, mediation, and other services to resolve environmental conflicts. The Foundation also supports educational opportunities in the area of environmental policy.",
@@ -2884,7 +2983,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Mississippi River Commission",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Mississippi River Commission",
+        "name": "[usagov] Mississippi River Commission",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Mississippi River Commission",
         "usagov_contact_0_link": "https://www.mvd.usace.army.mil/Contact.aspx",
         "usagov_contact_0_title": "Contact the Mississippi River Commission",
         "usagov_description": "The Mississippi River Commission researches and provides policy and work recommendations in the areas of flood control, navigation, and environmental projects.",
@@ -2902,7 +3002,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Millennium Challenge Corporation",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Millennium Challenge Corporation",
+        "name": "[usagov] Millennium Challenge Corporation",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Millennium Challenge Corporation",
         "usagov_contact_0_link": "https://www.mcc.gov/contact-us",
         "usagov_contact_0_title": "Contact the Millennium Challenge Corporation",
         "usagov_description": "The Millennium Challenge Corporation partners with the best-governed poor countries worldwide to promote economic growth and help people lift themselves out of poverty.",
@@ -2918,7 +3019,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] National Endowment for the Arts (NEA)",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] National Endowment for the Arts (NEA)",
+        "name": "[usagov] National Endowment for the Arts (NEA)",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] National Endowment for the Arts (NEA)",
         "usagov_acronym": "NEA",
         "usagov_contact_0_link": "https://www.arts.gov/about/leadership-staff",
         "usagov_contact_0_title": "Contact the National Endowment for the Arts",
@@ -2938,7 +3040,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] National Credit Union Administration (NCUA)",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] National Credit Union Administration (NCUA)",
+        "name": "[usagov] National Credit Union Administration (NCUA)",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] National Credit Union Administration (NCUA)",
         "usagov_acronym": "NCUA",
         "usagov_contact_0_link": "https://www.ncua.gov/contact-us",
         "usagov_contact_0_title": "Contact the National Credit Union Administration",
@@ -2962,7 +3065,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] National Council on Disability",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] National Council on Disability",
+        "name": "[usagov] National Council on Disability",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] National Council on Disability",
         "usagov_contact_0_link": "https://ncd.gov/about",
         "usagov_contact_0_title": "Contact the National Council on Disability",
         "usagov_description": "The National Council on Disability makes recommendations to the President and Congress on policies affecting Americans with disabilities. They empower individuals with disabilities, and promote equal opportunity.",
@@ -2980,7 +3084,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] National Constitution Center",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] National Constitution Center",
+        "name": "[usagov] National Constitution Center",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] National Constitution Center",
         "usagov_contact_0_link": "https://constitutioncenter.org/about/contact",
         "usagov_contact_0_title": "Contact the National Constitution Center",
         "usagov_description": "The National Constitution Center is a state-of-the-art museum dedicated to the study of the U.S. Constitution. The museum is also a national hub for constitutional education and outreach.",
@@ -2997,7 +3102,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] National Capital Planning Commission",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] National Capital Planning Commission",
+        "name": "[usagov] National Capital Planning Commission",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] National Capital Planning Commission",
         "usagov_contact_0_link": "https://www.ncpc.gov/about/",
         "usagov_contact_0_title": "Contact the National Capital Planning Commission",
         "usagov_description": "The National Capital Planning Commission crafts long-range plans and policies for the National Capital Region. The Commission provides building and zoning advice to Washington, DC and the surrounding area, and approves various federal construction plans.",
@@ -3015,7 +3121,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] National Aeronautics and Space Administration (NASA)",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] National Aeronautics and Space Administration (NASA)",
+        "name": "[usagov] National Aeronautics and Space Administration (NASA)",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] National Aeronautics and Space Administration (NASA)",
         "usagov_acronym": "NASA",
         "usagov_contact_0_link": "https://www.nasa.gov/about/contact/index.html",
         "usagov_contact_0_title": "Contact the National Aeronautics and Space Administration",
@@ -3036,7 +3143,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] National Park Foundation",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] National Park Foundation",
+        "name": "[usagov] National Park Foundation",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] National Park Foundation",
         "usagov_contact_0_link": "https://www.nationalparks.org/contact",
         "usagov_contact_0_title": "Contact the National Park Foundation",
         "usagov_description": "The National Park Foundation supports America\u2019s national parks through conservation, preservation, education, and community engagement.",
@@ -3056,7 +3164,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] National Mediation Board",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] National Mediation Board",
+        "name": "[usagov] National Mediation Board",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] National Mediation Board",
         "usagov_contact_0_link": "https://nmb.gov/NMB_Application/index.php/agency-contact-center/",
         "usagov_contact_0_title": "Contact the National Mediation Board",
         "usagov_description": "The National Mediation Board facilitates the resolution of labor-management disputes in the rail and airline industries.",
@@ -3076,7 +3185,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] National Labor Relations Board (NLRB)",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] National Labor Relations Board (NLRB)",
+        "name": "[usagov] National Labor Relations Board (NLRB)",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] National Labor Relations Board (NLRB)",
         "usagov_acronym": "NLRB",
         "usagov_contact_0_link": "https://www.nlrb.gov/contact-us",
         "usagov_contact_0_title": "Contact the National Labor Relations Board",
@@ -3099,7 +3209,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] National Interagency Fire Center",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] National Interagency Fire Center",
+        "name": "[usagov] National Interagency Fire Center",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] National Interagency Fire Center",
         "usagov_contact_0_link": "https://www.nifc.gov/contact-us",
         "usagov_contact_0_title": "Contact the National Interagency Fire Center",
         "usagov_contact_1_link": "https://www.nifc.gov/sites/default/files/document-media/web_directory.pdf",
@@ -3119,7 +3230,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] National Indian Gaming Commission",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] National Indian Gaming Commission",
+        "name": "[usagov] National Indian Gaming Commission",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] National Indian Gaming Commission",
         "usagov_contact_0_link": "https://www.nigc.gov/commission/contact-nigc/",
         "usagov_contact_0_title": "Contact the National Indian Gaming Commission",
         "usagov_description": "The National Indian Gaming Commission is a regulatory body that oversees some aspects of gaming on Indian lands, often complementing the work of Indian regulators.",
@@ -3143,7 +3255,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] National Gallery of Art",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] National Gallery of Art",
+        "name": "[usagov] National Gallery of Art",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] National Gallery of Art",
         "usagov_contact_0_link": "http://www.nga.gov/content/ngaweb/contact-us.html",
         "usagov_contact_0_title": "Contact the National Gallery of Art",
         "usagov_description": "The National Gallery of Art collects, preserves and exhibits art works, and works to promote the understanding of art through research and educational programs.",
@@ -3161,7 +3274,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] National Endowment for the Humanities",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] National Endowment for the Humanities",
+        "name": "[usagov] National Endowment for the Humanities",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] National Endowment for the Humanities",
         "usagov_contact_0_link": "http://www.neh.gov/about/contact",
         "usagov_contact_0_title": "Contact the National Endowment for the Humanities",
         "usagov_contact_1_link": "http://www.neh.gov/about/staff",
@@ -3184,7 +3298,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Nuclear Waste Technical Review Board",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Nuclear Waste Technical Review Board",
+        "name": "[usagov] Nuclear Waste Technical Review Board",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Nuclear Waste Technical Review Board",
         "usagov_description": "The Nuclear Waste Technical Review Board provides scientific and technical oversight of the Department of Energy's program for managing and disposing of high-level nuclear waste and spent nuclear fuel.",
         "usagov_government_branch": "Independent Board, Commission, Committee",
         "usagov_main_address": "2300 Clarendon Blvd.",
@@ -3198,7 +3313,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Nuclear Regulatory Commission (NRC)",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Nuclear Regulatory Commission (NRC)",
+        "name": "[usagov] Nuclear Regulatory Commission (NRC)",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Nuclear Regulatory Commission (NRC)",
         "usagov_acronym": "NRC",
         "usagov_contact_0_link": "http://www.nrc.gov/about-nrc/contactus.html",
         "usagov_contact_0_title": "Contact the Nuclear Regulatory Commission",
@@ -3221,7 +3337,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Northwest Power and Conservation Council",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Northwest Power and Conservation Council",
+        "name": "[usagov] Northwest Power and Conservation Council",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Northwest Power and Conservation Council",
         "usagov_contact_0_link": "http://www.nwcouncil.org/contact/",
         "usagov_contact_0_title": "Contact the Northwest Power and Conservation Council",
         "usagov_description": "The Northwest Power and Conservation Council develops energy plans for the pacific northwest that include conservation efforts for local fish and wildlife.",
@@ -3240,7 +3357,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Northern Border Regional Commission",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Northern Border Regional Commission",
+        "name": "[usagov] Northern Border Regional Commission",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Northern Border Regional Commission",
         "usagov_description": "The Northern Border Regional Commission is a federal-state partnership for economic, and community development in northern Maine, New Hampshire, Vermont, and New York.",
         "usagov_government_branch": "Independent Board, Commission, Committee",
         "usagov_local_offices_0_link": "https://www.nbrc.gov/content/contact",
@@ -3256,7 +3374,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] National Transportation Safety Board (NTSB)",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] National Transportation Safety Board (NTSB)",
+        "name": "[usagov] National Transportation Safety Board (NTSB)",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] National Transportation Safety Board (NTSB)",
         "usagov_acronym": "NTSB",
         "usagov_contact_0_link": "https://ntsb.gov/about/Pages/contactus.aspx",
         "usagov_contact_0_title": "Contact the National Transportation Safety Board",
@@ -3275,7 +3394,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] National Science Foundation (NSF)",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] National Science Foundation (NSF)",
+        "name": "[usagov] National Science Foundation (NSF)",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] National Science Foundation (NSF)",
         "usagov_acronym": "NSF",
         "usagov_contact_0_link": "http://www.nsf.gov/help/contact.jsp",
         "usagov_contact_0_title": "Contact the National Science Foundation",
@@ -3301,7 +3421,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Occupational Safety and Health Review Commission",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Occupational Safety and Health Review Commission",
+        "name": "[usagov] Occupational Safety and Health Review Commission",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Occupational Safety and Health Review Commission",
         "usagov_contact_0_link": "https://www.oshrc.gov/about/important-contact-information/",
         "usagov_contact_0_title": "Contact the Occupational Safety and Health Review Commission",
         "usagov_description": "The Occupational Safety and Health Review Commission hears trials and appeals, deciding contests of citations or penalties that result from inspections performed by the Occupational Safety and Health Administration.",
@@ -3316,7 +3437,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Office of Special Counsel",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Office of Special Counsel",
+        "name": "[usagov] Office of Special Counsel",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Office of Special Counsel",
         "usagov_contact_0_link": "https://osc.gov/Pages/contact.aspx",
         "usagov_contact_0_title": "Contact the Office of Special Counsel",
         "usagov_description": "The Office of Special Counsel is an investigative and prosecutorial office that works to end government and political corruption, and to protect government employees and whistleblowers.",
@@ -3335,7 +3457,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Office of Personnel Management (OPM)",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Office of Personnel Management (OPM)",
+        "name": "[usagov] Office of Personnel Management (OPM)",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Office of Personnel Management (OPM)",
         "usagov_acronym": "OPM",
         "usagov_contact_0_link": "https://www.opm.gov/about-us/contact-us/",
         "usagov_contact_0_title": "Contact the Office of Personnel Management",
@@ -3355,7 +3478,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Presidio Trust",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Presidio Trust",
+        "name": "[usagov] Presidio Trust",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Presidio Trust",
         "usagov_description": "The Presidio Trust preserves the Presidio National Park as an enduring resource for the American people.",
         "usagov_email_link": "mailto:presidio@presidiotrust.gov",
         "usagov_email_title": "",
@@ -3372,7 +3496,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Postal Service (USPS)",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Postal Service (USPS)",
+        "name": "[usagov] Postal Service (USPS)",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Postal Service (USPS)",
         "usagov_acronym": "USPS",
         "usagov_contact_0_link": "http://www.usps.com/customerservice/welcome.htm?from=global_footer&page=customerservice",
         "usagov_contact_0_title": "Contact the U.S. Postal Service",
@@ -3395,7 +3520,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Postal Regulatory Commission",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Postal Regulatory Commission",
+        "name": "[usagov] Postal Regulatory Commission",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Postal Regulatory Commission",
         "usagov_contact_0_link": "http://www.prc.gov/contact/",
         "usagov_contact_0_title": "Contact the Postal Regulatory Commission",
         "usagov_description": "The Postal Regulatory Commission is responsible for oversight of the U.S. Postal Service, including oversight of rates and services, and ensuring the Postal Service meets all of its legal requirements.",
@@ -3411,7 +3537,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Pension Benefit Guaranty Corporation (PBGC)",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Pension Benefit Guaranty Corporation (PBGC)",
+        "name": "[usagov] Pension Benefit Guaranty Corporation (PBGC)",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Pension Benefit Guaranty Corporation (PBGC)",
         "usagov_acronym": "PBGC",
         "usagov_contact_0_link": "https://www.pbgc.gov/about/pg/contact/contact",
         "usagov_contact_0_title": "Contact the Pension Benefit Guaranty Corporation",
@@ -3435,7 +3562,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Peace Corps",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Peace Corps",
+        "name": "[usagov] Peace Corps",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Peace Corps",
         "usagov_contact_0_link": "https://www.peacecorps.gov/contact/",
         "usagov_contact_0_title": "Contact the Peace Corps",
         "usagov_description": "Peace Corps volunteers travel to developing countries all over the world to assist with many ongoing efforts including AIDS education, business training, and information infrastructure development.",
@@ -3453,7 +3581,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Privacy and Civil Liberties Oversight Board (PCLOB)",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Privacy and Civil Liberties Oversight Board (PCLOB)",
+        "name": "[usagov] Privacy and Civil Liberties Oversight Board (PCLOB)",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Privacy and Civil Liberties Oversight Board (PCLOB)",
         "usagov_acronym": "PCLOB",
         "usagov_contact_0_link": "https://www.pclob.gov/About/Contact",
         "usagov_contact_0_title": "Contact the Privacy and Civil Liberties Oversight Board",
@@ -3472,7 +3601,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Railroad Retirement Board (RRB)",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Railroad Retirement Board (RRB)",
+        "name": "[usagov] Railroad Retirement Board (RRB)",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Railroad Retirement Board (RRB)",
         "usagov_acronym": "RRB",
         "usagov_contact_0_link": "https://www.rrb.gov/ContactUs",
         "usagov_contact_0_title": "Contact the Railroad Retirement Board",
@@ -3495,7 +3625,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Social Security Advisory Board",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Social Security Advisory Board",
+        "name": "[usagov] Social Security Advisory Board",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Social Security Advisory Board",
         "usagov_contact_0_link": "https://www.ssab.gov/contact/",
         "usagov_contact_0_title": "Contact the Social Security Advisory Board",
         "usagov_description": "The Social Security Advisory Board advises the president, congress and the commissioner of Social Security on Social Security and Supplemental Security Income policy.",
@@ -3513,7 +3644,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Social Security Administration (SSA)",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Social Security Administration (SSA)",
+        "name": "[usagov] Social Security Administration (SSA)",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Social Security Administration (SSA)",
         "usagov_acronym": "SSA",
         "usagov_contact_0_link": "https://www.ssa.gov/agency/contact/",
         "usagov_contact_0_title": "Contact the Social Security Administration",
@@ -3535,7 +3667,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Smithsonian Institution",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Smithsonian Institution",
+        "name": "[usagov] Smithsonian Institution",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Smithsonian Institution",
         "usagov_contact_0_link": "http://www.si.edu/Contacts",
         "usagov_contact_0_title": "Contact the Smithsonian Institution",
         "usagov_description": "The Smithsonian is the world's largest museum and research complex, with 19 museums and galleries, the National Zoo, and 9 research facilities.",
@@ -3556,7 +3689,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Small Business Administration (SBA)",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Small Business Administration (SBA)",
+        "name": "[usagov] Small Business Administration (SBA)",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Small Business Administration (SBA)",
         "usagov_acronym": "SBA",
         "usagov_contact_0_link": "https://www.sba.gov/about-sba/organization/contact-sba",
         "usagov_contact_0_title": "Contact the Small Business Administration",
@@ -3580,7 +3714,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Sentencing Commission",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Sentencing Commission",
+        "name": "[usagov] Sentencing Commission",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Sentencing Commission",
         "usagov_contact_0_link": "https://www.ussc.gov/about/who-we-are/organization/contact-us",
         "usagov_contact_0_title": "Contact the U.S. Sentencing Commission",
         "usagov_description": "The U.S. Sentencing Commission studies and develops sentencing policies for the federal courts. The Commission serves as an information resource for Congress, the executive, the courts and the public on matters relating to federal crime and sentencing as well.",
@@ -3598,7 +3733,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Selective Service System (SSS)",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Selective Service System (SSS)",
+        "name": "[usagov] Selective Service System (SSS)",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Selective Service System (SSS)",
         "usagov_acronym": "SSS",
         "usagov_contact_0_link": "https://www.sss.gov/contact/",
         "usagov_contact_0_title": "Contact the Selective Service System",
@@ -3621,7 +3757,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Securities and Exchange Commission (SEC)",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Securities and Exchange Commission (SEC)",
+        "name": "[usagov] Securities and Exchange Commission (SEC)",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Securities and Exchange Commission (SEC)",
         "usagov_acronym": "SEC",
         "usagov_contact_0_link": "http://www.sec.gov/contact.shtml",
         "usagov_contact_0_title": "Contact the Securities and Exchange Commission",
@@ -3644,7 +3781,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Susquehanna River Basin Commission",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Susquehanna River Basin Commission",
+        "name": "[usagov] Susquehanna River Basin Commission",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Susquehanna River Basin Commission",
         "usagov_contact_0_link": "https://www.srbc.net/contact-us.html",
         "usagov_contact_0_title": "Contact the Susquehanna River Basin Commission",
         "usagov_description": "The Susquehanna River Basin Commission is an interstate body, with representatives from New York, Maryland, Pennsylvania and the federal government, that manages the environmental stewardship and economic development of the Susquehanna river and its tributaries.",
@@ -3664,7 +3802,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Surface Transportation Board",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Surface Transportation Board",
+        "name": "[usagov] Surface Transportation Board",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Surface Transportation Board",
         "usagov_contact_0_link": "https://prod.stb.gov/",
         "usagov_contact_0_title": "Contact the Surface Transportation Board",
         "usagov_description": "The Surface Transportation Board regulates and decides disputes involving railroad rates, railroad mergers or line sales, and certain other transportation matters.",
@@ -3683,7 +3822,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Supreme Court of the United States",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Supreme Court of the United States",
+        "name": "[usagov] Supreme Court of the United States",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Supreme Court of the United States",
         "usagov_contact_0_link": "http://www.supremecourt.gov/contact/contactus.aspx",
         "usagov_contact_0_title": "Contact the Supreme Court of the United States",
         "usagov_description": "The U.S. Supreme Court is the final appellate court of the U.S. judicial system. It has the power to review and overturn the decisions of lower courts. The Supreme Court also has original jurisdiction (being the first and final court to hear a case) in certain cases involving public officials, ambassadors, or disputes between states.",
@@ -3701,7 +3841,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] State Justice Institute",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] State Justice Institute",
+        "name": "[usagov] State Justice Institute",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] State Justice Institute",
         "usagov_description": "The State Justice Institute is a grant-making organization dedicated to improving the quality of justice in all state courts. It also works to facilitate better coordination between state and federal courts.",
         "usagov_email_link": "mailto:contact@sji.gov",
         "usagov_email_title": "",
@@ -3719,7 +3860,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Trade and Development Agency",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Trade and Development Agency",
+        "name": "[usagov] Trade and Development Agency",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Trade and Development Agency",
         "usagov_contact_0_link": "https://ustda.gov/contact/",
         "usagov_contact_0_title": "Contact the U.S. Trade and Development Agency",
         "usagov_contact_1_link": "https://ustda.gov/about/",
@@ -3739,7 +3881,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Tennessee Valley Authority (TVA)",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Tennessee Valley Authority (TVA)",
+        "name": "[usagov] Tennessee Valley Authority (TVA)",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Tennessee Valley Authority (TVA)",
         "usagov_acronym": "TVA",
         "usagov_contact_0_link": "https://www.tva.com/about-tva/contact-us",
         "usagov_contact_0_title": "Contact the Tennessee Valley Authority",
@@ -3758,7 +3901,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Tax Court",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Tax Court",
+        "name": "[usagov] Tax Court",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Tax Court",
         "usagov_contact_0_link": "https://www.ustaxcourt.gov/directory.html",
         "usagov_contact_0_title": "Contact the Tax Court",
         "usagov_description": "The Tax Court decides disputes between the Internal Revenue Service and taxpayers.",
@@ -3776,7 +3920,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Woodrow Wilson International Center for Scholars",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Woodrow Wilson International Center for Scholars",
+        "name": "[usagov] Woodrow Wilson International Center for Scholars",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Woodrow Wilson International Center for Scholars",
         "usagov_contact_0_link": "https://www.wilsoncenter.org/",
         "usagov_contact_0_title": "Contact the Woodrow Wilson International Center for Scholars",
         "usagov_description": "The Woodrow Wilson International Center for Scholars conducts and promotes objective research to inform public policy and debate.",
@@ -3794,7 +3939,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] White House",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] White House",
+        "name": "[usagov] White House",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] White House",
         "usagov_contact_0_link": "http://www.whitehouse.gov/contact/",
         "usagov_contact_0_title": "Contact the White House",
         "usagov_description": "The White House houses the executive office of the President, and serves as the President's residence.",
@@ -3813,7 +3959,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] AmeriCorps/[usagov] AmeriCorps Seniors",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] AmeriCorps/[usagov] AmeriCorps Seniors",
+        "name": "[usagov] AmeriCorps Seniors",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] AmeriCorps/[usagov] AmeriCorps Seniors",
         "usagov_contact_0_link": "https://nationalservice.gov/about/contact-us",
         "usagov_contact_0_title": "Contact AmeriCorps Seniors",
         "usagov_contact_1_link": "https://www.nationalservice.gov/programs/senior-corps/get-involved/senior-corps-pathfinder",
@@ -3831,7 +3978,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Court Services and Offender Supervision Agency for the District of Columbia/[usagov] Pretrial Services Agency for the District of Columbia",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Court Services and Offender Supervision Agency for the District of Columbia/[usagov] Pretrial Services Agency for the District of Columbia",
+        "name": "[usagov] Pretrial Services Agency for the District of Columbia",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Court Services and Offender Supervision Agency for the District of Columbia/[usagov] Pretrial Services Agency for the District of Columbia",
         "usagov_contact_0_link": "https://www.psa.gov/?q=contact",
         "usagov_contact_0_title": "Contact the\u00a0Pretrial Services Agency for the District of Columbia",
         "usagov_description": "The Pretrial Services Agency for the District of Columbia's promotes pretrial justice and enhances community safety.",
@@ -3851,7 +3999,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Federal Housing Finance Agency/[usagov] Fannie Mae",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Federal Housing Finance Agency/[usagov] Fannie Mae",
+        "name": "[usagov] Fannie Mae",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Federal Housing Finance Agency/[usagov] Fannie Mae",
         "usagov_contact_0_link": "https://www.fanniemae.com/portal/about-fm/contact-us.html",
         "usagov_contact_0_title": "Contact the Federal National Mortgage Association (Fannie Mae) Contact Fannie Mae",
         "usagov_description": "Fannie Mae purchases mortgages from lending institutions in an effort to increase affordable lending activity at those institutions. Fannie Mae is not a federal agency. It is a government-sponsored enterprise under the conservatorship of the Federal Housing Finance Agency (FHFA).",
@@ -3869,7 +4018,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Federal Housing Finance Agency/[usagov] Federal Home Loan Mortgage Corporation  (Freddie Mac)",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Federal Housing Finance Agency/[usagov] Federal Home Loan Mortgage Corporation  (Freddie Mac)",
+        "name": "[usagov] Federal Home Loan Mortgage Corporation  (Freddie Mac)",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Federal Housing Finance Agency/[usagov] Federal Home Loan Mortgage Corporation  (Freddie Mac)",
         "usagov_contact_0_link": "http://www.freddiemac.com/about/contact-us.html",
         "usagov_contact_0_title": "Contact the Federal Home Loan Mortgage Corporation (Freddie Mac)",
         "usagov_description": "A private corporation founded by Congress, the Federal Home Loan Mortgage corporation's mission is to promote stability and affordability in the housing market by purchasing mortgages from banks and other loan makers. The corporation is currently under conservatorship, under the direction of the Federal Housing Finance Agency.",
@@ -3889,7 +4039,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Supreme Court of the United States/[usagov] Court of Appeals for the Federal Circuit",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Supreme Court of the United States/[usagov] Court of Appeals for the Federal Circuit",
+        "name": "[usagov] Court of Appeals for the Federal Circuit",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Supreme Court of the United States/[usagov] Court of Appeals for the Federal Circuit",
         "usagov_contact_0_link": "http://www.uscourts.gov/court-locator",
         "usagov_contact_0_title": "Contact the Court of Appeals for the Federal Circuit",
         "usagov_description": "With a national jurisdiction, the Court of Appeals for the Federal Circuit hears appeals on patent and certain civil cases from courts such as the U.S. Court of International Trade and the Court of Federal Claims, among others. The Court of Appeals for the Federal Circuit may also review the administrative rulings of the Patent and Trademark Office, the Secretary of Commerce and other agencies.",
@@ -3909,7 +4060,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] Supreme Court of the United States/[usagov] Federal Court Interpreters",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] Supreme Court of the United States/[usagov] Federal Court Interpreters",
+        "name": "[usagov] Federal Court Interpreters",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] Supreme Court of the United States/[usagov] Federal Court Interpreters",
         "usagov_contact_0_link": "https://www.uscourts.gov/contact-us",
         "usagov_contact_0_title": "Contact Form",
         "usagov_description": "Program for certified interpreters to serve in federal courts and help deaf people and speakers of languages other than English to communicate.",
@@ -3925,7 +4077,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Agriculture Department (USDA)",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Agriculture Department (USDA)",
+        "name": "[usagov] Agriculture Department (USDA)",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Agriculture Department (USDA)",
         "usagov_acronym": "USDA",
         "usagov_contact_0_link": "https://www.usda.gov/contact-us",
         "usagov_contact_0_title": "Contact the U.S. Department of Agriculture (USDA)",
@@ -3956,7 +4109,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Council on Environmental Quality",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Council on Environmental Quality",
+        "name": "[usagov] Council on Environmental Quality",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Council on Environmental Quality",
         "usagov_contact_0_link": "https://www.whitehouse.gov/contact/",
         "usagov_contact_0_title": "Contact the Council on Environmental Quality",
         "usagov_description": "The Council on Environmental Quality coordinates federal environmental activities, and the development of environmental policy.",
@@ -3972,7 +4126,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Council of Economic Advisers",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Council of Economic Advisers",
+        "name": "[usagov] Council of Economic Advisers",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Council of Economic Advisers",
         "usagov_contact_0_link": "https://www.whitehouse.gov/contact",
         "usagov_contact_0_title": "Contact the Council of Economic Advisers",
         "usagov_description": "The Council of Economic Advisers gives the president advice on domestic and international economic policy.",
@@ -3987,7 +4142,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Commerce Department (DOC)",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Commerce Department (DOC)",
+        "name": "[usagov] Commerce Department (DOC)",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Commerce Department (DOC)",
         "usagov_acronym": "DOC",
         "usagov_contact_0_link": "https://www.commerce.gov/about/contact-us",
         "usagov_contact_0_title": "Contact the U.S. Department of Commerce",
@@ -4009,7 +4165,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Defense Department (DOD)",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Defense Department (DOD)",
+        "name": "[usagov] Defense Department (DOD)",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Defense Department (DOD)",
         "usagov_acronym": "DOD",
         "usagov_contact_0_link": "https://www.defense.gov/ask-us/listing/",
         "usagov_contact_0_title": "Contact the Department of Defense (public inquiries)",
@@ -4029,7 +4186,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Department of Veterans Affairs (VA)",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Department of Veterans Affairs (VA)",
+        "name": "[usagov] Department of Veterans Affairs (VA)",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Department of Veterans Affairs (VA)",
         "usagov_acronym": "VA",
         "usagov_contact_0_link": "https://www.va.gov/contact-us/",
         "usagov_contact_0_title": "Contact the Department of Veterans Affairs",
@@ -4051,7 +4209,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Department of Transportation (DOT)",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Department of Transportation (DOT)",
+        "name": "[usagov] Department of Transportation (DOT)",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Department of Transportation (DOT)",
         "usagov_acronym": "DOT",
         "usagov_contact_0_link": "https://www.transportation.gov/contact-us",
         "usagov_contact_0_title": "Contact the Department of Transportation",
@@ -4078,7 +4237,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Department of the Treasury",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Department of the Treasury",
+        "name": "[usagov] Department of the Treasury",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Department of the Treasury",
         "usagov_contact_0_link": "http://www.treasury.gov/connect/Pages/contact-us.aspx",
         "usagov_contact_0_title": "Contact the Department of the Treasury",
         "usagov_description": "The Department of the Treasury manages Federal finances by collecting taxes and paying bills and by managing currency, government accounts and public debt. The Department of the Treasury also enforces finance and tax laws.",
@@ -4096,7 +4256,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Department of the Interior (DOI)",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Department of the Interior (DOI)",
+        "name": "[usagov] Department of the Interior (DOI)",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Department of the Interior (DOI)",
         "usagov_acronym": "DOI",
         "usagov_contact_0_link": "https://www.doi.gov/contact-us",
         "usagov_contact_0_title": "Contact the Department of the Interior",
@@ -4117,7 +4278,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Department of State (DOS)",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Department of State (DOS)",
+        "name": "[usagov] Department of State (DOS)",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Department of State (DOS)",
         "usagov_acronym": "DOS",
         "usagov_contact_0_link": "https://register.state.gov/contactus/contactusform",
         "usagov_contact_0_title": "Contact the Department of State",
@@ -4145,7 +4307,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Department of Labor (DOL)",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Department of Labor (DOL)",
+        "name": "[usagov] Department of Labor (DOL)",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Department of Labor (DOL)",
         "usagov_acronym": "DOL",
         "usagov_contact_0_link": "https://www.dol.gov/general/contact",
         "usagov_contact_0_title": "Contact the Department of Labor",
@@ -4171,7 +4334,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Department of Justice (DOJ)",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Department of Justice (DOJ)",
+        "name": "[usagov] Department of Justice (DOJ)",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Department of Justice (DOJ)",
         "usagov_acronym": "DOJ",
         "usagov_contact_0_link": "https://www.justice.gov/contact-us",
         "usagov_contact_0_title": "Contact the Department of Justice",
@@ -4194,7 +4358,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Department of Housing and Urban Development (HUD)",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Department of Housing and Urban Development (HUD)",
+        "name": "[usagov] Department of Housing and Urban Development (HUD)",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Department of Housing and Urban Development (HUD)",
         "usagov_acronym": "HUD",
         "usagov_contact_0_link": "https://www.hud.gov/program_offices/public_indian_housing/pha/contacts",
         "usagov_contact_0_title": "Contact the Department of Housing and Urban Development",
@@ -4226,7 +4391,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Department of Homeland Security (DHS)",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Department of Homeland Security (DHS)",
+        "name": "[usagov] Department of Homeland Security (DHS)",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Department of Homeland Security (DHS)",
         "usagov_acronym": "DHS",
         "usagov_contact_0_link": "https://www.dhs.gov/contact-us",
         "usagov_contact_0_title": "Contact the Department of Homeland Security",
@@ -4245,7 +4411,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Department of Health and Human Services (HHS)",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Department of Health and Human Services (HHS)",
+        "name": "[usagov] Department of Health and Human Services (HHS)",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Department of Health and Human Services (HHS)",
         "usagov_acronym": "HHS",
         "usagov_contact_0_link": "https://www.hhs.gov/about/contact-us/index.html",
         "usagov_contact_0_title": "Contact the U.S. Department of Health and Human Services",
@@ -4264,7 +4431,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Department of Energy (DOE)",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Department of Energy (DOE)",
+        "name": "[usagov] Department of Energy (DOE)",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Department of Energy (DOE)",
         "usagov_acronym": "DOE",
         "usagov_contact_0_link": "https://www.energy.gov/contact-us",
         "usagov_contact_0_title": "Contact the Department of Energy",
@@ -4286,7 +4454,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Department of Education (ED)",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Department of Education (ED)",
+        "name": "[usagov] Department of Education (ED)",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Department of Education (ED)",
         "usagov_acronym": "ED",
         "usagov_contact_0_link": "http://www2.ed.gov/about/contacts/gen/index.html",
         "usagov_contact_0_title": "Contact the Department of Education",
@@ -4308,7 +4477,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] National Security Council (NSC)",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] National Security Council (NSC)",
+        "name": "[usagov] National Security Council (NSC)",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] National Security Council (NSC)",
         "usagov_acronym": "NSC",
         "usagov_contact_0_link": "https://www.whitehouse.gov/contact",
         "usagov_contact_0_title": "Contact the National Security Council",
@@ -4324,7 +4494,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Office of Science and Technology Policy",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Office of Science and Technology Policy",
+        "name": "[usagov] Office of Science and Technology Policy",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Office of Science and Technology Policy",
         "usagov_contact_0_link": "https://www.whitehouse.gov/contact/",
         "usagov_contact_0_title": "Contact the Office of Science and Technology Policy",
         "usagov_description": "The Office of Science and Technology Policy advises the president on the effects of science and technology on domestic and international affairs.",
@@ -4342,7 +4513,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Office of National Drug Control Policy (ONDCP)",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Office of National Drug Control Policy (ONDCP)",
+        "name": "[usagov] Office of National Drug Control Policy (ONDCP)",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Office of National Drug Control Policy (ONDCP)",
         "usagov_acronym": "ONDCP",
         "usagov_contact_0_link": "https://www.whitehouse.gov/contact",
         "usagov_contact_0_title": "Contact the Office of National Drug Control Policy",
@@ -4358,7 +4530,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Office of Management and Budget (OMB)",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Office of Management and Budget (OMB)",
+        "name": "[usagov] Office of Management and Budget (OMB)",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Office of Management and Budget (OMB)",
         "usagov_acronym": "OMB",
         "usagov_contact_0_link": "https://www.whitehouse.gov/omb/",
         "usagov_contact_0_title": "Contact the\u00a0Office of Management and Budget",
@@ -4375,7 +4548,8 @@
     {
       "data": {
         "id": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Trade Representative",
-        "name": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Trade Representative",
+        "name": "[usagov] Trade Representative",
+        "path": "/US FEDERAL GOVERNMENT/[usagov] White House/[usagov] Trade Representative",
         "usagov_contact_0_link": "http://www.ustr.gov/about-us/contact-us",
         "usagov_contact_0_title": "Contact the U.S. Trade Representative",
         "usagov_description": "The U.S. Trade Representative negotiates with foreign governments to craft trade agreements and resolve disputes.",

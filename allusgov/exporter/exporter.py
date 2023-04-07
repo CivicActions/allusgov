@@ -1,21 +1,24 @@
+import csv
+import datetime
+import fileinput
 import json
 import os
-import csv
 from io import TextIOWrapper
 from logging import Logger
-from typing import Optional, Dict, Any, List, Set, Tuple, cast
+from typing import Any, Dict, List, Optional, Set, Tuple, cast
 
 import networkx as nx
 from bigtree import (
     Node,
     levelorder_iter,
+    tree_to_dataframe,
     tree_to_dict,
     tree_to_dot,
     tree_to_nested_dict,
-    tree_to_dataframe,
     yield_tree,
 )
 from flatten_json import flatten
+from natsort import natsorted
 from networkx.classes.digraph import DiGraph
 
 from ..utils.utils import full_name
@@ -108,9 +111,9 @@ class FlatBaseExporter(BaseExporter):
 
     def __init__(self, logger: Logger, source: str, tree: Node, data_dir: str) -> None:
         super().__init__(logger, source, tree, data_dir)
-        self.orgs, self.attrib_names = self.flatten()
+        self.orgs_flat, self.attrib_names = self.flatten()
 
-    def flatten(self) -> Tuple[List[Dict[str, Any]], Set[str]]:
+    def flatten(self) -> Tuple[List[Dict[str, Any]], List[str]]:
         orgs: List[Dict[str, Any]] = []
         attrib_names: Set[str] = set()
         for org in levelorder_iter(self.tree):
@@ -121,8 +124,12 @@ class FlatBaseExporter(BaseExporter):
                 exclude_prefix="_", exclude_attributes=["name"]
             ):
                 attrs[key] = value
-            # Include node attributes
-            flat_attrs = {"node": org}
+            # Include node in the dict of attributes for reference
+            flat_attrs = {
+                "node": org,
+                "path": org.path_name,
+                "name": org.name,
+            }
             # Flatten the dict of attributes
             for key, value in flatten(attrs).items():
                 if isinstance(value, list):
@@ -131,7 +138,7 @@ class FlatBaseExporter(BaseExporter):
                     flat_attrs[key] = value
                     attrib_names.add(key)
             orgs.append(flat_attrs)
-        return (orgs, attrib_names)
+        return (orgs, ["path", "name"] + natsorted(attrib_names))
 
     def export(self):
         pass
@@ -151,7 +158,8 @@ class WideCSVExporter(FlatBaseExporter):
             writer = csv.DictWriter(
                 f, fieldnames=self.attrib_names, lineterminator="\n"
             )
-            for org in self.orgs:
+            writer.writeheader()
+            for org in self.orgs_flat:
                 del org["node"]
                 writer.writerow(org)
 
@@ -165,7 +173,7 @@ class NetworkXBaseExporter(FlatBaseExporter):
 
     def build_graph(self) -> DiGraph:
         G = nx.DiGraph()
-        for org in self.orgs:
+        for org in self.orgs_flat:
             node = cast(Node, org["node"])
             del org["node"]
             if node.is_root:
@@ -184,6 +192,12 @@ class GEXFExporter(NetworkXBaseExporter):
     def export(self) -> None:
         self.logger.info("Saving the " + self.source + " graph in GEXF format...")
         nx.write_gexf(self.G, self.export_path("gexf"))
+        # Update the file to remove the  lastmodifieddate attribute, which generates spurious diffs
+        date = datetime.datetime.now().strftime("%Y-%m-%d")
+        with fileinput.input(self.export_path("gexf"), inplace=True) as file:
+            for line in file:
+                line = line.replace(' lastmodifieddate="' + date + '"', "")
+                print(line, end="")
 
 
 class GraphMLExporter(NetworkXBaseExporter):
