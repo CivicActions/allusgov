@@ -3,7 +3,8 @@
 
 from .exporter import exporter
 from .importer import importer, samgov_importer
-from .processor import annotate_wikipedia, normalize_name, prune_tree_homonyms
+
+from .processor import normalize_name
 from .spider import budget, cisagov, opmgov, samgov, usagov, usaspending
 
 # Source settings
@@ -49,7 +50,9 @@ EXPORTERS = {
 # Merge settings
 MERGE_BASE = "samgov"
 
+# Directories
+DATA_DIR = "data"
+CACHE_DIR = ".cache"
+
 # Processors
 POST_BUILD_PROCESSORS = [normalize_name.NormalizeName]
-PRE_MERGE_PROCESSORS = [prune_tree_homonyms.PruneTreeHomonyms]
-POST_MERGE_PROCESSORS = [annotate_wikipedia.AnnotateWikipedia]

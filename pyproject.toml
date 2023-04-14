@@ -38,6 +38,10 @@ flatten-json = "^0.1.13"
 rapidfuzz = "^2.15.0"
 click-log = "^0.4.0"
 natsort = "^8.3.1"
+spacy = "^3.5.1"
+beautifulsoup4 = "^4.12.2"
+questionary = "^1.10.0"
+nltk = "^3.8.1"
 
 [tool.poetry.dev-dependencies]
 
@@ -75,6 +79,9 @@ ipython = "^7.12.0"
 [tool.poetry.scripts]
 
 allusgov = "allusgov.cli:main"
+
+[tool.poetry.group.dev.dependencies]
+tabula-py = "^2.7.0"
 
 [tool.black]
 

@@ -50,40 +50,42 @@ class UsagovSpider(scrapy.Spider):
             Dict[str, Union[List[Dict[str, str]], str, List[str]]],
         ]
     ]:
-        next_page = response.css("a.nextLetter::attr(href)").get()
-        if next_page is not None:
-            yield response.follow(next_page, callback=self.parse)
-        for agency in response.css("ul.one_column_bullet li"):
-            agency_name = agency.css("a::text").get()
-            agency_page = agency.css("a::attr(href)").get()
-            if agency_page is not None:
-                yield response.follow(
-                    agency_page,
-                    callback=self.parse,
-                    cb_kwargs=dict(agency_name=agency_name),
-                )
-        details: Dict[str, Any] = {}
-        for detail in response.css("article section"):
-            head = detail.css("header h3::text").get()
-            value = detail.css("p")
-            if head is not None:
-                head = head.strip(": ").lower().replace(" ", "_")
-                # We make some assumptions about which fields are multiple and single value here.
-                if head in self.multiple_fields:
-                    details[head] = []
-                    for item in value:
-                        details[head].append(self.get_field(head, item))
-                else:
-                    details[head] = self.get_field(head, value)
+        rows = response.xpath("//table//tr")
 
-        if details:
-            description = response.css("article header p::text").get()
-            if description is not None:
-                details["description"] = description.strip()
-            parent = response.xpath(
-                '//section[./header/h2[text()="Parent Agency"]]/ul/li/a/text()'
-            ).get()
-            if parent is not None:
-                details["parent"] = parent.strip()
-            details["name"] = agency_name
-            yield details
+        for row in rows:
+            acronym = row.xpath("td[1]/text()").get()
+            definitions_raw = row.xpath("td[2]").get()
+
+            definitions_raw = definitions_raw.split("|")
+            definitions = []
+
+            for definition_text in definitions_raw:
+                temp_response = scrapy.http.HtmlResponse(
+                    url="",
+                    body="<html><body>" + definition_text + "</body></html>",
+                    encoding="utf-8",
+                )
+
+                definition_link = temp_response.xpath("//a[1]")
+                notes_links = temp_response.xpath("//i/a")
+
+                if definition_link:
+                    definition = {
+                        "definition": definition_link.xpath("text()").get(),
+                        "link": definition_link.xpath("@href").get(),
+                    }
+
+                    notes = []
+                    for note_link in notes_links:
+                        note = {
+                            "note": note_link.xpath("text()").get(),
+                            "link": note_link.xpath("@href").get(),
+                        }
+                        notes.append(note)
+
+                    if notes:
+                        definition["notes"] = notes
+
+                    definitions.append(definition)
+
+            yield {"acronym": acronym, "definitions": definitions}

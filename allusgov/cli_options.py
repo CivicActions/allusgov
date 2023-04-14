@@ -13,20 +13,24 @@ click_log.basic_config(logger)
 # Global options decorator
 def global_options(func):
     func = click_log.simple_verbosity_option(logger)(func)
+    func = click.option(
+        "--data-dir",
+        default=settings.DATA_DIR,
+        type=click.Path(
+            exists=False, file_okay=False, writable=True, resolve_path=True
+        ),
+        help="Directory to store data and cache files",
+    )(func)
+    return func
+
+
+def sources_options(func):
     func = click.argument(
         "sources",
         nargs=-1,
         callback=lambda ctx, param, value: value
         if value
         else list(settings.SOURCES.keys()),
-    )(func)
-    func = click.option(
-        "--data-dir",
-        default="data",
-        type=click.Path(
-            exists=False, file_okay=False, writable=True, resolve_path=True
-        ),
-        help="Directory to store data and cache files",
     )(func)
     return func
 
@@ -40,7 +44,7 @@ def spider_options(func):
     )(func)
     func = click.option(
         "--cache-dir",
-        default=".cache",
+        default=settings.CACHE_DIR,
         type=click.Path(
             exists=False, file_okay=False, writable=True, resolve_path=True
         ),
@@ -85,6 +89,6 @@ def merge_options(func):
 
 class CustomGroup(click.Group):
     def list_commands(self, ctx):
-        # List the commands in a more helpful order.
-        custom_order = ["all", "spider", "build", "merge"]
+        # List the top level commands in a more helpful order.
+        custom_order = ["all", "spider", "build", "merge", "dev"]
         return sorted(super().list_commands(ctx), key=custom_order.index)

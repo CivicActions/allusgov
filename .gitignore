@@ -48,3 +48,8 @@ coverage.xml
 
 # Eclipse
 .settings
+
+# Don't include Govspeak or raw acronym data
+data/acronyms/govspeak.json
+data/acronyms/acronyms.json
+data/acronyms/*-raw.json
