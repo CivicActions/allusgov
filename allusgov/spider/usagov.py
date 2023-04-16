@@ -7,42 +7,49 @@ from scrapy.selector.unified import Selector, SelectorList
 
 
 class UsagovSpider(scrapy.Spider):
+    # This site codebase is open source, this page has info on this section:
+    # https://github.com/usagov/usagov-2021/blob/dev/docs/Federal_Directory.md
     name = "usagov"
     allowed_domains = ["usa.gov"]
     base = "https://www.usa.gov"
-    multiple_fields = [
-        "contact",
-        "local_offices",
-        "phone_number",
-        "toll_free",
-        "tty",
-        "sms",
-        "website",
-    ]
-    link_fields = [
-        "contact",
-        "email",
-        "forms",
-        "local_offices",
-        "website",
-    ]
+    start_url = base + "/agency-index"
 
     def start_requests(self) -> Iterator[Request]:
-        url = self.base + "/federal-agencies"
-        yield scrapy.Request(url=url, callback=self.parse)
+        yield scrapy.Request(url=self.start_url, callback=self.parse)
 
     def get_field(
-        self, head: str, item: Union[Selector, SelectorList]
+        self, item: Union[Selector, SelectorList]
     ) -> Union[str, Dict[str, str]]:
-        if head in self.link_fields:
-            return {
-                "title": item.css("*::text").get().strip(),
-                "link": item.css("a::attr(href)").get(),
-            }
-        return item.css("*::text").get().strip()
+        text = item.css("*::text").get()
+        link = item.css("a::attr(href)").get()
+        if link is not None:
+            link_field = {}
+            link_field["link"] = link
+            if text is not None:
+                link_field["title"] = text.strip()
+            return link_field
+        field = ""
+        if text is not None:
+            field = text.strip()
+        return field
 
-    def parse(
-        self, response: HtmlResponse, agency_name: Optional[str] = None, **kwargs: Any
+    def parse(self, response: HtmlResponse, **kwargs: Any) -> Iterator[Request]:
+        for page in response.css(".usagov-directory-container-az > li > a::attr(href)"):
+            yield response.follow(url=page, callback=self.parse_directory)
+
+    def parse_directory(
+        self, response: HtmlResponse, **kwargs: Any
+    ) -> Iterator[Request]:
+        for agency in response.css(
+            "div.usa-accordion > div.usa-accordion__content div:last-child > p > a::attr(href)"
+        ):
+            yield response.follow(
+                url=agency.get(),
+                callback=self.parse_agency,
+            )
+
+    def parse_agency(
+        self, response: HtmlResponse, **kwargs: Any
     ) -> Iterator[
         Union[
             Request,
@@ -50,42 +57,32 @@ class UsagovSpider(scrapy.Spider):
             Dict[str, Union[List[Dict[str, str]], str, List[str]]],
         ]
     ]:
-        rows = response.xpath("//table//tr")
-
-        for row in rows:
-            acronym = row.xpath("td[1]/text()").get()
-            definitions_raw = row.xpath("td[2]").get()
-
-            definitions_raw = definitions_raw.split("|")
-            definitions = []
-
-            for definition_text in definitions_raw:
-                temp_response = scrapy.http.HtmlResponse(
-                    url="",
-                    body="<html><body>" + definition_text + "</body></html>",
-                    encoding="utf-8",
-                )
-
-                definition_link = temp_response.xpath("//a[1]")
-                notes_links = temp_response.xpath("//i/a")
-
-                if definition_link:
-                    definition = {
-                        "definition": definition_link.xpath("text()").get(),
-                        "link": definition_link.xpath("@href").get(),
-                    }
-
-                    notes = []
-                    for note_link in notes_links:
-                        note = {
-                            "note": note_link.xpath("text()").get(),
-                            "link": note_link.xpath("@href").get(),
-                        }
-                        notes.append(note)
-
-                    if notes:
-                        definition["notes"] = notes
-
-                    definitions.append(definition)
-
-            yield {"acronym": acronym, "definitions": definitions}
+        pass
+        details: Dict[str, Any] = {}
+        details["name"] = response.css("h1 span::text").get().strip()
+        details["description"] = response.css("p.usa-intro::text").get().strip()
+        for detail in response.css("div.usagov-directory-table div"):
+            head = detail.css("h3.usa-prose::text").get()
+            multiple = detail.css("li")
+            head = head.lower().replace(" ", "_")
+            # We make some assumptions about which fields are multiple and single value here.
+            details[head] = []
+            if multiple.get() is not None:
+                for item in multiple:
+                    value = self.get_field(item)
+                    if value:
+                        details[head].append(self.get_field(item))
+            else:
+                for line in detail.css("*:not(:first-child)"):
+                    value = self.get_field(line)
+                    if value:
+                        details[head].append(self.get_field(line))
+            print(details)
+        if details:
+            # Site no longer has parent agency field.
+            # parent = response.xpath(
+            #     '//section[./header/h2[text()="Parent Agency"]]/ul/li/a/text()'
+            # ).get()
+            # if parent is not None:
+            #     details["parent"] = parent.strip()
+            yield details

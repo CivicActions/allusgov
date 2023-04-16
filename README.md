@@ -8,6 +8,7 @@ This project attempts to map the organization of the US Federal Government by ga
 
 Current sources:
 * [SAM.gov Federal Hierarchy Public API](https://open.gsa.gov/api/fh-public-api/)
+* [Federal Register Agencies API](https://www.federalregister.gov/developers/documentation/api/v1#/Agencies)
 * [USA.gov A-Z Index of U.S. Government Departments and Agencies](https://www.usa.gov/federal-agencies)
 * [OPM Federal Agencies List](https://www.opm.gov/about-us/open-government/Data/Apps/Agencies/)
 * [CISA .gov data](https://github.com/cisagov/dotgov-data)
@@ -15,6 +16,8 @@ Current sources:
 * [USASpending API Agencies & Sub-agencies](https://api.usaspending.gov/)
 
 Each source is scraped (see [out](out) directory) in raw JSON format, including fields for the organizational unit name/parent (if any), unique ID/parent-ID fields (if the names are not unique) as well as any other attribute data for that organization available from that source.
+
+A normalized name (still WIP) is then added, which corrects letter case, spacing and expands acronyms. Acronyms are selected and verified manually using data from [USCD GovSpeak](https://ucsd.libguides.com/govspeak) and the [DOD Dictionary of Military and Associated Terms](https://irp.fas.org/doddir/dod/dictionary.pdf) as well as manual entry when needed.
 
 Each source is them imported into a tree and exported into the following formats for easy consumption:
 * Plain text tree
@@ -27,7 +30,7 @@ Each source is them imported into a tree and exported into the following formats
 * [GraphQL graph file](https://graphql.org/) (includes flattened attributes)
 * [Cytoscape.js JSON format](https://js.cytoscape.org/#notation/elements-json) (includes flattened attributes)
 
-To merge the lists, each tree is merged into a selected base tree by comparing the names of each node in the tree to the names of each node in the base tree using a fuzzy matching algorithm. Similarity scores between each pair of parents are incorporated into the score to more correctly identify cases where the same/similar office or program name is used for different organizations.
+To merge the lists, each tree is merged into a selected base tree by comparing the normalized names of each node in the tree to the names of each node in the base tree using a fuzzy matching algorithm. Similarity scores between each pair of parents are incorporated into the score to more correctly identify cases where the same/similar office or program name is used for different organizations.
 
 Note that the fuzzy matching is imperfect and may have some inaccurate mappings (although most appear OK) and will certainly have some entries which actually should be merged, but aren't.
 

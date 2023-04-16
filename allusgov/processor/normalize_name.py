@@ -92,10 +92,22 @@ class NormalizeName(Processor):
             if word.lower() in self.words:
                 tokens[i] = word.title()
 
-            if self.small_re.match(word):
-                # Lowercase small words
+            if self.small_re.match(word) and i > 0:
+                # Lowercase small words, except the first word.
                 tokens[i] = word.lower()
         return tokens
+
+    def fix_split_word_acronyms(self, word, character):
+        """
+        Acronyms occur in hyphenated ot slash-separated words.
+
+        If word contains a hyphen or slash, split it up using regexp, fix acronyms with sub-tokens,
+        then rejoin using the original symbol.
+        """
+        if character in word:
+            sub_tokens = self.fix_embedded_acronyms(word.split(character))
+            word = character.join(sub_tokens)
+        return word
 
     def fix_embedded_acronyms(self, tokens):
         """Delete acronyms at beginning or end of string that refer to the organization name itself."""
@@ -105,6 +117,8 @@ class NormalizeName(Processor):
         first_index = None
         last_index = None
         for i, word in enumerate(tokens):
+            word = self.fix_split_word_acronyms(word, "-")
+            word = self.fix_split_word_acronyms(word, "/")
             is_caps = re.match(r"[A-Z]{2,}", word)
             if is_caps:
                 if first_index is None:

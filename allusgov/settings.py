@@ -5,7 +5,15 @@ from .exporter import exporter
 from .importer import importer, samgov_importer
 
 from .processor import normalize_name
-from .spider import budget, cisagov, opmgov, samgov, usagov, usaspending
+from .spider import (
+    budget,
+    cisagov,
+    opmgov,
+    samgov,
+    usagov,
+    usaspending,
+    federalregister,
+)
 
 # Source settings
 SOURCES = {
@@ -32,6 +40,10 @@ SOURCES = {
     "usaspending": {
         "importer": importer.Importer,
         "spider": usaspending.UsaspendingSpider,
+    },
+    "federalregister": {
+        "importer": importer.Importer,
+        "spider": federalregister.FederalRegisterSpider,
     },
 }
 
