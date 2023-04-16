@@ -46,8 +46,8 @@ class NormalizeName(Processor):
 
         # Sourced from:
         # curl https://raw.githubusercontent.com/grammakov/USA-cities-and-states/master/us_cities_states_counties.csv \
-        #   | xsv select -d'|' City,'State full',County,'City alias' | xsv flatten -s '' | cut -c13- | tr '[:upper:]' '[:lower:]' \
-        #   | sort -u | sed -r '/.{4}/!d' > place-names.txt
+        #   | xsv select -d'|' City,'State full',County,'City alias' | xsv flatten -s '' | cut -c13- \
+        #   | tr '[:upper:]' '[:lower:]' | sort -u | sed -r '/.{4}/!d' > place-names.txt
         # We exclude very short place names, since they may overlap with acronyms.
         with open(words_dir + "place-names.txt", encoding="utf-8") as f:
             words.update(f.read().splitlines())

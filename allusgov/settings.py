@@ -13,6 +13,7 @@ from .spider import (
     usagov,
     usaspending,
     federalregister,
+    usgovmanual,
 )
 
 # Source settings
@@ -44,6 +45,10 @@ SOURCES = {
     "federalregister": {
         "importer": importer.Importer,
         "spider": federalregister.FederalRegisterSpider,
+    },
+    "usgovmanual": {
+        "importer": importer.Importer,
+        "spider": usgovmanual.USGovManualSpider,
     },
 }
 
