@@ -37,6 +37,7 @@ def scrapy_settings(
             + "/%(spider_name)s/raw.json": {
                 "format": "json",
                 "encoding": "utf8",
+                "indent": 2,
                 "overwrite": True,
             },
         },
