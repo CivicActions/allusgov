@@ -34,13 +34,15 @@ class USGovManualSpider(scrapy.Spider):
             print(etree.tostring(element, encoding="unicode"))
             return data
         data["name"] = name[0]
-        data["id"] = int(element.attrib["EntityId"])
-        data["parent_id"] = (
-            int(element.attrib["ParentId"]) if "ParentId" in element.attrib else None
-        )
+        data["id"] = str(element.attrib["EntityId"])
+        data["parent_id"] = str(element.attrib["ParentId"])
+        if data["parent_id"] == "0":
+            data["parent_id"] = None
 
         for child in element.iterchildren():
             child_tag = self.cleanup_key(child.tag)
+            if child_tag == "childrens":
+                continue
             if child_tag not in data:
                 value = self.extract_child_data(child)
                 if value is not None:

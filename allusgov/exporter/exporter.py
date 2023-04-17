@@ -3,6 +3,7 @@ import datetime
 import fileinput
 import json
 import os
+import re
 from io import TextIOWrapper
 from logging import Logger
 from typing import Any, Dict, List, Optional, Set, Tuple, cast
@@ -113,10 +114,10 @@ class FlatBaseExporter(BaseExporter):
         super().__init__(logger, source, tree, data_dir)
         self.orgs_flat, self.attrib_names = self.flatten()
 
-    def flatten(self) -> Tuple[List[Dict[str, Any]], List[str]]:
+    def flatten(self, max_depth=None) -> Tuple[List[Dict[str, Any]], List[str]]:
         orgs: List[Dict[str, Any]] = []
         attrib_names: Set[str] = set()
-        for org in levelorder_iter(self.tree):
+        for org in levelorder_iter(self.tree, max_depth=max_depth):
             org = cast(Node, org)
             attrs = {}
             # Create a dict of attributes
@@ -155,13 +156,37 @@ class WideCSVExporter(FlatBaseExporter):
     def export(self) -> None:
         self.logger.info("Saving the " + self.source + " tree in wide CSV format...")
         with open(self.export_path("csv", "wide"), "w", encoding="utf8") as f:
+            orgs_flat, attrib_names = self.flatten(max_depth=2)
+            skip_attribs = []
+            # TODO: This approach is a hacky and slow, but it works for now.
+            for attrib in attrib_names:
+                # Skip attributes that include a list longer than 10 items.
+                match = re.search(r"^(.*)\d{2,}", attrib)
+                if match:
+                    skip_attribs.append(match.group(1))
+                # Also skip elements that include more than one list.
+                match = re.search(r"^(.*)_\d+_.+_\d+_", attrib)
+                if match:
+                    skip_attribs.append(match.group(1))
+            final_attrib_names = []
+            for attrib_name in attrib_names:
+                skip = False
+                for skip_attrib in skip_attribs:
+                    if attrib_name.startswith(skip_attrib):
+                        skip = True
+                if skip is False:
+                    final_attrib_names.append(attrib_name)
             writer = csv.DictWriter(
-                f, fieldnames=self.attrib_names, lineterminator="\n"
+                f, fieldnames=final_attrib_names, lineterminator="\n"
             )
             writer.writeheader()
-            for org in self.orgs_flat:
+            for org in orgs_flat:
+                final_attribs = {}
                 del org["node"]
-                writer.writerow(org)
+                for attrib_name, value in org.items():
+                    if attrib_name in final_attrib_names:
+                        final_attribs[attrib_name] = value
+                writer.writerow(final_attribs)
 
 
 class NetworkXBaseExporter(FlatBaseExporter):
