@@ -25,6 +25,7 @@ class USGovManualSpider(scrapy.Spider):
                 "SubEntityLevelThree",
             ]:
                 item = self.extract_element_data(element)
+                item = self.remove_entity_type(item)
                 yield item
 
     def extract_element_data(self, element: etree.Element) -> Dict[str, Any]:
@@ -54,6 +55,11 @@ class USGovManualSpider(scrapy.Spider):
 
         return data
 
+    def remove_entity_type(self, data: Dict[str, Any]) -> Dict[str, Any]:
+        if "entitytype" in data:
+            del data["entitytype"]
+        return data
+
     @staticmethod
     def cleanup_key(key: str) -> str:
         return key.lower().replace(" ", "_")
@@ -81,6 +87,16 @@ class USGovManualSpider(scrapy.Spider):
         for subchild in child.iterchildren():
             if not isinstance(subchild, etree._Comment):  # Ignore cyfunction comments
                 self.process_subchild(child_data, subchild)
+
+        # Remove redundant second-tier nesting
+        single_key_child_data = [
+            k for k, v in child_data.items() if isinstance(v, dict) and len(v) == 1
+        ]
+
+        for key in single_key_child_data:
+            inner_key, inner_value = next(iter(child_data[key].items()))
+            if isinstance(inner_value, list):
+                child_data[key] = inner_value
 
         if len(child_data) == 1 and "text" in child_data:
             return child_data["text"]
