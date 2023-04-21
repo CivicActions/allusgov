@@ -5,13 +5,13 @@ from typing import Dict, List, Optional
 import click
 from bigtree import Node
 
-from . import settings, allusgov
+from . import allusgov, settings
 from .cli_options import (
     CustomGroup,
     build_options,
     global_options,
-    sources_options,
     merge_options,
+    sources_options,
     spider_options,
 )
 from .dev import dev

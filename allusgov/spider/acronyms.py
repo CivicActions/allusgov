@@ -1,12 +1,12 @@
-from typing import Any, Dict, Iterator, List, cast
 import warnings
+from typing import Any, Dict, Iterator, List, cast
 
+import pandas as pd
 import scrapy
+import tabula
 from bs4 import BeautifulSoup, MarkupResemblesLocatorWarning
 from scrapy.http.request import Request
 from scrapy.http.response import Response
-import tabula
-import pandas as pd
 
 
 class GovSpeakAcronymsSpider(scrapy.Spider):
@@ -157,7 +157,7 @@ class DoDAcronymsSpider(scrapy.Spider):
             ymin = 72
             if page in blank_pages:
                 continue
-            elif page == first_page:
+            if page == first_page:
                 ymin = 173
             elif page in title_pages:
                 ymin = 102

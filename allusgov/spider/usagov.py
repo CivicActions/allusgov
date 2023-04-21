@@ -1,4 +1,4 @@
-from typing import Any, Dict, Iterator, List, Optional, Union
+from typing import Any, Dict, Iterator, List, Union
 
 import scrapy
 from scrapy.http.request import Request
@@ -33,13 +33,11 @@ class UsagovSpider(scrapy.Spider):
             field = text.strip()
         return field
 
-    def parse(self, response: HtmlResponse, **kwargs: Any) -> Iterator[Request]:
+    def parse(self, response: HtmlResponse, **kwargs) -> Iterator[Request]:
         for page in response.css(".usagov-directory-container-az > li > a::attr(href)"):
             yield response.follow(url=page, callback=self.parse_directory)
 
-    def parse_directory(
-        self, response: HtmlResponse, **kwargs: Any
-    ) -> Iterator[Request]:
+    def parse_directory(self, response: HtmlResponse) -> Iterator[Request]:
         for agency in response.css(
             "div.usa-accordion > div.usa-accordion__content div:last-child > p > a::attr(href)"
         ):

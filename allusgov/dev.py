@@ -1,16 +1,16 @@
 import json
-from typing import cast, Dict, Any, Tuple, List
 import re
+from typing import Any, Dict, List, cast
 
-import questionary
 import click
+import questionary
+from bigtree import Node, levelorder_iter
 from scrapy.crawler import CrawlerProcess
-from bigtree import levelorder_iter, Node
 
+from . import allusgov, settings
 from .cli_options import logger, spider_options
-from .spider.acronyms import GovSpeakAcronymsSpider, DoDAcronymsSpider
+from .spider.acronyms import DoDAcronymsSpider, GovSpeakAcronymsSpider
 from .utils.utils import scrapy_settings
-from . import settings, allusgov
 
 acronym_sources = {
     "govspeak": GovSpeakAcronymsSpider,

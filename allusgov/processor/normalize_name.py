@@ -1,10 +1,10 @@
-from logging import Logger
-import re
 import json
 import os
+import re
+from logging import Logger
 
 from bigtree import Node
-from nltk.tokenize.treebank import TreebankWordTokenizer, TreebankWordDetokenizer
+from nltk.tokenize.treebank import TreebankWordDetokenizer, TreebankWordTokenizer
 
 from .processor import Processor
 
