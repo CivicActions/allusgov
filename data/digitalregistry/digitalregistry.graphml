@@ -1,0 +1,1610 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d62" for="node" attr.name="digitalregistry_logo_logo_square_url" attr.type="string"/>
+<key id="d61" for="node" attr.name="digitalregistry_logo_tag_url" attr.type="string"/>
+<key id="d60" for="node" attr.name="digitalregistry_logo_card_url" attr.type="string"/>
+<key id="d59" for="node" attr.name="digitalregistry_logo_thumb_url" attr.type="string"/>
+<key id="d58" for="node" attr.name="digitalregistry_logo_url" attr.type="string"/>
+<key id="d57" for="node" attr.name="digitalregistry_digital_products_0_contacts" attr.type="string"/>
+<key id="d56" for="node" attr.name="digitalregistry_digital_service_accounts" attr.type="string"/>
+<key id="d55" for="node" attr.name="digitalregistry_digital_products_0_tags" attr.type="string"/>
+<key id="d54" for="node" attr.name="digitalregistry_digital_products_0_long_description" attr.type="string"/>
+<key id="d53" for="node" attr.name="digitalregistry_digital_products_0_short_description" attr.type="string"/>
+<key id="d52" for="node" attr.name="digitalregistry_digital_products_0_status" attr.type="string"/>
+<key id="d51" for="node" attr.name="digitalregistry_digital_products_0_language" attr.type="string"/>
+<key id="d50" for="node" attr.name="digitalregistry_digital_products_0_contacts_0_email" attr.type="string"/>
+<key id="d49" for="node" attr.name="digitalregistry_digital_service_accounts_0_tags_22" attr.type="string"/>
+<key id="d48" for="node" attr.name="digitalregistry_digital_service_accounts_0_tags_21" attr.type="string"/>
+<key id="d47" for="node" attr.name="digitalregistry_digital_service_accounts_0_tags_20" attr.type="string"/>
+<key id="d46" for="node" attr.name="digitalregistry_digital_service_accounts_0_tags_19" attr.type="string"/>
+<key id="d45" for="node" attr.name="digitalregistry_digital_service_accounts_0_tags_18" attr.type="string"/>
+<key id="d44" for="node" attr.name="digitalregistry_digital_service_accounts_0_tags_17" attr.type="string"/>
+<key id="d43" for="node" attr.name="digitalregistry_digital_service_accounts_0_tags_16" attr.type="string"/>
+<key id="d42" for="node" attr.name="digitalregistry_digital_service_accounts_0_tags_15" attr.type="string"/>
+<key id="d41" for="node" attr.name="digitalregistry_digital_service_accounts_0_tags_14" attr.type="string"/>
+<key id="d40" for="node" attr.name="digitalregistry_digital_service_accounts_0_tags_13" attr.type="string"/>
+<key id="d39" for="node" attr.name="digitalregistry_digital_service_accounts_0_tags_12" attr.type="string"/>
+<key id="d38" for="node" attr.name="digitalregistry_digital_service_accounts_0_tags_11" attr.type="string"/>
+<key id="d37" for="node" attr.name="digitalregistry_digital_service_accounts_0_tags_10" attr.type="string"/>
+<key id="d36" for="node" attr.name="digitalregistry_digital_service_accounts_0_tags_9" attr.type="string"/>
+<key id="d35" for="node" attr.name="digitalregistry_digital_service_accounts_0_tags_8" attr.type="string"/>
+<key id="d34" for="node" attr.name="digitalregistry_digital_service_accounts_0_tags_7" attr.type="string"/>
+<key id="d33" for="node" attr.name="digitalregistry_digital_service_accounts_0_contacts_1_email" attr.type="string"/>
+<key id="d32" for="node" attr.name="digitalregistry_digital_service_accounts_0_tags_6" attr.type="string"/>
+<key id="d31" for="node" attr.name="digitalregistry_digital_service_accounts_0_tags_5" attr.type="string"/>
+<key id="d30" for="node" attr.name="digitalregistry_digital_service_accounts_0_tags_4" attr.type="string"/>
+<key id="d29" for="node" attr.name="digitalregistry_digital_service_accounts_0_tags_3" attr.type="string"/>
+<key id="d28" for="node" attr.name="digitalregistry_digital_service_accounts_0_tags_2" attr.type="string"/>
+<key id="d27" for="node" attr.name="digitalregistry_digital_service_accounts_0_tags_1" attr.type="string"/>
+<key id="d26" for="node" attr.name="digitalregistry_digital_service_accounts_0_contacts_0_email" attr.type="string"/>
+<key id="d25" for="node" attr.name="digitalregistry_digital_service_accounts_0_tags_0" attr.type="string"/>
+<key id="d24" for="node" attr.name="digitalregistry_digital_products" attr.type="string"/>
+<key id="d23" for="node" attr.name="digitalregistry_digital_service_accounts_0_tags" attr.type="string"/>
+<key id="d22" for="node" attr.name="digitalregistry_digital_service_accounts_0_long_description" attr.type="string"/>
+<key id="d21" for="node" attr.name="digitalregistry_digital_service_accounts_0_short_description" attr.type="string"/>
+<key id="d20" for="node" attr.name="digitalregistry_digital_service_accounts_0_status" attr.type="string"/>
+<key id="d19" for="node" attr.name="digitalregistry_digital_service_accounts_0_language" attr.type="string"/>
+<key id="d18" for="node" attr.name="digitalregistry_digital_service_accounts_0_account" attr.type="string"/>
+<key id="d17" for="node" attr.name="digitalregistry_digital_service_accounts_0_service_url" attr.type="string"/>
+<key id="d16" for="node" attr.name="digitalregistry_digital_service_accounts_0_service" attr.type="string"/>
+<key id="d15" for="node" attr.name="digitalregistry_digital_service_accounts_0_contacts" attr.type="string"/>
+<key id="d14" for="node" attr.name="digitalregistry_digital_service_accounts_0_name" attr.type="string"/>
+<key id="d13" for="node" attr.name="digitalregistry_cfo_act_agency" attr.type="boolean"/>
+<key id="d12" for="node" attr.name="digitalregistry_learning_agenda_url" attr.type="string"/>
+<key id="d11" for="node" attr.name="digitalregistry_strategic_plan_url" attr.type="string"/>
+<key id="d10" for="node" attr.name="digitalregistry_performance_url" attr.type="string"/>
+<key id="d9" for="node" attr.name="digitalregistry_mission_statement_url" attr.type="string"/>
+<key id="d8" for="node" attr.name="digitalregistry_mission_statement" attr.type="string"/>
+<key id="d7" for="node" attr.name="digitalregistry_digital_analytics_path" attr.type="string"/>
+<key id="d6" for="node" attr.name="digitalregistry_domain" attr.type="string"/>
+<key id="d5" for="node" attr.name="digitalregistry_abbreviation" attr.type="string"/>
+<key id="d4" for="node" attr.name="digitalregistry_url" attr.type="string"/>
+<key id="d3" for="node" attr.name="digitalregistry_id" attr.type="long"/>
+<key id="d2" for="node" attr.name="digitalregistry_name" attr.type="string"/>
+<key id="d1" for="node" attr.name="name" attr.type="string"/>
+<key id="d0" for="node" attr.name="path" attr.type="string"/>
+<graph edgedefault="directed"><node id="/US FEDERAL GOVERNMENT">
+  <data key="d0">/US FEDERAL GOVERNMENT</data>
+  <data key="d1">US FEDERAL GOVERNMENT</data>
+  <data key="d2">US FEDERAL GOVERNMENT</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Department of Health &amp; Human Services (2119)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Department of Health &amp; Human Services (2119)</data>
+  <data key="d1">[digitalregistry] U.S. Department of Health &amp; Human Services (2119)</data>
+  <data key="d3">2119</data>
+  <data key="d2">U.S. Department of Health &amp; Human Services</data>
+  <data key="d4">https://www.hhs.gov/</data>
+  <data key="d5">HHS</data>
+  <data key="d6">hhs.gov</data>
+  <data key="d7"></data>
+  <data key="d8">Enhance the health and well-being of all Americans, by providing for effective health and human services and by fostering sound, sustained advances in the sciences underlying medicine, public health, and social services.</data>
+  <data key="d9">https://www.hhs.gov/</data>
+  <data key="d10">https://www.hhs.gov/about/budget/fy2024/performance/index.html</data>
+  <data key="d11">https://www.hhs.gov/about/strategic-plan/2022-2026/index.html</data>
+  <data key="d12">https://aspe.hhs.gov/reports/fy-2023-2026-hhs-evidence-building-plan </data>
+  <data key="d13">True</data>
+  <data key="d14">HIV.gov</data>
+  <data key="d15">[]</data>
+  <data key="d16">facebook</data>
+  <data key="d17">http://facebook.com/hivgov</data>
+  <data key="d18">Facebook</data>
+  <data key="d19">English</data>
+  <data key="d20">published</data>
+  <data key="d21">Gateway to domestic U.S. government HIV/AIDS testing, treatment, research, policy and digital communications resources: www.AIDS.gov http://blog.AIDS.gov/</data>
+  <data key="d22">HIV/AIDS information from across the U.S. government. Visit www.HIV.gov for information on HIV Basics, Awareness Days, National HIV/AIDS Strategy, digital/social media planning. Subscribe to  http://hiv.gov/blog to get the latest on HIV updates. </data>
+  <data key="d23">[]</data>
+  <data key="d24">[]</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] Centers for Disease Control and Prevention (2140)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] Centers for Disease Control and Prevention (2140)</data>
+  <data key="d1">[digitalregistry] Centers for Disease Control and Prevention (2140)</data>
+  <data key="d3">2140</data>
+  <data key="d2">Centers for Disease Control and Prevention</data>
+  <data key="d4">https://cdc.gov</data>
+  <data key="d5">CDC</data>
+  <data key="d6">cdc.gov</data>
+  <data key="d13">False</data>
+  <data key="d14">Facebook - CDC</data>
+  <data key="d15">[]</data>
+  <data key="d16">facebook</data>
+  <data key="d17">http://www.facebook.com/CDC</data>
+  <data key="d18">Facebook</data>
+  <data key="d19">English</data>
+  <data key="d20">published</data>
+  <data key="d21"></data>
+  <data key="d22">For questions about this account, please contact Emily Hood (OADC)</data>
+  <data key="d23">[]</data>
+  <data key="d24">[]</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] Consumer Protection Finance Bureau (2143)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] Consumer Protection Finance Bureau (2143)</data>
+  <data key="d1">[digitalregistry] Consumer Protection Finance Bureau (2143)</data>
+  <data key="d3">2143</data>
+  <data key="d2">Consumer Protection Finance Bureau</data>
+  <data key="d4">https://www.consumerfinance.gov/</data>
+  <data key="d5">CFPB</data>
+  <data key="d6">cfpb.gov</data>
+  <data key="d13">False</data>
+  <data key="d14">Consumer Financial Protection Bureau</data>
+  <data key="d15">[]</data>
+  <data key="d16">facebook</data>
+  <data key="d17">http://facebook.com/cfpb</data>
+  <data key="d18">Facebook</data>
+  <data key="d19">English</data>
+  <data key="d20">published</data>
+  <data key="d21">The official Facebook account of the CFPB</data>
+  <data key="d22"></data>
+  <data key="d25">cfpb</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] Department of Labor (2082)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] Department of Labor (2082)</data>
+  <data key="d1">[digitalregistry] Department of Labor (2082)</data>
+  <data key="d3">2082</data>
+  <data key="d2">Department of Labor</data>
+  <data key="d4">https://dol.gov/</data>
+  <data key="d5">DOL</data>
+  <data key="d6">dol.gov</data>
+  <data key="d7"></data>
+  <data key="d8">To foster, promote, and develop the welfare of the wage earners, job seekers, and retirees of the United States; improve working conditions; advance opportunities for profitable employment; and assure work-related benefits and rights.</data>
+  <data key="d9">https://www.dol.gov/</data>
+  <data key="d10">https://www.dol.gov/general/aboutdol#budget</data>
+  <data key="d11">https://www.dol.gov/general/aboutdol#budget </data>
+  <data key="d12">https://www.evaluation.gov/agencies/department-of-labor/</data>
+  <data key="d13">True</data>
+  <data key="d14">DepartmentofLabor</data>
+  <data key="d26">koebel.tiffany.l@dol.gov</data>
+  <data key="d16">facebook</data>
+  <data key="d17">http://facebook.com/departmentoflabor</data>
+  <data key="d18">Facebook</data>
+  <data key="d19">English</data>
+  <data key="d20">published</data>
+  <data key="d21">Information from the U.S. Department of Labor on jobs and training, safety and regulations, and other issues impacting America's workforce, job seekers and retirees.</data>
+  <data key="d22">The mission of the U.S. Department of Labor is to foster, promote, and develop the welfare of the wage earners, job seekers, and retirees of the United States; improve working conditions; advance opportunities for profitable employment; and assure work-related benefits and rights. Our Facebook page reflects this mission, and provides updates on Labor Department initiatives and resources.</data>
+  <data key="d25">leave</data>
+  <data key="d27">pay</data>
+  <data key="d28">workplace</data>
+  <data key="d29">work</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Department of Justice (2109)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Department of Justice (2109)</data>
+  <data key="d1">[digitalregistry] U.S. Department of Justice (2109)</data>
+  <data key="d3">2109</data>
+  <data key="d2">U.S. Department of Justice</data>
+  <data key="d4">https://www.justice.gov/</data>
+  <data key="d5">DOJ</data>
+  <data key="d6">usdoj.gov</data>
+  <data key="d7"></data>
+  <data key="d8">To uphold the rule of law, to keep our country safe, and to protect civil rights.</data>
+  <data key="d9">https://www.justice.gov/</data>
+  <data key="d10">https://www.justice.gov/doj/budget-and-performance</data>
+  <data key="d11">https://www.justice.gov/doj/doj-strategic-plan-2022-2026</data>
+  <data key="d12"> https://www.evaluation.gov/agencies/department-of-justice/</data>
+  <data key="d13">True</data>
+  <data key="d14">Department of Justice</data>
+  <data key="d15">[]</data>
+  <data key="d16">facebook</data>
+  <data key="d17">http://facebook.com/DOJ</data>
+  <data key="d18">Facebook</data>
+  <data key="d19">English</data>
+  <data key="d20">published</data>
+  <data key="d21"></data>
+  <data key="d22"></data>
+  <data key="d23">[]</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] National Archives (2124)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] National Archives (2124)</data>
+  <data key="d1">[digitalregistry] National Archives (2124)</data>
+  <data key="d3">2124</data>
+  <data key="d2">National Archives</data>
+  <data key="d4">https://www.archives.gov/</data>
+  <data key="d5">NARA</data>
+  <data key="d6">nara.gov</data>
+  <data key="d13">False</data>
+  <data key="d14">Federal Register</data>
+  <data key="d15">[]</data>
+  <data key="d16">facebook</data>
+  <data key="d17">http://facebook.com/FedRegister</data>
+  <data key="d18">Facebook</data>
+  <data key="d19">English</data>
+  <data key="d20">published</data>
+  <data key="d21">Official Facebook of the Office of the Federal Register (OFR)! OFR publishes governmental policies and makes them available to the public.  This site is managed by the National Archives and Records Administration.</data>
+  <data key="d22">National Archives Facebook Commenting Policy: https://www.archives.gov/social-media/policies/facebook-comment-policy.html</data>
+  <data key="d25">Nara</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] General Services Administration (1)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] General Services Administration (1)</data>
+  <data key="d1">[digitalregistry] General Services Administration (1)</data>
+  <data key="d3">1</data>
+  <data key="d2">General Services Administration</data>
+  <data key="d4">https://www.gsa.gov/</data>
+  <data key="d5">GSA</data>
+  <data key="d6">gsa.gov</data>
+  <data key="d7"></data>
+  <data key="d8">To deliver the best customer experience and value in real estate, acquisition, and technology services to the Government and the American people.</data>
+  <data key="d9">https://gsa.gov</data>
+  <data key="d10">https://www.gsa.gov/reference/reports/budget-performance</data>
+  <data key="d11">https://www.gsa.gov/reference/reports/budget-performance/gsa-fy-20222026-strategic-plan</data>
+  <data key="d12">https://www.evaluation.gov/agencies/general-services-administration/</data>
+  <data key="d13">True</data>
+  <data key="d14">GobiernoUSA.gov</data>
+  <data key="d15">[]</data>
+  <data key="d16">facebook</data>
+  <data key="d17">http://facebook.com/gobiernousa</data>
+  <data key="d18">Facebook</data>
+  <data key="d19">Spanish</data>
+  <data key="d20">published</data>
+  <data key="d21">GobiernoUSA.gov te ayuda a encontrar información oficial sobre programas y servicios del Gobierno de los Estados Unidos por Internet. Visita nuestra página principal en https://gobierno.usa.gov//</data>
+  <data key="d22">Información oficial en español del Gobierno de Estados Unidos&#13;
+&#13;
+Nuestra misión:&#13;
+Facilitar a las personas con conocimiento limitado del inglés acceso a información sobre servicios y programas del Gobierno&#13;
+&#13;
+Resaltar las iniciativas actuales y recursos del Gobierno que benefician a la comunidad hispana&#13;
+&#13;
+Reforzar la calidad de la información y los servicios en español que están a su disposición en los sitios web del Gobierno de EE. UU.&#13;
+&#13;
+Nuestra política de comentarios&#13;
+&#13;
+Recibiremos tus comentarios con mucho gusto si tienes 13 años o más (en inglés) y esperamos que nuestras conversaciones sean respetuosas. Eres responsable por el contenido que compartes. Te pedimos que te adhieras a nuestra política de comentarios.</data>
+  <data key="d25">ocsit</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Department of the Treasury (2122)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Department of the Treasury (2122)</data>
+  <data key="d1">[digitalregistry] U.S. Department of the Treasury (2122)</data>
+  <data key="d3">2122</data>
+  <data key="d2">U.S. Department of the Treasury</data>
+  <data key="d4">https://home.treasury.gov/</data>
+  <data key="d5">USDT</data>
+  <data key="d6">treas.gov</data>
+  <data key="d7"></data>
+  <data key="d8">Maintain a strong economy and create economic and job opportunities by promoting the conditions that enable economic growth and stability at home and abroad, strengthen national security by combating threats and protecting the integrity of the financial system, and manage the U.S. Government’s finances and resources effectively.</data>
+  <data key="d9">https://home.treasury.gov/</data>
+  <data key="d10">https://home.treasury.gov/about/budget-financial-reporting-planning-and-performance/budget-requestannual-performance-plan-and-reports</data>
+  <data key="d11">https://home.treasury.gov/about/budget-financial-reporting-planning-and-performance/strategic-plan</data>
+  <data key="d12">https://www.evaluation.gov/agencies/department-of-treasury/</data>
+  <data key="d13">True</data>
+  <data key="d14">United States Mint</data>
+  <data key="d15">[]</data>
+  <data key="d16">facebook</data>
+  <data key="d17">http://facebook.com/UnitedStatesMint</data>
+  <data key="d18">Facebook</data>
+  <data key="d19">English</data>
+  <data key="d20">published</data>
+  <data key="d21">Welcome to the United States Mint's Facebook page. If you are looking for the official Web site of the United States Mint, please visit www.usmint.gov</data>
+  <data key="d22">The primary mission of the United States Mint is to manufacture and distribute circulating coins, precious metals and collectible coins, and national medals to meet the needs of the United States. In addition to producing coins and medals, the United States Mint also maintains physical custody and protection of the Nation's gold and silver assets.</data>
+  <data key="d23">[]</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] Department of Commerce (2138)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] Department of Commerce (2138)</data>
+  <data key="d1">[digitalregistry] Department of Commerce (2138)</data>
+  <data key="d3">2138</data>
+  <data key="d2">Department of Commerce</data>
+  <data key="d4">https://www.commerce.gov/</data>
+  <data key="d5">DOC</data>
+  <data key="d6">doc.gov</data>
+  <data key="d7">commerce</data>
+  <data key="d8">Create the conditions for economic growth and opportunity for all communities.</data>
+  <data key="d9">https://www.commerce.gov/</data>
+  <data key="d10">https://www.commerce.gov/about/budget-and-performance</data>
+  <data key="d11">https://www.commerce.gov/about/budget-and-performance</data>
+  <data key="d12">https://www.evaluation.gov/agencies/department-of-commerce/</data>
+  <data key="d13">True</data>
+  <data key="d14">U.S. Census Bureau </data>
+  <data key="d15">[]</data>
+  <data key="d16">facebook</data>
+  <data key="d17">http://facebook.com/uscensusbureau</data>
+  <data key="d18">Facebook</data>
+  <data key="d19">English</data>
+  <data key="d20">published</data>
+  <data key="d21">Your trusted source for quality statistics about our nation's people, places and economy. www.census.gov/</data>
+  <data key="d22"></data>
+  <data key="d23">[]</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] Department of Agriculture (2098)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] Department of Agriculture (2098)</data>
+  <data key="d1">[digitalregistry] Department of Agriculture (2098)</data>
+  <data key="d3">2098</data>
+  <data key="d2">Department of Agriculture</data>
+  <data key="d4">https://usda.gov</data>
+  <data key="d5">USDA</data>
+  <data key="d6">usda.gov</data>
+  <data key="d7">agriculture</data>
+  <data key="d8">To serve all Americans by providing effective, innovative, science-based public policy leadership in agriculture, food and nutrition, natural resource protection and management, rural development, and related issues with a commitment to deliver equitable and climate-smart opportunities that inspire and help America thrive.</data>
+  <data key="d9">https://www.usda.gov/</data>
+  <data key="d10">https://www.usda.gov/our-agency/about-usda/performance</data>
+  <data key="d11">https://www.usda.gov/obpa/home</data>
+  <data key="d12">https://www.usda.gov/our-agency/about-usda/performance</data>
+  <data key="d13">True</data>
+  <data key="d14">U.S. Department of Agriculture</data>
+  <data key="d15">[]</data>
+  <data key="d16">facebook</data>
+  <data key="d17">http://facebook.com/usda</data>
+  <data key="d18">Facebook</data>
+  <data key="d19">English</data>
+  <data key="d20">published</data>
+  <data key="d25">Merrigan</data>
+  <data key="d27">Vilsack</data>
+  <data key="d28">USDA</data>
+  <data key="d29">food safety</data>
+  <data key="d30">nutrition</data>
+  <data key="d31">rural</data>
+  <data key="d32">agriculture</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] US Geological Survey (2104)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] US Geological Survey (2104)</data>
+  <data key="d1">[digitalregistry] US Geological Survey (2104)</data>
+  <data key="d3">2104</data>
+  <data key="d2">US Geological Survey</data>
+  <data key="d4">https://www.usgs.gov/</data>
+  <data key="d5">USGS</data>
+  <data key="d6">usgs.gov</data>
+  <data key="d13">False</data>
+  <data key="d14">USGS (Facebook)</data>
+  <data key="d26">everettel@usgs.gov</data>
+  <data key="d33">shorvath@usgs.gov</data>
+  <data key="d16">facebook</data>
+  <data key="d17">http://facebook.com/USGeologicalSurvey</data>
+  <data key="d18">Facebook</data>
+  <data key="d19">English</data>
+  <data key="d20">published</data>
+  <data key="d21"></data>
+  <data key="d22"></data>
+  <data key="d25">tools</data>
+  <data key="d27">technology</data>
+  <data key="d28">data</data>
+  <data key="d29">news</data>
+  <data key="d30">volcanoes</data>
+  <data key="d31">tsunamis</data>
+  <data key="d32">landslides</data>
+  <data key="d34">floods</data>
+  <data key="d35">hurricanes</data>
+  <data key="d36">wildfires</data>
+  <data key="d37">geology</data>
+  <data key="d38">Maps</data>
+  <data key="d39">geography</data>
+  <data key="d40">biology</data>
+  <data key="d41">earthquakes</data>
+  <data key="d42">natural hazards</data>
+  <data key="d43">minerals</data>
+  <data key="d44">ecosystems</data>
+  <data key="d45">Climate change</data>
+  <data key="d46">science</data>
+  <data key="d47">environment</data>
+  <data key="d48">Energy</data>
+  <data key="d49">water</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] Department of the Interior (2135)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] Department of the Interior (2135)</data>
+  <data key="d1">[digitalregistry] Department of the Interior (2135)</data>
+  <data key="d3">2135</data>
+  <data key="d2">Department of the Interior</data>
+  <data key="d4">https://www.doi.gov/</data>
+  <data key="d5">DOI</data>
+  <data key="d6">doi.gov</data>
+  <data key="d7"></data>
+  <data key="d8">Protect and manage the Nation’s natural resources and cultural heritage; provide scientific and other information about those resources; and honor its trust responsibilities or special commitments to American Indians, Alaska Natives, Native Hawaiians, and affiliated Island Communities.</data>
+  <data key="d9">https://www.doi.gov/</data>
+  <data key="d10">https://www.doi.gov/performance/performance-reports</data>
+  <data key="d11">https://www.doi.gov/performance/strategic-planning</data>
+  <data key="d12">https://www.doi.gov/performance/evidence-doi</data>
+  <data key="d13">True</data>
+  <data key="d14">USGS (Facebook)</data>
+  <data key="d26">everettel@usgs.gov</data>
+  <data key="d33">shorvath@usgs.gov</data>
+  <data key="d16">facebook</data>
+  <data key="d17">http://facebook.com/USGeologicalSurvey</data>
+  <data key="d18">Facebook</data>
+  <data key="d19">English</data>
+  <data key="d20">published</data>
+  <data key="d21"></data>
+  <data key="d22"></data>
+  <data key="d25">tools</data>
+  <data key="d27">technology</data>
+  <data key="d28">data</data>
+  <data key="d29">news</data>
+  <data key="d30">volcanoes</data>
+  <data key="d31">tsunamis</data>
+  <data key="d32">landslides</data>
+  <data key="d34">floods</data>
+  <data key="d35">hurricanes</data>
+  <data key="d36">wildfires</data>
+  <data key="d37">geology</data>
+  <data key="d38">Maps</data>
+  <data key="d39">geography</data>
+  <data key="d40">biology</data>
+  <data key="d41">earthquakes</data>
+  <data key="d42">natural hazards</data>
+  <data key="d43">minerals</data>
+  <data key="d44">ecosystems</data>
+  <data key="d45">Climate change</data>
+  <data key="d46">science</data>
+  <data key="d47">environment</data>
+  <data key="d48">Energy</data>
+  <data key="d49">water</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] National Oceanic and Atmospheric Administration (2166)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] National Oceanic and Atmospheric Administration (2166)</data>
+  <data key="d1">[digitalregistry] National Oceanic and Atmospheric Administration (2166)</data>
+  <data key="d3">2166</data>
+  <data key="d2">National Oceanic and Atmospheric Administration</data>
+  <data key="d4">https://www.noaa.gov/</data>
+  <data key="d5">NOAA</data>
+  <data key="d6">noaa.gov</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d13">False</data>
+  <data key="d14">National Ocean Service</data>
+  <data key="d15">[]</data>
+  <data key="d16">facebook</data>
+  <data key="d17">http://facebook.com/usoceangov</data>
+  <data key="d18">Facebook</data>
+  <data key="d19">English</data>
+  <data key="d20">published</data>
+  <data key="d21">NOAA's National Ocean Service is the nation's premier federal science agency for ocean and coasts. This is the official Facebook account of NOAA's National Ocean Service.</data>
+  <data key="d22">The National Ocean Service (NOS) is on the front lines in understanding, predicting, and responding to the challenges facing our ocean and coasts. &#13;
+&#13;
+More than half of the U.S. population lives in coastal areas, including the Great Lakes. Coastal areas contribute $7.9 trillion to the U.S. economy.&#13;
+&#13;
+To keep coastal communities, economies, and environments safe, NOS is protecting and restoring coastal habitats, reducing impacts associated with coastal development and other uses, and protecting coastal water quality and quantity to prevent illness and sustain ecosystems. We are working to enhance coastal resiliency and reduce impacts from coastal hazards such as spills, storms, and climate change. Website: http://oceanservice.noaa.gov/ &#13;
+</data>
+  <data key="d25">national marine sanctuaries</data>
+  <data key="d27">marine protected areas</data>
+  <data key="d28">currents</data>
+  <data key="d29">tides</data>
+  <data key="d30">geodesy</data>
+  <data key="d31">coast</data>
+  <data key="d32">surveying</data>
+  <data key="d34">nautical charts</data>
+  <data key="d35">ocean</data>
+  <data key="d36">science</data>
+  <data key="d37">environment</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] Office of Personnel Management  (2106)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] Office of Personnel Management  (2106)</data>
+  <data key="d1">[digitalregistry] Office of Personnel Management  (2106)</data>
+  <data key="d3">2106</data>
+  <data key="d2">Office of Personnel Management </data>
+  <data key="d4">https://www.opm.gov/</data>
+  <data key="d5">OPM</data>
+  <data key="d6">opm.gov</data>
+  <data key="d7"></data>
+  <data key="d8">We are champions of talent for the Federal Government. We lead Federal agencies in workforce policies, programs, and benefits in service to the American people.</data>
+  <data key="d9">https://www.opm.gov/</data>
+  <data key="d10">https://www.opm.gov/about-us/budget-performance/</data>
+  <data key="d11">https://www.opm.gov/about-us/strategic-plan/</data>
+  <data key="d12">https://www.opm.gov/about-us/strategic-plan/evidence-building/learning-agenda</data>
+  <data key="d13">True</data>
+  <data key="d14">Office of Personnel and Management</data>
+  <data key="d15">[]</data>
+  <data key="d16">facebook</data>
+  <data key="d17">http://facebook.com/USOPM</data>
+  <data key="d18">Facebook</data>
+  <data key="d19">English</data>
+  <data key="d20">published</data>
+  <data key="d21">Facebook USOPM</data>
+  <data key="d22"></data>
+  <data key="d23">[]</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] US Fish and Wildlife (2128)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] US Fish and Wildlife (2128)</data>
+  <data key="d1">[digitalregistry] US Fish and Wildlife (2128)</data>
+  <data key="d3">2128</data>
+  <data key="d2">US Fish and Wildlife</data>
+  <data key="d4">https://fws.gov/</data>
+  <data key="d5">FWS</data>
+  <data key="d6">fws.gov</data>
+  <data key="d13">False</data>
+  <data key="d14">USFWS Ash Meadows National Wildlife Refuge</data>
+  <data key="d26">michael_dagostino@fws.gov</data>
+  <data key="d33">rebecca_fabbri@fws.gov</data>
+  <data key="d16">facebook</data>
+  <data key="d17">https://facebook.com/AshMeadowsNWR</data>
+  <data key="d18">Facebook</data>
+  <data key="d19">English</data>
+  <data key="d20">published</data>
+  <data key="d21">Located in Nevada</data>
+  <data key="d22"></data>
+  <data key="d23">[]</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] Environmental Protection Agency (2095)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] Environmental Protection Agency (2095)</data>
+  <data key="d1">[digitalregistry] Environmental Protection Agency (2095)</data>
+  <data key="d3">2095</data>
+  <data key="d2">Environmental Protection Agency</data>
+  <data key="d4">https://www.epa.gov/</data>
+  <data key="d5">EPA</data>
+  <data key="d6">epa.gov</data>
+  <data key="d7"></data>
+  <data key="d8">To Protect Human Health and the Environment</data>
+  <data key="d9">https://www.epa.gov/</data>
+  <data key="d10">https://www.epa.gov/planandbudget</data>
+  <data key="d11">https://www.epa.gov/planandbudget/strategicplan</data>
+  <data key="d12">https://www.epa.gov/evaluate</data>
+  <data key="d13">True</data>
+  <data key="d50">widener.charles@epa.gov</data>
+  <data key="d51">English</data>
+  <data key="d52">published</data>
+  <data key="d53">Practice sun safety; check the UV Index and air quality ratings wherever you are.</data>
+  <data key="d54">&lt;p&gt;Note: To install the UV Index App on an Android device outside of Android's Google Play, you will need to enable Unknown Sources. On your Android phone, go to Settings and Application Settings and check the Unknown Sources checkbox. After the UV Index App is downloaded and installed, you may uncheck the Unknown Sources checkbox.&lt;/p&gt;&lt;p&gt;Use your mobile device to check the UV Index and air quality ratings wherever you are.&lt;/p&gt;</data>
+  <data key="d55">[]</data>
+  <data key="d56">[]</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] Library of Congress (2169)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] Library of Congress (2169)</data>
+  <data key="d1">[digitalregistry] Library of Congress (2169)</data>
+  <data key="d3">2169</data>
+  <data key="d2">Library of Congress</data>
+  <data key="d4">https://loc.gov/</data>
+  <data key="d5">LOC</data>
+  <data key="d6">loc.gov</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d13">False</data>
+  <data key="d57">[]</data>
+  <data key="d51">English</data>
+  <data key="d52">published</data>
+  <data key="d53">Read the daily edition of the Congressional Record on your iPad.</data>
+  <data key="d54">&lt;p&gt;Read the daily edition of the Congressional Record on your iPad, iPhone or iTouch. The Congressional Record App is presented by the Library of Congress using data provided by the Office of the Clerk of the U.S. House of Representatives, the Office of the Secretary of the Senate, and the Government Printing Office.&lt;/p&gt;&lt;p&gt;With this app you can:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Browse editions of the Congressional Record by date: January 4, 1995 (the 104th Congress, 1st Session) to the present&lt;/li&gt;&lt;li&gt;Copy text within documents&lt;/li&gt;&lt;li&gt;Perform keyword searches within individual documents or sections within documents&lt;/li&gt;&lt;li&gt;Share documents via email&lt;/li&gt;&lt;li&gt;Save documents to your preferred PDF reader&lt;/li&gt;&lt;li&gt;Identify the latest bills and resolutions considered daily on the floor of the U.S. House of Representatives&lt;/li&gt;&lt;li&gt;Identify the latest bills, resolutions, treaties, and nominations considered daily on the floor of the U.S. Senate&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;The Congressional Record contains the debates, proceedings, and activities of the Congress of the United States. The Congressional Record is published in four parts: House of Representatives, Senate, Extension of Remarks, and Daily Digest. The Daily Digest provides a summary of the day’s activities.&lt;/p&gt;&lt;/div&gt;</data>
+  <data key="d55">[]</data>
+  <data key="d56">[]</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] National Institutes of Health (2142)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] National Institutes of Health (2142)</data>
+  <data key="d1">[digitalregistry] National Institutes of Health (2142)</data>
+  <data key="d3">2142</data>
+  <data key="d2">National Institutes of Health</data>
+  <data key="d4">https://www.nih.gov/</data>
+  <data key="d5">NIH</data>
+  <data key="d6">nih.gov</data>
+  <data key="d13">False</data>
+  <data key="d14">Instituto Nacional del Cáncer</data>
+  <data key="d15">[]</data>
+  <data key="d16">facebook</data>
+  <data key="d17">http://facebook.com/cancer.govEspanol</data>
+  <data key="d18">Facebook</data>
+  <data key="d19">Spanish</data>
+  <data key="d20">published</data>
+  <data key="d21">El Instituto Nacional del Cáncer (NCI) es la agencia federal de los Estados Unidos dedicada a la investigación del cáncer.</data>
+  <data key="d22">¡Bienvenidos a la cuenta oficial del NCI! El Instituto Nacional del Cáncer (NCI) es la agencia federal de los Estados Unidos dedicada a la investigación del cáncer. Conéctese aquí, llame al 1-800-422-6237 o visite www.cancer.gov/espanol. For questions about this account, please contact Meghan Alleyne or Carolina Spencer. For overall questions about NCI social media, please contact Jennifer Dorsey. For emergencies related to this account, please contact Meghan Alleyne, Carolina Spencer or Jennifer Dorsey.</data>
+  <data key="d25">cancer</data>
+  <data key="d27">research</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] Department of Energy (2110)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] Department of Energy (2110)</data>
+  <data key="d1">[digitalregistry] Department of Energy (2110)</data>
+  <data key="d3">2110</data>
+  <data key="d2">Department of Energy</data>
+  <data key="d4">https://www.energy.gov/</data>
+  <data key="d5">DOE</data>
+  <data key="d6">doe.gov</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">https://www.energy.gov/</data>
+  <data key="d10">https://www.energy.gov/budget-performance</data>
+  <data key="d11">https://www.energy.gov/budget-performance</data>
+  <data key="d12">https://www.evaluation.gov/agencies/department-of-energy/</data>
+  <data key="d13">True</data>
+  <data key="d14">Office of Energy Efficiency and Renewable Energy</data>
+  <data key="d15">[]</data>
+  <data key="d16">facebook</data>
+  <data key="d17">http://facebook.com/eeregov</data>
+  <data key="d18">Facebook</data>
+  <data key="d19">English</data>
+  <data key="d20">published</data>
+  <data key="d23">[]</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] Federal Energy Regulatory Commission (2153)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] Federal Energy Regulatory Commission (2153)</data>
+  <data key="d1">[digitalregistry] Federal Energy Regulatory Commission (2153)</data>
+  <data key="d3">2153</data>
+  <data key="d2">Federal Energy Regulatory Commission</data>
+  <data key="d4">https://ferc.gov/</data>
+  <data key="d5">FERC</data>
+  <data key="d6">ferc.gov</data>
+  <data key="d7"></data>
+  <data key="d13">False</data>
+  <data key="d14">Federal Energy Regulatory Commission</data>
+  <data key="d15">[]</data>
+  <data key="d16">twitter</data>
+  <data key="d17">http://twitter.com/ferc</data>
+  <data key="d18">Twitter</data>
+  <data key="d19">English</data>
+  <data key="d20">published</data>
+  <data key="d21"></data>
+  <data key="d22"></data>
+  <data key="d23">[]</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] Corporation for National and Community Service (2175)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] Corporation for National and Community Service (2175)</data>
+  <data key="d1">[digitalregistry] Corporation for National and Community Service (2175)</data>
+  <data key="d3">2175</data>
+  <data key="d2">Corporation for National and Community Service</data>
+  <data key="d4">https://americorps.gov/</data>
+  <data key="d5">AMERICORPS</data>
+  <data key="d6">americorps.gov</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d13">False</data>
+  <data key="d14">AmeriCorps</data>
+  <data key="d15">[]</data>
+  <data key="d16">youtube</data>
+  <data key="d17">http://youtube.com/nationalservice</data>
+  <data key="d18">Youtube</data>
+  <data key="d19">English</data>
+  <data key="d20">published</data>
+  <data key="d21">AmeriCorps, a federal agency, brings people together to tackle the country’s most pressing challenges, through national service and volunteering. </data>
+  <data key="d22">AmeriCorps, a federal agency, brings people together to tackle the country’s most pressing challenges, through national service and volunteering.  AmeriCorps members and AmeriCorps Seniors volunteers serve with organizations dedicated to the improvement of communities.  AmeriCorps helps make service to others a cornerstone of our national culture.  Learn more at AmeriCorps.gov.</data>
+  <data key="d23">[]</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] Federal Reserve Board (2271)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] Federal Reserve Board (2271)</data>
+  <data key="d1">[digitalregistry] Federal Reserve Board (2271)</data>
+  <data key="d3">2271</data>
+  <data key="d2">Federal Reserve Board</data>
+  <data key="d4">https://www.federalreserve.gov/</data>
+  <data key="d5">FRB</data>
+  <data key="d6">frb.gov</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d13">False</data>
+  <data key="d14">Federal Reserve</data>
+  <data key="d26">laura.milner@frb.gov</data>
+  <data key="d16">youtube</data>
+  <data key="d17">http://youtube.com/FedReserveBoard</data>
+  <data key="d18">Youtube</data>
+  <data key="d19">English</data>
+  <data key="d20">published</data>
+  <data key="d21"></data>
+  <data key="d22"></data>
+  <data key="d23">[]</data>
+  <data key="d24">[]</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] Board of Governors of the Federal Reserve System (2256)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] Board of Governors of the Federal Reserve System (2256)</data>
+  <data key="d1">[digitalregistry] Board of Governors of the Federal Reserve System (2256)</data>
+  <data key="d3">2256</data>
+  <data key="d2">Board of Governors of the Federal Reserve System</data>
+  <data key="d4">https://www.federalreserve.gov/</data>
+  <data key="d5">FEDRESERVE</data>
+  <data key="d6">federalreserve.gov</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d13">False</data>
+  <data key="d14">Federal Reserve</data>
+  <data key="d26">laura.milner@frb.gov</data>
+  <data key="d16">youtube</data>
+  <data key="d17">http://youtube.com/FedReserveBoard</data>
+  <data key="d18">Youtube</data>
+  <data key="d19">English</data>
+  <data key="d20">published</data>
+  <data key="d21"></data>
+  <data key="d22"></data>
+  <data key="d23">[]</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] Health Resources &amp; Services Administration (2108)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] Health Resources &amp; Services Administration (2108)</data>
+  <data key="d1">[digitalregistry] Health Resources &amp; Services Administration (2108)</data>
+  <data key="d3">2108</data>
+  <data key="d2">Health Resources &amp; Services Administration</data>
+  <data key="d4">https://www.hrsa.gov/</data>
+  <data key="d5">HRSA</data>
+  <data key="d6">hrsa.gov</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d13">False</data>
+  <data key="d14">HRSATube</data>
+  <data key="d26">ocsocialmedia@hrsa.gov</data>
+  <data key="d16">youtube</data>
+  <data key="d17">http://youtube.com/hrsatube</data>
+  <data key="d18">Youtube</data>
+  <data key="d19">English</data>
+  <data key="d20">published</data>
+  <data key="d21">Official Youtube channel for HRSA</data>
+  <data key="d22"></data>
+  <data key="d23">[]</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] Department of State (2130)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] Department of State (2130)</data>
+  <data key="d1">[digitalregistry] Department of State (2130)</data>
+  <data key="d3">2130</data>
+  <data key="d2">Department of State</data>
+  <data key="d4">https://www.state.gov</data>
+  <data key="d5">DOS</data>
+  <data key="d6">state.gov</data>
+  <data key="d7"></data>
+  <data key="d8">To protect and promote U.S. security, prosperity, and democratic values and shape an international environment in which all Americans can thrive.</data>
+  <data key="d9">https://www.state.gov/</data>
+  <data key="d10">https://www.state.gov/plans-performance-budget/performance-plans-and-reports/</data>
+  <data key="d11">https://www.state.gov/joint-strategic-plan/</data>
+  <data key="d12">https://www.evaluation.gov/agencies/department-of-state/</data>
+  <data key="d13">True</data>
+  <data key="d14">U.S. Department of State</data>
+  <data key="d15">[]</data>
+  <data key="d16">instagram</data>
+  <data key="d17">https://www.instagram.com/statedept/</data>
+  <data key="d18">Instagram</data>
+  <data key="d19">English</data>
+  <data key="d20">published</data>
+  <data key="d21"></data>
+  <data key="d22"></data>
+  <data key="d23">[]</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] Consumer Product Safety Commission (2195)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] Consumer Product Safety Commission (2195)</data>
+  <data key="d1">[digitalregistry] Consumer Product Safety Commission (2195)</data>
+  <data key="d3">2195</data>
+  <data key="d2">Consumer Product Safety Commission</data>
+  <data key="d4">https://www.cpsc.gov/</data>
+  <data key="d5">CPSC</data>
+  <data key="d6">cpsc.gov</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d13">False</data>
+  <data key="d14">Consumer Product Safety Commission</data>
+  <data key="d26">jgalbo@cpsc.gov</data>
+  <data key="d16">flickr</data>
+  <data key="d17">http://flickr.com/photos/uscpsc</data>
+  <data key="d18">Flickr</data>
+  <data key="d19">English</data>
+  <data key="d20">published</data>
+  <data key="d21">Official Flickr account of the Consumer Product Safety Commission</data>
+  <data key="d22"></data>
+  <data key="d23">[]</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] Federal Trade Commission (2205)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] Federal Trade Commission (2205)</data>
+  <data key="d1">[digitalregistry] Federal Trade Commission (2205)</data>
+  <data key="d3">2205</data>
+  <data key="d2">Federal Trade Commission</data>
+  <data key="d4">https://www.ftc.gov/</data>
+  <data key="d5">FTC</data>
+  <data key="d6">ftc.gov</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d13">False</data>
+  <data key="d14">FTC Chief Technologist</data>
+  <data key="d15">[]</data>
+  <data key="d16">twitter</data>
+  <data key="d17">http://twitter.com/techFTC</data>
+  <data key="d18">Twitter</data>
+  <data key="d19">English</data>
+  <data key="d20">published</data>
+  <data key="d21">FTC's technology Twitter page managed by agency's Chief Technologist (currently vacant)</data>
+  <data key="d22"></data>
+  <data key="d23">[]</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] Architect of the Capitol (2249)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] Architect of the Capitol (2249)</data>
+  <data key="d1">[digitalregistry] Architect of the Capitol (2249)</data>
+  <data key="d3">2249</data>
+  <data key="d2">Architect of the Capitol</data>
+  <data key="d4">https://www.aoc.gov/</data>
+  <data key="d5">AOC</data>
+  <data key="d6">aoc.gov</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d13">False</data>
+  <data key="d14">Architect of the Capitol</data>
+  <data key="d15">[]</data>
+  <data key="d16">flickr</data>
+  <data key="d17">http://flickr.com/photos/uscapitol</data>
+  <data key="d18">Flickr</data>
+  <data key="d19">English</data>
+  <data key="d20">published</data>
+  <data key="d21">Serve | Preserve | Inspire — Stewards of the iconic buildings and grounds of Capitol Hill since 1793.</data>
+  <data key="d22">Serving Congress and the Supreme Court, the Architect of the Capitol (AOC) is the builder and steward of the landmark buildings and grounds of Capitol Hill. The AOC staff preserves and maintains the historic buildings, monuments, art and inspirational gardens on the Capitol campus. Recognizing the trust placed in us by Congress and the American people, the AOC team is committed to providing a safe environment and inspiring experiences for all who work and visit the symbol of American democracy.</data>
+  <data key="d25">legislative branch</data>
+  <data key="d27">Capitol</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] Department of Defense (2127)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] Department of Defense (2127)</data>
+  <data key="d1">[digitalregistry] Department of Defense (2127)</data>
+  <data key="d3">2127</data>
+  <data key="d2">Department of Defense</data>
+  <data key="d4">https://www.defense.gov/</data>
+  <data key="d5">DOD</data>
+  <data key="d6">mail.mil</data>
+  <data key="d7"></data>
+  <data key="d8">Provide the military forces needed to deter war and ensure our nation's security.</data>
+  <data key="d9">https://www.defense.gov/</data>
+  <data key="d10">https://dam.defense.gov/Performance/</data>
+  <data key="d11">https://dam.defense.gov/Portals/47/Documents/DoD_Strategic_Management_Plan_FY22-26.pdf</data>
+  <data key="d12">https://www.evaluation.gov/agencies/department-of-defense/</data>
+  <data key="d13">True</data>
+  <data key="d14">National Museum of Health and Medicine</data>
+  <data key="d15">[]</data>
+  <data key="d16">facebook</data>
+  <data key="d17">http://facebook.com/medicalmuseum</data>
+  <data key="d18">Facebook</data>
+  <data key="d19">English</data>
+  <data key="d20">published</data>
+  <data key="d21">National Museum of Health and Medicine. (Official page.) DoD museum since 1862. Hist. of Amer. medicine/Amer. military medicine.</data>
+  <data key="d22">National Museum of Health and Medicine. (Official page.) Department of Defense museum since 1862. Past/present/future of the history of American military medicine.</data>
+  <data key="d25">historic</data>
+  <data key="d27">medicine</data>
+  <data key="d28">military</data>
+  <data key="d29">history</data>
+  <data key="d30">medical</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] United States Agency for International Development (2148)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] United States Agency for International Development (2148)</data>
+  <data key="d1">[digitalregistry] United States Agency for International Development (2148)</data>
+  <data key="d3">2148</data>
+  <data key="d2">United States Agency for International Development</data>
+  <data key="d4">https://www.usaid.gov/</data>
+  <data key="d5">USAID</data>
+  <data key="d6">usaid.gov</data>
+  <data key="d7"></data>
+  <data key="d8">We work to build a freer, more equitable and more humane world by amplifying local voices, advancing sustainable progress, and tackling the world's toughest problems. </data>
+  <data key="d9">https://www.usaid.gov/</data>
+  <data key="d10">https://www.usaid.gov/results-and-data/progress-data/annual-performance-report</data>
+  <data key="d11">https://www.usaid.gov/results-and-data/planning</data>
+  <data key="d12">https://www.evaluation.gov/agencies/agency-for-international-development/</data>
+  <data key="d13">True</data>
+  <data key="d14">USAID's Bureau for Humanitarian Assistance  </data>
+  <data key="d26">gyour@usaid.gov</data>
+  <data key="d16">twitter</data>
+  <data key="d17">http://twitter.com/@USAIDSavesLives</data>
+  <data key="d18">Twitter</data>
+  <data key="d19">English</data>
+  <data key="d20">published</data>
+  <data key="d21">USAID's Bureau for Humanitarian Assistance saves lives on behalf of the American people.</data>
+  <data key="d22">USAID’s Bureau for Humanitarian Assistance (BHA) leads and coordinates the U.S. Government’s humanitarian assistance efforts overseas. Helping people affected by disasters is at the core of what BHA does every day, all over the world. The Bureau responds to an average of 75 disasters in more than 70 countries every year, ensuring that aid reaches people affected by natural disasters, including hurricanes, earthquakes, and volcanoes, as well as protracted crises, such as drought and conflict. We also support food insecure refugees fleeing war, violence, or persecution.</data>
+  <data key="d25">humanitarian</data>
+  <data key="d27">disasters</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] Food and Drug Administration (2273)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] Food and Drug Administration (2273)</data>
+  <data key="d1">[digitalregistry] Food and Drug Administration (2273)</data>
+  <data key="d3">2273</data>
+  <data key="d2">Food and Drug Administration</data>
+  <data key="d4">https://www.fda.gov/</data>
+  <data key="d5">FDA</data>
+  <data key="d6">fda.gov</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d13">False</data>
+  <data key="d14">FDA en Español</data>
+  <data key="d15">[]</data>
+  <data key="d16">twitter</data>
+  <data key="d17">http://twitter.com/FDAenEspanol</data>
+  <data key="d18">Twitter</data>
+  <data key="d19">Spanish</data>
+  <data key="d20">published</data>
+  <data key="d21">Encuentra las últimas noticias de la Administración de Alimentos y Medicamentos de los E.U. </data>
+  <data key="d22">Encuentra las últimas noticias de la Administración de Alimentos y Medicamentos de los E.U. </data>
+  <data key="d25">espanol</data>
+  <data key="d27">tabaco</data>
+  <data key="d28">apratos medicos</data>
+  <data key="d29">cosmeticos</data>
+  <data key="d30">medicamentos</data>
+  <data key="d31">alimentos</data>
+  <data key="d32">health fraud</data>
+  <data key="d34">medical devices</data>
+  <data key="d35">cosmetics</data>
+  <data key="d36">drugs</data>
+  <data key="d37">Food Safet</data>
+  <data key="d38">food safety</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] National Park Service (2141)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] National Park Service (2141)</data>
+  <data key="d1">[digitalregistry] National Park Service (2141)</data>
+  <data key="d3">2141</data>
+  <data key="d2">National Park Service</data>
+  <data key="d4">https://www.nps.gov/index.htm</data>
+  <data key="d5">NPS</data>
+  <data key="d6">nps.gov</data>
+  <data key="d13">False</data>
+  <data key="d14">Denali National Park</data>
+  <data key="d26">alex_lindeman@nps.gov</data>
+  <data key="d16">facebook</data>
+  <data key="d17">http://facebook.com/denalinps</data>
+  <data key="d18">Facebook</data>
+  <data key="d19">English</data>
+  <data key="d20">published</data>
+  <data key="d21">Facebook page for Denali National Park and Preserve</data>
+  <data key="d22">Facebook page for Denali National Park and Preserve</data>
+  <data key="d25">mount mckinley</data>
+  <data key="d27">denali</data>
+  <data key="d28">alaska</data>
+  <data key="d29">wildlife</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Government Publishing Office (2267)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Government Publishing Office (2267)</data>
+  <data key="d1">[digitalregistry] U.S. Government Publishing Office (2267)</data>
+  <data key="d3">2267</data>
+  <data key="d2">U.S. Government Publishing Office</data>
+  <data key="d4">https://www.gpo.gov/</data>
+  <data key="d5">GPO</data>
+  <data key="d6">gpo.gov</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d13">False</data>
+  <data key="d14">U.S. Government Publishing Office Pinterest</data>
+  <data key="d26">cgoergen@gpo.gov</data>
+  <data key="d16">pinterest</data>
+  <data key="d17">https://www.pinterest.com/usgpo/</data>
+  <data key="d18">Pinterest</data>
+  <data key="d19">English</data>
+  <data key="d20">published</data>
+  <data key="d21">The Pinterest Page for the U.S. Government Publishing Office</data>
+  <data key="d22"></data>
+  <data key="d25">secure</data>
+  <data key="d27">official</data>
+  <data key="d28">eBooks</data>
+  <data key="d29">government publications</data>
+  <data key="d30">U.S. Passport</data>
+  <data key="d31">FDsys</data>
+  <data key="d32">Federal Digital System</data>
+  <data key="d34">gpo</data>
+  <data key="d35">Government Printing Office</data>
+  <data key="d36">apps</data>
+  <data key="d37">digital</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] National Nuclear Security Administration (2272)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] National Nuclear Security Administration (2272)</data>
+  <data key="d1">[digitalregistry] National Nuclear Security Administration (2272)</data>
+  <data key="d3">2272</data>
+  <data key="d2">National Nuclear Security Administration</data>
+  <data key="d4">https://www.energy.gov/nnsa/national-nuclear-security-administration</data>
+  <data key="d5">NNSA</data>
+  <data key="d6">nnsa.gov</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d13">False</data>
+  <data key="d14">Sandia National Laboratories</data>
+  <data key="d15">[]</data>
+  <data key="d16">twitter</data>
+  <data key="d17">http://twitter.com/SandiaLabs</data>
+  <data key="d18">Twitter</data>
+  <data key="d19">English</data>
+  <data key="d20">published</data>
+  <data key="d21">U.S. Energy labs dedicated to securing a peaceful and free world through science and technology. This is the official account for Sandia National Labs.</data>
+  <data key="d22"></data>
+  <data key="d25">nonproliferation</data>
+  <data key="d27">National security</data>
+  <data key="d28">security</data>
+  <data key="d29">nuclear</data>
+  <data key="d30">engineering</data>
+  <data key="d31">defense</data>
+  <data key="d32">technology</data>
+  <data key="d34">innovation</data>
+  <data key="d35">science</data>
+  <data key="d36">Energy</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] United States Air Force (2117)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] United States Air Force (2117)</data>
+  <data key="d1">[digitalregistry] United States Air Force (2117)</data>
+  <data key="d3">2117</data>
+  <data key="d2">United States Air Force</data>
+  <data key="d4">https://www.af.mil/</data>
+  <data key="d5">USAF</data>
+  <data key="d6">af.mil</data>
+  <data key="d13">False</data>
+  <data key="d14">Civil Air Patrol National Capital Wing</data>
+  <data key="d15">[]</data>
+  <data key="d16">facebook</data>
+  <data key="d17">http://facebook.com/NatCapWing</data>
+  <data key="d18">Facebook</data>
+  <data key="d19">English</data>
+  <data key="d20">published</data>
+  <data key="d21"></data>
+  <data key="d22"></data>
+  <data key="d23">[]</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Army (2126)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Army (2126)</data>
+  <data key="d1">[digitalregistry] U.S. Army (2126)</data>
+  <data key="d3">2126</data>
+  <data key="d2">U.S. Army</data>
+  <data key="d4">https://www.army.mil/</data>
+  <data key="d5">ARMY</data>
+  <data key="d6">army.mil</data>
+  <data key="d13">False</data>
+  <data key="d57">[]</data>
+  <data key="d51">English</data>
+  <data key="d52">published</data>
+  <data key="d53">Army Housing IPhone App</data>
+  <data key="d54">The Army Housing Online User Services (AHOUS) IPhone App allows for Servicemembers &amp; Families a single point of entry for all their housing needs.  </data>
+  <data key="d55">[]</data>
+  <data key="d56">[]</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] Department of Veterans Affairs (2129)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] Department of Veterans Affairs (2129)</data>
+  <data key="d1">[digitalregistry] Department of Veterans Affairs (2129)</data>
+  <data key="d3">2129</data>
+  <data key="d2">Department of Veterans Affairs</data>
+  <data key="d4">https://va.gov</data>
+  <data key="d5">VA</data>
+  <data key="d6">va.gov</data>
+  <data key="d7"></data>
+  <data key="d8">To fulfill President Lincoln's promise, “To care for him who shall have borne the battle and for his widow and his orphan”. </data>
+  <data key="d9">https://www.va.gov/</data>
+  <data key="d10">https://www.va.gov/performance/</data>
+  <data key="d11">https://www.va.gov/performance/</data>
+  <data key="d12">https://www.va.gov/performance/</data>
+  <data key="d13">True</data>
+  <data key="d14">@RMIRECC</data>
+  <data key="d15">[]</data>
+  <data key="d16">twitter</data>
+  <data key="d17">http://twitter.com/rmirecc</data>
+  <data key="d18">Twitter</data>
+  <data key="d19">English</data>
+  <data key="d20">published</data>
+  <data key="d21">The mission of the Rocky Mountain MIRECC (Mental Illness Research, Education and Clinical Center) for Suicide Prevention is to study suicide with the goal of reducing suicidal ideation and behaviors in the Veteran population.</data>
+  <data key="d22">The mission of the Rocky Mountain MIRECC (Mental Illness Research, Education and Clinical Center) for Suicide Prevention is to study suicide with the goal of reducing suicidal ideation and behaviors in the Veteran population. Towards this end, the work of the Rocky Mountain MIRECC is focused on promising clinical and public health interventions, as well as the cognitive and neurobiological underpinnings of suicidal thoughts and behaviors that may lead to innovative prevention strategies. The vision of the Rocky Mountain MIRECC is: Veterans, their families, and the VHA will have increased information and options to make health decisions aimed at decreasing suicide risk.</data>
+  <data key="d23">[]</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Bureau of Reclamation (2157)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Bureau of Reclamation (2157)</data>
+  <data key="d1">[digitalregistry] U.S. Bureau of Reclamation (2157)</data>
+  <data key="d3">2157</data>
+  <data key="d2">U.S. Bureau of Reclamation</data>
+  <data key="d4">https://www.usbr.gov/</data>
+  <data key="d5">USBR</data>
+  <data key="d6">usbr.gov</data>
+  <data key="d7"></data>
+  <data key="d13">False</data>
+  <data key="d14">Bureau of Reclamation</data>
+  <data key="d26">dnagle@usbr.gov</data>
+  <data key="d16">facebook</data>
+  <data key="d17">https://www.facebook.com/bureau.of.reclamation/</data>
+  <data key="d18">Facebook</data>
+  <data key="d19">English</data>
+  <data key="d20">published</data>
+  <data key="d21">Bureau of Reclamation</data>
+  <data key="d22">Delivering reliable water supplies for agriculture, renewable hydropower and municipal needs in an environmentally and economically sound manner.</data>
+  <data key="d23">[]</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Agency for Global Media (2168)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Agency for Global Media (2168)</data>
+  <data key="d1">[digitalregistry] U.S. Agency for Global Media (2168)</data>
+  <data key="d3">2168</data>
+  <data key="d2">U.S. Agency for Global Media</data>
+  <data key="d4">https://www.usagm.gov/</data>
+  <data key="d5">USAGM</data>
+  <data key="d6">usagm.gov</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d13">False</data>
+  <data key="d14">Voice of America - VOA</data>
+  <data key="d26">mcoimbra@usagm.gov</data>
+  <data key="d16">facebook</data>
+  <data key="d17">https://www.facebook.com/voiceofamerica</data>
+  <data key="d18">Facebook</data>
+  <data key="d19">English</data>
+  <data key="d20">published</data>
+  <data key="d21">Voice of America is an international news network that is part of the U.S. government, broadcasting in 44 languages to audiences around the world. This is the official Facebook page for the English news service of VOA. </data>
+  <data key="d22">Voice of America is an international news network that is part of the U.S. government, broadcasting in 44 languages to audiences around the world. This is the official Facebook page for the English news service of VOA. &#13;
+Website: http://www.voanews.com&#13;
+Twitter: @VOANews&#13;
+Terms of Use: http://bit.ly/1QpuWFs</data>
+  <data key="d23">[]</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] Federal Emergency Management Agency (2152)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] Federal Emergency Management Agency (2152)</data>
+  <data key="d1">[digitalregistry] Federal Emergency Management Agency (2152)</data>
+  <data key="d3">2152</data>
+  <data key="d2">Federal Emergency Management Agency</data>
+  <data key="d4">https://www.fema.gov/</data>
+  <data key="d5">FEMA</data>
+  <data key="d6">fema.dhs.gov</data>
+  <data key="d7"></data>
+  <data key="d13">False</data>
+  <data key="d14">William Booher</data>
+  <data key="d15">[]</data>
+  <data key="d16">twitter</data>
+  <data key="d17">https://twitter.com/femaspox</data>
+  <data key="d18">Twitter</data>
+  <data key="d19">English</data>
+  <data key="d20">published</data>
+  <data key="d21">Twitter account for the Director of Public Affairs at the Federal Emergency Management Agency </data>
+  <data key="d22">Director of Public Affairs, Federal Emergency Management Agency </data>
+  <data key="d23">[]</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Courts (2162)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Courts (2162)</data>
+  <data key="d1">[digitalregistry] U.S. Courts (2162)</data>
+  <data key="d3">2162</data>
+  <data key="d2">U.S. Courts</data>
+  <data key="d4">https://www.uscourts.gov/</data>
+  <data key="d5">USC</data>
+  <data key="d6">uscourts.gov</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d13">False</data>
+  <data key="d14">United States Courts</data>
+  <data key="d26">tyrus_manuel@ao.uscourts.gov</data>
+  <data key="d16">linkedin</data>
+  <data key="d17">https://www.linkedin.com/company/us-courts</data>
+  <data key="d18">Linkedin</data>
+  <data key="d19">English</data>
+  <data key="d20">published</data>
+  <data key="d21">The official LinkedIn account for the United States Courts. </data>
+  <data key="d22">The official main LinkedIn account and umbrella for the entire Federal Judiciary. Federal courts and other judiciary units will have individual LinkedIn accounts but should be registered here.</data>
+  <data key="d23">[]</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] Indian Health Service (2245)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] Indian Health Service (2245)</data>
+  <data key="d1">[digitalregistry] Indian Health Service (2245)</data>
+  <data key="d3">2245</data>
+  <data key="d2">Indian Health Service</data>
+  <data key="d4">https://www.ihs.gov/</data>
+  <data key="d5">IHS</data>
+  <data key="d6">ihs.gov</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d13">False</data>
+  <data key="d14">Indian Health Service</data>
+  <data key="d15">[]</data>
+  <data key="d16">linkedin</data>
+  <data key="d17">https://www.linkedin.com/company/indian-health-service</data>
+  <data key="d18">Linkedin</data>
+  <data key="d19">English</data>
+  <data key="d20">published</data>
+  <data key="d21">IHS Recruitment</data>
+  <data key="d22">The Indian Health Service (IHS), an agency within the US Department of Health and Human Services (HHS), provides federal health services to American Indians and Alaska Natives through a network of hospitals, clinics and public outreach programs throughout the country. IHS offers clinicians extraordinary opportunities for providing comprehensive care to a medically underserved patient population within culturally diverse Native communities. IHS clinicians live and practice in some of the most spectacular Areas of the country, in rural locations where there is great demand for generalists in clinical settings, as well as for specialists in hospital settings. IHS offers three employment options: Clinicians can join IHS as federal civil service employees, as direct Tribal/Urban Indian hires or as officers of the US Public Health Service (USPHS) Commissioned Corps. Each path offers generous vacation, sick leave, benefit and retirement packages, as well as possibilities for sign-up bonuses. Clinicians are also eligible to apply for the IHS Loan Repayment Program, which repays eligible health profession education loans — up to $20,000 per year — for a two-year service commitment at an eligible site within their health profession discipline. &#13;
+</data>
+  <data key="d23">[]</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] Peace Corps (2161)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] Peace Corps (2161)</data>
+  <data key="d1">[digitalregistry] Peace Corps (2161)</data>
+  <data key="d3">2161</data>
+  <data key="d2">Peace Corps</data>
+  <data key="d4">https://www.peacecorps.gov/</data>
+  <data key="d5">PC</data>
+  <data key="d6">peacecorps.gov</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d13">False</data>
+  <data key="d14">Peace Corps Journey</data>
+  <data key="d15">[]</data>
+  <data key="d16">twitter</data>
+  <data key="d17">http://twitter.com/gopeacecorps</data>
+  <data key="d18">Twitter</data>
+  <data key="d19">English</data>
+  <data key="d20">published</data>
+  <data key="d21">The official Peace Corps recruitment Twitter account</data>
+  <data key="d22">Welcome to the official Peace Corps Recruitment Twitter! We'll help you make the most of your world. </data>
+  <data key="d23">[]</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Citizenship and Immigration Services (2134)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Citizenship and Immigration Services (2134)</data>
+  <data key="d1">[digitalregistry] U.S. Citizenship and Immigration Services (2134)</data>
+  <data key="d3">2134</data>
+  <data key="d2">U.S. Citizenship and Immigration Services</data>
+  <data key="d4">https://www.uscis.gov/</data>
+  <data key="d5">USCIS</data>
+  <data key="d6">uscis.dhs.gov</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d13">False</data>
+  <data key="d14">USCIS</data>
+  <data key="d15">[]</data>
+  <data key="d16">twitter</data>
+  <data key="d17">https://twitter.com/uscis</data>
+  <data key="d18">Twitter</data>
+  <data key="d19">English</data>
+  <data key="d20">published</data>
+  <data key="d21">Official Twitter channel of U.S. Citizenship and Immigration Services.</data>
+  <data key="d22">Official Twitter channel of U.S. Citizenship and Immigration Services.</data>
+  <data key="d23">[]</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] Department of Homeland Security (2139)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] Department of Homeland Security (2139)</data>
+  <data key="d1">[digitalregistry] Department of Homeland Security (2139)</data>
+  <data key="d3">2139</data>
+  <data key="d2">Department of Homeland Security</data>
+  <data key="d4">https://www.dhs.gov/</data>
+  <data key="d5">DHS</data>
+  <data key="d6">dhs.gov</data>
+  <data key="d7"></data>
+  <data key="d8">With honor and integrity, we will safeguard the American people, our homeland and our values.</data>
+  <data key="d9">https://www.dhs.gov/</data>
+  <data key="d10">https://www.dhs.gov/performance-financial-reports</data>
+  <data key="d11">https://www.dhs.gov/strategic-planning</data>
+  <data key="d12">https://www.evaluation.gov/agencies/department-of-homeland-security/</data>
+  <data key="d13">True</data>
+  <data key="d14">CBPgov</data>
+  <data key="d15">[]</data>
+  <data key="d16">instagram</data>
+  <data key="d17">https://www.instagram.com/cbpgov/</data>
+  <data key="d18">Instagram</data>
+  <data key="d19">English</data>
+  <data key="d20">published</data>
+  <data key="d21">The official Instagram account of U.S. Customs and Border Protection.</data>
+  <data key="d22"></data>
+  <data key="d23">[]</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] Customs and Border Protection (2093)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] Customs and Border Protection (2093)</data>
+  <data key="d1">[digitalregistry] Customs and Border Protection (2093)</data>
+  <data key="d3">2093</data>
+  <data key="d2">Customs and Border Protection</data>
+  <data key="d4">https://cbp.dhs.gov</data>
+  <data key="d5">CBP</data>
+  <data key="d6">dhs.gov</data>
+  <data key="d13">False</data>
+  <data key="d14">customsborderprotect</data>
+  <data key="d26">jonathan.d.isett@cbp.dhs.gov</data>
+  <data key="d16">youtube</data>
+  <data key="d17">https://www.youtube.com/user/customsborderprotect</data>
+  <data key="d18">Youtube</data>
+  <data key="d19">English</data>
+  <data key="d20">published</data>
+  <data key="d21">Official YouTube Account for U.S. Customs and Border Protection (CBP)</data>
+  <data key="d22"></data>
+  <data key="d23">[]</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] Navy (2112)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] Navy (2112)</data>
+  <data key="d1">[digitalregistry] Navy (2112)</data>
+  <data key="d3">2112</data>
+  <data key="d2">Navy</data>
+  <data key="d4">https://www.navy.mil/</data>
+  <data key="d5">NAVY</data>
+  <data key="d6">navy.mil</data>
+  <data key="d13">False</data>
+  <data key="d14">DANTES_DoD</data>
+  <data key="d26">erin.k.roberts2.civ@us.navy.mil</data>
+  <data key="d16">twitter</data>
+  <data key="d17">https://twitter.com/DANTES_DoD</data>
+  <data key="d18">Twitter</data>
+  <data key="d19">English</data>
+  <data key="d20">published</data>
+  <data key="d21">The Defense Activity for Non-Traditional Education Support (DANTES) helps service members and veterans pursue their educational goals and earn degrees.</data>
+  <data key="d22">The Defense Activity for Non-Traditional Education Support (DANTES) helps Service members and Veterans pursue their educational goals and earn degrees or certifications both during and after their service. DANTES is a Department of Defense component of the Defense Human Resources Activity (DHRA) that provides leadership and support for this important effort through partnerships across the education community.</data>
+  <data key="d23">[]</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] United States Nuclear Regulatory Commission (2113)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] United States Nuclear Regulatory Commission (2113)</data>
+  <data key="d1">[digitalregistry] United States Nuclear Regulatory Commission (2113)</data>
+  <data key="d3">2113</data>
+  <data key="d2">United States Nuclear Regulatory Commission</data>
+  <data key="d4">https://www.nrc.gov/</data>
+  <data key="d5">NRC</data>
+  <data key="d6">nrc.gov</data>
+  <data key="d7"></data>
+  <data key="d8">The NRC licenses and regulates the Nation’s civilian use of radioactive materials, to provide reasonable assurance of adequate protection of public health and safety, to promote the common defense and security, and to protect the environment.</data>
+  <data key="d9">https://www.nrc.gov/about-nrc.html</data>
+  <data key="d10">https://www.nrc.gov/about-nrc/plans-performance.html</data>
+  <data key="d11">https://www.nrc.gov/docs/ML2206/ML22067A170.pdf</data>
+  <data key="d12">https://www.nrc.gov/docs/ML2206/ML22066B056.pdf</data>
+  <data key="d13">True</data>
+  <data key="d14">Nuclear Regulatory Commission</data>
+  <data key="d26">stephanie.west@nrc.gov</data>
+  <data key="d16">flickr</data>
+  <data key="d17">https://www.flickr.com/photos/nrcgov</data>
+  <data key="d18">Flickr</data>
+  <data key="d19">English</data>
+  <data key="d20">published</data>
+  <data key="d21"></data>
+  <data key="d22"></data>
+  <data key="d23">[]</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] Department of Housing and Urban Development (2096)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] Department of Housing and Urban Development (2096)</data>
+  <data key="d1">[digitalregistry] Department of Housing and Urban Development (2096)</data>
+  <data key="d3">2096</data>
+  <data key="d2">Department of Housing and Urban Development</data>
+  <data key="d4">https://hud.gov</data>
+  <data key="d5">HUD</data>
+  <data key="d6">hud.gov</data>
+  <data key="d58">https://cg-1b082c1b-3db7-477f-9ca5-bd51a786b41e.s3-us-gov-west-1.amazonaws.com/uploads/organization/logo/2096/hud-square.png</data>
+  <data key="d59">https://cg-1b082c1b-3db7-477f-9ca5-bd51a786b41e.s3-us-gov-west-1.amazonaws.com/uploads/organization/logo/2096/thumb_hud-square.png</data>
+  <data key="d60">https://cg-1b082c1b-3db7-477f-9ca5-bd51a786b41e.s3-us-gov-west-1.amazonaws.com/uploads/organization/logo/2096/card_hud-square.png</data>
+  <data key="d61">https://cg-1b082c1b-3db7-477f-9ca5-bd51a786b41e.s3-us-gov-west-1.amazonaws.com/uploads/organization/logo/2096/tag_hud-square.png</data>
+  <data key="d62">https://cg-1b082c1b-3db7-477f-9ca5-bd51a786b41e.s3-us-gov-west-1.amazonaws.com/uploads/organization/logo/2096/logo_square_hud-square.png</data>
+  <data key="d7"></data>
+  <data key="d8">Create strong, sustainable, inclusive communities and quality affordable homes for all. HUD is working to strengthen the housing market to bolster the economy and protect consumers; meet the need for quality affordable rental homes; utilize housing as a platform for improving quality of life; build inclusive and sustainable communities free from discrimination; and transform the way HUD does business.</data>
+  <data key="d9">https://www.hud.gov/</data>
+  <data key="d10">https://www.hud.gov/program_offices/spm/appr</data>
+  <data key="d11">https://www.hud.gov/program_offices/spm/pmd</data>
+  <data key="d12">https://www.huduser.gov/portal/about/pdr_learningagenda.html</data>
+  <data key="d13">True</data>
+  <data key="d14">Federal Housing Finance Agency </data>
+  <data key="d15">[]</data>
+  <data key="d16">linkedin</data>
+  <data key="d17">https://www.linkedin.com/company/fhfa/</data>
+  <data key="d18">Linkedin</data>
+  <data key="d19">English</data>
+  <data key="d20">published</data>
+  <data key="d21">Posts by the Federal Housing Finance Agency, regulator of Fannie Mae, Freddie Mac and 11 Federal Home Loan Banks</data>
+  <data key="d22">FHFA's mission: Ensure that the housing government sponsored enterprises operate in a safe and sound manner so that they serve as a reliable source of liquidity and funding for housing finance and community investment.</data>
+  <data key="d23">[]</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] Department of Education (2111)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] Department of Education (2111)</data>
+  <data key="d1">[digitalregistry] Department of Education (2111)</data>
+  <data key="d3">2111</data>
+  <data key="d2">Department of Education</data>
+  <data key="d4">https://www.ed.gov/</data>
+  <data key="d5">ED</data>
+  <data key="d6">ed.gov</data>
+  <data key="d8">Promote student achievement and preparation for global competitiveness by fostering educational excellence and ensuring equal access.</data>
+  <data key="d9">https://www.ed.gov/</data>
+  <data key="d10">https://www2.ed.gov/about/reports/annual/index.html</data>
+  <data key="d11">https://www2.ed.gov/about/reports/strat/index.html</data>
+  <data key="d12">https://www.evaluation.gov/agencies/department-of-education/</data>
+  <data key="d13">False</data>
+  <data key="d14">US Department of Education</data>
+  <data key="d15">[]</data>
+  <data key="d16">twitter</data>
+  <data key="d17">https://twitter.com/usedgov</data>
+  <data key="d18">Twitter</data>
+  <data key="d19">English</data>
+  <data key="d20">published</data>
+  <data key="d21"> News and information from the U.S. Department of Education.</data>
+  <data key="d22"></data>
+  <data key="d23">[]</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] National Institute of Standards and Technology (2167)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] National Institute of Standards and Technology (2167)</data>
+  <data key="d1">[digitalregistry] National Institute of Standards and Technology (2167)</data>
+  <data key="d3">2167</data>
+  <data key="d2">National Institute of Standards and Technology</data>
+  <data key="d4">https://www.nist.gov/</data>
+  <data key="d5">NIST</data>
+  <data key="d6">nist.gov</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d13">False</data>
+  <data key="d14"> National Center for Complementary and Integrative Health</data>
+  <data key="d15">[]</data>
+  <data key="d16">facebook</data>
+  <data key="d17">https://www.facebook.com/nih.nccih</data>
+  <data key="d18">Facebook</data>
+  <data key="d19">English</data>
+  <data key="d20">published</data>
+  <data key="d21">As the lead government agency for research on complementary and integrative health approaches, NCCIH is dedicated to advancing the science and providing evidence-based health information on mind and body practices, natural products, pain research, &amp; more.</data>
+  <data key="d22"></data>
+  <data key="d23">[]</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] Office of the Director of National Intelligence (2107)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] Office of the Director of National Intelligence (2107)</data>
+  <data key="d1">[digitalregistry] Office of the Director of National Intelligence (2107)</data>
+  <data key="d3">2107</data>
+  <data key="d2">Office of the Director of National Intelligence</data>
+  <data key="d4">https://www.dni.gov/</data>
+  <data key="d5">ODNI</data>
+  <data key="d6">odni.gov</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d13">False</data>
+  <data key="d14">Office of the Director of National Intelligence </data>
+  <data key="d15">[]</data>
+  <data key="d16">youtube</data>
+  <data key="d17">https://www.youtube.com/channel/UChGV60LYpVFgOWs7aeLrdEQ</data>
+  <data key="d18">Youtube</data>
+  <data key="d19">English</data>
+  <data key="d20">published</data>
+  <data key="d21">youtube channel for ODNI</data>
+  <data key="d22"></data>
+  <data key="d23">[]</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Energy Information Administration (2264)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Energy Information Administration (2264)</data>
+  <data key="d1">[digitalregistry] U.S. Energy Information Administration (2264)</data>
+  <data key="d3">2264</data>
+  <data key="d2">U.S. Energy Information Administration</data>
+  <data key="d4">https://www.eia.gov/</data>
+  <data key="d5">EIA</data>
+  <data key="d6">eia.gov</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d13">False</data>
+  <data key="d14">U.S. Energy Information Administration</data>
+  <data key="d26">chris.higginbotham@eia.gov</data>
+  <data key="d16">flickr</data>
+  <data key="d17">https://www.flickr.com/photos/eiagov</data>
+  <data key="d18">Flickr</data>
+  <data key="d19">English</data>
+  <data key="d20">published</data>
+  <data key="d21">U.S. Energy Information Administration Official Flickr account</data>
+  <data key="d22">The U.S. Energy Information Administration (EIA) collects, analyzes, and disseminates independent and impartial energy information to promote sound policymaking, efficient markets, and public understanding of energy and its interaction with the economy and the environment.</data>
+  <data key="d23">[]</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] Military Health System and Defense Health Agency (2244)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] Military Health System and Defense Health Agency (2244)</data>
+  <data key="d1">[digitalregistry] Military Health System and Defense Health Agency (2244)</data>
+  <data key="d3">2244</data>
+  <data key="d2">Military Health System and Defense Health Agency</data>
+  <data key="d4">https://www.health.mil/</data>
+  <data key="d5">MHSDHA</data>
+  <data key="d6">health.mil</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d13">False</data>
+  <data key="d14">U.S Army Public Health Center</data>
+  <data key="d15">[]</data>
+  <data key="d16">facebook</data>
+  <data key="d17">https://www.facebook.com/ArmyPublicHealth</data>
+  <data key="d18">Facebook</data>
+  <data key="d19">English</data>
+  <data key="d20">published</data>
+  <data key="d21">APHC Official Facebook Page</data>
+  <data key="d22"></data>
+  <data key="d23">[]</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] National Labor Relations Board (2217)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] National Labor Relations Board (2217)</data>
+  <data key="d1">[digitalregistry] National Labor Relations Board (2217)</data>
+  <data key="d3">2217</data>
+  <data key="d2">National Labor Relations Board</data>
+  <data key="d4">https://www.nlrb.gov/</data>
+  <data key="d5">NLRB</data>
+  <data key="d6">nlrb.gov</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d13">False</data>
+  <data key="d14">NLRB</data>
+  <data key="d26">tquinn@nlrb.gov</data>
+  <data key="d17">https://twitter.com/NLRB</data>
+  <data key="d18">Twitter</data>
+  <data key="d20">published</data>
+  <data key="d21">The Twitter account for the National Labor Relations Board</data>
+  <data key="d22"></data>
+  <data key="d23">[]</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Office of Government Ethics (2182)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Office of Government Ethics (2182)</data>
+  <data key="d1">[digitalregistry] U.S. Office of Government Ethics (2182)</data>
+  <data key="d3">2182</data>
+  <data key="d2">U.S. Office of Government Ethics</data>
+  <data key="d4">https://www.oge.gov/</data>
+  <data key="d5">OGE</data>
+  <data key="d6">oge.gov</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d13">False</data>
+  <data key="d14">Office of Government Ethics</data>
+  <data key="d26">nstein@oge.gov</data>
+  <data key="d17">https://twitter.com/officegovethics</data>
+  <data key="d18">Twitter</data>
+  <data key="d20">published</data>
+  <data key="d21"></data>
+  <data key="d22"></data>
+  <data key="d23">[]</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] Federal Bureau of Prisons (2269)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] Federal Bureau of Prisons (2269)</data>
+  <data key="d1">[digitalregistry] Federal Bureau of Prisons (2269)</data>
+  <data key="d3">2269</data>
+  <data key="d2">Federal Bureau of Prisons</data>
+  <data key="d4">https://www.bop.gov/</data>
+  <data key="d5">BOP</data>
+  <data key="d6">bop.gov</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d13">False</data>
+  <data key="d14">Federal Bureau of Prisons</data>
+  <data key="d26">e1weaver@bop.gov</data>
+  <data key="d17">https://www.facebook.com/bureauofprisons/</data>
+  <data key="d18">Facebook</data>
+  <data key="d20">published</data>
+  <data key="d21">We ensure offenders serve their sentences in facilities that are safe, humane, cost-efficient, and appropriately secure, and provide reentry programming to ensure their successful reentry.</data>
+  <data key="d22">We protect public safety by ensuring that federal offenders serve their sentences of imprisonment in facilities that are safe, humane, cost-efficient, and appropriately secure, and provide reentry programming to ensure their successful return to the community.</data>
+  <data key="d23">[]</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] National Telecommunications and Information Administration (2173)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] National Telecommunications and Information Administration (2173)</data>
+  <data key="d1">[digitalregistry] National Telecommunications and Information Administration (2173)</data>
+  <data key="d3">2173</data>
+  <data key="d2">National Telecommunications and Information Administration</data>
+  <data key="d4">https://ntia.gov/</data>
+  <data key="d5">NTIA</data>
+  <data key="d6">ntia.gov</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d13">False</data>
+  <data key="d14">National Telecommunications and Information Administration</data>
+  <data key="d26">rballard@ntia.gov</data>
+  <data key="d17">https://github.com/NTIA</data>
+  <data key="d18">Github</data>
+  <data key="d20">published</data>
+  <data key="d21">Code produced by NTIA including OSM and ITS</data>
+  <data key="d22">The National Telecommunications and Information Administration Institute for Telecommunication Sciences and Office of Spectrum Management develop and open source through this repository software implementations of radio wave propagation models, tools for collecting and classifying radio frequency data, tools for objectively assessing the quality of telecommunications transmissions, and a limited number of relevant datasets.</data>
+  <data key="d25">Open data</data>
+  <data key="d27">data</data>
+  <data key="d28">open source</data>
+  <data key="d29">code</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] Office of Management and Budget (2100)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] Office of Management and Budget (2100)</data>
+  <data key="d1">[digitalregistry] Office of Management and Budget (2100)</data>
+  <data key="d3">2100</data>
+  <data key="d2">Office of Management and Budget</data>
+  <data key="d4">https://omb.gov</data>
+  <data key="d5">OMB</data>
+  <data key="d6">omb.gov</data>
+  <data key="d13">False</data>
+  <data key="d14">Performance.gov</data>
+  <data key="d26">catie.miller@gsa.gov</data>
+  <data key="d17">https://www.linkedin.com/company/performance-gov/</data>
+  <data key="d18">Linkedin</data>
+  <data key="d20">published</data>
+  <data key="d21">Performance.gov LinkedIn</data>
+  <data key="d22">Performance.gov is the federal window into performance and is the home of the President's Management Agenda. Administered by GSA with contributions from OMB and other agencies. </data>
+  <data key="d23">[]</data>
+</node>
+<node id="/US FEDERAL GOVERNMENT/[digitalregistry] USMC (2241)">
+  <data key="d0">/US FEDERAL GOVERNMENT/[digitalregistry] USMC (2241)</data>
+  <data key="d1">[digitalregistry] USMC (2241)</data>
+  <data key="d3">2241</data>
+  <data key="d2">USMC</data>
+  <data key="d4">https://www.marines.mil/</data>
+  <data key="d5">USMC</data>
+  <data key="d6">usmc.mil</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d13">False</data>
+  <data key="d14">Marine Rotational Force-Darwin</data>
+  <data key="d26">scott.smolinski@usmc.mil</data>
+  <data key="d17">https://www.facebook.com/MRFDarwin</data>
+  <data key="d18">Facebook</data>
+  <data key="d20">published</data>
+  <data key="d21">MRF-D</data>
+  <data key="d22"></data>
+  <data key="d23">[]</data>
+</node>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Department of Health &amp; Human Services (2119)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] Centers for Disease Control and Prevention (2140)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] Consumer Protection Finance Bureau (2143)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] Department of Labor (2082)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Department of Justice (2109)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] National Archives (2124)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] General Services Administration (1)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Department of the Treasury (2122)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] Department of Commerce (2138)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] Department of Agriculture (2098)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] US Geological Survey (2104)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] Department of the Interior (2135)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] National Oceanic and Atmospheric Administration (2166)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] Office of Personnel Management  (2106)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] US Fish and Wildlife (2128)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] Environmental Protection Agency (2095)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] Library of Congress (2169)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] National Institutes of Health (2142)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] Department of Energy (2110)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] Federal Energy Regulatory Commission (2153)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] Corporation for National and Community Service (2175)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] Federal Reserve Board (2271)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] Board of Governors of the Federal Reserve System (2256)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] Health Resources &amp; Services Administration (2108)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] Department of State (2130)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] Consumer Product Safety Commission (2195)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] Federal Trade Commission (2205)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] Architect of the Capitol (2249)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] Department of Defense (2127)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] United States Agency for International Development (2148)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] Food and Drug Administration (2273)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] National Park Service (2141)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Government Publishing Office (2267)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] National Nuclear Security Administration (2272)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] United States Air Force (2117)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Army (2126)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] Department of Veterans Affairs (2129)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Bureau of Reclamation (2157)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Agency for Global Media (2168)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] Federal Emergency Management Agency (2152)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Courts (2162)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] Indian Health Service (2245)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] Peace Corps (2161)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Citizenship and Immigration Services (2134)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] Department of Homeland Security (2139)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] Customs and Border Protection (2093)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] Navy (2112)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] United States Nuclear Regulatory Commission (2113)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] Department of Housing and Urban Development (2096)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] Department of Education (2111)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] National Institute of Standards and Technology (2167)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] Office of the Director of National Intelligence (2107)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Energy Information Administration (2264)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] Military Health System and Defense Health Agency (2244)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] National Labor Relations Board (2217)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Office of Government Ethics (2182)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] Federal Bureau of Prisons (2269)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] National Telecommunications and Information Administration (2173)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] Office of Management and Budget (2100)" target="/US FEDERAL GOVERNMENT"/>
+<edge source="/US FEDERAL GOVERNMENT/[digitalregistry] USMC (2241)" target="/US FEDERAL GOVERNMENT"/>
+</graph></graphml>

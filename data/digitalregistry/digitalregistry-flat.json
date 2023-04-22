@@ -1,0 +1,1918 @@
+{
+  "/US FEDERAL GOVERNMENT": {
+    "digitalregistry": {
+      "name": "US FEDERAL GOVERNMENT"
+    },
+    "name": "US FEDERAL GOVERNMENT"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] Architect of the Capitol (2249)": {
+    "digitalregistry": {
+      "abbreviation": "AOC",
+      "cfo_act_agency": false,
+      "digital_analytics_path": "",
+      "digital_service_accounts": [
+        {
+          "account": "Flickr",
+          "contacts": [],
+          "language": "English",
+          "long_description": "Serving Congress and the Supreme Court, the Architect of the Capitol (AOC) is the builder and steward of the landmark buildings and grounds of Capitol Hill. The AOC staff preserves and maintains the historic buildings, monuments, art and inspirational gardens on the Capitol campus. Recognizing the trust placed in us by Congress and the American people, the AOC team is committed to providing a safe environment and inspiring experiences for all who work and visit the symbol of American democracy.",
+          "name": "Architect of the Capitol",
+          "service": "flickr",
+          "service_url": "http://flickr.com/photos/uscapitol",
+          "short_description": "Serve | Preserve | Inspire \u2014 Stewards of the iconic buildings and grounds of Capitol Hill since 1793.",
+          "status": "published",
+          "tags": [
+            "legislative branch",
+            "Capitol"
+          ]
+        }
+      ],
+      "domain": "aoc.gov",
+      "id": 2249,
+      "mission_statement": "",
+      "name": "Architect of the Capitol",
+      "url": "https://www.aoc.gov/"
+    },
+    "name": "[digitalregistry] Architect of the Capitol (2249)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] Board of Governors of the Federal Reserve System (2256)": {
+    "digitalregistry": {
+      "abbreviation": "FEDRESERVE",
+      "cfo_act_agency": false,
+      "digital_analytics_path": "",
+      "digital_service_accounts": [
+        {
+          "account": "Youtube",
+          "contacts": [
+            {
+              "email": "laura.milner@frb.gov"
+            }
+          ],
+          "language": "English",
+          "long_description": "",
+          "name": "Federal Reserve",
+          "service": "youtube",
+          "service_url": "http://youtube.com/FedReserveBoard",
+          "short_description": "",
+          "status": "published",
+          "tags": []
+        }
+      ],
+      "domain": "federalreserve.gov",
+      "id": 2256,
+      "mission_statement": "",
+      "name": "Board of Governors of the Federal Reserve System",
+      "url": "https://www.federalreserve.gov/"
+    },
+    "name": "[digitalregistry] Board of Governors of the Federal Reserve System (2256)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] Centers for Disease Control and Prevention (2140)": {
+    "digitalregistry": {
+      "abbreviation": "CDC",
+      "cfo_act_agency": false,
+      "digital_products": [],
+      "digital_service_accounts": [
+        {
+          "account": "Facebook",
+          "contacts": [],
+          "language": "English",
+          "long_description": "For questions about this account, please contact Emily Hood (OADC)",
+          "name": "Facebook - CDC",
+          "service": "facebook",
+          "service_url": "http://www.facebook.com/CDC",
+          "short_description": "",
+          "status": "published",
+          "tags": []
+        }
+      ],
+      "domain": "cdc.gov",
+      "id": 2140,
+      "name": "Centers for Disease Control and Prevention",
+      "url": "https://cdc.gov"
+    },
+    "name": "[digitalregistry] Centers for Disease Control and Prevention (2140)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] Consumer Product Safety Commission (2195)": {
+    "digitalregistry": {
+      "abbreviation": "CPSC",
+      "cfo_act_agency": false,
+      "digital_analytics_path": "",
+      "digital_service_accounts": [
+        {
+          "account": "Flickr",
+          "contacts": [
+            {
+              "email": "jgalbo@cpsc.gov"
+            }
+          ],
+          "language": "English",
+          "long_description": "",
+          "name": "Consumer Product Safety Commission",
+          "service": "flickr",
+          "service_url": "http://flickr.com/photos/uscpsc",
+          "short_description": "Official Flickr account of the Consumer Product Safety Commission",
+          "status": "published",
+          "tags": []
+        }
+      ],
+      "domain": "cpsc.gov",
+      "id": 2195,
+      "mission_statement": "",
+      "name": "Consumer Product Safety Commission",
+      "url": "https://www.cpsc.gov/"
+    },
+    "name": "[digitalregistry] Consumer Product Safety Commission (2195)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] Consumer Protection Finance Bureau (2143)": {
+    "digitalregistry": {
+      "abbreviation": "CFPB",
+      "cfo_act_agency": false,
+      "digital_service_accounts": [
+        {
+          "account": "Facebook",
+          "contacts": [],
+          "language": "English",
+          "long_description": "",
+          "name": "Consumer Financial Protection Bureau",
+          "service": "facebook",
+          "service_url": "http://facebook.com/cfpb",
+          "short_description": "The official Facebook account of the CFPB",
+          "status": "published",
+          "tags": [
+            "cfpb"
+          ]
+        }
+      ],
+      "domain": "cfpb.gov",
+      "id": 2143,
+      "name": "Consumer Protection Finance Bureau",
+      "url": "https://www.consumerfinance.gov/"
+    },
+    "name": "[digitalregistry] Consumer Protection Finance Bureau (2143)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] Corporation for National and Community Service (2175)": {
+    "digitalregistry": {
+      "abbreviation": "AMERICORPS",
+      "cfo_act_agency": false,
+      "digital_analytics_path": "",
+      "digital_service_accounts": [
+        {
+          "account": "Youtube",
+          "contacts": [],
+          "language": "English",
+          "long_description": "AmeriCorps, a federal agency, brings people together to tackle the country\u2019s most pressing challenges, through national service and volunteering.  AmeriCorps members and AmeriCorps Seniors volunteers serve with organizations dedicated to the improvement of communities.  AmeriCorps helps make service to others a cornerstone of our national culture.  Learn more at AmeriCorps.gov.",
+          "name": "AmeriCorps",
+          "service": "youtube",
+          "service_url": "http://youtube.com/nationalservice",
+          "short_description": "AmeriCorps, a federal agency, brings people together to tackle the country\u2019s most pressing challenges, through national service and volunteering. ",
+          "status": "published",
+          "tags": []
+        }
+      ],
+      "domain": "americorps.gov",
+      "id": 2175,
+      "mission_statement": "",
+      "name": "Corporation for National and Community Service",
+      "url": "https://americorps.gov/"
+    },
+    "name": "[digitalregistry] Corporation for National and Community Service (2175)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] Customs and Border Protection (2093)": {
+    "digitalregistry": {
+      "abbreviation": "CBP",
+      "cfo_act_agency": false,
+      "digital_service_accounts": [
+        {
+          "account": "Youtube",
+          "contacts": [
+            {
+              "email": "jonathan.d.isett@cbp.dhs.gov"
+            }
+          ],
+          "language": "English",
+          "long_description": "",
+          "name": "customsborderprotect",
+          "service": "youtube",
+          "service_url": "https://www.youtube.com/user/customsborderprotect",
+          "short_description": "Official YouTube Account for U.S. Customs and Border Protection (CBP)",
+          "status": "published",
+          "tags": []
+        }
+      ],
+      "domain": "dhs.gov",
+      "id": 2093,
+      "name": "Customs and Border Protection",
+      "url": "https://cbp.dhs.gov"
+    },
+    "name": "[digitalregistry] Customs and Border Protection (2093)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] Department of Agriculture (2098)": {
+    "digitalregistry": {
+      "abbreviation": "USDA",
+      "cfo_act_agency": true,
+      "digital_analytics_path": "agriculture",
+      "digital_service_accounts": [
+        {
+          "account": "Facebook",
+          "contacts": [],
+          "language": "English",
+          "name": "U.S. Department of Agriculture",
+          "service": "facebook",
+          "service_url": "http://facebook.com/usda",
+          "status": "published",
+          "tags": [
+            "Merrigan",
+            "Vilsack",
+            "USDA",
+            "food safety",
+            "nutrition",
+            "rural",
+            "agriculture"
+          ]
+        }
+      ],
+      "domain": "usda.gov",
+      "id": 2098,
+      "learning_agenda_url": "https://www.usda.gov/our-agency/about-usda/performance",
+      "mission_statement": "To serve all Americans by providing effective, innovative, science-based public policy leadership in agriculture, food and nutrition, natural resource protection and management, rural development, and related issues with a commitment to deliver equitable and climate-smart opportunities that inspire and help America thrive.",
+      "mission_statement_url": "https://www.usda.gov/",
+      "name": "Department of Agriculture",
+      "performance_url": "https://www.usda.gov/our-agency/about-usda/performance",
+      "strategic_plan_url": "https://www.usda.gov/obpa/home",
+      "url": "https://usda.gov"
+    },
+    "name": "[digitalregistry] Department of Agriculture (2098)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] Department of Commerce (2138)": {
+    "digitalregistry": {
+      "abbreviation": "DOC",
+      "cfo_act_agency": true,
+      "digital_analytics_path": "commerce",
+      "digital_service_accounts": [
+        {
+          "account": "Facebook",
+          "contacts": [],
+          "language": "English",
+          "long_description": "",
+          "name": "U.S. Census Bureau ",
+          "service": "facebook",
+          "service_url": "http://facebook.com/uscensusbureau",
+          "short_description": "Your trusted source for quality statistics about our nation's people, places and economy. www.census.gov/",
+          "status": "published",
+          "tags": []
+        }
+      ],
+      "domain": "doc.gov",
+      "id": 2138,
+      "learning_agenda_url": "https://www.evaluation.gov/agencies/department-of-commerce/",
+      "mission_statement": "Create the conditions for economic growth and opportunity for all communities.",
+      "mission_statement_url": "https://www.commerce.gov/",
+      "name": "Department of Commerce",
+      "performance_url": "https://www.commerce.gov/about/budget-and-performance",
+      "strategic_plan_url": "https://www.commerce.gov/about/budget-and-performance",
+      "url": "https://www.commerce.gov/"
+    },
+    "name": "[digitalregistry] Department of Commerce (2138)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] Department of Defense (2127)": {
+    "digitalregistry": {
+      "abbreviation": "DOD",
+      "cfo_act_agency": true,
+      "digital_analytics_path": "",
+      "digital_service_accounts": [
+        {
+          "account": "Facebook",
+          "contacts": [],
+          "language": "English",
+          "long_description": "National Museum of Health and Medicine. (Official page.) Department of Defense museum since 1862. Past/present/future of the history of American military medicine.",
+          "name": "National Museum of Health and Medicine",
+          "service": "facebook",
+          "service_url": "http://facebook.com/medicalmuseum",
+          "short_description": "National Museum of Health and Medicine. (Official page.) DoD museum since 1862. Hist. of Amer. medicine/Amer. military medicine.",
+          "status": "published",
+          "tags": [
+            "historic",
+            "medicine",
+            "military",
+            "history",
+            "medical"
+          ]
+        }
+      ],
+      "domain": "mail.mil",
+      "id": 2127,
+      "learning_agenda_url": "https://www.evaluation.gov/agencies/department-of-defense/",
+      "mission_statement": "Provide the military forces needed to deter war and ensure our nation's security.",
+      "mission_statement_url": "https://www.defense.gov/",
+      "name": "Department of Defense",
+      "performance_url": "https://dam.defense.gov/Performance/",
+      "strategic_plan_url": "https://dam.defense.gov/Portals/47/Documents/DoD_Strategic_Management_Plan_FY22-26.pdf",
+      "url": "https://www.defense.gov/"
+    },
+    "name": "[digitalregistry] Department of Defense (2127)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] Department of Education (2111)": {
+    "digitalregistry": {
+      "abbreviation": "ED",
+      "cfo_act_agency": false,
+      "digital_service_accounts": [
+        {
+          "account": "Twitter",
+          "contacts": [],
+          "language": "English",
+          "long_description": "",
+          "name": "US Department of Education",
+          "service": "twitter",
+          "service_url": "https://twitter.com/usedgov",
+          "short_description": " News and information from the U.S. Department of Education.",
+          "status": "published",
+          "tags": []
+        }
+      ],
+      "domain": "ed.gov",
+      "id": 2111,
+      "learning_agenda_url": "https://www.evaluation.gov/agencies/department-of-education/",
+      "mission_statement": "Promote student achievement and preparation for global competitiveness by fostering educational excellence and ensuring equal access.",
+      "mission_statement_url": "https://www.ed.gov/",
+      "name": "Department of Education",
+      "performance_url": "https://www2.ed.gov/about/reports/annual/index.html",
+      "strategic_plan_url": "https://www2.ed.gov/about/reports/strat/index.html",
+      "url": "https://www.ed.gov/"
+    },
+    "name": "[digitalregistry] Department of Education (2111)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] Department of Energy (2110)": {
+    "digitalregistry": {
+      "abbreviation": "DOE",
+      "cfo_act_agency": true,
+      "digital_analytics_path": "",
+      "digital_service_accounts": [
+        {
+          "account": "Facebook",
+          "contacts": [],
+          "language": "English",
+          "name": "Office of Energy Efficiency and Renewable Energy",
+          "service": "facebook",
+          "service_url": "http://facebook.com/eeregov",
+          "status": "published",
+          "tags": []
+        }
+      ],
+      "domain": "doe.gov",
+      "id": 2110,
+      "learning_agenda_url": "https://www.evaluation.gov/agencies/department-of-energy/",
+      "mission_statement": "",
+      "mission_statement_url": "https://www.energy.gov/",
+      "name": "Department of Energy",
+      "performance_url": "https://www.energy.gov/budget-performance",
+      "strategic_plan_url": "https://www.energy.gov/budget-performance",
+      "url": "https://www.energy.gov/"
+    },
+    "name": "[digitalregistry] Department of Energy (2110)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] Department of Homeland Security (2139)": {
+    "digitalregistry": {
+      "abbreviation": "DHS",
+      "cfo_act_agency": true,
+      "digital_analytics_path": "",
+      "digital_service_accounts": [
+        {
+          "account": "Instagram",
+          "contacts": [],
+          "language": "English",
+          "long_description": "",
+          "name": "CBPgov",
+          "service": "instagram",
+          "service_url": "https://www.instagram.com/cbpgov/",
+          "short_description": "The official Instagram account of U.S. Customs and Border Protection.",
+          "status": "published",
+          "tags": []
+        }
+      ],
+      "domain": "dhs.gov",
+      "id": 2139,
+      "learning_agenda_url": "https://www.evaluation.gov/agencies/department-of-homeland-security/",
+      "mission_statement": "With honor and integrity, we will safeguard the American people, our homeland and our values.",
+      "mission_statement_url": "https://www.dhs.gov/",
+      "name": "Department of Homeland Security",
+      "performance_url": "https://www.dhs.gov/performance-financial-reports",
+      "strategic_plan_url": "https://www.dhs.gov/strategic-planning",
+      "url": "https://www.dhs.gov/"
+    },
+    "name": "[digitalregistry] Department of Homeland Security (2139)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] Department of Housing and Urban Development (2096)": {
+    "digitalregistry": {
+      "abbreviation": "HUD",
+      "cfo_act_agency": true,
+      "digital_analytics_path": "",
+      "digital_service_accounts": [
+        {
+          "account": "Linkedin",
+          "contacts": [],
+          "language": "English",
+          "long_description": "FHFA's mission: Ensure that the housing government sponsored enterprises operate in a safe and sound manner so that they serve as a reliable source of liquidity and funding for housing finance and community investment.",
+          "name": "Federal Housing Finance Agency ",
+          "service": "linkedin",
+          "service_url": "https://www.linkedin.com/company/fhfa/",
+          "short_description": "Posts by the Federal Housing Finance Agency, regulator of Fannie Mae, Freddie Mac and 11 Federal Home Loan Banks",
+          "status": "published",
+          "tags": []
+        }
+      ],
+      "domain": "hud.gov",
+      "id": 2096,
+      "learning_agenda_url": "https://www.huduser.gov/portal/about/pdr_learningagenda.html",
+      "logo": {
+        "card": {
+          "url": "https://cg-1b082c1b-3db7-477f-9ca5-bd51a786b41e.s3-us-gov-west-1.amazonaws.com/uploads/organization/logo/2096/card_hud-square.png"
+        },
+        "logo_square": {
+          "url": "https://cg-1b082c1b-3db7-477f-9ca5-bd51a786b41e.s3-us-gov-west-1.amazonaws.com/uploads/organization/logo/2096/logo_square_hud-square.png"
+        },
+        "tag": {
+          "url": "https://cg-1b082c1b-3db7-477f-9ca5-bd51a786b41e.s3-us-gov-west-1.amazonaws.com/uploads/organization/logo/2096/tag_hud-square.png"
+        },
+        "thumb": {
+          "url": "https://cg-1b082c1b-3db7-477f-9ca5-bd51a786b41e.s3-us-gov-west-1.amazonaws.com/uploads/organization/logo/2096/thumb_hud-square.png"
+        },
+        "url": "https://cg-1b082c1b-3db7-477f-9ca5-bd51a786b41e.s3-us-gov-west-1.amazonaws.com/uploads/organization/logo/2096/hud-square.png"
+      },
+      "mission_statement": "Create strong, sustainable, inclusive communities and quality affordable homes for all. HUD is working to strengthen the housing market to bolster the economy and protect consumers; meet the need for quality affordable rental homes; utilize housing as a platform for improving quality of life; build inclusive and sustainable communities free from discrimination; and transform the way HUD does business.",
+      "mission_statement_url": "https://www.hud.gov/",
+      "name": "Department of Housing and Urban Development",
+      "performance_url": "https://www.hud.gov/program_offices/spm/appr",
+      "strategic_plan_url": "https://www.hud.gov/program_offices/spm/pmd",
+      "url": "https://hud.gov"
+    },
+    "name": "[digitalregistry] Department of Housing and Urban Development (2096)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] Department of Labor (2082)": {
+    "digitalregistry": {
+      "abbreviation": "DOL",
+      "cfo_act_agency": true,
+      "digital_analytics_path": "",
+      "digital_service_accounts": [
+        {
+          "account": "Facebook",
+          "contacts": [
+            {
+              "email": "koebel.tiffany.l@dol.gov"
+            }
+          ],
+          "language": "English",
+          "long_description": "The mission of the U.S. Department of Labor is to foster, promote, and develop the welfare of the wage earners, job seekers, and retirees of the United States; improve working conditions; advance opportunities for profitable employment; and assure work-related benefits and rights. Our Facebook page reflects this mission, and provides updates on Labor Department initiatives and resources.",
+          "name": "DepartmentofLabor",
+          "service": "facebook",
+          "service_url": "http://facebook.com/departmentoflabor",
+          "short_description": "Information from the U.S. Department of Labor on jobs and training, safety and regulations, and other issues impacting America's workforce, job seekers and retirees.",
+          "status": "published",
+          "tags": [
+            "leave",
+            "pay",
+            "workplace",
+            "work"
+          ]
+        }
+      ],
+      "domain": "dol.gov",
+      "id": 2082,
+      "learning_agenda_url": "https://www.evaluation.gov/agencies/department-of-labor/",
+      "mission_statement": "To foster, promote, and develop the welfare of the wage earners, job seekers, and retirees of the United States; improve working conditions; advance opportunities for profitable employment; and assure work-related benefits and rights.",
+      "mission_statement_url": "https://www.dol.gov/",
+      "name": "Department of Labor",
+      "performance_url": "https://www.dol.gov/general/aboutdol#budget",
+      "strategic_plan_url": "https://www.dol.gov/general/aboutdol#budget ",
+      "url": "https://dol.gov/"
+    },
+    "name": "[digitalregistry] Department of Labor (2082)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] Department of State (2130)": {
+    "digitalregistry": {
+      "abbreviation": "DOS",
+      "cfo_act_agency": true,
+      "digital_analytics_path": "",
+      "digital_service_accounts": [
+        {
+          "account": "Instagram",
+          "contacts": [],
+          "language": "English",
+          "long_description": "",
+          "name": "U.S. Department of State",
+          "service": "instagram",
+          "service_url": "https://www.instagram.com/statedept/",
+          "short_description": "",
+          "status": "published",
+          "tags": []
+        }
+      ],
+      "domain": "state.gov",
+      "id": 2130,
+      "learning_agenda_url": "https://www.evaluation.gov/agencies/department-of-state/",
+      "mission_statement": "To protect and promote U.S. security, prosperity, and democratic values and shape an international environment in which all Americans can thrive.",
+      "mission_statement_url": "https://www.state.gov/",
+      "name": "Department of State",
+      "performance_url": "https://www.state.gov/plans-performance-budget/performance-plans-and-reports/",
+      "strategic_plan_url": "https://www.state.gov/joint-strategic-plan/",
+      "url": "https://www.state.gov"
+    },
+    "name": "[digitalregistry] Department of State (2130)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] Department of Veterans Affairs (2129)": {
+    "digitalregistry": {
+      "abbreviation": "VA",
+      "cfo_act_agency": true,
+      "digital_analytics_path": "",
+      "digital_service_accounts": [
+        {
+          "account": "Twitter",
+          "contacts": [],
+          "language": "English",
+          "long_description": "The mission of the Rocky Mountain MIRECC (Mental Illness Research, Education and Clinical Center) for Suicide Prevention is to study suicide with the goal of reducing suicidal ideation and behaviors in the Veteran population. Towards this end, the work of the Rocky Mountain MIRECC is focused on promising clinical and public health interventions, as well as the cognitive and neurobiological underpinnings of suicidal thoughts and behaviors that may lead to innovative prevention strategies. The vision of the Rocky Mountain MIRECC is: Veterans, their families, and the VHA will have increased information and options to make health decisions aimed at decreasing suicide risk.",
+          "name": "@RMIRECC",
+          "service": "twitter",
+          "service_url": "http://twitter.com/rmirecc",
+          "short_description": "The mission of the Rocky Mountain MIRECC (Mental Illness Research, Education and Clinical Center) for Suicide Prevention is to study suicide with the goal of reducing suicidal ideation and behaviors in the Veteran population.",
+          "status": "published",
+          "tags": []
+        }
+      ],
+      "domain": "va.gov",
+      "id": 2129,
+      "learning_agenda_url": "https://www.va.gov/performance/",
+      "mission_statement": "To fulfill President Lincoln's promise, \u201cTo care for him who shall have borne the battle and for his widow and his orphan\u201d. ",
+      "mission_statement_url": "https://www.va.gov/",
+      "name": "Department of Veterans Affairs",
+      "performance_url": "https://www.va.gov/performance/",
+      "strategic_plan_url": "https://www.va.gov/performance/",
+      "url": "https://va.gov"
+    },
+    "name": "[digitalregistry] Department of Veterans Affairs (2129)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] Department of the Interior (2135)": {
+    "digitalregistry": {
+      "abbreviation": "DOI",
+      "cfo_act_agency": true,
+      "digital_analytics_path": "",
+      "digital_service_accounts": [
+        {
+          "account": "Facebook",
+          "contacts": [
+            {
+              "email": "everettel@usgs.gov"
+            },
+            {
+              "email": "shorvath@usgs.gov"
+            }
+          ],
+          "language": "English",
+          "long_description": "",
+          "name": "USGS (Facebook)",
+          "service": "facebook",
+          "service_url": "http://facebook.com/USGeologicalSurvey",
+          "short_description": "",
+          "status": "published",
+          "tags": [
+            "tools",
+            "technology",
+            "data",
+            "news",
+            "volcanoes",
+            "tsunamis",
+            "landslides",
+            "floods",
+            "hurricanes",
+            "wildfires",
+            "geology",
+            "Maps",
+            "geography",
+            "biology",
+            "earthquakes",
+            "natural hazards",
+            "minerals",
+            "ecosystems",
+            "Climate change",
+            "science",
+            "environment",
+            "Energy",
+            "water"
+          ]
+        }
+      ],
+      "domain": "doi.gov",
+      "id": 2135,
+      "learning_agenda_url": "https://www.doi.gov/performance/evidence-doi",
+      "mission_statement": "Protect and manage the Nation\u2019s natural resources and cultural heritage; provide scientific and other information about those resources; and honor its trust responsibilities or special commitments to American Indians, Alaska Natives, Native Hawaiians, and affiliated Island Communities.",
+      "mission_statement_url": "https://www.doi.gov/",
+      "name": "Department of the Interior",
+      "performance_url": "https://www.doi.gov/performance/performance-reports",
+      "strategic_plan_url": "https://www.doi.gov/performance/strategic-planning",
+      "url": "https://www.doi.gov/"
+    },
+    "name": "[digitalregistry] Department of the Interior (2135)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] Environmental Protection Agency (2095)": {
+    "digitalregistry": {
+      "abbreviation": "EPA",
+      "cfo_act_agency": true,
+      "digital_analytics_path": "",
+      "digital_products": [
+        {
+          "contacts": [
+            {
+              "email": "widener.charles@epa.gov"
+            }
+          ],
+          "language": "English",
+          "long_description": "<p>Note: To install the UV Index App on an Android device outside of Android's Google Play, you will need to enable Unknown Sources. On your Android phone, go to Settings and Application Settings and check the Unknown Sources checkbox. After the UV Index App is downloaded and installed, you may uncheck the Unknown Sources checkbox.</p><p>Use your mobile device to check the UV Index and air quality ratings wherever you are.</p>",
+          "short_description": "Practice sun safety; check the UV Index and air quality ratings wherever you are.",
+          "status": "published",
+          "tags": []
+        }
+      ],
+      "digital_service_accounts": [],
+      "domain": "epa.gov",
+      "id": 2095,
+      "learning_agenda_url": "https://www.epa.gov/evaluate",
+      "mission_statement": "To Protect Human Health and the Environment",
+      "mission_statement_url": "https://www.epa.gov/",
+      "name": "Environmental Protection Agency",
+      "performance_url": "https://www.epa.gov/planandbudget",
+      "strategic_plan_url": "https://www.epa.gov/planandbudget/strategicplan",
+      "url": "https://www.epa.gov/"
+    },
+    "name": "[digitalregistry] Environmental Protection Agency (2095)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] Federal Bureau of Prisons (2269)": {
+    "digitalregistry": {
+      "abbreviation": "BOP",
+      "cfo_act_agency": false,
+      "digital_analytics_path": "",
+      "digital_service_accounts": [
+        {
+          "account": "Facebook",
+          "contacts": [
+            {
+              "email": "e1weaver@bop.gov"
+            }
+          ],
+          "long_description": "We protect public safety by ensuring that federal offenders serve their sentences of imprisonment in facilities that are safe, humane, cost-efficient, and appropriately secure, and provide reentry programming to ensure their successful return to the community.",
+          "name": "Federal Bureau of Prisons",
+          "service_url": "https://www.facebook.com/bureauofprisons/",
+          "short_description": "We ensure offenders serve their sentences in facilities that are safe, humane, cost-efficient, and appropriately secure, and provide reentry programming to ensure their successful reentry.",
+          "status": "published",
+          "tags": []
+        }
+      ],
+      "domain": "bop.gov",
+      "id": 2269,
+      "mission_statement": "",
+      "name": "Federal Bureau of Prisons",
+      "url": "https://www.bop.gov/"
+    },
+    "name": "[digitalregistry] Federal Bureau of Prisons (2269)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] Federal Emergency Management Agency (2152)": {
+    "digitalregistry": {
+      "abbreviation": "FEMA",
+      "cfo_act_agency": false,
+      "digital_analytics_path": "",
+      "digital_service_accounts": [
+        {
+          "account": "Twitter",
+          "contacts": [],
+          "language": "English",
+          "long_description": "Director of Public Affairs, Federal Emergency Management Agency ",
+          "name": "William Booher",
+          "service": "twitter",
+          "service_url": "https://twitter.com/femaspox",
+          "short_description": "Twitter account for the Director of Public Affairs at the Federal Emergency Management Agency ",
+          "status": "published",
+          "tags": []
+        }
+      ],
+      "domain": "fema.dhs.gov",
+      "id": 2152,
+      "name": "Federal Emergency Management Agency",
+      "url": "https://www.fema.gov/"
+    },
+    "name": "[digitalregistry] Federal Emergency Management Agency (2152)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] Federal Energy Regulatory Commission (2153)": {
+    "digitalregistry": {
+      "abbreviation": "FERC",
+      "cfo_act_agency": false,
+      "digital_analytics_path": "",
+      "digital_service_accounts": [
+        {
+          "account": "Twitter",
+          "contacts": [],
+          "language": "English",
+          "long_description": "",
+          "name": "Federal Energy Regulatory Commission",
+          "service": "twitter",
+          "service_url": "http://twitter.com/ferc",
+          "short_description": "",
+          "status": "published",
+          "tags": []
+        }
+      ],
+      "domain": "ferc.gov",
+      "id": 2153,
+      "name": "Federal Energy Regulatory Commission",
+      "url": "https://ferc.gov/"
+    },
+    "name": "[digitalregistry] Federal Energy Regulatory Commission (2153)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] Federal Reserve Board (2271)": {
+    "digitalregistry": {
+      "abbreviation": "FRB",
+      "cfo_act_agency": false,
+      "digital_analytics_path": "",
+      "digital_products": [],
+      "digital_service_accounts": [
+        {
+          "account": "Youtube",
+          "contacts": [
+            {
+              "email": "laura.milner@frb.gov"
+            }
+          ],
+          "language": "English",
+          "long_description": "",
+          "name": "Federal Reserve",
+          "service": "youtube",
+          "service_url": "http://youtube.com/FedReserveBoard",
+          "short_description": "",
+          "status": "published",
+          "tags": []
+        }
+      ],
+      "domain": "frb.gov",
+      "id": 2271,
+      "mission_statement": "",
+      "name": "Federal Reserve Board",
+      "url": "https://www.federalreserve.gov/"
+    },
+    "name": "[digitalregistry] Federal Reserve Board (2271)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] Federal Trade Commission (2205)": {
+    "digitalregistry": {
+      "abbreviation": "FTC",
+      "cfo_act_agency": false,
+      "digital_analytics_path": "",
+      "digital_service_accounts": [
+        {
+          "account": "Twitter",
+          "contacts": [],
+          "language": "English",
+          "long_description": "",
+          "name": "FTC Chief Technologist",
+          "service": "twitter",
+          "service_url": "http://twitter.com/techFTC",
+          "short_description": "FTC's technology Twitter page managed by agency's Chief Technologist (currently vacant)",
+          "status": "published",
+          "tags": []
+        }
+      ],
+      "domain": "ftc.gov",
+      "id": 2205,
+      "mission_statement": "",
+      "name": "Federal Trade Commission",
+      "url": "https://www.ftc.gov/"
+    },
+    "name": "[digitalregistry] Federal Trade Commission (2205)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] Food and Drug Administration (2273)": {
+    "digitalregistry": {
+      "abbreviation": "FDA",
+      "cfo_act_agency": false,
+      "digital_analytics_path": "",
+      "digital_service_accounts": [
+        {
+          "account": "Twitter",
+          "contacts": [],
+          "language": "Spanish",
+          "long_description": "Encuentra las \u00faltimas noticias de la Administraci\u00f3n de Alimentos y Medicamentos de los E.U. ",
+          "name": "FDA en Espa\u00f1ol",
+          "service": "twitter",
+          "service_url": "http://twitter.com/FDAenEspanol",
+          "short_description": "Encuentra las \u00faltimas noticias de la Administraci\u00f3n de Alimentos y Medicamentos de los E.U. ",
+          "status": "published",
+          "tags": [
+            "espanol",
+            "tabaco",
+            "apratos medicos",
+            "cosmeticos",
+            "medicamentos",
+            "alimentos",
+            "health fraud",
+            "medical devices",
+            "cosmetics",
+            "drugs",
+            "Food Safet",
+            "food safety"
+          ]
+        }
+      ],
+      "domain": "fda.gov",
+      "id": 2273,
+      "mission_statement": "",
+      "name": "Food and Drug Administration",
+      "url": "https://www.fda.gov/"
+    },
+    "name": "[digitalregistry] Food and Drug Administration (2273)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] General Services Administration (1)": {
+    "digitalregistry": {
+      "abbreviation": "GSA",
+      "cfo_act_agency": true,
+      "digital_analytics_path": "",
+      "digital_service_accounts": [
+        {
+          "account": "Facebook",
+          "contacts": [],
+          "language": "Spanish",
+          "long_description": "Informaci\u00f3n oficial en espa\u00f1ol del Gobierno de Estados Unidos\r\n\r\nNuestra misi\u00f3n:\r\nFacilitar a las personas con conocimiento limitado del ingl\u00e9s acceso a informaci\u00f3n sobre servicios y programas del Gobierno\r\n\r\nResaltar las iniciativas actuales y recursos del Gobierno que benefician a la comunidad hispana\r\n\r\nReforzar la calidad de la informaci\u00f3n y los servicios en espa\u00f1ol que est\u00e1n a su disposici\u00f3n en los sitios web del Gobierno de EE. UU.\r\n\r\nNuestra pol\u00edtica de comentarios\r\n\r\nRecibiremos tus comentarios con mucho gusto si tienes 13 a\u00f1os o m\u00e1s (en ingl\u00e9s) y esperamos que nuestras conversaciones sean respetuosas. Eres responsable por el contenido que compartes. Te pedimos que te adhieras a nuestra pol\u00edtica de comentarios.",
+          "name": "GobiernoUSA.gov",
+          "service": "facebook",
+          "service_url": "http://facebook.com/gobiernousa",
+          "short_description": "GobiernoUSA.gov te ayuda a encontrar informaci\u00f3n oficial sobre programas y servicios del Gobierno de los Estados Unidos por Internet. Visita nuestra p\u00e1gina principal en https://gobierno.usa.gov//",
+          "status": "published",
+          "tags": [
+            "ocsit"
+          ]
+        }
+      ],
+      "domain": "gsa.gov",
+      "id": 1,
+      "learning_agenda_url": "https://www.evaluation.gov/agencies/general-services-administration/",
+      "mission_statement": "To deliver the best customer experience and value in real estate, acquisition, and technology services to the Government and the American people.",
+      "mission_statement_url": "https://gsa.gov",
+      "name": "General Services Administration",
+      "performance_url": "https://www.gsa.gov/reference/reports/budget-performance",
+      "strategic_plan_url": "https://www.gsa.gov/reference/reports/budget-performance/gsa-fy-20222026-strategic-plan",
+      "url": "https://www.gsa.gov/"
+    },
+    "name": "[digitalregistry] General Services Administration (1)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] Health Resources & Services Administration (2108)": {
+    "digitalregistry": {
+      "abbreviation": "HRSA",
+      "cfo_act_agency": false,
+      "digital_analytics_path": "",
+      "digital_service_accounts": [
+        {
+          "account": "Youtube",
+          "contacts": [
+            {
+              "email": "ocsocialmedia@hrsa.gov"
+            }
+          ],
+          "language": "English",
+          "long_description": "",
+          "name": "HRSATube",
+          "service": "youtube",
+          "service_url": "http://youtube.com/hrsatube",
+          "short_description": "Official Youtube channel for HRSA",
+          "status": "published",
+          "tags": []
+        }
+      ],
+      "domain": "hrsa.gov",
+      "id": 2108,
+      "mission_statement": "",
+      "name": "Health Resources & Services Administration",
+      "url": "https://www.hrsa.gov/"
+    },
+    "name": "[digitalregistry] Health Resources & Services Administration (2108)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] Indian Health Service (2245)": {
+    "digitalregistry": {
+      "abbreviation": "IHS",
+      "cfo_act_agency": false,
+      "digital_analytics_path": "",
+      "digital_service_accounts": [
+        {
+          "account": "Linkedin",
+          "contacts": [],
+          "language": "English",
+          "long_description": "The Indian Health Service (IHS), an agency within the US Department of Health and Human Services (HHS), provides federal health services to American Indians and Alaska Natives through a network of hospitals, clinics and public outreach programs throughout the country. IHS offers clinicians extraordinary opportunities for providing comprehensive care to a medically underserved patient population within culturally diverse Native communities. IHS clinicians live and practice in some of the most spectacular Areas of the country, in rural locations where there is great demand for generalists in clinical settings, as well as for specialists in hospital settings. IHS offers three employment options: Clinicians can join IHS as federal civil service employees, as direct Tribal/Urban Indian hires or as officers of the US Public Health Service (USPHS) Commissioned Corps. Each path offers generous vacation, sick leave, benefit and retirement packages, as well as possibilities for sign-up bonuses. Clinicians are also eligible to apply for the IHS Loan Repayment Program, which repays eligible health profession education loans \u2014 up to $20,000 per year \u2014 for a two-year service commitment at an eligible site within their health profession discipline. \r\n",
+          "name": "Indian Health Service",
+          "service": "linkedin",
+          "service_url": "https://www.linkedin.com/company/indian-health-service",
+          "short_description": "IHS Recruitment",
+          "status": "published",
+          "tags": []
+        }
+      ],
+      "domain": "ihs.gov",
+      "id": 2245,
+      "mission_statement": "",
+      "name": "Indian Health Service",
+      "url": "https://www.ihs.gov/"
+    },
+    "name": "[digitalregistry] Indian Health Service (2245)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] Library of Congress (2169)": {
+    "digitalregistry": {
+      "abbreviation": "LOC",
+      "cfo_act_agency": false,
+      "digital_analytics_path": "",
+      "digital_products": [
+        {
+          "contacts": [],
+          "language": "English",
+          "long_description": "<p>Read the daily edition of the Congressional Record on your iPad, iPhone or iTouch. The Congressional Record App is presented by the Library of Congress using data provided by the Office of the Clerk of the U.S. House of Representatives, the Office of the Secretary of the Senate, and the Government Printing Office.</p><p>With this app you can:</p><ul><li>Browse editions of the Congressional Record by date: January 4, 1995 (the 104th Congress, 1st Session) to the present</li><li>Copy text within documents</li><li>Perform keyword searches within individual documents or sections within documents</li><li>Share documents via email</li><li>Save documents to your preferred PDF reader</li><li>Identify the latest bills and resolutions considered daily on the floor of the U.S. House of Representatives</li><li>Identify the latest bills, resolutions, treaties, and nominations considered daily on the floor of the U.S. Senate</li></ul><p>The Congressional Record contains the debates, proceedings, and activities of the Congress of the United States. The Congressional Record is published in four parts: House of Representatives, Senate, Extension of Remarks, and Daily Digest. The Daily Digest provides a summary of the day\u2019s activities.</p></div>",
+          "short_description": "Read the daily edition of the Congressional Record on your iPad.",
+          "status": "published",
+          "tags": []
+        }
+      ],
+      "digital_service_accounts": [],
+      "domain": "loc.gov",
+      "id": 2169,
+      "mission_statement": "",
+      "name": "Library of Congress",
+      "url": "https://loc.gov/"
+    },
+    "name": "[digitalregistry] Library of Congress (2169)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] Military Health System and Defense Health Agency (2244)": {
+    "digitalregistry": {
+      "abbreviation": "MHSDHA",
+      "cfo_act_agency": false,
+      "digital_analytics_path": "",
+      "digital_service_accounts": [
+        {
+          "account": "Facebook",
+          "contacts": [],
+          "language": "English",
+          "long_description": "",
+          "name": "U.S Army Public Health Center",
+          "service": "facebook",
+          "service_url": "https://www.facebook.com/ArmyPublicHealth",
+          "short_description": "APHC Official Facebook Page",
+          "status": "published",
+          "tags": []
+        }
+      ],
+      "domain": "health.mil",
+      "id": 2244,
+      "mission_statement": "",
+      "name": "Military Health System and Defense Health Agency",
+      "url": "https://www.health.mil/"
+    },
+    "name": "[digitalregistry] Military Health System and Defense Health Agency (2244)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] National Archives (2124)": {
+    "digitalregistry": {
+      "abbreviation": "NARA",
+      "cfo_act_agency": false,
+      "digital_service_accounts": [
+        {
+          "account": "Facebook",
+          "contacts": [],
+          "language": "English",
+          "long_description": "National Archives Facebook Commenting Policy: https://www.archives.gov/social-media/policies/facebook-comment-policy.html",
+          "name": "Federal Register",
+          "service": "facebook",
+          "service_url": "http://facebook.com/FedRegister",
+          "short_description": "Official Facebook of the Office of the Federal Register (OFR)! OFR publishes governmental policies and makes them available to the public.  This site is managed by the National Archives and Records Administration.",
+          "status": "published",
+          "tags": [
+            "Nara"
+          ]
+        }
+      ],
+      "domain": "nara.gov",
+      "id": 2124,
+      "name": "National Archives",
+      "url": "https://www.archives.gov/"
+    },
+    "name": "[digitalregistry] National Archives (2124)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] National Institute of Standards and Technology (2167)": {
+    "digitalregistry": {
+      "abbreviation": "NIST",
+      "cfo_act_agency": false,
+      "digital_analytics_path": "",
+      "digital_service_accounts": [
+        {
+          "account": "Facebook",
+          "contacts": [],
+          "language": "English",
+          "long_description": "",
+          "name": " National Center for Complementary and Integrative Health",
+          "service": "facebook",
+          "service_url": "https://www.facebook.com/nih.nccih",
+          "short_description": "As the lead government agency for research on complementary and integrative health approaches, NCCIH is dedicated to advancing the science and providing evidence-based health information on mind and body practices, natural products, pain research, & more.",
+          "status": "published",
+          "tags": []
+        }
+      ],
+      "domain": "nist.gov",
+      "id": 2167,
+      "mission_statement": "",
+      "name": "National Institute of Standards and Technology",
+      "url": "https://www.nist.gov/"
+    },
+    "name": "[digitalregistry] National Institute of Standards and Technology (2167)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] National Institutes of Health (2142)": {
+    "digitalregistry": {
+      "abbreviation": "NIH",
+      "cfo_act_agency": false,
+      "digital_service_accounts": [
+        {
+          "account": "Facebook",
+          "contacts": [],
+          "language": "Spanish",
+          "long_description": "\u00a1Bienvenidos a la cuenta oficial del NCI! El Instituto Nacional del C\u00e1ncer (NCI) es la agencia federal de los Estados Unidos dedicada a la investigaci\u00f3n del c\u00e1ncer. Con\u00e9ctese aqu\u00ed, llame al 1-800-422-6237 o visite www.cancer.gov/espanol. For questions about this account, please contact Meghan Alleyne or Carolina Spencer. For overall questions about NCI social media, please contact Jennifer Dorsey. For emergencies related to this account, please contact Meghan Alleyne, Carolina Spencer or Jennifer Dorsey.",
+          "name": "Instituto Nacional del C\u00e1ncer",
+          "service": "facebook",
+          "service_url": "http://facebook.com/cancer.govEspanol",
+          "short_description": "El Instituto Nacional del C\u00e1ncer (NCI) es la agencia federal de los Estados Unidos dedicada a la investigaci\u00f3n del c\u00e1ncer.",
+          "status": "published",
+          "tags": [
+            "cancer",
+            "research"
+          ]
+        }
+      ],
+      "domain": "nih.gov",
+      "id": 2142,
+      "name": "National Institutes of Health",
+      "url": "https://www.nih.gov/"
+    },
+    "name": "[digitalregistry] National Institutes of Health (2142)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] National Labor Relations Board (2217)": {
+    "digitalregistry": {
+      "abbreviation": "NLRB",
+      "cfo_act_agency": false,
+      "digital_analytics_path": "",
+      "digital_service_accounts": [
+        {
+          "account": "Twitter",
+          "contacts": [
+            {
+              "email": "tquinn@nlrb.gov"
+            }
+          ],
+          "long_description": "",
+          "name": "NLRB",
+          "service_url": "https://twitter.com/NLRB",
+          "short_description": "The Twitter account for the National Labor Relations Board",
+          "status": "published",
+          "tags": []
+        }
+      ],
+      "domain": "nlrb.gov",
+      "id": 2217,
+      "mission_statement": "",
+      "name": "National Labor Relations Board",
+      "url": "https://www.nlrb.gov/"
+    },
+    "name": "[digitalregistry] National Labor Relations Board (2217)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] National Nuclear Security Administration (2272)": {
+    "digitalregistry": {
+      "abbreviation": "NNSA",
+      "cfo_act_agency": false,
+      "digital_analytics_path": "",
+      "digital_service_accounts": [
+        {
+          "account": "Twitter",
+          "contacts": [],
+          "language": "English",
+          "long_description": "",
+          "name": "Sandia National Laboratories",
+          "service": "twitter",
+          "service_url": "http://twitter.com/SandiaLabs",
+          "short_description": "U.S. Energy labs dedicated to securing a peaceful and free world through science and technology. This is the official account for Sandia National Labs.",
+          "status": "published",
+          "tags": [
+            "nonproliferation",
+            "National security",
+            "security",
+            "nuclear",
+            "engineering",
+            "defense",
+            "technology",
+            "innovation",
+            "science",
+            "Energy"
+          ]
+        }
+      ],
+      "domain": "nnsa.gov",
+      "id": 2272,
+      "mission_statement": "",
+      "name": "National Nuclear Security Administration",
+      "url": "https://www.energy.gov/nnsa/national-nuclear-security-administration"
+    },
+    "name": "[digitalregistry] National Nuclear Security Administration (2272)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] National Oceanic and Atmospheric Administration (2166)": {
+    "digitalregistry": {
+      "abbreviation": "NOAA",
+      "cfo_act_agency": false,
+      "digital_analytics_path": "",
+      "digital_service_accounts": [
+        {
+          "account": "Facebook",
+          "contacts": [],
+          "language": "English",
+          "long_description": "The National Ocean Service (NOS) is on the front lines in understanding, predicting, and responding to the challenges facing our ocean and coasts. \r\n\r\nMore than half of the U.S. population lives in coastal areas, including the Great Lakes. Coastal areas contribute $7.9 trillion to the U.S. economy.\r\n\r\nTo keep coastal communities, economies, and environments safe, NOS is protecting and restoring coastal habitats, reducing impacts associated with coastal development and other uses, and protecting coastal water quality and quantity to prevent illness and sustain ecosystems. We are working to enhance coastal resiliency and reduce impacts from coastal hazards such as spills, storms, and climate change. Website: http://oceanservice.noaa.gov/ \r\n",
+          "name": "National Ocean Service",
+          "service": "facebook",
+          "service_url": "http://facebook.com/usoceangov",
+          "short_description": "NOAA's National Ocean Service is the nation's premier federal science agency for ocean and coasts. This is the official Facebook account of NOAA's National Ocean Service.",
+          "status": "published",
+          "tags": [
+            "national marine sanctuaries",
+            "marine protected areas",
+            "currents",
+            "tides",
+            "geodesy",
+            "coast",
+            "surveying",
+            "nautical charts",
+            "ocean",
+            "science",
+            "environment"
+          ]
+        }
+      ],
+      "domain": "noaa.gov",
+      "id": 2166,
+      "mission_statement": "",
+      "name": "National Oceanic and Atmospheric Administration",
+      "url": "https://www.noaa.gov/"
+    },
+    "name": "[digitalregistry] National Oceanic and Atmospheric Administration (2166)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] National Park Service (2141)": {
+    "digitalregistry": {
+      "abbreviation": "NPS",
+      "cfo_act_agency": false,
+      "digital_service_accounts": [
+        {
+          "account": "Facebook",
+          "contacts": [
+            {
+              "email": "alex_lindeman@nps.gov"
+            }
+          ],
+          "language": "English",
+          "long_description": "Facebook page for Denali National Park and Preserve",
+          "name": "Denali National Park",
+          "service": "facebook",
+          "service_url": "http://facebook.com/denalinps",
+          "short_description": "Facebook page for Denali National Park and Preserve",
+          "status": "published",
+          "tags": [
+            "mount mckinley",
+            "denali",
+            "alaska",
+            "wildlife"
+          ]
+        }
+      ],
+      "domain": "nps.gov",
+      "id": 2141,
+      "name": "National Park Service",
+      "url": "https://www.nps.gov/index.htm"
+    },
+    "name": "[digitalregistry] National Park Service (2141)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] National Telecommunications and Information Administration (2173)": {
+    "digitalregistry": {
+      "abbreviation": "NTIA",
+      "cfo_act_agency": false,
+      "digital_analytics_path": "",
+      "digital_service_accounts": [
+        {
+          "account": "Github",
+          "contacts": [
+            {
+              "email": "rballard@ntia.gov"
+            }
+          ],
+          "long_description": "The National Telecommunications and Information Administration Institute for Telecommunication Sciences and Office of Spectrum Management develop and open source through this repository software implementations of radio wave propagation models, tools for collecting and classifying radio frequency data, tools for objectively assessing the quality of telecommunications transmissions, and a limited number of relevant datasets.",
+          "name": "National Telecommunications and Information Administration",
+          "service_url": "https://github.com/NTIA",
+          "short_description": "Code produced by NTIA including OSM and ITS",
+          "status": "published",
+          "tags": [
+            "Open data",
+            "data",
+            "open source",
+            "code"
+          ]
+        }
+      ],
+      "domain": "ntia.gov",
+      "id": 2173,
+      "mission_statement": "",
+      "name": "National Telecommunications and Information Administration",
+      "url": "https://ntia.gov/"
+    },
+    "name": "[digitalregistry] National Telecommunications and Information Administration (2173)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] Navy (2112)": {
+    "digitalregistry": {
+      "abbreviation": "NAVY",
+      "cfo_act_agency": false,
+      "digital_service_accounts": [
+        {
+          "account": "Twitter",
+          "contacts": [
+            {
+              "email": "erin.k.roberts2.civ@us.navy.mil"
+            }
+          ],
+          "language": "English",
+          "long_description": "The Defense Activity for Non-Traditional Education Support (DANTES) helps Service members and Veterans pursue their educational goals and earn degrees or certifications both during and after their service. DANTES is a Department of Defense component of the Defense Human Resources Activity (DHRA) that provides leadership and support for this important effort through partnerships across the education community.",
+          "name": "DANTES_DoD",
+          "service": "twitter",
+          "service_url": "https://twitter.com/DANTES_DoD",
+          "short_description": "The Defense Activity for Non-Traditional Education Support (DANTES) helps service members and veterans pursue their educational goals and earn degrees.",
+          "status": "published",
+          "tags": []
+        }
+      ],
+      "domain": "navy.mil",
+      "id": 2112,
+      "name": "Navy",
+      "url": "https://www.navy.mil/"
+    },
+    "name": "[digitalregistry] Navy (2112)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] Office of Management and Budget (2100)": {
+    "digitalregistry": {
+      "abbreviation": "OMB",
+      "cfo_act_agency": false,
+      "digital_service_accounts": [
+        {
+          "account": "Linkedin",
+          "contacts": [
+            {
+              "email": "catie.miller@gsa.gov"
+            }
+          ],
+          "long_description": "Performance.gov is the federal window into performance and is the home of the President's Management Agenda. Administered by GSA with contributions from OMB and other agencies. ",
+          "name": "Performance.gov",
+          "service_url": "https://www.linkedin.com/company/performance-gov/",
+          "short_description": "Performance.gov LinkedIn",
+          "status": "published",
+          "tags": []
+        }
+      ],
+      "domain": "omb.gov",
+      "id": 2100,
+      "name": "Office of Management and Budget",
+      "url": "https://omb.gov"
+    },
+    "name": "[digitalregistry] Office of Management and Budget (2100)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] Office of Personnel Management  (2106)": {
+    "digitalregistry": {
+      "abbreviation": "OPM",
+      "cfo_act_agency": true,
+      "digital_analytics_path": "",
+      "digital_service_accounts": [
+        {
+          "account": "Facebook",
+          "contacts": [],
+          "language": "English",
+          "long_description": "",
+          "name": "Office of Personnel and Management",
+          "service": "facebook",
+          "service_url": "http://facebook.com/USOPM",
+          "short_description": "Facebook USOPM",
+          "status": "published",
+          "tags": []
+        }
+      ],
+      "domain": "opm.gov",
+      "id": 2106,
+      "learning_agenda_url": "https://www.opm.gov/about-us/strategic-plan/evidence-building/learning-agenda",
+      "mission_statement": "We are champions of talent for the Federal Government. We lead Federal agencies in workforce policies, programs, and benefits in service to the American people.",
+      "mission_statement_url": "https://www.opm.gov/",
+      "name": "Office of Personnel Management ",
+      "performance_url": "https://www.opm.gov/about-us/budget-performance/",
+      "strategic_plan_url": "https://www.opm.gov/about-us/strategic-plan/",
+      "url": "https://www.opm.gov/"
+    },
+    "name": "[digitalregistry] Office of Personnel Management  (2106)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] Office of the Director of National Intelligence (2107)": {
+    "digitalregistry": {
+      "abbreviation": "ODNI",
+      "cfo_act_agency": false,
+      "digital_analytics_path": "",
+      "digital_service_accounts": [
+        {
+          "account": "Youtube",
+          "contacts": [],
+          "language": "English",
+          "long_description": "",
+          "name": "Office of the Director of National Intelligence ",
+          "service": "youtube",
+          "service_url": "https://www.youtube.com/channel/UChGV60LYpVFgOWs7aeLrdEQ",
+          "short_description": "youtube channel for ODNI",
+          "status": "published",
+          "tags": []
+        }
+      ],
+      "domain": "odni.gov",
+      "id": 2107,
+      "mission_statement": "",
+      "name": "Office of the Director of National Intelligence",
+      "url": "https://www.dni.gov/"
+    },
+    "name": "[digitalregistry] Office of the Director of National Intelligence (2107)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] Peace Corps (2161)": {
+    "digitalregistry": {
+      "abbreviation": "PC",
+      "cfo_act_agency": false,
+      "digital_analytics_path": "",
+      "digital_service_accounts": [
+        {
+          "account": "Twitter",
+          "contacts": [],
+          "language": "English",
+          "long_description": "Welcome to the official Peace Corps Recruitment Twitter! We'll help you make the most of your world. ",
+          "name": "Peace Corps Journey",
+          "service": "twitter",
+          "service_url": "http://twitter.com/gopeacecorps",
+          "short_description": "The official Peace Corps recruitment Twitter account",
+          "status": "published",
+          "tags": []
+        }
+      ],
+      "domain": "peacecorps.gov",
+      "id": 2161,
+      "mission_statement": "",
+      "name": "Peace Corps",
+      "url": "https://www.peacecorps.gov/"
+    },
+    "name": "[digitalregistry] Peace Corps (2161)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Agency for Global Media (2168)": {
+    "digitalregistry": {
+      "abbreviation": "USAGM",
+      "cfo_act_agency": false,
+      "digital_analytics_path": "",
+      "digital_service_accounts": [
+        {
+          "account": "Facebook",
+          "contacts": [
+            {
+              "email": "mcoimbra@usagm.gov"
+            }
+          ],
+          "language": "English",
+          "long_description": "Voice of America is an international news network that is part of the U.S. government, broadcasting in 44 languages to audiences around the world. This is the official Facebook page for the English news service of VOA. \r\nWebsite: http://www.voanews.com\r\nTwitter: @VOANews\r\nTerms of Use: http://bit.ly/1QpuWFs",
+          "name": "Voice of America - VOA",
+          "service": "facebook",
+          "service_url": "https://www.facebook.com/voiceofamerica",
+          "short_description": "Voice of America is an international news network that is part of the U.S. government, broadcasting in 44 languages to audiences around the world. This is the official Facebook page for the English news service of VOA. ",
+          "status": "published",
+          "tags": []
+        }
+      ],
+      "domain": "usagm.gov",
+      "id": 2168,
+      "mission_statement": "",
+      "name": "U.S. Agency for Global Media",
+      "url": "https://www.usagm.gov/"
+    },
+    "name": "[digitalregistry] U.S. Agency for Global Media (2168)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Army (2126)": {
+    "digitalregistry": {
+      "abbreviation": "ARMY",
+      "cfo_act_agency": false,
+      "digital_products": [
+        {
+          "contacts": [],
+          "language": "English",
+          "long_description": "The Army Housing Online User Services (AHOUS) IPhone App allows for Servicemembers & Families a single point of entry for all their housing needs.  ",
+          "short_description": "Army Housing IPhone App",
+          "status": "published",
+          "tags": []
+        }
+      ],
+      "digital_service_accounts": [],
+      "domain": "army.mil",
+      "id": 2126,
+      "name": "U.S. Army",
+      "url": "https://www.army.mil/"
+    },
+    "name": "[digitalregistry] U.S. Army (2126)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Bureau of Reclamation (2157)": {
+    "digitalregistry": {
+      "abbreviation": "USBR",
+      "cfo_act_agency": false,
+      "digital_analytics_path": "",
+      "digital_service_accounts": [
+        {
+          "account": "Facebook",
+          "contacts": [
+            {
+              "email": "dnagle@usbr.gov"
+            }
+          ],
+          "language": "English",
+          "long_description": "Delivering reliable water supplies for agriculture, renewable hydropower and municipal needs in an environmentally and economically sound manner.",
+          "name": "Bureau of Reclamation",
+          "service": "facebook",
+          "service_url": "https://www.facebook.com/bureau.of.reclamation/",
+          "short_description": "Bureau of Reclamation",
+          "status": "published",
+          "tags": []
+        }
+      ],
+      "domain": "usbr.gov",
+      "id": 2157,
+      "name": "U.S. Bureau of Reclamation",
+      "url": "https://www.usbr.gov/"
+    },
+    "name": "[digitalregistry] U.S. Bureau of Reclamation (2157)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Citizenship and Immigration Services (2134)": {
+    "digitalregistry": {
+      "abbreviation": "USCIS",
+      "cfo_act_agency": false,
+      "digital_analytics_path": "",
+      "digital_service_accounts": [
+        {
+          "account": "Twitter",
+          "contacts": [],
+          "language": "English",
+          "long_description": "Official Twitter channel of U.S. Citizenship and Immigration Services.",
+          "name": "USCIS",
+          "service": "twitter",
+          "service_url": "https://twitter.com/uscis",
+          "short_description": "Official Twitter channel of U.S. Citizenship and Immigration Services.",
+          "status": "published",
+          "tags": []
+        }
+      ],
+      "domain": "uscis.dhs.gov",
+      "id": 2134,
+      "mission_statement": "",
+      "name": "U.S. Citizenship and Immigration Services",
+      "url": "https://www.uscis.gov/"
+    },
+    "name": "[digitalregistry] U.S. Citizenship and Immigration Services (2134)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Courts (2162)": {
+    "digitalregistry": {
+      "abbreviation": "USC",
+      "cfo_act_agency": false,
+      "digital_analytics_path": "",
+      "digital_service_accounts": [
+        {
+          "account": "Linkedin",
+          "contacts": [
+            {
+              "email": "tyrus_manuel@ao.uscourts.gov"
+            }
+          ],
+          "language": "English",
+          "long_description": "The official main LinkedIn account and umbrella for the entire Federal Judiciary. Federal courts and other judiciary units will have individual LinkedIn accounts but should be registered here.",
+          "name": "United States Courts",
+          "service": "linkedin",
+          "service_url": "https://www.linkedin.com/company/us-courts",
+          "short_description": "The official LinkedIn account for the United States Courts. ",
+          "status": "published",
+          "tags": []
+        }
+      ],
+      "domain": "uscourts.gov",
+      "id": 2162,
+      "mission_statement": "",
+      "name": "U.S. Courts",
+      "url": "https://www.uscourts.gov/"
+    },
+    "name": "[digitalregistry] U.S. Courts (2162)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Department of Health & Human Services (2119)": {
+    "digitalregistry": {
+      "abbreviation": "HHS",
+      "cfo_act_agency": true,
+      "digital_analytics_path": "",
+      "digital_products": [],
+      "digital_service_accounts": [
+        {
+          "account": "Facebook",
+          "contacts": [],
+          "language": "English",
+          "long_description": "HIV/AIDS information from across the U.S. government. Visit www.HIV.gov for information on HIV Basics, Awareness Days, National HIV/AIDS Strategy, digital/social media planning. Subscribe to  http://hiv.gov/blog to get the latest on HIV updates. ",
+          "name": "HIV.gov",
+          "service": "facebook",
+          "service_url": "http://facebook.com/hivgov",
+          "short_description": "Gateway to domestic U.S. government HIV/AIDS testing, treatment, research, policy and digital communications resources: www.AIDS.gov http://blog.AIDS.gov/",
+          "status": "published",
+          "tags": []
+        }
+      ],
+      "domain": "hhs.gov",
+      "id": 2119,
+      "learning_agenda_url": "https://aspe.hhs.gov/reports/fy-2023-2026-hhs-evidence-building-plan ",
+      "mission_statement": "Enhance the health and well-being of all Americans, by providing for effective health and human services and by fostering sound, sustained advances in the sciences underlying medicine, public health, and social services.",
+      "mission_statement_url": "https://www.hhs.gov/",
+      "name": "U.S. Department of Health & Human Services",
+      "performance_url": "https://www.hhs.gov/about/budget/fy2024/performance/index.html",
+      "strategic_plan_url": "https://www.hhs.gov/about/strategic-plan/2022-2026/index.html",
+      "url": "https://www.hhs.gov/"
+    },
+    "name": "[digitalregistry] U.S. Department of Health & Human Services (2119)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Department of Justice (2109)": {
+    "digitalregistry": {
+      "abbreviation": "DOJ",
+      "cfo_act_agency": true,
+      "digital_analytics_path": "",
+      "digital_service_accounts": [
+        {
+          "account": "Facebook",
+          "contacts": [],
+          "language": "English",
+          "long_description": "",
+          "name": "Department of Justice",
+          "service": "facebook",
+          "service_url": "http://facebook.com/DOJ",
+          "short_description": "",
+          "status": "published",
+          "tags": []
+        }
+      ],
+      "domain": "usdoj.gov",
+      "id": 2109,
+      "learning_agenda_url": " https://www.evaluation.gov/agencies/department-of-justice/",
+      "mission_statement": "To uphold the rule of law, to keep our country safe, and to protect civil rights.",
+      "mission_statement_url": "https://www.justice.gov/",
+      "name": "U.S. Department of Justice",
+      "performance_url": "https://www.justice.gov/doj/budget-and-performance",
+      "strategic_plan_url": "https://www.justice.gov/doj/doj-strategic-plan-2022-2026",
+      "url": "https://www.justice.gov/"
+    },
+    "name": "[digitalregistry] U.S. Department of Justice (2109)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Department of the Treasury (2122)": {
+    "digitalregistry": {
+      "abbreviation": "USDT",
+      "cfo_act_agency": true,
+      "digital_analytics_path": "",
+      "digital_service_accounts": [
+        {
+          "account": "Facebook",
+          "contacts": [],
+          "language": "English",
+          "long_description": "The primary mission of the United States Mint is to manufacture and distribute circulating coins, precious metals and collectible coins, and national medals to meet the needs of the United States. In addition to producing coins and medals, the United States Mint also maintains physical custody and protection of the Nation's gold and silver assets.",
+          "name": "United States Mint",
+          "service": "facebook",
+          "service_url": "http://facebook.com/UnitedStatesMint",
+          "short_description": "Welcome to the United States Mint's Facebook page. If you are looking for the official Web site of the United States Mint, please visit www.usmint.gov",
+          "status": "published",
+          "tags": []
+        }
+      ],
+      "domain": "treas.gov",
+      "id": 2122,
+      "learning_agenda_url": "https://www.evaluation.gov/agencies/department-of-treasury/",
+      "mission_statement": "Maintain a strong economy and create economic and job opportunities by promoting the conditions that enable economic growth and stability at home and abroad, strengthen national security by combating threats and protecting the integrity of the financial system, and manage the U.S. Government\u2019s finances and resources effectively.",
+      "mission_statement_url": "https://home.treasury.gov/",
+      "name": "U.S. Department of the Treasury",
+      "performance_url": "https://home.treasury.gov/about/budget-financial-reporting-planning-and-performance/budget-requestannual-performance-plan-and-reports",
+      "strategic_plan_url": "https://home.treasury.gov/about/budget-financial-reporting-planning-and-performance/strategic-plan",
+      "url": "https://home.treasury.gov/"
+    },
+    "name": "[digitalregistry] U.S. Department of the Treasury (2122)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Energy Information Administration (2264)": {
+    "digitalregistry": {
+      "abbreviation": "EIA",
+      "cfo_act_agency": false,
+      "digital_analytics_path": "",
+      "digital_service_accounts": [
+        {
+          "account": "Flickr",
+          "contacts": [
+            {
+              "email": "chris.higginbotham@eia.gov"
+            }
+          ],
+          "language": "English",
+          "long_description": "The U.S. Energy Information Administration (EIA) collects, analyzes, and disseminates independent and impartial energy information to promote sound policymaking, efficient markets, and public understanding of energy and its interaction with the economy and the environment.",
+          "name": "U.S. Energy Information Administration",
+          "service": "flickr",
+          "service_url": "https://www.flickr.com/photos/eiagov",
+          "short_description": "U.S. Energy Information Administration Official Flickr account",
+          "status": "published",
+          "tags": []
+        }
+      ],
+      "domain": "eia.gov",
+      "id": 2264,
+      "mission_statement": "",
+      "name": "U.S. Energy Information Administration",
+      "url": "https://www.eia.gov/"
+    },
+    "name": "[digitalregistry] U.S. Energy Information Administration (2264)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Government Publishing Office (2267)": {
+    "digitalregistry": {
+      "abbreviation": "GPO",
+      "cfo_act_agency": false,
+      "digital_analytics_path": "",
+      "digital_service_accounts": [
+        {
+          "account": "Pinterest",
+          "contacts": [
+            {
+              "email": "cgoergen@gpo.gov"
+            }
+          ],
+          "language": "English",
+          "long_description": "",
+          "name": "U.S. Government Publishing Office Pinterest",
+          "service": "pinterest",
+          "service_url": "https://www.pinterest.com/usgpo/",
+          "short_description": "The Pinterest Page for the U.S. Government Publishing Office",
+          "status": "published",
+          "tags": [
+            "secure",
+            "official",
+            "eBooks",
+            "government publications",
+            "U.S. Passport",
+            "FDsys",
+            "Federal Digital System",
+            "gpo",
+            "Government Printing Office",
+            "apps",
+            "digital"
+          ]
+        }
+      ],
+      "domain": "gpo.gov",
+      "id": 2267,
+      "mission_statement": "",
+      "name": "U.S. Government Publishing Office",
+      "url": "https://www.gpo.gov/"
+    },
+    "name": "[digitalregistry] U.S. Government Publishing Office (2267)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Office of Government Ethics (2182)": {
+    "digitalregistry": {
+      "abbreviation": "OGE",
+      "cfo_act_agency": false,
+      "digital_analytics_path": "",
+      "digital_service_accounts": [
+        {
+          "account": "Twitter",
+          "contacts": [
+            {
+              "email": "nstein@oge.gov"
+            }
+          ],
+          "long_description": "",
+          "name": "Office of Government Ethics",
+          "service_url": "https://twitter.com/officegovethics",
+          "short_description": "",
+          "status": "published",
+          "tags": []
+        }
+      ],
+      "domain": "oge.gov",
+      "id": 2182,
+      "mission_statement": "",
+      "name": "U.S. Office of Government Ethics",
+      "url": "https://www.oge.gov/"
+    },
+    "name": "[digitalregistry] U.S. Office of Government Ethics (2182)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] US Fish and Wildlife (2128)": {
+    "digitalregistry": {
+      "abbreviation": "FWS",
+      "cfo_act_agency": false,
+      "digital_service_accounts": [
+        {
+          "account": "Facebook",
+          "contacts": [
+            {
+              "email": "michael_dagostino@fws.gov"
+            },
+            {
+              "email": "rebecca_fabbri@fws.gov"
+            }
+          ],
+          "language": "English",
+          "long_description": "",
+          "name": "USFWS Ash Meadows National Wildlife Refuge",
+          "service": "facebook",
+          "service_url": "https://facebook.com/AshMeadowsNWR",
+          "short_description": "Located in Nevada",
+          "status": "published",
+          "tags": []
+        }
+      ],
+      "domain": "fws.gov",
+      "id": 2128,
+      "name": "US Fish and Wildlife",
+      "url": "https://fws.gov/"
+    },
+    "name": "[digitalregistry] US Fish and Wildlife (2128)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] US Geological Survey (2104)": {
+    "digitalregistry": {
+      "abbreviation": "USGS",
+      "cfo_act_agency": false,
+      "digital_service_accounts": [
+        {
+          "account": "Facebook",
+          "contacts": [
+            {
+              "email": "everettel@usgs.gov"
+            },
+            {
+              "email": "shorvath@usgs.gov"
+            }
+          ],
+          "language": "English",
+          "long_description": "",
+          "name": "USGS (Facebook)",
+          "service": "facebook",
+          "service_url": "http://facebook.com/USGeologicalSurvey",
+          "short_description": "",
+          "status": "published",
+          "tags": [
+            "tools",
+            "technology",
+            "data",
+            "news",
+            "volcanoes",
+            "tsunamis",
+            "landslides",
+            "floods",
+            "hurricanes",
+            "wildfires",
+            "geology",
+            "Maps",
+            "geography",
+            "biology",
+            "earthquakes",
+            "natural hazards",
+            "minerals",
+            "ecosystems",
+            "Climate change",
+            "science",
+            "environment",
+            "Energy",
+            "water"
+          ]
+        }
+      ],
+      "domain": "usgs.gov",
+      "id": 2104,
+      "name": "US Geological Survey",
+      "url": "https://www.usgs.gov/"
+    },
+    "name": "[digitalregistry] US Geological Survey (2104)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] USMC (2241)": {
+    "digitalregistry": {
+      "abbreviation": "USMC",
+      "cfo_act_agency": false,
+      "digital_analytics_path": "",
+      "digital_service_accounts": [
+        {
+          "account": "Facebook",
+          "contacts": [
+            {
+              "email": "scott.smolinski@usmc.mil"
+            }
+          ],
+          "long_description": "",
+          "name": "Marine Rotational Force-Darwin",
+          "service_url": "https://www.facebook.com/MRFDarwin",
+          "short_description": "MRF-D",
+          "status": "published",
+          "tags": []
+        }
+      ],
+      "domain": "usmc.mil",
+      "id": 2241,
+      "mission_statement": "",
+      "name": "USMC",
+      "url": "https://www.marines.mil/"
+    },
+    "name": "[digitalregistry] USMC (2241)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] United States Agency for International Development (2148)": {
+    "digitalregistry": {
+      "abbreviation": "USAID",
+      "cfo_act_agency": true,
+      "digital_analytics_path": "",
+      "digital_service_accounts": [
+        {
+          "account": "Twitter",
+          "contacts": [
+            {
+              "email": "gyour@usaid.gov"
+            }
+          ],
+          "language": "English",
+          "long_description": "USAID\u2019s Bureau for Humanitarian Assistance (BHA) leads and coordinates the U.S. Government\u2019s humanitarian assistance efforts overseas. Helping people affected by disasters is at the core of what BHA does every day, all over the world. The Bureau responds to an average of 75 disasters in more than 70 countries every year, ensuring that aid reaches people affected by natural disasters, including hurricanes, earthquakes, and volcanoes, as well as protracted crises, such as drought and conflict. We also support food insecure refugees fleeing war, violence, or persecution.",
+          "name": "USAID's Bureau for Humanitarian Assistance  ",
+          "service": "twitter",
+          "service_url": "http://twitter.com/@USAIDSavesLives",
+          "short_description": "USAID's Bureau for Humanitarian Assistance saves lives on behalf of the American people.",
+          "status": "published",
+          "tags": [
+            "humanitarian",
+            "disasters"
+          ]
+        }
+      ],
+      "domain": "usaid.gov",
+      "id": 2148,
+      "learning_agenda_url": "https://www.evaluation.gov/agencies/agency-for-international-development/",
+      "mission_statement": "We work to build a freer, more equitable and more humane world by amplifying local voices, advancing sustainable progress, and tackling the world's toughest problems. ",
+      "mission_statement_url": "https://www.usaid.gov/",
+      "name": "United States Agency for International Development",
+      "performance_url": "https://www.usaid.gov/results-and-data/progress-data/annual-performance-report",
+      "strategic_plan_url": "https://www.usaid.gov/results-and-data/planning",
+      "url": "https://www.usaid.gov/"
+    },
+    "name": "[digitalregistry] United States Agency for International Development (2148)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] United States Air Force (2117)": {
+    "digitalregistry": {
+      "abbreviation": "USAF",
+      "cfo_act_agency": false,
+      "digital_service_accounts": [
+        {
+          "account": "Facebook",
+          "contacts": [],
+          "language": "English",
+          "long_description": "",
+          "name": "Civil Air Patrol National Capital Wing",
+          "service": "facebook",
+          "service_url": "http://facebook.com/NatCapWing",
+          "short_description": "",
+          "status": "published",
+          "tags": []
+        }
+      ],
+      "domain": "af.mil",
+      "id": 2117,
+      "name": "United States Air Force",
+      "url": "https://www.af.mil/"
+    },
+    "name": "[digitalregistry] United States Air Force (2117)"
+  },
+  "/US FEDERAL GOVERNMENT/[digitalregistry] United States Nuclear Regulatory Commission (2113)": {
+    "digitalregistry": {
+      "abbreviation": "NRC",
+      "cfo_act_agency": true,
+      "digital_analytics_path": "",
+      "digital_service_accounts": [
+        {
+          "account": "Flickr",
+          "contacts": [
+            {
+              "email": "stephanie.west@nrc.gov"
+            }
+          ],
+          "language": "English",
+          "long_description": "",
+          "name": "Nuclear Regulatory Commission",
+          "service": "flickr",
+          "service_url": "https://www.flickr.com/photos/nrcgov",
+          "short_description": "",
+          "status": "published",
+          "tags": []
+        }
+      ],
+      "domain": "nrc.gov",
+      "id": 2113,
+      "learning_agenda_url": "https://www.nrc.gov/docs/ML2206/ML22066B056.pdf",
+      "mission_statement": "The NRC licenses and regulates the Nation\u2019s civilian use of radioactive materials, to provide reasonable assurance of adequate protection of public health and safety, to promote the common defense and security, and to protect the environment.",
+      "mission_statement_url": "https://www.nrc.gov/about-nrc.html",
+      "name": "United States Nuclear Regulatory Commission",
+      "performance_url": "https://www.nrc.gov/about-nrc/plans-performance.html",
+      "strategic_plan_url": "https://www.nrc.gov/docs/ML2206/ML22067A170.pdf",
+      "url": "https://www.nrc.gov/"
+    },
+    "name": "[digitalregistry] United States Nuclear Regulatory Commission (2113)"
+  }
+}

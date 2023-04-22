@@ -1,0 +1,2075 @@
+{
+  "edges": [
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Department of Health & Human Services (2119)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] Centers for Disease Control and Prevention (2140)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] Consumer Protection Finance Bureau (2143)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] Department of Labor (2082)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Department of Justice (2109)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] National Archives (2124)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] General Services Administration (1)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Department of the Treasury (2122)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] Department of Commerce (2138)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] Department of Agriculture (2098)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] US Geological Survey (2104)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] Department of the Interior (2135)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] National Oceanic and Atmospheric Administration (2166)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] Office of Personnel Management  (2106)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] US Fish and Wildlife (2128)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] Environmental Protection Agency (2095)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] Library of Congress (2169)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] National Institutes of Health (2142)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] Department of Energy (2110)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] Federal Energy Regulatory Commission (2153)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] Corporation for National and Community Service (2175)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] Federal Reserve Board (2271)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] Board of Governors of the Federal Reserve System (2256)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] Health Resources & Services Administration (2108)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] Department of State (2130)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] Consumer Product Safety Commission (2195)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] Federal Trade Commission (2205)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] Architect of the Capitol (2249)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] Department of Defense (2127)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] United States Agency for International Development (2148)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] Food and Drug Administration (2273)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] National Park Service (2141)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Government Publishing Office (2267)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] National Nuclear Security Administration (2272)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] United States Air Force (2117)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Army (2126)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] Department of Veterans Affairs (2129)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Bureau of Reclamation (2157)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Agency for Global Media (2168)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] Federal Emergency Management Agency (2152)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Courts (2162)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] Indian Health Service (2245)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] Peace Corps (2161)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Citizenship and Immigration Services (2134)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] Department of Homeland Security (2139)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] Customs and Border Protection (2093)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] Navy (2112)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] United States Nuclear Regulatory Commission (2113)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] Department of Housing and Urban Development (2096)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] Department of Education (2111)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] National Institute of Standards and Technology (2167)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] Office of the Director of National Intelligence (2107)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Energy Information Administration (2264)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] Military Health System and Defense Health Agency (2244)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] National Labor Relations Board (2217)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Office of Government Ethics (2182)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] Federal Bureau of Prisons (2269)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] National Telecommunications and Information Administration (2173)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] Office of Management and Budget (2100)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "source": "/US FEDERAL GOVERNMENT/[digitalregistry] USMC (2241)",
+        "target": "/US FEDERAL GOVERNMENT"
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "data": {
+        "digitalregistry_name": "US FEDERAL GOVERNMENT",
+        "id": "/US FEDERAL GOVERNMENT",
+        "name": "US FEDERAL GOVERNMENT",
+        "path": "/US FEDERAL GOVERNMENT",
+        "value": "/US FEDERAL GOVERNMENT"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "HHS",
+        "digitalregistry_cfo_act_agency": true,
+        "digitalregistry_digital_analytics_path": "",
+        "digitalregistry_digital_products": "[]",
+        "digitalregistry_digital_service_accounts_0_account": "Facebook",
+        "digitalregistry_digital_service_accounts_0_contacts": "[]",
+        "digitalregistry_digital_service_accounts_0_language": "English",
+        "digitalregistry_digital_service_accounts_0_long_description": "HIV/AIDS information from across the U.S. government. Visit www.HIV.gov for information on HIV Basics, Awareness Days, National HIV/AIDS Strategy, digital/social media planning. Subscribe to  http://hiv.gov/blog to get the latest on HIV updates. ",
+        "digitalregistry_digital_service_accounts_0_name": "HIV.gov",
+        "digitalregistry_digital_service_accounts_0_service": "facebook",
+        "digitalregistry_digital_service_accounts_0_service_url": "http://facebook.com/hivgov",
+        "digitalregistry_digital_service_accounts_0_short_description": "Gateway to domestic U.S. government HIV/AIDS testing, treatment, research, policy and digital communications resources: www.AIDS.gov http://blog.AIDS.gov/",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags": "[]",
+        "digitalregistry_domain": "hhs.gov",
+        "digitalregistry_id": 2119,
+        "digitalregistry_learning_agenda_url": "https://aspe.hhs.gov/reports/fy-2023-2026-hhs-evidence-building-plan ",
+        "digitalregistry_mission_statement": "Enhance the health and well-being of all Americans, by providing for effective health and human services and by fostering sound, sustained advances in the sciences underlying medicine, public health, and social services.",
+        "digitalregistry_mission_statement_url": "https://www.hhs.gov/",
+        "digitalregistry_name": "U.S. Department of Health & Human Services",
+        "digitalregistry_performance_url": "https://www.hhs.gov/about/budget/fy2024/performance/index.html",
+        "digitalregistry_strategic_plan_url": "https://www.hhs.gov/about/strategic-plan/2022-2026/index.html",
+        "digitalregistry_url": "https://www.hhs.gov/",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Department of Health & Human Services (2119)",
+        "name": "[digitalregistry] U.S. Department of Health & Human Services (2119)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Department of Health & Human Services (2119)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Department of Health & Human Services (2119)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "CDC",
+        "digitalregistry_cfo_act_agency": false,
+        "digitalregistry_digital_products": "[]",
+        "digitalregistry_digital_service_accounts_0_account": "Facebook",
+        "digitalregistry_digital_service_accounts_0_contacts": "[]",
+        "digitalregistry_digital_service_accounts_0_language": "English",
+        "digitalregistry_digital_service_accounts_0_long_description": "For questions about this account, please contact Emily Hood (OADC)",
+        "digitalregistry_digital_service_accounts_0_name": "Facebook - CDC",
+        "digitalregistry_digital_service_accounts_0_service": "facebook",
+        "digitalregistry_digital_service_accounts_0_service_url": "http://www.facebook.com/CDC",
+        "digitalregistry_digital_service_accounts_0_short_description": "",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags": "[]",
+        "digitalregistry_domain": "cdc.gov",
+        "digitalregistry_id": 2140,
+        "digitalregistry_name": "Centers for Disease Control and Prevention",
+        "digitalregistry_url": "https://cdc.gov",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] Centers for Disease Control and Prevention (2140)",
+        "name": "[digitalregistry] Centers for Disease Control and Prevention (2140)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] Centers for Disease Control and Prevention (2140)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] Centers for Disease Control and Prevention (2140)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "CFPB",
+        "digitalregistry_cfo_act_agency": false,
+        "digitalregistry_digital_service_accounts_0_account": "Facebook",
+        "digitalregistry_digital_service_accounts_0_contacts": "[]",
+        "digitalregistry_digital_service_accounts_0_language": "English",
+        "digitalregistry_digital_service_accounts_0_long_description": "",
+        "digitalregistry_digital_service_accounts_0_name": "Consumer Financial Protection Bureau",
+        "digitalregistry_digital_service_accounts_0_service": "facebook",
+        "digitalregistry_digital_service_accounts_0_service_url": "http://facebook.com/cfpb",
+        "digitalregistry_digital_service_accounts_0_short_description": "The official Facebook account of the CFPB",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags_0": "cfpb",
+        "digitalregistry_domain": "cfpb.gov",
+        "digitalregistry_id": 2143,
+        "digitalregistry_name": "Consumer Protection Finance Bureau",
+        "digitalregistry_url": "https://www.consumerfinance.gov/",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] Consumer Protection Finance Bureau (2143)",
+        "name": "[digitalregistry] Consumer Protection Finance Bureau (2143)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] Consumer Protection Finance Bureau (2143)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] Consumer Protection Finance Bureau (2143)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "DOL",
+        "digitalregistry_cfo_act_agency": true,
+        "digitalregistry_digital_analytics_path": "",
+        "digitalregistry_digital_service_accounts_0_account": "Facebook",
+        "digitalregistry_digital_service_accounts_0_contacts_0_email": "koebel.tiffany.l@dol.gov",
+        "digitalregistry_digital_service_accounts_0_language": "English",
+        "digitalregistry_digital_service_accounts_0_long_description": "The mission of the U.S. Department of Labor is to foster, promote, and develop the welfare of the wage earners, job seekers, and retirees of the United States; improve working conditions; advance opportunities for profitable employment; and assure work-related benefits and rights. Our Facebook page reflects this mission, and provides updates on Labor Department initiatives and resources.",
+        "digitalregistry_digital_service_accounts_0_name": "DepartmentofLabor",
+        "digitalregistry_digital_service_accounts_0_service": "facebook",
+        "digitalregistry_digital_service_accounts_0_service_url": "http://facebook.com/departmentoflabor",
+        "digitalregistry_digital_service_accounts_0_short_description": "Information from the U.S. Department of Labor on jobs and training, safety and regulations, and other issues impacting America's workforce, job seekers and retirees.",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags_0": "leave",
+        "digitalregistry_digital_service_accounts_0_tags_1": "pay",
+        "digitalregistry_digital_service_accounts_0_tags_2": "workplace",
+        "digitalregistry_digital_service_accounts_0_tags_3": "work",
+        "digitalregistry_domain": "dol.gov",
+        "digitalregistry_id": 2082,
+        "digitalregistry_learning_agenda_url": "https://www.evaluation.gov/agencies/department-of-labor/",
+        "digitalregistry_mission_statement": "To foster, promote, and develop the welfare of the wage earners, job seekers, and retirees of the United States; improve working conditions; advance opportunities for profitable employment; and assure work-related benefits and rights.",
+        "digitalregistry_mission_statement_url": "https://www.dol.gov/",
+        "digitalregistry_name": "Department of Labor",
+        "digitalregistry_performance_url": "https://www.dol.gov/general/aboutdol#budget",
+        "digitalregistry_strategic_plan_url": "https://www.dol.gov/general/aboutdol#budget ",
+        "digitalregistry_url": "https://dol.gov/",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] Department of Labor (2082)",
+        "name": "[digitalregistry] Department of Labor (2082)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] Department of Labor (2082)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] Department of Labor (2082)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "DOJ",
+        "digitalregistry_cfo_act_agency": true,
+        "digitalregistry_digital_analytics_path": "",
+        "digitalregistry_digital_service_accounts_0_account": "Facebook",
+        "digitalregistry_digital_service_accounts_0_contacts": "[]",
+        "digitalregistry_digital_service_accounts_0_language": "English",
+        "digitalregistry_digital_service_accounts_0_long_description": "",
+        "digitalregistry_digital_service_accounts_0_name": "Department of Justice",
+        "digitalregistry_digital_service_accounts_0_service": "facebook",
+        "digitalregistry_digital_service_accounts_0_service_url": "http://facebook.com/DOJ",
+        "digitalregistry_digital_service_accounts_0_short_description": "",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags": "[]",
+        "digitalregistry_domain": "usdoj.gov",
+        "digitalregistry_id": 2109,
+        "digitalregistry_learning_agenda_url": " https://www.evaluation.gov/agencies/department-of-justice/",
+        "digitalregistry_mission_statement": "To uphold the rule of law, to keep our country safe, and to protect civil rights.",
+        "digitalregistry_mission_statement_url": "https://www.justice.gov/",
+        "digitalregistry_name": "U.S. Department of Justice",
+        "digitalregistry_performance_url": "https://www.justice.gov/doj/budget-and-performance",
+        "digitalregistry_strategic_plan_url": "https://www.justice.gov/doj/doj-strategic-plan-2022-2026",
+        "digitalregistry_url": "https://www.justice.gov/",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Department of Justice (2109)",
+        "name": "[digitalregistry] U.S. Department of Justice (2109)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Department of Justice (2109)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Department of Justice (2109)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "NARA",
+        "digitalregistry_cfo_act_agency": false,
+        "digitalregistry_digital_service_accounts_0_account": "Facebook",
+        "digitalregistry_digital_service_accounts_0_contacts": "[]",
+        "digitalregistry_digital_service_accounts_0_language": "English",
+        "digitalregistry_digital_service_accounts_0_long_description": "National Archives Facebook Commenting Policy: https://www.archives.gov/social-media/policies/facebook-comment-policy.html",
+        "digitalregistry_digital_service_accounts_0_name": "Federal Register",
+        "digitalregistry_digital_service_accounts_0_service": "facebook",
+        "digitalregistry_digital_service_accounts_0_service_url": "http://facebook.com/FedRegister",
+        "digitalregistry_digital_service_accounts_0_short_description": "Official Facebook of the Office of the Federal Register (OFR)! OFR publishes governmental policies and makes them available to the public.  This site is managed by the National Archives and Records Administration.",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags_0": "Nara",
+        "digitalregistry_domain": "nara.gov",
+        "digitalregistry_id": 2124,
+        "digitalregistry_name": "National Archives",
+        "digitalregistry_url": "https://www.archives.gov/",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] National Archives (2124)",
+        "name": "[digitalregistry] National Archives (2124)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] National Archives (2124)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] National Archives (2124)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "GSA",
+        "digitalregistry_cfo_act_agency": true,
+        "digitalregistry_digital_analytics_path": "",
+        "digitalregistry_digital_service_accounts_0_account": "Facebook",
+        "digitalregistry_digital_service_accounts_0_contacts": "[]",
+        "digitalregistry_digital_service_accounts_0_language": "Spanish",
+        "digitalregistry_digital_service_accounts_0_long_description": "Informaci\u00f3n oficial en espa\u00f1ol del Gobierno de Estados Unidos\r\n\r\nNuestra misi\u00f3n:\r\nFacilitar a las personas con conocimiento limitado del ingl\u00e9s acceso a informaci\u00f3n sobre servicios y programas del Gobierno\r\n\r\nResaltar las iniciativas actuales y recursos del Gobierno que benefician a la comunidad hispana\r\n\r\nReforzar la calidad de la informaci\u00f3n y los servicios en espa\u00f1ol que est\u00e1n a su disposici\u00f3n en los sitios web del Gobierno de EE. UU.\r\n\r\nNuestra pol\u00edtica de comentarios\r\n\r\nRecibiremos tus comentarios con mucho gusto si tienes 13 a\u00f1os o m\u00e1s (en ingl\u00e9s) y esperamos que nuestras conversaciones sean respetuosas. Eres responsable por el contenido que compartes. Te pedimos que te adhieras a nuestra pol\u00edtica de comentarios.",
+        "digitalregistry_digital_service_accounts_0_name": "GobiernoUSA.gov",
+        "digitalregistry_digital_service_accounts_0_service": "facebook",
+        "digitalregistry_digital_service_accounts_0_service_url": "http://facebook.com/gobiernousa",
+        "digitalregistry_digital_service_accounts_0_short_description": "GobiernoUSA.gov te ayuda a encontrar informaci\u00f3n oficial sobre programas y servicios del Gobierno de los Estados Unidos por Internet. Visita nuestra p\u00e1gina principal en https://gobierno.usa.gov//",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags_0": "ocsit",
+        "digitalregistry_domain": "gsa.gov",
+        "digitalregistry_id": 1,
+        "digitalregistry_learning_agenda_url": "https://www.evaluation.gov/agencies/general-services-administration/",
+        "digitalregistry_mission_statement": "To deliver the best customer experience and value in real estate, acquisition, and technology services to the Government and the American people.",
+        "digitalregistry_mission_statement_url": "https://gsa.gov",
+        "digitalregistry_name": "General Services Administration",
+        "digitalregistry_performance_url": "https://www.gsa.gov/reference/reports/budget-performance",
+        "digitalregistry_strategic_plan_url": "https://www.gsa.gov/reference/reports/budget-performance/gsa-fy-20222026-strategic-plan",
+        "digitalregistry_url": "https://www.gsa.gov/",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] General Services Administration (1)",
+        "name": "[digitalregistry] General Services Administration (1)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] General Services Administration (1)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] General Services Administration (1)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "USDT",
+        "digitalregistry_cfo_act_agency": true,
+        "digitalregistry_digital_analytics_path": "",
+        "digitalregistry_digital_service_accounts_0_account": "Facebook",
+        "digitalregistry_digital_service_accounts_0_contacts": "[]",
+        "digitalregistry_digital_service_accounts_0_language": "English",
+        "digitalregistry_digital_service_accounts_0_long_description": "The primary mission of the United States Mint is to manufacture and distribute circulating coins, precious metals and collectible coins, and national medals to meet the needs of the United States. In addition to producing coins and medals, the United States Mint also maintains physical custody and protection of the Nation's gold and silver assets.",
+        "digitalregistry_digital_service_accounts_0_name": "United States Mint",
+        "digitalregistry_digital_service_accounts_0_service": "facebook",
+        "digitalregistry_digital_service_accounts_0_service_url": "http://facebook.com/UnitedStatesMint",
+        "digitalregistry_digital_service_accounts_0_short_description": "Welcome to the United States Mint's Facebook page. If you are looking for the official Web site of the United States Mint, please visit www.usmint.gov",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags": "[]",
+        "digitalregistry_domain": "treas.gov",
+        "digitalregistry_id": 2122,
+        "digitalregistry_learning_agenda_url": "https://www.evaluation.gov/agencies/department-of-treasury/",
+        "digitalregistry_mission_statement": "Maintain a strong economy and create economic and job opportunities by promoting the conditions that enable economic growth and stability at home and abroad, strengthen national security by combating threats and protecting the integrity of the financial system, and manage the U.S. Government\u2019s finances and resources effectively.",
+        "digitalregistry_mission_statement_url": "https://home.treasury.gov/",
+        "digitalregistry_name": "U.S. Department of the Treasury",
+        "digitalregistry_performance_url": "https://home.treasury.gov/about/budget-financial-reporting-planning-and-performance/budget-requestannual-performance-plan-and-reports",
+        "digitalregistry_strategic_plan_url": "https://home.treasury.gov/about/budget-financial-reporting-planning-and-performance/strategic-plan",
+        "digitalregistry_url": "https://home.treasury.gov/",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Department of the Treasury (2122)",
+        "name": "[digitalregistry] U.S. Department of the Treasury (2122)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Department of the Treasury (2122)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Department of the Treasury (2122)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "DOC",
+        "digitalregistry_cfo_act_agency": true,
+        "digitalregistry_digital_analytics_path": "commerce",
+        "digitalregistry_digital_service_accounts_0_account": "Facebook",
+        "digitalregistry_digital_service_accounts_0_contacts": "[]",
+        "digitalregistry_digital_service_accounts_0_language": "English",
+        "digitalregistry_digital_service_accounts_0_long_description": "",
+        "digitalregistry_digital_service_accounts_0_name": "U.S. Census Bureau ",
+        "digitalregistry_digital_service_accounts_0_service": "facebook",
+        "digitalregistry_digital_service_accounts_0_service_url": "http://facebook.com/uscensusbureau",
+        "digitalregistry_digital_service_accounts_0_short_description": "Your trusted source for quality statistics about our nation's people, places and economy. www.census.gov/",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags": "[]",
+        "digitalregistry_domain": "doc.gov",
+        "digitalregistry_id": 2138,
+        "digitalregistry_learning_agenda_url": "https://www.evaluation.gov/agencies/department-of-commerce/",
+        "digitalregistry_mission_statement": "Create the conditions for economic growth and opportunity for all communities.",
+        "digitalregistry_mission_statement_url": "https://www.commerce.gov/",
+        "digitalregistry_name": "Department of Commerce",
+        "digitalregistry_performance_url": "https://www.commerce.gov/about/budget-and-performance",
+        "digitalregistry_strategic_plan_url": "https://www.commerce.gov/about/budget-and-performance",
+        "digitalregistry_url": "https://www.commerce.gov/",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] Department of Commerce (2138)",
+        "name": "[digitalregistry] Department of Commerce (2138)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] Department of Commerce (2138)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] Department of Commerce (2138)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "USDA",
+        "digitalregistry_cfo_act_agency": true,
+        "digitalregistry_digital_analytics_path": "agriculture",
+        "digitalregistry_digital_service_accounts_0_account": "Facebook",
+        "digitalregistry_digital_service_accounts_0_contacts": "[]",
+        "digitalregistry_digital_service_accounts_0_language": "English",
+        "digitalregistry_digital_service_accounts_0_name": "U.S. Department of Agriculture",
+        "digitalregistry_digital_service_accounts_0_service": "facebook",
+        "digitalregistry_digital_service_accounts_0_service_url": "http://facebook.com/usda",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags_0": "Merrigan",
+        "digitalregistry_digital_service_accounts_0_tags_1": "Vilsack",
+        "digitalregistry_digital_service_accounts_0_tags_2": "USDA",
+        "digitalregistry_digital_service_accounts_0_tags_3": "food safety",
+        "digitalregistry_digital_service_accounts_0_tags_4": "nutrition",
+        "digitalregistry_digital_service_accounts_0_tags_5": "rural",
+        "digitalregistry_digital_service_accounts_0_tags_6": "agriculture",
+        "digitalregistry_domain": "usda.gov",
+        "digitalregistry_id": 2098,
+        "digitalregistry_learning_agenda_url": "https://www.usda.gov/our-agency/about-usda/performance",
+        "digitalregistry_mission_statement": "To serve all Americans by providing effective, innovative, science-based public policy leadership in agriculture, food and nutrition, natural resource protection and management, rural development, and related issues with a commitment to deliver equitable and climate-smart opportunities that inspire and help America thrive.",
+        "digitalregistry_mission_statement_url": "https://www.usda.gov/",
+        "digitalregistry_name": "Department of Agriculture",
+        "digitalregistry_performance_url": "https://www.usda.gov/our-agency/about-usda/performance",
+        "digitalregistry_strategic_plan_url": "https://www.usda.gov/obpa/home",
+        "digitalregistry_url": "https://usda.gov",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] Department of Agriculture (2098)",
+        "name": "[digitalregistry] Department of Agriculture (2098)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] Department of Agriculture (2098)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] Department of Agriculture (2098)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "USGS",
+        "digitalregistry_cfo_act_agency": false,
+        "digitalregistry_digital_service_accounts_0_account": "Facebook",
+        "digitalregistry_digital_service_accounts_0_contacts_0_email": "everettel@usgs.gov",
+        "digitalregistry_digital_service_accounts_0_contacts_1_email": "shorvath@usgs.gov",
+        "digitalregistry_digital_service_accounts_0_language": "English",
+        "digitalregistry_digital_service_accounts_0_long_description": "",
+        "digitalregistry_digital_service_accounts_0_name": "USGS (Facebook)",
+        "digitalregistry_digital_service_accounts_0_service": "facebook",
+        "digitalregistry_digital_service_accounts_0_service_url": "http://facebook.com/USGeologicalSurvey",
+        "digitalregistry_digital_service_accounts_0_short_description": "",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags_0": "tools",
+        "digitalregistry_digital_service_accounts_0_tags_1": "technology",
+        "digitalregistry_digital_service_accounts_0_tags_10": "geology",
+        "digitalregistry_digital_service_accounts_0_tags_11": "Maps",
+        "digitalregistry_digital_service_accounts_0_tags_12": "geography",
+        "digitalregistry_digital_service_accounts_0_tags_13": "biology",
+        "digitalregistry_digital_service_accounts_0_tags_14": "earthquakes",
+        "digitalregistry_digital_service_accounts_0_tags_15": "natural hazards",
+        "digitalregistry_digital_service_accounts_0_tags_16": "minerals",
+        "digitalregistry_digital_service_accounts_0_tags_17": "ecosystems",
+        "digitalregistry_digital_service_accounts_0_tags_18": "Climate change",
+        "digitalregistry_digital_service_accounts_0_tags_19": "science",
+        "digitalregistry_digital_service_accounts_0_tags_2": "data",
+        "digitalregistry_digital_service_accounts_0_tags_20": "environment",
+        "digitalregistry_digital_service_accounts_0_tags_21": "Energy",
+        "digitalregistry_digital_service_accounts_0_tags_22": "water",
+        "digitalregistry_digital_service_accounts_0_tags_3": "news",
+        "digitalregistry_digital_service_accounts_0_tags_4": "volcanoes",
+        "digitalregistry_digital_service_accounts_0_tags_5": "tsunamis",
+        "digitalregistry_digital_service_accounts_0_tags_6": "landslides",
+        "digitalregistry_digital_service_accounts_0_tags_7": "floods",
+        "digitalregistry_digital_service_accounts_0_tags_8": "hurricanes",
+        "digitalregistry_digital_service_accounts_0_tags_9": "wildfires",
+        "digitalregistry_domain": "usgs.gov",
+        "digitalregistry_id": 2104,
+        "digitalregistry_name": "US Geological Survey",
+        "digitalregistry_url": "https://www.usgs.gov/",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] US Geological Survey (2104)",
+        "name": "[digitalregistry] US Geological Survey (2104)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] US Geological Survey (2104)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] US Geological Survey (2104)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "DOI",
+        "digitalregistry_cfo_act_agency": true,
+        "digitalregistry_digital_analytics_path": "",
+        "digitalregistry_digital_service_accounts_0_account": "Facebook",
+        "digitalregistry_digital_service_accounts_0_contacts_0_email": "everettel@usgs.gov",
+        "digitalregistry_digital_service_accounts_0_contacts_1_email": "shorvath@usgs.gov",
+        "digitalregistry_digital_service_accounts_0_language": "English",
+        "digitalregistry_digital_service_accounts_0_long_description": "",
+        "digitalregistry_digital_service_accounts_0_name": "USGS (Facebook)",
+        "digitalregistry_digital_service_accounts_0_service": "facebook",
+        "digitalregistry_digital_service_accounts_0_service_url": "http://facebook.com/USGeologicalSurvey",
+        "digitalregistry_digital_service_accounts_0_short_description": "",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags_0": "tools",
+        "digitalregistry_digital_service_accounts_0_tags_1": "technology",
+        "digitalregistry_digital_service_accounts_0_tags_10": "geology",
+        "digitalregistry_digital_service_accounts_0_tags_11": "Maps",
+        "digitalregistry_digital_service_accounts_0_tags_12": "geography",
+        "digitalregistry_digital_service_accounts_0_tags_13": "biology",
+        "digitalregistry_digital_service_accounts_0_tags_14": "earthquakes",
+        "digitalregistry_digital_service_accounts_0_tags_15": "natural hazards",
+        "digitalregistry_digital_service_accounts_0_tags_16": "minerals",
+        "digitalregistry_digital_service_accounts_0_tags_17": "ecosystems",
+        "digitalregistry_digital_service_accounts_0_tags_18": "Climate change",
+        "digitalregistry_digital_service_accounts_0_tags_19": "science",
+        "digitalregistry_digital_service_accounts_0_tags_2": "data",
+        "digitalregistry_digital_service_accounts_0_tags_20": "environment",
+        "digitalregistry_digital_service_accounts_0_tags_21": "Energy",
+        "digitalregistry_digital_service_accounts_0_tags_22": "water",
+        "digitalregistry_digital_service_accounts_0_tags_3": "news",
+        "digitalregistry_digital_service_accounts_0_tags_4": "volcanoes",
+        "digitalregistry_digital_service_accounts_0_tags_5": "tsunamis",
+        "digitalregistry_digital_service_accounts_0_tags_6": "landslides",
+        "digitalregistry_digital_service_accounts_0_tags_7": "floods",
+        "digitalregistry_digital_service_accounts_0_tags_8": "hurricanes",
+        "digitalregistry_digital_service_accounts_0_tags_9": "wildfires",
+        "digitalregistry_domain": "doi.gov",
+        "digitalregistry_id": 2135,
+        "digitalregistry_learning_agenda_url": "https://www.doi.gov/performance/evidence-doi",
+        "digitalregistry_mission_statement": "Protect and manage the Nation\u2019s natural resources and cultural heritage; provide scientific and other information about those resources; and honor its trust responsibilities or special commitments to American Indians, Alaska Natives, Native Hawaiians, and affiliated Island Communities.",
+        "digitalregistry_mission_statement_url": "https://www.doi.gov/",
+        "digitalregistry_name": "Department of the Interior",
+        "digitalregistry_performance_url": "https://www.doi.gov/performance/performance-reports",
+        "digitalregistry_strategic_plan_url": "https://www.doi.gov/performance/strategic-planning",
+        "digitalregistry_url": "https://www.doi.gov/",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] Department of the Interior (2135)",
+        "name": "[digitalregistry] Department of the Interior (2135)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] Department of the Interior (2135)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] Department of the Interior (2135)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "NOAA",
+        "digitalregistry_cfo_act_agency": false,
+        "digitalregistry_digital_analytics_path": "",
+        "digitalregistry_digital_service_accounts_0_account": "Facebook",
+        "digitalregistry_digital_service_accounts_0_contacts": "[]",
+        "digitalregistry_digital_service_accounts_0_language": "English",
+        "digitalregistry_digital_service_accounts_0_long_description": "The National Ocean Service (NOS) is on the front lines in understanding, predicting, and responding to the challenges facing our ocean and coasts. \r\n\r\nMore than half of the U.S. population lives in coastal areas, including the Great Lakes. Coastal areas contribute $7.9 trillion to the U.S. economy.\r\n\r\nTo keep coastal communities, economies, and environments safe, NOS is protecting and restoring coastal habitats, reducing impacts associated with coastal development and other uses, and protecting coastal water quality and quantity to prevent illness and sustain ecosystems. We are working to enhance coastal resiliency and reduce impacts from coastal hazards such as spills, storms, and climate change. Website: http://oceanservice.noaa.gov/ \r\n",
+        "digitalregistry_digital_service_accounts_0_name": "National Ocean Service",
+        "digitalregistry_digital_service_accounts_0_service": "facebook",
+        "digitalregistry_digital_service_accounts_0_service_url": "http://facebook.com/usoceangov",
+        "digitalregistry_digital_service_accounts_0_short_description": "NOAA's National Ocean Service is the nation's premier federal science agency for ocean and coasts. This is the official Facebook account of NOAA's National Ocean Service.",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags_0": "national marine sanctuaries",
+        "digitalregistry_digital_service_accounts_0_tags_1": "marine protected areas",
+        "digitalregistry_digital_service_accounts_0_tags_10": "environment",
+        "digitalregistry_digital_service_accounts_0_tags_2": "currents",
+        "digitalregistry_digital_service_accounts_0_tags_3": "tides",
+        "digitalregistry_digital_service_accounts_0_tags_4": "geodesy",
+        "digitalregistry_digital_service_accounts_0_tags_5": "coast",
+        "digitalregistry_digital_service_accounts_0_tags_6": "surveying",
+        "digitalregistry_digital_service_accounts_0_tags_7": "nautical charts",
+        "digitalregistry_digital_service_accounts_0_tags_8": "ocean",
+        "digitalregistry_digital_service_accounts_0_tags_9": "science",
+        "digitalregistry_domain": "noaa.gov",
+        "digitalregistry_id": 2166,
+        "digitalregistry_mission_statement": "",
+        "digitalregistry_name": "National Oceanic and Atmospheric Administration",
+        "digitalregistry_url": "https://www.noaa.gov/",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] National Oceanic and Atmospheric Administration (2166)",
+        "name": "[digitalregistry] National Oceanic and Atmospheric Administration (2166)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] National Oceanic and Atmospheric Administration (2166)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] National Oceanic and Atmospheric Administration (2166)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "OPM",
+        "digitalregistry_cfo_act_agency": true,
+        "digitalregistry_digital_analytics_path": "",
+        "digitalregistry_digital_service_accounts_0_account": "Facebook",
+        "digitalregistry_digital_service_accounts_0_contacts": "[]",
+        "digitalregistry_digital_service_accounts_0_language": "English",
+        "digitalregistry_digital_service_accounts_0_long_description": "",
+        "digitalregistry_digital_service_accounts_0_name": "Office of Personnel and Management",
+        "digitalregistry_digital_service_accounts_0_service": "facebook",
+        "digitalregistry_digital_service_accounts_0_service_url": "http://facebook.com/USOPM",
+        "digitalregistry_digital_service_accounts_0_short_description": "Facebook USOPM",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags": "[]",
+        "digitalregistry_domain": "opm.gov",
+        "digitalregistry_id": 2106,
+        "digitalregistry_learning_agenda_url": "https://www.opm.gov/about-us/strategic-plan/evidence-building/learning-agenda",
+        "digitalregistry_mission_statement": "We are champions of talent for the Federal Government. We lead Federal agencies in workforce policies, programs, and benefits in service to the American people.",
+        "digitalregistry_mission_statement_url": "https://www.opm.gov/",
+        "digitalregistry_name": "Office of Personnel Management ",
+        "digitalregistry_performance_url": "https://www.opm.gov/about-us/budget-performance/",
+        "digitalregistry_strategic_plan_url": "https://www.opm.gov/about-us/strategic-plan/",
+        "digitalregistry_url": "https://www.opm.gov/",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] Office of Personnel Management  (2106)",
+        "name": "[digitalregistry] Office of Personnel Management  (2106)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] Office of Personnel Management  (2106)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] Office of Personnel Management  (2106)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "FWS",
+        "digitalregistry_cfo_act_agency": false,
+        "digitalregistry_digital_service_accounts_0_account": "Facebook",
+        "digitalregistry_digital_service_accounts_0_contacts_0_email": "michael_dagostino@fws.gov",
+        "digitalregistry_digital_service_accounts_0_contacts_1_email": "rebecca_fabbri@fws.gov",
+        "digitalregistry_digital_service_accounts_0_language": "English",
+        "digitalregistry_digital_service_accounts_0_long_description": "",
+        "digitalregistry_digital_service_accounts_0_name": "USFWS Ash Meadows National Wildlife Refuge",
+        "digitalregistry_digital_service_accounts_0_service": "facebook",
+        "digitalregistry_digital_service_accounts_0_service_url": "https://facebook.com/AshMeadowsNWR",
+        "digitalregistry_digital_service_accounts_0_short_description": "Located in Nevada",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags": "[]",
+        "digitalregistry_domain": "fws.gov",
+        "digitalregistry_id": 2128,
+        "digitalregistry_name": "US Fish and Wildlife",
+        "digitalregistry_url": "https://fws.gov/",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] US Fish and Wildlife (2128)",
+        "name": "[digitalregistry] US Fish and Wildlife (2128)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] US Fish and Wildlife (2128)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] US Fish and Wildlife (2128)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "EPA",
+        "digitalregistry_cfo_act_agency": true,
+        "digitalregistry_digital_analytics_path": "",
+        "digitalregistry_digital_products_0_contacts_0_email": "widener.charles@epa.gov",
+        "digitalregistry_digital_products_0_language": "English",
+        "digitalregistry_digital_products_0_long_description": "<p>Note: To install the UV Index App on an Android device outside of Android's Google Play, you will need to enable Unknown Sources. On your Android phone, go to Settings and Application Settings and check the Unknown Sources checkbox. After the UV Index App is downloaded and installed, you may uncheck the Unknown Sources checkbox.</p><p>Use your mobile device to check the UV Index and air quality ratings wherever you are.</p>",
+        "digitalregistry_digital_products_0_short_description": "Practice sun safety; check the UV Index and air quality ratings wherever you are.",
+        "digitalregistry_digital_products_0_status": "published",
+        "digitalregistry_digital_products_0_tags": "[]",
+        "digitalregistry_digital_service_accounts": "[]",
+        "digitalregistry_domain": "epa.gov",
+        "digitalregistry_id": 2095,
+        "digitalregistry_learning_agenda_url": "https://www.epa.gov/evaluate",
+        "digitalregistry_mission_statement": "To Protect Human Health and the Environment",
+        "digitalregistry_mission_statement_url": "https://www.epa.gov/",
+        "digitalregistry_name": "Environmental Protection Agency",
+        "digitalregistry_performance_url": "https://www.epa.gov/planandbudget",
+        "digitalregistry_strategic_plan_url": "https://www.epa.gov/planandbudget/strategicplan",
+        "digitalregistry_url": "https://www.epa.gov/",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] Environmental Protection Agency (2095)",
+        "name": "[digitalregistry] Environmental Protection Agency (2095)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] Environmental Protection Agency (2095)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] Environmental Protection Agency (2095)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "LOC",
+        "digitalregistry_cfo_act_agency": false,
+        "digitalregistry_digital_analytics_path": "",
+        "digitalregistry_digital_products_0_contacts": "[]",
+        "digitalregistry_digital_products_0_language": "English",
+        "digitalregistry_digital_products_0_long_description": "<p>Read the daily edition of the Congressional Record on your iPad, iPhone or iTouch. The Congressional Record App is presented by the Library of Congress using data provided by the Office of the Clerk of the U.S. House of Representatives, the Office of the Secretary of the Senate, and the Government Printing Office.</p><p>With this app you can:</p><ul><li>Browse editions of the Congressional Record by date: January 4, 1995 (the 104th Congress, 1st Session) to the present</li><li>Copy text within documents</li><li>Perform keyword searches within individual documents or sections within documents</li><li>Share documents via email</li><li>Save documents to your preferred PDF reader</li><li>Identify the latest bills and resolutions considered daily on the floor of the U.S. House of Representatives</li><li>Identify the latest bills, resolutions, treaties, and nominations considered daily on the floor of the U.S. Senate</li></ul><p>The Congressional Record contains the debates, proceedings, and activities of the Congress of the United States. The Congressional Record is published in four parts: House of Representatives, Senate, Extension of Remarks, and Daily Digest. The Daily Digest provides a summary of the day\u2019s activities.</p></div>",
+        "digitalregistry_digital_products_0_short_description": "Read the daily edition of the Congressional Record on your iPad.",
+        "digitalregistry_digital_products_0_status": "published",
+        "digitalregistry_digital_products_0_tags": "[]",
+        "digitalregistry_digital_service_accounts": "[]",
+        "digitalregistry_domain": "loc.gov",
+        "digitalregistry_id": 2169,
+        "digitalregistry_mission_statement": "",
+        "digitalregistry_name": "Library of Congress",
+        "digitalregistry_url": "https://loc.gov/",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] Library of Congress (2169)",
+        "name": "[digitalregistry] Library of Congress (2169)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] Library of Congress (2169)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] Library of Congress (2169)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "NIH",
+        "digitalregistry_cfo_act_agency": false,
+        "digitalregistry_digital_service_accounts_0_account": "Facebook",
+        "digitalregistry_digital_service_accounts_0_contacts": "[]",
+        "digitalregistry_digital_service_accounts_0_language": "Spanish",
+        "digitalregistry_digital_service_accounts_0_long_description": "\u00a1Bienvenidos a la cuenta oficial del NCI! El Instituto Nacional del C\u00e1ncer (NCI) es la agencia federal de los Estados Unidos dedicada a la investigaci\u00f3n del c\u00e1ncer. Con\u00e9ctese aqu\u00ed, llame al 1-800-422-6237 o visite www.cancer.gov/espanol. For questions about this account, please contact Meghan Alleyne or Carolina Spencer. For overall questions about NCI social media, please contact Jennifer Dorsey. For emergencies related to this account, please contact Meghan Alleyne, Carolina Spencer or Jennifer Dorsey.",
+        "digitalregistry_digital_service_accounts_0_name": "Instituto Nacional del C\u00e1ncer",
+        "digitalregistry_digital_service_accounts_0_service": "facebook",
+        "digitalregistry_digital_service_accounts_0_service_url": "http://facebook.com/cancer.govEspanol",
+        "digitalregistry_digital_service_accounts_0_short_description": "El Instituto Nacional del C\u00e1ncer (NCI) es la agencia federal de los Estados Unidos dedicada a la investigaci\u00f3n del c\u00e1ncer.",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags_0": "cancer",
+        "digitalregistry_digital_service_accounts_0_tags_1": "research",
+        "digitalregistry_domain": "nih.gov",
+        "digitalregistry_id": 2142,
+        "digitalregistry_name": "National Institutes of Health",
+        "digitalregistry_url": "https://www.nih.gov/",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] National Institutes of Health (2142)",
+        "name": "[digitalregistry] National Institutes of Health (2142)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] National Institutes of Health (2142)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] National Institutes of Health (2142)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "DOE",
+        "digitalregistry_cfo_act_agency": true,
+        "digitalregistry_digital_analytics_path": "",
+        "digitalregistry_digital_service_accounts_0_account": "Facebook",
+        "digitalregistry_digital_service_accounts_0_contacts": "[]",
+        "digitalregistry_digital_service_accounts_0_language": "English",
+        "digitalregistry_digital_service_accounts_0_name": "Office of Energy Efficiency and Renewable Energy",
+        "digitalregistry_digital_service_accounts_0_service": "facebook",
+        "digitalregistry_digital_service_accounts_0_service_url": "http://facebook.com/eeregov",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags": "[]",
+        "digitalregistry_domain": "doe.gov",
+        "digitalregistry_id": 2110,
+        "digitalregistry_learning_agenda_url": "https://www.evaluation.gov/agencies/department-of-energy/",
+        "digitalregistry_mission_statement": "",
+        "digitalregistry_mission_statement_url": "https://www.energy.gov/",
+        "digitalregistry_name": "Department of Energy",
+        "digitalregistry_performance_url": "https://www.energy.gov/budget-performance",
+        "digitalregistry_strategic_plan_url": "https://www.energy.gov/budget-performance",
+        "digitalregistry_url": "https://www.energy.gov/",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] Department of Energy (2110)",
+        "name": "[digitalregistry] Department of Energy (2110)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] Department of Energy (2110)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] Department of Energy (2110)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "FERC",
+        "digitalregistry_cfo_act_agency": false,
+        "digitalregistry_digital_analytics_path": "",
+        "digitalregistry_digital_service_accounts_0_account": "Twitter",
+        "digitalregistry_digital_service_accounts_0_contacts": "[]",
+        "digitalregistry_digital_service_accounts_0_language": "English",
+        "digitalregistry_digital_service_accounts_0_long_description": "",
+        "digitalregistry_digital_service_accounts_0_name": "Federal Energy Regulatory Commission",
+        "digitalregistry_digital_service_accounts_0_service": "twitter",
+        "digitalregistry_digital_service_accounts_0_service_url": "http://twitter.com/ferc",
+        "digitalregistry_digital_service_accounts_0_short_description": "",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags": "[]",
+        "digitalregistry_domain": "ferc.gov",
+        "digitalregistry_id": 2153,
+        "digitalregistry_name": "Federal Energy Regulatory Commission",
+        "digitalregistry_url": "https://ferc.gov/",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] Federal Energy Regulatory Commission (2153)",
+        "name": "[digitalregistry] Federal Energy Regulatory Commission (2153)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] Federal Energy Regulatory Commission (2153)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] Federal Energy Regulatory Commission (2153)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "AMERICORPS",
+        "digitalregistry_cfo_act_agency": false,
+        "digitalregistry_digital_analytics_path": "",
+        "digitalregistry_digital_service_accounts_0_account": "Youtube",
+        "digitalregistry_digital_service_accounts_0_contacts": "[]",
+        "digitalregistry_digital_service_accounts_0_language": "English",
+        "digitalregistry_digital_service_accounts_0_long_description": "AmeriCorps, a federal agency, brings people together to tackle the country\u2019s most pressing challenges, through national service and volunteering.  AmeriCorps members and AmeriCorps Seniors volunteers serve with organizations dedicated to the improvement of communities.  AmeriCorps helps make service to others a cornerstone of our national culture.  Learn more at AmeriCorps.gov.",
+        "digitalregistry_digital_service_accounts_0_name": "AmeriCorps",
+        "digitalregistry_digital_service_accounts_0_service": "youtube",
+        "digitalregistry_digital_service_accounts_0_service_url": "http://youtube.com/nationalservice",
+        "digitalregistry_digital_service_accounts_0_short_description": "AmeriCorps, a federal agency, brings people together to tackle the country\u2019s most pressing challenges, through national service and volunteering. ",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags": "[]",
+        "digitalregistry_domain": "americorps.gov",
+        "digitalregistry_id": 2175,
+        "digitalregistry_mission_statement": "",
+        "digitalregistry_name": "Corporation for National and Community Service",
+        "digitalregistry_url": "https://americorps.gov/",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] Corporation for National and Community Service (2175)",
+        "name": "[digitalregistry] Corporation for National and Community Service (2175)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] Corporation for National and Community Service (2175)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] Corporation for National and Community Service (2175)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "FRB",
+        "digitalregistry_cfo_act_agency": false,
+        "digitalregistry_digital_analytics_path": "",
+        "digitalregistry_digital_products": "[]",
+        "digitalregistry_digital_service_accounts_0_account": "Youtube",
+        "digitalregistry_digital_service_accounts_0_contacts_0_email": "laura.milner@frb.gov",
+        "digitalregistry_digital_service_accounts_0_language": "English",
+        "digitalregistry_digital_service_accounts_0_long_description": "",
+        "digitalregistry_digital_service_accounts_0_name": "Federal Reserve",
+        "digitalregistry_digital_service_accounts_0_service": "youtube",
+        "digitalregistry_digital_service_accounts_0_service_url": "http://youtube.com/FedReserveBoard",
+        "digitalregistry_digital_service_accounts_0_short_description": "",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags": "[]",
+        "digitalregistry_domain": "frb.gov",
+        "digitalregistry_id": 2271,
+        "digitalregistry_mission_statement": "",
+        "digitalregistry_name": "Federal Reserve Board",
+        "digitalregistry_url": "https://www.federalreserve.gov/",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] Federal Reserve Board (2271)",
+        "name": "[digitalregistry] Federal Reserve Board (2271)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] Federal Reserve Board (2271)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] Federal Reserve Board (2271)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "FEDRESERVE",
+        "digitalregistry_cfo_act_agency": false,
+        "digitalregistry_digital_analytics_path": "",
+        "digitalregistry_digital_service_accounts_0_account": "Youtube",
+        "digitalregistry_digital_service_accounts_0_contacts_0_email": "laura.milner@frb.gov",
+        "digitalregistry_digital_service_accounts_0_language": "English",
+        "digitalregistry_digital_service_accounts_0_long_description": "",
+        "digitalregistry_digital_service_accounts_0_name": "Federal Reserve",
+        "digitalregistry_digital_service_accounts_0_service": "youtube",
+        "digitalregistry_digital_service_accounts_0_service_url": "http://youtube.com/FedReserveBoard",
+        "digitalregistry_digital_service_accounts_0_short_description": "",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags": "[]",
+        "digitalregistry_domain": "federalreserve.gov",
+        "digitalregistry_id": 2256,
+        "digitalregistry_mission_statement": "",
+        "digitalregistry_name": "Board of Governors of the Federal Reserve System",
+        "digitalregistry_url": "https://www.federalreserve.gov/",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] Board of Governors of the Federal Reserve System (2256)",
+        "name": "[digitalregistry] Board of Governors of the Federal Reserve System (2256)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] Board of Governors of the Federal Reserve System (2256)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] Board of Governors of the Federal Reserve System (2256)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "HRSA",
+        "digitalregistry_cfo_act_agency": false,
+        "digitalregistry_digital_analytics_path": "",
+        "digitalregistry_digital_service_accounts_0_account": "Youtube",
+        "digitalregistry_digital_service_accounts_0_contacts_0_email": "ocsocialmedia@hrsa.gov",
+        "digitalregistry_digital_service_accounts_0_language": "English",
+        "digitalregistry_digital_service_accounts_0_long_description": "",
+        "digitalregistry_digital_service_accounts_0_name": "HRSATube",
+        "digitalregistry_digital_service_accounts_0_service": "youtube",
+        "digitalregistry_digital_service_accounts_0_service_url": "http://youtube.com/hrsatube",
+        "digitalregistry_digital_service_accounts_0_short_description": "Official Youtube channel for HRSA",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags": "[]",
+        "digitalregistry_domain": "hrsa.gov",
+        "digitalregistry_id": 2108,
+        "digitalregistry_mission_statement": "",
+        "digitalregistry_name": "Health Resources & Services Administration",
+        "digitalregistry_url": "https://www.hrsa.gov/",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] Health Resources & Services Administration (2108)",
+        "name": "[digitalregistry] Health Resources & Services Administration (2108)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] Health Resources & Services Administration (2108)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] Health Resources & Services Administration (2108)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "DOS",
+        "digitalregistry_cfo_act_agency": true,
+        "digitalregistry_digital_analytics_path": "",
+        "digitalregistry_digital_service_accounts_0_account": "Instagram",
+        "digitalregistry_digital_service_accounts_0_contacts": "[]",
+        "digitalregistry_digital_service_accounts_0_language": "English",
+        "digitalregistry_digital_service_accounts_0_long_description": "",
+        "digitalregistry_digital_service_accounts_0_name": "U.S. Department of State",
+        "digitalregistry_digital_service_accounts_0_service": "instagram",
+        "digitalregistry_digital_service_accounts_0_service_url": "https://www.instagram.com/statedept/",
+        "digitalregistry_digital_service_accounts_0_short_description": "",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags": "[]",
+        "digitalregistry_domain": "state.gov",
+        "digitalregistry_id": 2130,
+        "digitalregistry_learning_agenda_url": "https://www.evaluation.gov/agencies/department-of-state/",
+        "digitalregistry_mission_statement": "To protect and promote U.S. security, prosperity, and democratic values and shape an international environment in which all Americans can thrive.",
+        "digitalregistry_mission_statement_url": "https://www.state.gov/",
+        "digitalregistry_name": "Department of State",
+        "digitalregistry_performance_url": "https://www.state.gov/plans-performance-budget/performance-plans-and-reports/",
+        "digitalregistry_strategic_plan_url": "https://www.state.gov/joint-strategic-plan/",
+        "digitalregistry_url": "https://www.state.gov",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] Department of State (2130)",
+        "name": "[digitalregistry] Department of State (2130)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] Department of State (2130)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] Department of State (2130)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "CPSC",
+        "digitalregistry_cfo_act_agency": false,
+        "digitalregistry_digital_analytics_path": "",
+        "digitalregistry_digital_service_accounts_0_account": "Flickr",
+        "digitalregistry_digital_service_accounts_0_contacts_0_email": "jgalbo@cpsc.gov",
+        "digitalregistry_digital_service_accounts_0_language": "English",
+        "digitalregistry_digital_service_accounts_0_long_description": "",
+        "digitalregistry_digital_service_accounts_0_name": "Consumer Product Safety Commission",
+        "digitalregistry_digital_service_accounts_0_service": "flickr",
+        "digitalregistry_digital_service_accounts_0_service_url": "http://flickr.com/photos/uscpsc",
+        "digitalregistry_digital_service_accounts_0_short_description": "Official Flickr account of the Consumer Product Safety Commission",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags": "[]",
+        "digitalregistry_domain": "cpsc.gov",
+        "digitalregistry_id": 2195,
+        "digitalregistry_mission_statement": "",
+        "digitalregistry_name": "Consumer Product Safety Commission",
+        "digitalregistry_url": "https://www.cpsc.gov/",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] Consumer Product Safety Commission (2195)",
+        "name": "[digitalregistry] Consumer Product Safety Commission (2195)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] Consumer Product Safety Commission (2195)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] Consumer Product Safety Commission (2195)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "FTC",
+        "digitalregistry_cfo_act_agency": false,
+        "digitalregistry_digital_analytics_path": "",
+        "digitalregistry_digital_service_accounts_0_account": "Twitter",
+        "digitalregistry_digital_service_accounts_0_contacts": "[]",
+        "digitalregistry_digital_service_accounts_0_language": "English",
+        "digitalregistry_digital_service_accounts_0_long_description": "",
+        "digitalregistry_digital_service_accounts_0_name": "FTC Chief Technologist",
+        "digitalregistry_digital_service_accounts_0_service": "twitter",
+        "digitalregistry_digital_service_accounts_0_service_url": "http://twitter.com/techFTC",
+        "digitalregistry_digital_service_accounts_0_short_description": "FTC's technology Twitter page managed by agency's Chief Technologist (currently vacant)",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags": "[]",
+        "digitalregistry_domain": "ftc.gov",
+        "digitalregistry_id": 2205,
+        "digitalregistry_mission_statement": "",
+        "digitalregistry_name": "Federal Trade Commission",
+        "digitalregistry_url": "https://www.ftc.gov/",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] Federal Trade Commission (2205)",
+        "name": "[digitalregistry] Federal Trade Commission (2205)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] Federal Trade Commission (2205)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] Federal Trade Commission (2205)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "AOC",
+        "digitalregistry_cfo_act_agency": false,
+        "digitalregistry_digital_analytics_path": "",
+        "digitalregistry_digital_service_accounts_0_account": "Flickr",
+        "digitalregistry_digital_service_accounts_0_contacts": "[]",
+        "digitalregistry_digital_service_accounts_0_language": "English",
+        "digitalregistry_digital_service_accounts_0_long_description": "Serving Congress and the Supreme Court, the Architect of the Capitol (AOC) is the builder and steward of the landmark buildings and grounds of Capitol Hill. The AOC staff preserves and maintains the historic buildings, monuments, art and inspirational gardens on the Capitol campus. Recognizing the trust placed in us by Congress and the American people, the AOC team is committed to providing a safe environment and inspiring experiences for all who work and visit the symbol of American democracy.",
+        "digitalregistry_digital_service_accounts_0_name": "Architect of the Capitol",
+        "digitalregistry_digital_service_accounts_0_service": "flickr",
+        "digitalregistry_digital_service_accounts_0_service_url": "http://flickr.com/photos/uscapitol",
+        "digitalregistry_digital_service_accounts_0_short_description": "Serve | Preserve | Inspire \u2014 Stewards of the iconic buildings and grounds of Capitol Hill since 1793.",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags_0": "legislative branch",
+        "digitalregistry_digital_service_accounts_0_tags_1": "Capitol",
+        "digitalregistry_domain": "aoc.gov",
+        "digitalregistry_id": 2249,
+        "digitalregistry_mission_statement": "",
+        "digitalregistry_name": "Architect of the Capitol",
+        "digitalregistry_url": "https://www.aoc.gov/",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] Architect of the Capitol (2249)",
+        "name": "[digitalregistry] Architect of the Capitol (2249)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] Architect of the Capitol (2249)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] Architect of the Capitol (2249)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "DOD",
+        "digitalregistry_cfo_act_agency": true,
+        "digitalregistry_digital_analytics_path": "",
+        "digitalregistry_digital_service_accounts_0_account": "Facebook",
+        "digitalregistry_digital_service_accounts_0_contacts": "[]",
+        "digitalregistry_digital_service_accounts_0_language": "English",
+        "digitalregistry_digital_service_accounts_0_long_description": "National Museum of Health and Medicine. (Official page.) Department of Defense museum since 1862. Past/present/future of the history of American military medicine.",
+        "digitalregistry_digital_service_accounts_0_name": "National Museum of Health and Medicine",
+        "digitalregistry_digital_service_accounts_0_service": "facebook",
+        "digitalregistry_digital_service_accounts_0_service_url": "http://facebook.com/medicalmuseum",
+        "digitalregistry_digital_service_accounts_0_short_description": "National Museum of Health and Medicine. (Official page.) DoD museum since 1862. Hist. of Amer. medicine/Amer. military medicine.",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags_0": "historic",
+        "digitalregistry_digital_service_accounts_0_tags_1": "medicine",
+        "digitalregistry_digital_service_accounts_0_tags_2": "military",
+        "digitalregistry_digital_service_accounts_0_tags_3": "history",
+        "digitalregistry_digital_service_accounts_0_tags_4": "medical",
+        "digitalregistry_domain": "mail.mil",
+        "digitalregistry_id": 2127,
+        "digitalregistry_learning_agenda_url": "https://www.evaluation.gov/agencies/department-of-defense/",
+        "digitalregistry_mission_statement": "Provide the military forces needed to deter war and ensure our nation's security.",
+        "digitalregistry_mission_statement_url": "https://www.defense.gov/",
+        "digitalregistry_name": "Department of Defense",
+        "digitalregistry_performance_url": "https://dam.defense.gov/Performance/",
+        "digitalregistry_strategic_plan_url": "https://dam.defense.gov/Portals/47/Documents/DoD_Strategic_Management_Plan_FY22-26.pdf",
+        "digitalregistry_url": "https://www.defense.gov/",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] Department of Defense (2127)",
+        "name": "[digitalregistry] Department of Defense (2127)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] Department of Defense (2127)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] Department of Defense (2127)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "USAID",
+        "digitalregistry_cfo_act_agency": true,
+        "digitalregistry_digital_analytics_path": "",
+        "digitalregistry_digital_service_accounts_0_account": "Twitter",
+        "digitalregistry_digital_service_accounts_0_contacts_0_email": "gyour@usaid.gov",
+        "digitalregistry_digital_service_accounts_0_language": "English",
+        "digitalregistry_digital_service_accounts_0_long_description": "USAID\u2019s Bureau for Humanitarian Assistance (BHA) leads and coordinates the U.S. Government\u2019s humanitarian assistance efforts overseas. Helping people affected by disasters is at the core of what BHA does every day, all over the world. The Bureau responds to an average of 75 disasters in more than 70 countries every year, ensuring that aid reaches people affected by natural disasters, including hurricanes, earthquakes, and volcanoes, as well as protracted crises, such as drought and conflict. We also support food insecure refugees fleeing war, violence, or persecution.",
+        "digitalregistry_digital_service_accounts_0_name": "USAID's Bureau for Humanitarian Assistance  ",
+        "digitalregistry_digital_service_accounts_0_service": "twitter",
+        "digitalregistry_digital_service_accounts_0_service_url": "http://twitter.com/@USAIDSavesLives",
+        "digitalregistry_digital_service_accounts_0_short_description": "USAID's Bureau for Humanitarian Assistance saves lives on behalf of the American people.",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags_0": "humanitarian",
+        "digitalregistry_digital_service_accounts_0_tags_1": "disasters",
+        "digitalregistry_domain": "usaid.gov",
+        "digitalregistry_id": 2148,
+        "digitalregistry_learning_agenda_url": "https://www.evaluation.gov/agencies/agency-for-international-development/",
+        "digitalregistry_mission_statement": "We work to build a freer, more equitable and more humane world by amplifying local voices, advancing sustainable progress, and tackling the world's toughest problems. ",
+        "digitalregistry_mission_statement_url": "https://www.usaid.gov/",
+        "digitalregistry_name": "United States Agency for International Development",
+        "digitalregistry_performance_url": "https://www.usaid.gov/results-and-data/progress-data/annual-performance-report",
+        "digitalregistry_strategic_plan_url": "https://www.usaid.gov/results-and-data/planning",
+        "digitalregistry_url": "https://www.usaid.gov/",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] United States Agency for International Development (2148)",
+        "name": "[digitalregistry] United States Agency for International Development (2148)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] United States Agency for International Development (2148)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] United States Agency for International Development (2148)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "FDA",
+        "digitalregistry_cfo_act_agency": false,
+        "digitalregistry_digital_analytics_path": "",
+        "digitalregistry_digital_service_accounts_0_account": "Twitter",
+        "digitalregistry_digital_service_accounts_0_contacts": "[]",
+        "digitalregistry_digital_service_accounts_0_language": "Spanish",
+        "digitalregistry_digital_service_accounts_0_long_description": "Encuentra las \u00faltimas noticias de la Administraci\u00f3n de Alimentos y Medicamentos de los E.U. ",
+        "digitalregistry_digital_service_accounts_0_name": "FDA en Espa\u00f1ol",
+        "digitalregistry_digital_service_accounts_0_service": "twitter",
+        "digitalregistry_digital_service_accounts_0_service_url": "http://twitter.com/FDAenEspanol",
+        "digitalregistry_digital_service_accounts_0_short_description": "Encuentra las \u00faltimas noticias de la Administraci\u00f3n de Alimentos y Medicamentos de los E.U. ",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags_0": "espanol",
+        "digitalregistry_digital_service_accounts_0_tags_1": "tabaco",
+        "digitalregistry_digital_service_accounts_0_tags_10": "Food Safet",
+        "digitalregistry_digital_service_accounts_0_tags_11": "food safety",
+        "digitalregistry_digital_service_accounts_0_tags_2": "apratos medicos",
+        "digitalregistry_digital_service_accounts_0_tags_3": "cosmeticos",
+        "digitalregistry_digital_service_accounts_0_tags_4": "medicamentos",
+        "digitalregistry_digital_service_accounts_0_tags_5": "alimentos",
+        "digitalregistry_digital_service_accounts_0_tags_6": "health fraud",
+        "digitalregistry_digital_service_accounts_0_tags_7": "medical devices",
+        "digitalregistry_digital_service_accounts_0_tags_8": "cosmetics",
+        "digitalregistry_digital_service_accounts_0_tags_9": "drugs",
+        "digitalregistry_domain": "fda.gov",
+        "digitalregistry_id": 2273,
+        "digitalregistry_mission_statement": "",
+        "digitalregistry_name": "Food and Drug Administration",
+        "digitalregistry_url": "https://www.fda.gov/",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] Food and Drug Administration (2273)",
+        "name": "[digitalregistry] Food and Drug Administration (2273)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] Food and Drug Administration (2273)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] Food and Drug Administration (2273)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "NPS",
+        "digitalregistry_cfo_act_agency": false,
+        "digitalregistry_digital_service_accounts_0_account": "Facebook",
+        "digitalregistry_digital_service_accounts_0_contacts_0_email": "alex_lindeman@nps.gov",
+        "digitalregistry_digital_service_accounts_0_language": "English",
+        "digitalregistry_digital_service_accounts_0_long_description": "Facebook page for Denali National Park and Preserve",
+        "digitalregistry_digital_service_accounts_0_name": "Denali National Park",
+        "digitalregistry_digital_service_accounts_0_service": "facebook",
+        "digitalregistry_digital_service_accounts_0_service_url": "http://facebook.com/denalinps",
+        "digitalregistry_digital_service_accounts_0_short_description": "Facebook page for Denali National Park and Preserve",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags_0": "mount mckinley",
+        "digitalregistry_digital_service_accounts_0_tags_1": "denali",
+        "digitalregistry_digital_service_accounts_0_tags_2": "alaska",
+        "digitalregistry_digital_service_accounts_0_tags_3": "wildlife",
+        "digitalregistry_domain": "nps.gov",
+        "digitalregistry_id": 2141,
+        "digitalregistry_name": "National Park Service",
+        "digitalregistry_url": "https://www.nps.gov/index.htm",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] National Park Service (2141)",
+        "name": "[digitalregistry] National Park Service (2141)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] National Park Service (2141)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] National Park Service (2141)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "GPO",
+        "digitalregistry_cfo_act_agency": false,
+        "digitalregistry_digital_analytics_path": "",
+        "digitalregistry_digital_service_accounts_0_account": "Pinterest",
+        "digitalregistry_digital_service_accounts_0_contacts_0_email": "cgoergen@gpo.gov",
+        "digitalregistry_digital_service_accounts_0_language": "English",
+        "digitalregistry_digital_service_accounts_0_long_description": "",
+        "digitalregistry_digital_service_accounts_0_name": "U.S. Government Publishing Office Pinterest",
+        "digitalregistry_digital_service_accounts_0_service": "pinterest",
+        "digitalregistry_digital_service_accounts_0_service_url": "https://www.pinterest.com/usgpo/",
+        "digitalregistry_digital_service_accounts_0_short_description": "The Pinterest Page for the U.S. Government Publishing Office",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags_0": "secure",
+        "digitalregistry_digital_service_accounts_0_tags_1": "official",
+        "digitalregistry_digital_service_accounts_0_tags_10": "digital",
+        "digitalregistry_digital_service_accounts_0_tags_2": "eBooks",
+        "digitalregistry_digital_service_accounts_0_tags_3": "government publications",
+        "digitalregistry_digital_service_accounts_0_tags_4": "U.S. Passport",
+        "digitalregistry_digital_service_accounts_0_tags_5": "FDsys",
+        "digitalregistry_digital_service_accounts_0_tags_6": "Federal Digital System",
+        "digitalregistry_digital_service_accounts_0_tags_7": "gpo",
+        "digitalregistry_digital_service_accounts_0_tags_8": "Government Printing Office",
+        "digitalregistry_digital_service_accounts_0_tags_9": "apps",
+        "digitalregistry_domain": "gpo.gov",
+        "digitalregistry_id": 2267,
+        "digitalregistry_mission_statement": "",
+        "digitalregistry_name": "U.S. Government Publishing Office",
+        "digitalregistry_url": "https://www.gpo.gov/",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Government Publishing Office (2267)",
+        "name": "[digitalregistry] U.S. Government Publishing Office (2267)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Government Publishing Office (2267)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Government Publishing Office (2267)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "NNSA",
+        "digitalregistry_cfo_act_agency": false,
+        "digitalregistry_digital_analytics_path": "",
+        "digitalregistry_digital_service_accounts_0_account": "Twitter",
+        "digitalregistry_digital_service_accounts_0_contacts": "[]",
+        "digitalregistry_digital_service_accounts_0_language": "English",
+        "digitalregistry_digital_service_accounts_0_long_description": "",
+        "digitalregistry_digital_service_accounts_0_name": "Sandia National Laboratories",
+        "digitalregistry_digital_service_accounts_0_service": "twitter",
+        "digitalregistry_digital_service_accounts_0_service_url": "http://twitter.com/SandiaLabs",
+        "digitalregistry_digital_service_accounts_0_short_description": "U.S. Energy labs dedicated to securing a peaceful and free world through science and technology. This is the official account for Sandia National Labs.",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags_0": "nonproliferation",
+        "digitalregistry_digital_service_accounts_0_tags_1": "National security",
+        "digitalregistry_digital_service_accounts_0_tags_2": "security",
+        "digitalregistry_digital_service_accounts_0_tags_3": "nuclear",
+        "digitalregistry_digital_service_accounts_0_tags_4": "engineering",
+        "digitalregistry_digital_service_accounts_0_tags_5": "defense",
+        "digitalregistry_digital_service_accounts_0_tags_6": "technology",
+        "digitalregistry_digital_service_accounts_0_tags_7": "innovation",
+        "digitalregistry_digital_service_accounts_0_tags_8": "science",
+        "digitalregistry_digital_service_accounts_0_tags_9": "Energy",
+        "digitalregistry_domain": "nnsa.gov",
+        "digitalregistry_id": 2272,
+        "digitalregistry_mission_statement": "",
+        "digitalregistry_name": "National Nuclear Security Administration",
+        "digitalregistry_url": "https://www.energy.gov/nnsa/national-nuclear-security-administration",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] National Nuclear Security Administration (2272)",
+        "name": "[digitalregistry] National Nuclear Security Administration (2272)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] National Nuclear Security Administration (2272)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] National Nuclear Security Administration (2272)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "USAF",
+        "digitalregistry_cfo_act_agency": false,
+        "digitalregistry_digital_service_accounts_0_account": "Facebook",
+        "digitalregistry_digital_service_accounts_0_contacts": "[]",
+        "digitalregistry_digital_service_accounts_0_language": "English",
+        "digitalregistry_digital_service_accounts_0_long_description": "",
+        "digitalregistry_digital_service_accounts_0_name": "Civil Air Patrol National Capital Wing",
+        "digitalregistry_digital_service_accounts_0_service": "facebook",
+        "digitalregistry_digital_service_accounts_0_service_url": "http://facebook.com/NatCapWing",
+        "digitalregistry_digital_service_accounts_0_short_description": "",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags": "[]",
+        "digitalregistry_domain": "af.mil",
+        "digitalregistry_id": 2117,
+        "digitalregistry_name": "United States Air Force",
+        "digitalregistry_url": "https://www.af.mil/",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] United States Air Force (2117)",
+        "name": "[digitalregistry] United States Air Force (2117)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] United States Air Force (2117)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] United States Air Force (2117)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "ARMY",
+        "digitalregistry_cfo_act_agency": false,
+        "digitalregistry_digital_products_0_contacts": "[]",
+        "digitalregistry_digital_products_0_language": "English",
+        "digitalregistry_digital_products_0_long_description": "The Army Housing Online User Services (AHOUS) IPhone App allows for Servicemembers & Families a single point of entry for all their housing needs.  ",
+        "digitalregistry_digital_products_0_short_description": "Army Housing IPhone App",
+        "digitalregistry_digital_products_0_status": "published",
+        "digitalregistry_digital_products_0_tags": "[]",
+        "digitalregistry_digital_service_accounts": "[]",
+        "digitalregistry_domain": "army.mil",
+        "digitalregistry_id": 2126,
+        "digitalregistry_name": "U.S. Army",
+        "digitalregistry_url": "https://www.army.mil/",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Army (2126)",
+        "name": "[digitalregistry] U.S. Army (2126)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Army (2126)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Army (2126)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "VA",
+        "digitalregistry_cfo_act_agency": true,
+        "digitalregistry_digital_analytics_path": "",
+        "digitalregistry_digital_service_accounts_0_account": "Twitter",
+        "digitalregistry_digital_service_accounts_0_contacts": "[]",
+        "digitalregistry_digital_service_accounts_0_language": "English",
+        "digitalregistry_digital_service_accounts_0_long_description": "The mission of the Rocky Mountain MIRECC (Mental Illness Research, Education and Clinical Center) for Suicide Prevention is to study suicide with the goal of reducing suicidal ideation and behaviors in the Veteran population. Towards this end, the work of the Rocky Mountain MIRECC is focused on promising clinical and public health interventions, as well as the cognitive and neurobiological underpinnings of suicidal thoughts and behaviors that may lead to innovative prevention strategies. The vision of the Rocky Mountain MIRECC is: Veterans, their families, and the VHA will have increased information and options to make health decisions aimed at decreasing suicide risk.",
+        "digitalregistry_digital_service_accounts_0_name": "@RMIRECC",
+        "digitalregistry_digital_service_accounts_0_service": "twitter",
+        "digitalregistry_digital_service_accounts_0_service_url": "http://twitter.com/rmirecc",
+        "digitalregistry_digital_service_accounts_0_short_description": "The mission of the Rocky Mountain MIRECC (Mental Illness Research, Education and Clinical Center) for Suicide Prevention is to study suicide with the goal of reducing suicidal ideation and behaviors in the Veteran population.",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags": "[]",
+        "digitalregistry_domain": "va.gov",
+        "digitalregistry_id": 2129,
+        "digitalregistry_learning_agenda_url": "https://www.va.gov/performance/",
+        "digitalregistry_mission_statement": "To fulfill President Lincoln's promise, \u201cTo care for him who shall have borne the battle and for his widow and his orphan\u201d. ",
+        "digitalregistry_mission_statement_url": "https://www.va.gov/",
+        "digitalregistry_name": "Department of Veterans Affairs",
+        "digitalregistry_performance_url": "https://www.va.gov/performance/",
+        "digitalregistry_strategic_plan_url": "https://www.va.gov/performance/",
+        "digitalregistry_url": "https://va.gov",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] Department of Veterans Affairs (2129)",
+        "name": "[digitalregistry] Department of Veterans Affairs (2129)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] Department of Veterans Affairs (2129)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] Department of Veterans Affairs (2129)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "USBR",
+        "digitalregistry_cfo_act_agency": false,
+        "digitalregistry_digital_analytics_path": "",
+        "digitalregistry_digital_service_accounts_0_account": "Facebook",
+        "digitalregistry_digital_service_accounts_0_contacts_0_email": "dnagle@usbr.gov",
+        "digitalregistry_digital_service_accounts_0_language": "English",
+        "digitalregistry_digital_service_accounts_0_long_description": "Delivering reliable water supplies for agriculture, renewable hydropower and municipal needs in an environmentally and economically sound manner.",
+        "digitalregistry_digital_service_accounts_0_name": "Bureau of Reclamation",
+        "digitalregistry_digital_service_accounts_0_service": "facebook",
+        "digitalregistry_digital_service_accounts_0_service_url": "https://www.facebook.com/bureau.of.reclamation/",
+        "digitalregistry_digital_service_accounts_0_short_description": "Bureau of Reclamation",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags": "[]",
+        "digitalregistry_domain": "usbr.gov",
+        "digitalregistry_id": 2157,
+        "digitalregistry_name": "U.S. Bureau of Reclamation",
+        "digitalregistry_url": "https://www.usbr.gov/",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Bureau of Reclamation (2157)",
+        "name": "[digitalregistry] U.S. Bureau of Reclamation (2157)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Bureau of Reclamation (2157)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Bureau of Reclamation (2157)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "USAGM",
+        "digitalregistry_cfo_act_agency": false,
+        "digitalregistry_digital_analytics_path": "",
+        "digitalregistry_digital_service_accounts_0_account": "Facebook",
+        "digitalregistry_digital_service_accounts_0_contacts_0_email": "mcoimbra@usagm.gov",
+        "digitalregistry_digital_service_accounts_0_language": "English",
+        "digitalregistry_digital_service_accounts_0_long_description": "Voice of America is an international news network that is part of the U.S. government, broadcasting in 44 languages to audiences around the world. This is the official Facebook page for the English news service of VOA. \r\nWebsite: http://www.voanews.com\r\nTwitter: @VOANews\r\nTerms of Use: http://bit.ly/1QpuWFs",
+        "digitalregistry_digital_service_accounts_0_name": "Voice of America - VOA",
+        "digitalregistry_digital_service_accounts_0_service": "facebook",
+        "digitalregistry_digital_service_accounts_0_service_url": "https://www.facebook.com/voiceofamerica",
+        "digitalregistry_digital_service_accounts_0_short_description": "Voice of America is an international news network that is part of the U.S. government, broadcasting in 44 languages to audiences around the world. This is the official Facebook page for the English news service of VOA. ",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags": "[]",
+        "digitalregistry_domain": "usagm.gov",
+        "digitalregistry_id": 2168,
+        "digitalregistry_mission_statement": "",
+        "digitalregistry_name": "U.S. Agency for Global Media",
+        "digitalregistry_url": "https://www.usagm.gov/",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Agency for Global Media (2168)",
+        "name": "[digitalregistry] U.S. Agency for Global Media (2168)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Agency for Global Media (2168)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Agency for Global Media (2168)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "FEMA",
+        "digitalregistry_cfo_act_agency": false,
+        "digitalregistry_digital_analytics_path": "",
+        "digitalregistry_digital_service_accounts_0_account": "Twitter",
+        "digitalregistry_digital_service_accounts_0_contacts": "[]",
+        "digitalregistry_digital_service_accounts_0_language": "English",
+        "digitalregistry_digital_service_accounts_0_long_description": "Director of Public Affairs, Federal Emergency Management Agency ",
+        "digitalregistry_digital_service_accounts_0_name": "William Booher",
+        "digitalregistry_digital_service_accounts_0_service": "twitter",
+        "digitalregistry_digital_service_accounts_0_service_url": "https://twitter.com/femaspox",
+        "digitalregistry_digital_service_accounts_0_short_description": "Twitter account for the Director of Public Affairs at the Federal Emergency Management Agency ",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags": "[]",
+        "digitalregistry_domain": "fema.dhs.gov",
+        "digitalregistry_id": 2152,
+        "digitalregistry_name": "Federal Emergency Management Agency",
+        "digitalregistry_url": "https://www.fema.gov/",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] Federal Emergency Management Agency (2152)",
+        "name": "[digitalregistry] Federal Emergency Management Agency (2152)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] Federal Emergency Management Agency (2152)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] Federal Emergency Management Agency (2152)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "USC",
+        "digitalregistry_cfo_act_agency": false,
+        "digitalregistry_digital_analytics_path": "",
+        "digitalregistry_digital_service_accounts_0_account": "Linkedin",
+        "digitalregistry_digital_service_accounts_0_contacts_0_email": "tyrus_manuel@ao.uscourts.gov",
+        "digitalregistry_digital_service_accounts_0_language": "English",
+        "digitalregistry_digital_service_accounts_0_long_description": "The official main LinkedIn account and umbrella for the entire Federal Judiciary. Federal courts and other judiciary units will have individual LinkedIn accounts but should be registered here.",
+        "digitalregistry_digital_service_accounts_0_name": "United States Courts",
+        "digitalregistry_digital_service_accounts_0_service": "linkedin",
+        "digitalregistry_digital_service_accounts_0_service_url": "https://www.linkedin.com/company/us-courts",
+        "digitalregistry_digital_service_accounts_0_short_description": "The official LinkedIn account for the United States Courts. ",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags": "[]",
+        "digitalregistry_domain": "uscourts.gov",
+        "digitalregistry_id": 2162,
+        "digitalregistry_mission_statement": "",
+        "digitalregistry_name": "U.S. Courts",
+        "digitalregistry_url": "https://www.uscourts.gov/",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Courts (2162)",
+        "name": "[digitalregistry] U.S. Courts (2162)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Courts (2162)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Courts (2162)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "IHS",
+        "digitalregistry_cfo_act_agency": false,
+        "digitalregistry_digital_analytics_path": "",
+        "digitalregistry_digital_service_accounts_0_account": "Linkedin",
+        "digitalregistry_digital_service_accounts_0_contacts": "[]",
+        "digitalregistry_digital_service_accounts_0_language": "English",
+        "digitalregistry_digital_service_accounts_0_long_description": "The Indian Health Service (IHS), an agency within the US Department of Health and Human Services (HHS), provides federal health services to American Indians and Alaska Natives through a network of hospitals, clinics and public outreach programs throughout the country. IHS offers clinicians extraordinary opportunities for providing comprehensive care to a medically underserved patient population within culturally diverse Native communities. IHS clinicians live and practice in some of the most spectacular Areas of the country, in rural locations where there is great demand for generalists in clinical settings, as well as for specialists in hospital settings. IHS offers three employment options: Clinicians can join IHS as federal civil service employees, as direct Tribal/Urban Indian hires or as officers of the US Public Health Service (USPHS) Commissioned Corps. Each path offers generous vacation, sick leave, benefit and retirement packages, as well as possibilities for sign-up bonuses. Clinicians are also eligible to apply for the IHS Loan Repayment Program, which repays eligible health profession education loans \u2014 up to $20,000 per year \u2014 for a two-year service commitment at an eligible site within their health profession discipline. \r\n",
+        "digitalregistry_digital_service_accounts_0_name": "Indian Health Service",
+        "digitalregistry_digital_service_accounts_0_service": "linkedin",
+        "digitalregistry_digital_service_accounts_0_service_url": "https://www.linkedin.com/company/indian-health-service",
+        "digitalregistry_digital_service_accounts_0_short_description": "IHS Recruitment",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags": "[]",
+        "digitalregistry_domain": "ihs.gov",
+        "digitalregistry_id": 2245,
+        "digitalregistry_mission_statement": "",
+        "digitalregistry_name": "Indian Health Service",
+        "digitalregistry_url": "https://www.ihs.gov/",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] Indian Health Service (2245)",
+        "name": "[digitalregistry] Indian Health Service (2245)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] Indian Health Service (2245)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] Indian Health Service (2245)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "PC",
+        "digitalregistry_cfo_act_agency": false,
+        "digitalregistry_digital_analytics_path": "",
+        "digitalregistry_digital_service_accounts_0_account": "Twitter",
+        "digitalregistry_digital_service_accounts_0_contacts": "[]",
+        "digitalregistry_digital_service_accounts_0_language": "English",
+        "digitalregistry_digital_service_accounts_0_long_description": "Welcome to the official Peace Corps Recruitment Twitter! We'll help you make the most of your world. ",
+        "digitalregistry_digital_service_accounts_0_name": "Peace Corps Journey",
+        "digitalregistry_digital_service_accounts_0_service": "twitter",
+        "digitalregistry_digital_service_accounts_0_service_url": "http://twitter.com/gopeacecorps",
+        "digitalregistry_digital_service_accounts_0_short_description": "The official Peace Corps recruitment Twitter account",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags": "[]",
+        "digitalregistry_domain": "peacecorps.gov",
+        "digitalregistry_id": 2161,
+        "digitalregistry_mission_statement": "",
+        "digitalregistry_name": "Peace Corps",
+        "digitalregistry_url": "https://www.peacecorps.gov/",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] Peace Corps (2161)",
+        "name": "[digitalregistry] Peace Corps (2161)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] Peace Corps (2161)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] Peace Corps (2161)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "USCIS",
+        "digitalregistry_cfo_act_agency": false,
+        "digitalregistry_digital_analytics_path": "",
+        "digitalregistry_digital_service_accounts_0_account": "Twitter",
+        "digitalregistry_digital_service_accounts_0_contacts": "[]",
+        "digitalregistry_digital_service_accounts_0_language": "English",
+        "digitalregistry_digital_service_accounts_0_long_description": "Official Twitter channel of U.S. Citizenship and Immigration Services.",
+        "digitalregistry_digital_service_accounts_0_name": "USCIS",
+        "digitalregistry_digital_service_accounts_0_service": "twitter",
+        "digitalregistry_digital_service_accounts_0_service_url": "https://twitter.com/uscis",
+        "digitalregistry_digital_service_accounts_0_short_description": "Official Twitter channel of U.S. Citizenship and Immigration Services.",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags": "[]",
+        "digitalregistry_domain": "uscis.dhs.gov",
+        "digitalregistry_id": 2134,
+        "digitalregistry_mission_statement": "",
+        "digitalregistry_name": "U.S. Citizenship and Immigration Services",
+        "digitalregistry_url": "https://www.uscis.gov/",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Citizenship and Immigration Services (2134)",
+        "name": "[digitalregistry] U.S. Citizenship and Immigration Services (2134)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Citizenship and Immigration Services (2134)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Citizenship and Immigration Services (2134)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "DHS",
+        "digitalregistry_cfo_act_agency": true,
+        "digitalregistry_digital_analytics_path": "",
+        "digitalregistry_digital_service_accounts_0_account": "Instagram",
+        "digitalregistry_digital_service_accounts_0_contacts": "[]",
+        "digitalregistry_digital_service_accounts_0_language": "English",
+        "digitalregistry_digital_service_accounts_0_long_description": "",
+        "digitalregistry_digital_service_accounts_0_name": "CBPgov",
+        "digitalregistry_digital_service_accounts_0_service": "instagram",
+        "digitalregistry_digital_service_accounts_0_service_url": "https://www.instagram.com/cbpgov/",
+        "digitalregistry_digital_service_accounts_0_short_description": "The official Instagram account of U.S. Customs and Border Protection.",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags": "[]",
+        "digitalregistry_domain": "dhs.gov",
+        "digitalregistry_id": 2139,
+        "digitalregistry_learning_agenda_url": "https://www.evaluation.gov/agencies/department-of-homeland-security/",
+        "digitalregistry_mission_statement": "With honor and integrity, we will safeguard the American people, our homeland and our values.",
+        "digitalregistry_mission_statement_url": "https://www.dhs.gov/",
+        "digitalregistry_name": "Department of Homeland Security",
+        "digitalregistry_performance_url": "https://www.dhs.gov/performance-financial-reports",
+        "digitalregistry_strategic_plan_url": "https://www.dhs.gov/strategic-planning",
+        "digitalregistry_url": "https://www.dhs.gov/",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] Department of Homeland Security (2139)",
+        "name": "[digitalregistry] Department of Homeland Security (2139)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] Department of Homeland Security (2139)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] Department of Homeland Security (2139)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "CBP",
+        "digitalregistry_cfo_act_agency": false,
+        "digitalregistry_digital_service_accounts_0_account": "Youtube",
+        "digitalregistry_digital_service_accounts_0_contacts_0_email": "jonathan.d.isett@cbp.dhs.gov",
+        "digitalregistry_digital_service_accounts_0_language": "English",
+        "digitalregistry_digital_service_accounts_0_long_description": "",
+        "digitalregistry_digital_service_accounts_0_name": "customsborderprotect",
+        "digitalregistry_digital_service_accounts_0_service": "youtube",
+        "digitalregistry_digital_service_accounts_0_service_url": "https://www.youtube.com/user/customsborderprotect",
+        "digitalregistry_digital_service_accounts_0_short_description": "Official YouTube Account for U.S. Customs and Border Protection (CBP)",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags": "[]",
+        "digitalregistry_domain": "dhs.gov",
+        "digitalregistry_id": 2093,
+        "digitalregistry_name": "Customs and Border Protection",
+        "digitalregistry_url": "https://cbp.dhs.gov",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] Customs and Border Protection (2093)",
+        "name": "[digitalregistry] Customs and Border Protection (2093)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] Customs and Border Protection (2093)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] Customs and Border Protection (2093)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "NAVY",
+        "digitalregistry_cfo_act_agency": false,
+        "digitalregistry_digital_service_accounts_0_account": "Twitter",
+        "digitalregistry_digital_service_accounts_0_contacts_0_email": "erin.k.roberts2.civ@us.navy.mil",
+        "digitalregistry_digital_service_accounts_0_language": "English",
+        "digitalregistry_digital_service_accounts_0_long_description": "The Defense Activity for Non-Traditional Education Support (DANTES) helps Service members and Veterans pursue their educational goals and earn degrees or certifications both during and after their service. DANTES is a Department of Defense component of the Defense Human Resources Activity (DHRA) that provides leadership and support for this important effort through partnerships across the education community.",
+        "digitalregistry_digital_service_accounts_0_name": "DANTES_DoD",
+        "digitalregistry_digital_service_accounts_0_service": "twitter",
+        "digitalregistry_digital_service_accounts_0_service_url": "https://twitter.com/DANTES_DoD",
+        "digitalregistry_digital_service_accounts_0_short_description": "The Defense Activity for Non-Traditional Education Support (DANTES) helps service members and veterans pursue their educational goals and earn degrees.",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags": "[]",
+        "digitalregistry_domain": "navy.mil",
+        "digitalregistry_id": 2112,
+        "digitalregistry_name": "Navy",
+        "digitalregistry_url": "https://www.navy.mil/",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] Navy (2112)",
+        "name": "[digitalregistry] Navy (2112)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] Navy (2112)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] Navy (2112)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "NRC",
+        "digitalregistry_cfo_act_agency": true,
+        "digitalregistry_digital_analytics_path": "",
+        "digitalregistry_digital_service_accounts_0_account": "Flickr",
+        "digitalregistry_digital_service_accounts_0_contacts_0_email": "stephanie.west@nrc.gov",
+        "digitalregistry_digital_service_accounts_0_language": "English",
+        "digitalregistry_digital_service_accounts_0_long_description": "",
+        "digitalregistry_digital_service_accounts_0_name": "Nuclear Regulatory Commission",
+        "digitalregistry_digital_service_accounts_0_service": "flickr",
+        "digitalregistry_digital_service_accounts_0_service_url": "https://www.flickr.com/photos/nrcgov",
+        "digitalregistry_digital_service_accounts_0_short_description": "",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags": "[]",
+        "digitalregistry_domain": "nrc.gov",
+        "digitalregistry_id": 2113,
+        "digitalregistry_learning_agenda_url": "https://www.nrc.gov/docs/ML2206/ML22066B056.pdf",
+        "digitalregistry_mission_statement": "The NRC licenses and regulates the Nation\u2019s civilian use of radioactive materials, to provide reasonable assurance of adequate protection of public health and safety, to promote the common defense and security, and to protect the environment.",
+        "digitalregistry_mission_statement_url": "https://www.nrc.gov/about-nrc.html",
+        "digitalregistry_name": "United States Nuclear Regulatory Commission",
+        "digitalregistry_performance_url": "https://www.nrc.gov/about-nrc/plans-performance.html",
+        "digitalregistry_strategic_plan_url": "https://www.nrc.gov/docs/ML2206/ML22067A170.pdf",
+        "digitalregistry_url": "https://www.nrc.gov/",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] United States Nuclear Regulatory Commission (2113)",
+        "name": "[digitalregistry] United States Nuclear Regulatory Commission (2113)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] United States Nuclear Regulatory Commission (2113)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] United States Nuclear Regulatory Commission (2113)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "HUD",
+        "digitalregistry_cfo_act_agency": true,
+        "digitalregistry_digital_analytics_path": "",
+        "digitalregistry_digital_service_accounts_0_account": "Linkedin",
+        "digitalregistry_digital_service_accounts_0_contacts": "[]",
+        "digitalregistry_digital_service_accounts_0_language": "English",
+        "digitalregistry_digital_service_accounts_0_long_description": "FHFA's mission: Ensure that the housing government sponsored enterprises operate in a safe and sound manner so that they serve as a reliable source of liquidity and funding for housing finance and community investment.",
+        "digitalregistry_digital_service_accounts_0_name": "Federal Housing Finance Agency ",
+        "digitalregistry_digital_service_accounts_0_service": "linkedin",
+        "digitalregistry_digital_service_accounts_0_service_url": "https://www.linkedin.com/company/fhfa/",
+        "digitalregistry_digital_service_accounts_0_short_description": "Posts by the Federal Housing Finance Agency, regulator of Fannie Mae, Freddie Mac and 11 Federal Home Loan Banks",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags": "[]",
+        "digitalregistry_domain": "hud.gov",
+        "digitalregistry_id": 2096,
+        "digitalregistry_learning_agenda_url": "https://www.huduser.gov/portal/about/pdr_learningagenda.html",
+        "digitalregistry_logo_card_url": "https://cg-1b082c1b-3db7-477f-9ca5-bd51a786b41e.s3-us-gov-west-1.amazonaws.com/uploads/organization/logo/2096/card_hud-square.png",
+        "digitalregistry_logo_logo_square_url": "https://cg-1b082c1b-3db7-477f-9ca5-bd51a786b41e.s3-us-gov-west-1.amazonaws.com/uploads/organization/logo/2096/logo_square_hud-square.png",
+        "digitalregistry_logo_tag_url": "https://cg-1b082c1b-3db7-477f-9ca5-bd51a786b41e.s3-us-gov-west-1.amazonaws.com/uploads/organization/logo/2096/tag_hud-square.png",
+        "digitalregistry_logo_thumb_url": "https://cg-1b082c1b-3db7-477f-9ca5-bd51a786b41e.s3-us-gov-west-1.amazonaws.com/uploads/organization/logo/2096/thumb_hud-square.png",
+        "digitalregistry_logo_url": "https://cg-1b082c1b-3db7-477f-9ca5-bd51a786b41e.s3-us-gov-west-1.amazonaws.com/uploads/organization/logo/2096/hud-square.png",
+        "digitalregistry_mission_statement": "Create strong, sustainable, inclusive communities and quality affordable homes for all. HUD is working to strengthen the housing market to bolster the economy and protect consumers; meet the need for quality affordable rental homes; utilize housing as a platform for improving quality of life; build inclusive and sustainable communities free from discrimination; and transform the way HUD does business.",
+        "digitalregistry_mission_statement_url": "https://www.hud.gov/",
+        "digitalregistry_name": "Department of Housing and Urban Development",
+        "digitalregistry_performance_url": "https://www.hud.gov/program_offices/spm/appr",
+        "digitalregistry_strategic_plan_url": "https://www.hud.gov/program_offices/spm/pmd",
+        "digitalregistry_url": "https://hud.gov",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] Department of Housing and Urban Development (2096)",
+        "name": "[digitalregistry] Department of Housing and Urban Development (2096)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] Department of Housing and Urban Development (2096)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] Department of Housing and Urban Development (2096)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "ED",
+        "digitalregistry_cfo_act_agency": false,
+        "digitalregistry_digital_service_accounts_0_account": "Twitter",
+        "digitalregistry_digital_service_accounts_0_contacts": "[]",
+        "digitalregistry_digital_service_accounts_0_language": "English",
+        "digitalregistry_digital_service_accounts_0_long_description": "",
+        "digitalregistry_digital_service_accounts_0_name": "US Department of Education",
+        "digitalregistry_digital_service_accounts_0_service": "twitter",
+        "digitalregistry_digital_service_accounts_0_service_url": "https://twitter.com/usedgov",
+        "digitalregistry_digital_service_accounts_0_short_description": " News and information from the U.S. Department of Education.",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags": "[]",
+        "digitalregistry_domain": "ed.gov",
+        "digitalregistry_id": 2111,
+        "digitalregistry_learning_agenda_url": "https://www.evaluation.gov/agencies/department-of-education/",
+        "digitalregistry_mission_statement": "Promote student achievement and preparation for global competitiveness by fostering educational excellence and ensuring equal access.",
+        "digitalregistry_mission_statement_url": "https://www.ed.gov/",
+        "digitalregistry_name": "Department of Education",
+        "digitalregistry_performance_url": "https://www2.ed.gov/about/reports/annual/index.html",
+        "digitalregistry_strategic_plan_url": "https://www2.ed.gov/about/reports/strat/index.html",
+        "digitalregistry_url": "https://www.ed.gov/",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] Department of Education (2111)",
+        "name": "[digitalregistry] Department of Education (2111)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] Department of Education (2111)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] Department of Education (2111)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "NIST",
+        "digitalregistry_cfo_act_agency": false,
+        "digitalregistry_digital_analytics_path": "",
+        "digitalregistry_digital_service_accounts_0_account": "Facebook",
+        "digitalregistry_digital_service_accounts_0_contacts": "[]",
+        "digitalregistry_digital_service_accounts_0_language": "English",
+        "digitalregistry_digital_service_accounts_0_long_description": "",
+        "digitalregistry_digital_service_accounts_0_name": " National Center for Complementary and Integrative Health",
+        "digitalregistry_digital_service_accounts_0_service": "facebook",
+        "digitalregistry_digital_service_accounts_0_service_url": "https://www.facebook.com/nih.nccih",
+        "digitalregistry_digital_service_accounts_0_short_description": "As the lead government agency for research on complementary and integrative health approaches, NCCIH is dedicated to advancing the science and providing evidence-based health information on mind and body practices, natural products, pain research, & more.",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags": "[]",
+        "digitalregistry_domain": "nist.gov",
+        "digitalregistry_id": 2167,
+        "digitalregistry_mission_statement": "",
+        "digitalregistry_name": "National Institute of Standards and Technology",
+        "digitalregistry_url": "https://www.nist.gov/",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] National Institute of Standards and Technology (2167)",
+        "name": "[digitalregistry] National Institute of Standards and Technology (2167)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] National Institute of Standards and Technology (2167)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] National Institute of Standards and Technology (2167)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "ODNI",
+        "digitalregistry_cfo_act_agency": false,
+        "digitalregistry_digital_analytics_path": "",
+        "digitalregistry_digital_service_accounts_0_account": "Youtube",
+        "digitalregistry_digital_service_accounts_0_contacts": "[]",
+        "digitalregistry_digital_service_accounts_0_language": "English",
+        "digitalregistry_digital_service_accounts_0_long_description": "",
+        "digitalregistry_digital_service_accounts_0_name": "Office of the Director of National Intelligence ",
+        "digitalregistry_digital_service_accounts_0_service": "youtube",
+        "digitalregistry_digital_service_accounts_0_service_url": "https://www.youtube.com/channel/UChGV60LYpVFgOWs7aeLrdEQ",
+        "digitalregistry_digital_service_accounts_0_short_description": "youtube channel for ODNI",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags": "[]",
+        "digitalregistry_domain": "odni.gov",
+        "digitalregistry_id": 2107,
+        "digitalregistry_mission_statement": "",
+        "digitalregistry_name": "Office of the Director of National Intelligence",
+        "digitalregistry_url": "https://www.dni.gov/",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] Office of the Director of National Intelligence (2107)",
+        "name": "[digitalregistry] Office of the Director of National Intelligence (2107)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] Office of the Director of National Intelligence (2107)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] Office of the Director of National Intelligence (2107)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "EIA",
+        "digitalregistry_cfo_act_agency": false,
+        "digitalregistry_digital_analytics_path": "",
+        "digitalregistry_digital_service_accounts_0_account": "Flickr",
+        "digitalregistry_digital_service_accounts_0_contacts_0_email": "chris.higginbotham@eia.gov",
+        "digitalregistry_digital_service_accounts_0_language": "English",
+        "digitalregistry_digital_service_accounts_0_long_description": "The U.S. Energy Information Administration (EIA) collects, analyzes, and disseminates independent and impartial energy information to promote sound policymaking, efficient markets, and public understanding of energy and its interaction with the economy and the environment.",
+        "digitalregistry_digital_service_accounts_0_name": "U.S. Energy Information Administration",
+        "digitalregistry_digital_service_accounts_0_service": "flickr",
+        "digitalregistry_digital_service_accounts_0_service_url": "https://www.flickr.com/photos/eiagov",
+        "digitalregistry_digital_service_accounts_0_short_description": "U.S. Energy Information Administration Official Flickr account",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags": "[]",
+        "digitalregistry_domain": "eia.gov",
+        "digitalregistry_id": 2264,
+        "digitalregistry_mission_statement": "",
+        "digitalregistry_name": "U.S. Energy Information Administration",
+        "digitalregistry_url": "https://www.eia.gov/",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Energy Information Administration (2264)",
+        "name": "[digitalregistry] U.S. Energy Information Administration (2264)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Energy Information Administration (2264)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Energy Information Administration (2264)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "MHSDHA",
+        "digitalregistry_cfo_act_agency": false,
+        "digitalregistry_digital_analytics_path": "",
+        "digitalregistry_digital_service_accounts_0_account": "Facebook",
+        "digitalregistry_digital_service_accounts_0_contacts": "[]",
+        "digitalregistry_digital_service_accounts_0_language": "English",
+        "digitalregistry_digital_service_accounts_0_long_description": "",
+        "digitalregistry_digital_service_accounts_0_name": "U.S Army Public Health Center",
+        "digitalregistry_digital_service_accounts_0_service": "facebook",
+        "digitalregistry_digital_service_accounts_0_service_url": "https://www.facebook.com/ArmyPublicHealth",
+        "digitalregistry_digital_service_accounts_0_short_description": "APHC Official Facebook Page",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags": "[]",
+        "digitalregistry_domain": "health.mil",
+        "digitalregistry_id": 2244,
+        "digitalregistry_mission_statement": "",
+        "digitalregistry_name": "Military Health System and Defense Health Agency",
+        "digitalregistry_url": "https://www.health.mil/",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] Military Health System and Defense Health Agency (2244)",
+        "name": "[digitalregistry] Military Health System and Defense Health Agency (2244)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] Military Health System and Defense Health Agency (2244)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] Military Health System and Defense Health Agency (2244)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "NLRB",
+        "digitalregistry_cfo_act_agency": false,
+        "digitalregistry_digital_analytics_path": "",
+        "digitalregistry_digital_service_accounts_0_account": "Twitter",
+        "digitalregistry_digital_service_accounts_0_contacts_0_email": "tquinn@nlrb.gov",
+        "digitalregistry_digital_service_accounts_0_long_description": "",
+        "digitalregistry_digital_service_accounts_0_name": "NLRB",
+        "digitalregistry_digital_service_accounts_0_service_url": "https://twitter.com/NLRB",
+        "digitalregistry_digital_service_accounts_0_short_description": "The Twitter account for the National Labor Relations Board",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags": "[]",
+        "digitalregistry_domain": "nlrb.gov",
+        "digitalregistry_id": 2217,
+        "digitalregistry_mission_statement": "",
+        "digitalregistry_name": "National Labor Relations Board",
+        "digitalregistry_url": "https://www.nlrb.gov/",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] National Labor Relations Board (2217)",
+        "name": "[digitalregistry] National Labor Relations Board (2217)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] National Labor Relations Board (2217)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] National Labor Relations Board (2217)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "OGE",
+        "digitalregistry_cfo_act_agency": false,
+        "digitalregistry_digital_analytics_path": "",
+        "digitalregistry_digital_service_accounts_0_account": "Twitter",
+        "digitalregistry_digital_service_accounts_0_contacts_0_email": "nstein@oge.gov",
+        "digitalregistry_digital_service_accounts_0_long_description": "",
+        "digitalregistry_digital_service_accounts_0_name": "Office of Government Ethics",
+        "digitalregistry_digital_service_accounts_0_service_url": "https://twitter.com/officegovethics",
+        "digitalregistry_digital_service_accounts_0_short_description": "",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags": "[]",
+        "digitalregistry_domain": "oge.gov",
+        "digitalregistry_id": 2182,
+        "digitalregistry_mission_statement": "",
+        "digitalregistry_name": "U.S. Office of Government Ethics",
+        "digitalregistry_url": "https://www.oge.gov/",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Office of Government Ethics (2182)",
+        "name": "[digitalregistry] U.S. Office of Government Ethics (2182)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Office of Government Ethics (2182)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] U.S. Office of Government Ethics (2182)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "BOP",
+        "digitalregistry_cfo_act_agency": false,
+        "digitalregistry_digital_analytics_path": "",
+        "digitalregistry_digital_service_accounts_0_account": "Facebook",
+        "digitalregistry_digital_service_accounts_0_contacts_0_email": "e1weaver@bop.gov",
+        "digitalregistry_digital_service_accounts_0_long_description": "We protect public safety by ensuring that federal offenders serve their sentences of imprisonment in facilities that are safe, humane, cost-efficient, and appropriately secure, and provide reentry programming to ensure their successful return to the community.",
+        "digitalregistry_digital_service_accounts_0_name": "Federal Bureau of Prisons",
+        "digitalregistry_digital_service_accounts_0_service_url": "https://www.facebook.com/bureauofprisons/",
+        "digitalregistry_digital_service_accounts_0_short_description": "We ensure offenders serve their sentences in facilities that are safe, humane, cost-efficient, and appropriately secure, and provide reentry programming to ensure their successful reentry.",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags": "[]",
+        "digitalregistry_domain": "bop.gov",
+        "digitalregistry_id": 2269,
+        "digitalregistry_mission_statement": "",
+        "digitalregistry_name": "Federal Bureau of Prisons",
+        "digitalregistry_url": "https://www.bop.gov/",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] Federal Bureau of Prisons (2269)",
+        "name": "[digitalregistry] Federal Bureau of Prisons (2269)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] Federal Bureau of Prisons (2269)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] Federal Bureau of Prisons (2269)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "NTIA",
+        "digitalregistry_cfo_act_agency": false,
+        "digitalregistry_digital_analytics_path": "",
+        "digitalregistry_digital_service_accounts_0_account": "Github",
+        "digitalregistry_digital_service_accounts_0_contacts_0_email": "rballard@ntia.gov",
+        "digitalregistry_digital_service_accounts_0_long_description": "The National Telecommunications and Information Administration Institute for Telecommunication Sciences and Office of Spectrum Management develop and open source through this repository software implementations of radio wave propagation models, tools for collecting and classifying radio frequency data, tools for objectively assessing the quality of telecommunications transmissions, and a limited number of relevant datasets.",
+        "digitalregistry_digital_service_accounts_0_name": "National Telecommunications and Information Administration",
+        "digitalregistry_digital_service_accounts_0_service_url": "https://github.com/NTIA",
+        "digitalregistry_digital_service_accounts_0_short_description": "Code produced by NTIA including OSM and ITS",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags_0": "Open data",
+        "digitalregistry_digital_service_accounts_0_tags_1": "data",
+        "digitalregistry_digital_service_accounts_0_tags_2": "open source",
+        "digitalregistry_digital_service_accounts_0_tags_3": "code",
+        "digitalregistry_domain": "ntia.gov",
+        "digitalregistry_id": 2173,
+        "digitalregistry_mission_statement": "",
+        "digitalregistry_name": "National Telecommunications and Information Administration",
+        "digitalregistry_url": "https://ntia.gov/",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] National Telecommunications and Information Administration (2173)",
+        "name": "[digitalregistry] National Telecommunications and Information Administration (2173)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] National Telecommunications and Information Administration (2173)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] National Telecommunications and Information Administration (2173)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "OMB",
+        "digitalregistry_cfo_act_agency": false,
+        "digitalregistry_digital_service_accounts_0_account": "Linkedin",
+        "digitalregistry_digital_service_accounts_0_contacts_0_email": "catie.miller@gsa.gov",
+        "digitalregistry_digital_service_accounts_0_long_description": "Performance.gov is the federal window into performance and is the home of the President's Management Agenda. Administered by GSA with contributions from OMB and other agencies. ",
+        "digitalregistry_digital_service_accounts_0_name": "Performance.gov",
+        "digitalregistry_digital_service_accounts_0_service_url": "https://www.linkedin.com/company/performance-gov/",
+        "digitalregistry_digital_service_accounts_0_short_description": "Performance.gov LinkedIn",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags": "[]",
+        "digitalregistry_domain": "omb.gov",
+        "digitalregistry_id": 2100,
+        "digitalregistry_name": "Office of Management and Budget",
+        "digitalregistry_url": "https://omb.gov",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] Office of Management and Budget (2100)",
+        "name": "[digitalregistry] Office of Management and Budget (2100)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] Office of Management and Budget (2100)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] Office of Management and Budget (2100)"
+      }
+    },
+    {
+      "data": {
+        "digitalregistry_abbreviation": "USMC",
+        "digitalregistry_cfo_act_agency": false,
+        "digitalregistry_digital_analytics_path": "",
+        "digitalregistry_digital_service_accounts_0_account": "Facebook",
+        "digitalregistry_digital_service_accounts_0_contacts_0_email": "scott.smolinski@usmc.mil",
+        "digitalregistry_digital_service_accounts_0_long_description": "",
+        "digitalregistry_digital_service_accounts_0_name": "Marine Rotational Force-Darwin",
+        "digitalregistry_digital_service_accounts_0_service_url": "https://www.facebook.com/MRFDarwin",
+        "digitalregistry_digital_service_accounts_0_short_description": "MRF-D",
+        "digitalregistry_digital_service_accounts_0_status": "published",
+        "digitalregistry_digital_service_accounts_0_tags": "[]",
+        "digitalregistry_domain": "usmc.mil",
+        "digitalregistry_id": 2241,
+        "digitalregistry_mission_statement": "",
+        "digitalregistry_name": "USMC",
+        "digitalregistry_url": "https://www.marines.mil/",
+        "id": "/US FEDERAL GOVERNMENT/[digitalregistry] USMC (2241)",
+        "name": "[digitalregistry] USMC (2241)",
+        "path": "/US FEDERAL GOVERNMENT/[digitalregistry] USMC (2241)",
+        "value": "/US FEDERAL GOVERNMENT/[digitalregistry] USMC (2241)"
+      }
+    }
+  ]
+}

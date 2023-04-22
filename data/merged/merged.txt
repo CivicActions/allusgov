@@ -1,4 +1,4 @@
-US FEDERAL GOVERNMENT - budget, cisagov, federalregister, opmgov, samgov, usagov, usaspending, usgovmanual
+US FEDERAL GOVERNMENT - budget, cisagov, digitalregistry, federalregister, opmgov, samgov, usagov, usaspending, usgovmanual
 ├── 400 Years of African-American History Commission - budget, samgov
 │   └── 400 Years of African-American History Commission - budget
 ├── ADMINISTRATIVE CONFERENCE OF THE U. S. - samgov, usaspending
@@ -3346,7 +3346,7 @@ US FEDERAL GOVERNMENT - budget, cisagov, federalregister, opmgov, samgov, usagov
 │   ├── FEDERAL PRISON INDUSTRIES, INC - usaspending
 │   ├── FEDERAL PRISON INDUSTRIES, INC - usaspending
 │   ├── FEDERAL PRISON INDUSTRIES, INC - usaspending
-│   ├── FEDERAL BUREAU OF PRISONS - usaspending
+│   ├── Federal Bureau of Prisons - digitalregistry, usaspending
 │   ├── FEDERAL PRISON INDUSTRIES, INC - usaspending
 │   ├── FEDERAL PRISON INDUSTRIES, INC - usaspending
 │   ├── FEDERAL PRISON INDUSTRIES, INC - usaspending
@@ -3621,7 +3621,7 @@ US FEDERAL GOVERNMENT - budget, cisagov, federalregister, opmgov, samgov, usagov
 │   ├── SSA Office of Financial Policy - usaspending
 │   ├── SSA OFC OF ACQUISITION  GRANTS - usaspending
 │   └── Social Security Administration - usaspending
-├── Department of Housing and Urban Development - budget, cisagov, usagov, usaspending, usgovmanual
+├── Department of Housing and Urban Development - budget, cisagov, digitalregistry, usagov, usaspending, usgovmanual
 │   ├── Fair Housing and Equal Opportunity - budget
 │   ├── Public and Indian Housing Programs - budget
 │   │   └── Indian Housing Loan Guarantee Fund Program - budget
@@ -3685,7 +3685,7 @@ US FEDERAL GOVERNMENT - budget, cisagov, federalregister, opmgov, samgov, usagov
 │   ├── William Clinton Presidential Library - cisagov
 │   ├── U.S. National Archives and Records Administration - cisagov
 │   ├── Gerald R. Ford Library and Museum - cisagov
-│   ├── National Archives - cisagov
+│   ├── National Archives - cisagov, digitalregistry
 │   ├── NARA - cisagov
 │   ├── Jimmy Carter Library & Museum - cisagov
 │   ├── NPOL - cisagov
@@ -3740,7 +3740,7 @@ US FEDERAL GOVERNMENT - budget, cisagov, federalregister, opmgov, samgov, usagov
 │   ├── GSA, IC, FAI - cisagov
 │   ├── GSA, IQ, IAE - cisagov
 │   ├── GSA, IQ-CAP - cisagov
-│   ├── General Services Administration  - cisagov, federalregister, usagov, usaspending, usgovmanual
+│   ├── General Services Administration  - cisagov, digitalregistry, federalregister, usagov, usaspending, usgovmanual
 │   │   ├── Federal Acquisition Service - usaspending
 │   │   ├── Public Buildings Service - usaspending
 │   │   ├── Office of Administrative Services - usaspending
@@ -3783,7 +3783,7 @@ US FEDERAL GOVERNMENT - budget, cisagov, federalregister, opmgov, samgov, usagov
 │   └── Denali Commission - usaspending
 ├── Patient-Centered Outcomes Research Trust Fund - budget, usaspending
 │   └── Patient-Centered Outcomes Research Trust Fund - budget
-├── Environmental Protection Agency - budget, cisagov, federalregister, opmgov, usagov, usaspending, usgovmanual
+├── Environmental Protection Agency - budget, cisagov, digitalregistry, federalregister, opmgov, usagov, usaspending, usgovmanual
 │   ├── U.S. Environmental Protection Agency - cisagov
 │   ├── EPA OIG - cisagov
 │   ├── US Environmental Protection Agency - cisagov
@@ -3819,7 +3819,7 @@ US FEDERAL GOVERNMENT - budget, cisagov, federalregister, opmgov, samgov, usagov
 │   ├── LAB - LAS VEGAS, NV - CO OFFICE - usaspending
 │   ├── CONTRACT CLOSEOUT TEAM (CCT) - usaspending
 │   └── Environmental Protection Agency - usaspending
-├── Office of Personnel Management - budget, opmgov, usagov, usaspending, usgovmanual
+├── Office of Personnel Management - budget, digitalregistry, opmgov, usagov, usaspending, usgovmanual
 │   ├── OPM DC CENTRAL OFFICE CONTRACTING - usaspending
 │   ├── OPM DELEGATED PROCUREMENT OFFICES - usaspending
 │   ├── OPM PHILADELPHIA REGION CONTRACTING - usaspending
@@ -3833,7 +3833,7 @@ US FEDERAL GOVERNMENT - budget, cisagov, federalregister, opmgov, samgov, usagov
 │   ├── EQUAL EMPLOYMENT OPPORTUNITY COMM - usaspending
 │   └── Equal Employment Opportunity Commission - usaspending
 ├── Intelligence Community Management Account - budget
-├── Department of Homeland Security - budget, usagov, usaspending, usgovmanual
+├── Department of Homeland Security - budget, digitalregistry, usagov, usaspending, usgovmanual
 │   ├── Federal Emergency Management Agency - budget, usagov
 │   ├── U.S. Immigration and Customs Enforcement - budget, usagov
 │   ├── Science and Technology - budget
@@ -3871,7 +3871,7 @@ US FEDERAL GOVERNMENT - budget, cisagov, federalregister, opmgov, samgov, usagov
 │   └── Corporation for Public Broadcasting - budget
 ├── Administrative Conference of the United States - budget, federalregister, usgovmanual
 │   └── Administrative Conference of the United States - budget
-├── Department of the Interior - budget, cisagov, usaspending, usgovmanual
+├── Department of the Interior - budget, cisagov, digitalregistry, usaspending, usgovmanual
 │   ├── Bureau of Land Management - budget, cisagov, usagov
 │   ├── Office of Surface Mining Reclamation and Enforcement - budget, usgovmanual
 │   ├── Bureau of Reclamation - budget, cisagov, usagov
@@ -3937,7 +3937,7 @@ US FEDERAL GOVERNMENT - budget, cisagov, federalregister, opmgov, samgov, usagov
 │   ├── Office of Aviation Services - cisagov
 │   ├── National Business Center - cisagov
 │   ├── USGS-NWRC - cisagov
-│   ├── US Geological Survey - cisagov
+│   ├── US Geological Survey - cisagov, digitalregistry
 │   ├── National Fire Plan Operations & Reporting System - cisagov
 │   ├── National Interagency Fire Center - cisagov, usagov
 │   ├── Office of Navajo and Hopi Indian Relocation - cisagov
@@ -4046,7 +4046,7 @@ US FEDERAL GOVERNMENT - budget, cisagov, federalregister, opmgov, samgov, usagov
 │   ├── Office of the Managing Director - cisagov
 │   ├── FCC - usaspending
 │   └── Federal Communications Commission - usaspending
-├── Corporation for National and Community Service - budget, federalregister, opmgov, usaspending, usgovmanual
+├── Corporation for National and Community Service - budget, digitalregistry, federalregister, opmgov, usaspending, usgovmanual
 │   ├── CNCS - usaspending
 │   ├── CORPORATION FOR NTL  COMM SERVICE - usaspending
 │   ├── CORPORATION FOR NATIONAL SERVICE - usaspending
@@ -4057,7 +4057,7 @@ US FEDERAL GOVERNMENT - budget, cisagov, federalregister, opmgov, samgov, usagov
 │   ├── NTSB ACQ  LEASE MGMT DIVISION - usaspending
 │   └── National Transportation Safety Board - usaspending
 ├── 400 Years of African-American History Commission - budget, cisagov
-├── U.S. Agency for Global Media - budget, usagov, usaspending
+├── U.S. Agency for Global Media - budget, digitalregistry, usagov, usaspending
 │   ├── U.S. Agency for Global Media - budget
 │   ├── CHIEF FINANCIAL OFFICE (OCFO) - usaspending
 │   ├── OFFICE OF CONTRACTS - usaspending
@@ -4083,7 +4083,7 @@ US FEDERAL GOVERNMENT - budget, cisagov, federalregister, opmgov, samgov, usagov
 │   └── Securities and Exchange Commission - usaspending
 ├── Public Buildings Reform Board - budget, federalregister, usaspending
 ├── National Mediation Board - budget, cisagov, federalregister, opmgov, usagov, usaspending, usgovmanual
-├── Department of Commerce - budget, cisagov, usaspending, usgovmanual
+├── Department of Commerce - budget, cisagov, digitalregistry, usaspending, usgovmanual
 │   ├── Economic Development Administration - budget, cisagov, usagov
 │   ├── Departmental Management - budget
 │   │   └── Office of the Inspector General - budget
@@ -4156,7 +4156,7 @@ US FEDERAL GOVERNMENT - budget, cisagov, federalregister, opmgov, samgov, usagov
 │   ├── Government Publishing Office - budget, cisagov
 │   │   ├── Government Publishing Office Business Operations Revolving - budget
 │   │   ├── US Government Publishing Office - cisagov
-│   │   ├── U.S. Government Publishing Office - cisagov
+│   │   ├── U.S. Government Publishing Office - cisagov, digitalregistry
 │   │   ├── US Govt Publishing Office - cisagov
 │   │   ├── United States Government Publishing Office - cisagov
 │   │   └── Office of Federal Register (NF) - cisagov
@@ -4192,14 +4192,14 @@ US FEDERAL GOVERNMENT - budget, cisagov, federalregister, opmgov, samgov, usagov
 │   └── Architect of the Capitol - budget, cisagov
 │       ├── The Architect of the Capitol - cisagov
 │       └── AOC - cisagov
-├── Consumer Product Safety Commission - budget, cisagov, federalregister, opmgov, usagov, usaspending, usgovmanual
+├── Consumer Product Safety Commission - budget, cisagov, digitalregistry, federalregister, opmgov, usagov, usaspending, usgovmanual
 │   ├── US Consumer Product Safety Commission - cisagov
 │   ├── U.S. Consumer Product Safety Commission - cisagov
 │   ├── CONSUMER PRODUCT SAFETY COMMISSION - usaspending
 │   ├── CONSUMER PRODUCT SAFETY - usaspending
 │   └── Consumer Product Safety Commission - usaspending
 ├── State Justice Institute - budget, cisagov, federalregister, usagov, usgovmanual
-├── Department of Energy - budget, opmgov, usaspending, usgovmanual
+├── Department of Energy - budget, digitalregistry, opmgov, usaspending, usgovmanual
 │   ├── Environmental and Other Defense Activities - budget
 │   ├── Departmental Administration - budget
 │   │   └── Office of the Inspector General - budget
@@ -4349,7 +4349,7 @@ US FEDERAL GOVERNMENT - budget, cisagov, federalregister, opmgov, samgov, usagov
 ├── Federal Mediation and Conciliation Service - budget, federalregister, opmgov, usagov, usaspending, usgovmanual
 │   ├── FMCS - usaspending
 │   └── Federal Mediation and Conciliation Service - usaspending
-├── National Labor Relations Board - budget, cisagov, federalregister, opmgov, usagov, usaspending, usgovmanual
+├── National Labor Relations Board - budget, cisagov, digitalregistry, federalregister, opmgov, usagov, usaspending, usgovmanual
 │   ├── NATIONAL LABOR RELATIONS BOARD - usaspending
 │   └── National Labor Relations Board - usaspending
 ├── National Endowment for the Humanities - budget, federalregister, usagov, usaspending, usgovmanual
@@ -4360,7 +4360,7 @@ US FEDERAL GOVERNMENT - budget, cisagov, federalregister, opmgov, samgov, usagov
 ├── Federal Financial Institutions Examination Council - budget, cisagov
 ├── Southwest Border Regional Commission - budget
 │   └── Southwest Border Regional Commission - budget
-├── Department of Education - budget, usagov, usaspending, usgovmanual
+├── Department of Education - budget, digitalregistry, usagov, usaspending, usgovmanual
 │   ├── Office of English Language Acquisition - budget, usaspending
 │   ├── Office of Innovation and Improvement - budget, usaspending
 │   ├── Disaster Education Recovery - budget
@@ -4402,7 +4402,7 @@ US FEDERAL GOVERNMENT - budget, cisagov, federalregister, opmgov, samgov, usagov
 │       ├── Howard University - usgovmanual
 │       └── National Technical Institute for the Deaf / Rochester Institute
                             of Technology - usgovmanual
-├── Federal Trade Commission - budget, federalregister, opmgov, usagov, usaspending, usgovmanual
+├── Federal Trade Commission - budget, digitalregistry, federalregister, opmgov, usagov, usaspending, usgovmanual
 │   ├── OFFICE OF ACQUISITION - usaspending
 │   └── Federal Trade Commission - usaspending
 ├── Bureau of Consumer Financial Protection - budget
@@ -4766,7 +4766,7 @@ US FEDERAL GOVERNMENT - budget, cisagov, federalregister, opmgov, samgov, usagov
 │       ├── Office of Community Oriented Policing Services - usgovmanual
 │       ├── Office on Violence Against Women - usgovmanual
 │       └── United States Parole Commission - usgovmanual
-├── Department of Veterans Affairs - budget, cisagov, usagov, usaspending, usgovmanual
+├── Department of Veterans Affairs - budget, cisagov, digitalregistry, usagov, usaspending, usgovmanual
 │   ├── Veterans Health Administration - budget, usagov
 │   ├── Departmental Administration - budget
 │   │   └── Office of Inspector General - budget
@@ -4852,7 +4852,7 @@ US FEDERAL GOVERNMENT - budget, cisagov, federalregister, opmgov, samgov, usagov
 │   ├── Under Secretary for Health/Veterans Health Administration - usaspending
 │   ├── Department of Veterans Affairs - usaspending
 │   └── Directory/National Cemetery Administration - usaspending
-├── Office of Government Ethics - budget, cisagov, opmgov, usagov, usaspending, usgovmanual
+├── Office of Government Ethics - budget, cisagov, digitalregistry, opmgov, usagov, usaspending, usgovmanual
 ├── Public Company Accounting Oversight Board - budget
 │   └── Public Company Accounting Oversight Board - budget
 ├── Access Board - budget, usaspending
@@ -4886,7 +4886,7 @@ US FEDERAL GOVERNMENT - budget, cisagov, federalregister, opmgov, samgov, usagov
 │   └── National Oilheat Research Alliance - budget
 ├── Corporation for Travel Promotion - budget
 │   └── Corporation for Travel Promotion - budget
-├── Department of Agriculture - budget, usagov, usaspending, usgovmanual
+├── Department of Agriculture - budget, digitalregistry, usagov, usaspending, usgovmanual
 │   ├── Food Safety and Inspection Service - budget, usagov
 │   ├── Natural Resources Conservation Service - budget, usagov
 │   ├── National Agricultural Statistics Service - budget, usagov
@@ -5007,7 +5007,7 @@ US FEDERAL GOVERNMENT - budget, cisagov, federalregister, opmgov, samgov, usagov
 │   └── Federal Mine Safety and Health Review Commission - usaspending
 ├── National Capital Planning Commission - budget, cisagov, federalregister, opmgov, usagov, usaspending, usgovmanual
 ├── Securities Investor Protection Corporation - budget
-├── Department of Labor - budget, usaspending, usgovmanual
+├── Department of Labor - budget, digitalregistry, usaspending, usgovmanual
 │   ├── Bureau of Labor Statistics - budget, usagov
 │   ├── Departmental Management - budget
 │   │   ├── Office of Disability Employment Policy - budget, usagov
@@ -5058,7 +5058,7 @@ US FEDERAL GOVERNMENT - budget, cisagov, federalregister, opmgov, samgov, usagov
 ├── International Trade Commission - budget, federalregister, opmgov, usaspending
 │   ├── INTERNATIONAL TRADE COMMISSION, UNITED STATES - usaspending
 │   └── International Trade Commission - usaspending
-├── Department of State - budget, opmgov, usaspending, usgovmanual
+├── Department of State - budget, digitalregistry, opmgov, usaspending, usgovmanual
 │   ├── Other - budget
 │   │   ├── Center for Middle Eastern-Western Dialogue Trust - budget
 │   │   ├── East-West Center - budget
@@ -5369,7 +5369,7 @@ US FEDERAL GOVERNMENT - budget, cisagov, federalregister, opmgov, samgov, usagov
 ├── Defense Nuclear Facilities Safety Board - cisagov
 ├── Delta Regional Authority - cisagov
 ├── Denali Commission - cisagov
-├── Department of Defense - cisagov, usaspending, usgovmanual
+├── Department of Defense - cisagov, digitalregistry, usaspending, usgovmanual
 │   ├── Department of the Navy - usaspending, usgovmanual
 │   │   ├── NAVAL AIR SYSTEMS COMMAND - usaspending
 │   │   ├── NAVSEA HQ - usaspending
@@ -6253,16 +6253,16 @@ US FEDERAL GOVERNMENT - budget, cisagov, federalregister, opmgov, samgov, usagov
 ├── Federal Communications Commission - cisagov
 ├── Federal Deposit Insurance Corporation - cisagov
 ├── Federal Election Commission - cisagov
-├── Federal Energy Regulatory Commission - cisagov, federalregister, usagov, usaspending, usgovmanual
+├── Federal Energy Regulatory Commission - cisagov, digitalregistry, federalregister, usagov, usaspending, usgovmanual
 │   └── FEDERAL ENERGY REGULATORY COMM - usaspending
 ├── Federal Housing Finance Agency - cisagov
 ├── Federal Maritime Commission - cisagov
 ├── Federal Permitting Improvement Steering Council - cisagov
 ├── Federal Reserve Board of Governors - cisagov
-│   ├── Federal Reserve Board - cisagov
+│   ├── Federal Reserve Board - cisagov, digitalregistry
 │   ├── The Financial and Banking Information Infrastructure Committee - cisagov
 │   ├── Federal Reserve Bank - cisagov
-│   ├── Board of Governors of the Federal Reserve - cisagov
+│   ├── Board of Governors of the Federal Reserve - cisagov, digitalregistry
 │   ├── Federal Financial Institutions Examination Council  - cisagov, federalregister, opmgov, usagov, usaspending
 │   └── Department of Commerce - cisagov
 ├── General Services Administration - cisagov
@@ -6304,19 +6304,19 @@ US FEDERAL GOVERNMENT - budget, cisagov, federalregister, opmgov, samgov, usagov
 ├── U.S. Agency for International Development - cisagov, usagov
 ├── United States Holocaust Memorial Museum - cisagov
 ├── United States Interagency Council on Homelessness - cisagov
-├── U.S. Courts - cisagov
+├── U.S. Courts - cisagov, digitalregistry
 │   ├── Administrative Office U.S. Courts - cisagov
 │   ├── US Court of Appeals for Veterans Claims - cisagov, usagov
 │   ├── Federal Judicial Center - cisagov
 │   ├── US Sentencing Commission - cisagov, usagov
 │   └── United States Tax Court - cisagov, usgovmanual
-├── Architect of the Capitol - cisagov, federalregister, usgovmanual
+├── Architect of the Capitol - cisagov, digitalregistry, federalregister, usgovmanual
 ├── Congressional Budget Office - cisagov, federalregister, usagov, usgovmanual
 ├── Cyberspace Solarium Commission - cisagov
 ├── Government Accountability Office - cisagov, federalregister, usagov, usaspending, usgovmanual
 │   └── GAO, Except Comptroller General - usaspending
 ├── Government Publishing Office - cisagov, federalregister, usagov, usgovmanual
-├── Library of Congress - cisagov, federalregister, usagov, usgovmanual
+├── Library of Congress - cisagov, digitalregistry, federalregister, usagov, usgovmanual
 │   ├── Copyright Office, Library of Congress - federalregister
 │   ├── Copyright Royalty Board - federalregister
 │   ├── Copyright Royalty Judges - federalregister
@@ -6547,7 +6547,7 @@ US FEDERAL GOVERNMENT - budget, cisagov, federalregister, opmgov, samgov, usagov
 ├── U.S. Chemical Safety Board - usagov
 ├── Central Intelligence Agency - usagov
 ├── U.S. Central Command - usagov
-├── Centers for Disease Control and Prevention - federalregister, usagov, usaspending, usgovmanual
+├── Centers for Disease Control and Prevention - digitalregistry, federalregister, usagov, usaspending, usgovmanual
 │   ├── CDC Office of Financial Resources - usaspending
 │   └── CDC OFFICE OF ACQUISITION SERVICES - usaspending
 ├── Center for Nutrition Policy and Promotion - usagov
@@ -6843,7 +6843,7 @@ US FEDERAL GOVERNMENT - budget, cisagov, federalregister, opmgov, samgov, usagov
 ├── Environmental Protection Agency - usagov
 ├── English Language Acquisition Office - usagov
 ├── Energy Star Program - usagov
-├── Energy Information Administration - federalregister, usagov
+├── U.S. Energy Information Administration - digitalregistry, federalregister, usagov
 ├── Energy Efficiency and Renewable Energy Office - federalregister, usagov
 ├── U.S. Department of Energy - usagov
 ├── Endangered Species Program - usagov
@@ -6929,12 +6929,12 @@ US FEDERAL GOVERNMENT - budget, cisagov, federalregister, opmgov, samgov, usagov
 ├── U.S. Department of Homeland Security - usagov
 ├── Holocaust Memorial Museum - usagov
 ├── Commission on Security and Cooperation in Europe (Helsinki Commission) - usagov
-├── Health Resources and Services Administration - federalregister, usagov, usaspending, usgovmanual
+├── Health Resources & Services Administration - digitalregistry, federalregister, usagov, usaspending, usgovmanual
 │   ├── HRSA Office of Federal Assistance Management - usaspending
 │   ├── HRSA HEADQUARTERS - usaspending
 │   ├── HRSA AGGREGATE FINANCIAL ASSISTANCE DATA AWARDING OFFICE - usaspending
 │   └── NATIONAL HANSENS DISEASE PROGRAM - usaspending
-├── U.S. Department of Health and Human Services - usagov
+├── U.S. Department of Health & Human Services - digitalregistry, usagov
 ├── Harry S. Truman Scholarship Foundation - usagov
 ├── International Trade Administration - federalregister, usagov, usaspending, usgovmanual
 │   └── DEPT OF COMMERCE NOAA - usaspending
@@ -7280,7 +7280,7 @@ US FEDERAL GOVERNMENT - budget, cisagov, federalregister, opmgov, samgov, usagov
 │   ├── Special Supplemental Program for Women Infants and Children - usaspending
 │   ├── Food Distribution Division - usaspending
 │   └── USDA FNS - usaspending
-├── Food and Drug Administration - federalregister, usagov, usaspending, usgovmanual
+├── Food and Drug Administration - digitalregistry, federalregister, usagov, usaspending, usgovmanual
 │   ├── FDA OFFICE OF ACQ  GRANT SVCS - usaspending
 │   └── FDA Office of Acquisitions and Grants Services - usaspending
 ├── Fish and Wildlife Service - federalregister, usagov
@@ -7339,7 +7339,7 @@ US FEDERAL GOVERNMENT - budget, cisagov, federalregister, opmgov, samgov, usagov
 ├── Federal Financial Institutions Examination Council - usagov
 ├── Federal Executive Boards - usagov
 ├── Federal Energy Regulatory Commission - usagov
-├── Federal Emergency Management Agency - federalregister, usagov, usaspending
+├── Federal Emergency Management Agency - digitalregistry, federalregister, usagov, usaspending
 │   ├── FEMA Headquarters: Financial Assistance Awards - usaspending
 │   ├── REGION 4: EMERGENCY PREPAREDNESS AN - usaspending
 │   ├── COMMUNITY SURVIVOR  ASSISTANCE SEC - usaspending
@@ -7369,7 +7369,7 @@ US FEDERAL GOVERNMENT - budget, cisagov, federalregister, opmgov, samgov, usagov
 ├── U.S. National Central Bureau - Interpol - usagov
 ├── U.S. International Trade Commission - usagov
 ├── National Transportation Safety Board - usagov
-├── National Telecommunications and Information Administration - federalregister, usagov, usaspending, usgovmanual
+├── National Telecommunications and Information Administration - digitalregistry, federalregister, usagov, usaspending, usgovmanual
 │   ├── DEPT OF COMMERCE NOAA - usaspending
 │   └── First Responder Network Authority - federalregister
 ├── National Technical Information Service - federalregister, usagov, usgovmanual
@@ -7379,7 +7379,7 @@ US FEDERAL GOVERNMENT - budget, cisagov, federalregister, opmgov, samgov, usagov
 ├── National Reconnaissance Office - usagov
 ├── National Railroad Passenger Corporation - federalregister, usagov, usgovmanual
 ├── National Pesticide Information Center - usagov
-├── National Park Service - federalregister, usagov, usaspending, usgovmanual
+├── National Park Service - digitalregistry, federalregister, usagov, usaspending, usgovmanual
 │   ├── DSC CONTRACTING SERVICES DIVISION - usaspending
 │   ├── WASHINGTON CONTRACTING OFFICE - usaspending
 │   ├── IMR INTERMOUNTAIN REGION(1200) - usaspending
@@ -7414,7 +7414,7 @@ US FEDERAL GOVERNMENT - budget, cisagov, federalregister, opmgov, samgov, usagov
 │   ├── NATIONAL NAGPRA PROGRAM - usaspending
 │   └── HARPERS FERRY CENTER(1100) - usaspending
 ├── National Park Foundation - usagov
-├── National Oceanic and Atmospheric Administration - federalregister, usagov, usaspending, usgovmanual
+├── National Oceanic and Atmospheric Administration - digitalregistry, federalregister, usagov, usaspending, usgovmanual
 │   ├── DEPT OF COMMERCE NOAA - usaspending
 │   ├── DEPT OF COMMERCE NOAA - usaspending
 │   ├── DEPT OF COMMERCE NOAA - usaspending
@@ -7437,14 +7437,14 @@ US FEDERAL GOVERNMENT - budget, cisagov, federalregister, opmgov, samgov, usagov
 │   ├── DEPT OF COMMERCE NOAA - usaspending
 │   └── DEPT OF COMMERCE NOAA - usaspending
 ├── National Ocean Service - usagov
-├── National Nuclear Security Administration - federalregister, usagov
+├── National Nuclear Security Administration - digitalregistry, federalregister, usagov
 ├── National Mediation Board - usagov
 ├── NOAA Fisheries - usagov
 ├── National Library of Medicine - federalregister, usagov, usaspending
 ├── National Laboratories - usagov
 ├── National Labor Relations Board - usagov
 ├── National Interagency Fire Center - usagov, usaspending
-├── National Institutes of Health - federalregister, usagov, usaspending, usgovmanual
+├── National Institutes of Health - digitalregistry, federalregister, usagov, usaspending, usgovmanual
 │   ├── NIH National Institute of Allergy and Infectious Diseases - usaspending
 │   ├── NIH National Cancer Institute - usaspending
 │   ├── NIH National Heart, Lung, and Blood Institute - usaspending
@@ -7498,7 +7498,7 @@ US FEDERAL GOVERNMENT - budget, cisagov, federalregister, opmgov, samgov, usagov
 │   ├── NATIONAL INSTITUTES OF HEALTH NIBIB - usaspending
 │   ├── NATIONAL INSTITUTES OF HEALTH NCCIH - usaspending
 │   └── NATIONAL INSTITUTES OF HEALTH NIGMS - usaspending
-├── National Institute of Standards and Technology - federalregister, usagov, usaspending, usgovmanual
+├── National Institute of Standards and Technology - digitalregistry, federalregister, usagov, usaspending, usgovmanual
 │   └── DEPT OF COMMERCE NIST - usaspending
 ├── National Institute of Occupational Safety and Health - usagov
 ├── National Institute of Neurological Disorders and Stroke - usagov, usaspending
@@ -7535,7 +7535,7 @@ US FEDERAL GOVERNMENT - budget, cisagov, federalregister, opmgov, samgov, usagov
 ├── National Cemetery Administration - usagov
 ├── National Capital Planning Commission - usagov
 ├── Office of the Federal Register - usagov
-├── Office of the Director of National Intelligence - usagov, usgovmanual
+├── Office of the Director of National Intelligence - digitalregistry, usagov, usgovmanual
 ├── Office of the Comptroller of the Currency - usagov, usaspending, usgovmanual
 │   └── COMPTROLLER OF CURRENCY ACQS - usaspending
 ├── Office of the Assistant Secretary for Research and Technology - usagov
@@ -7543,7 +7543,7 @@ US FEDERAL GOVERNMENT - budget, cisagov, federalregister, opmgov, samgov, usagov
 ├── Office of Nuclear Energy - usagov
 ├── Office of Natural Resources Revenue - usagov
 ├── Office of National Drug Control Policy - federalregister, usagov, usgovmanual
-├── Office of Management and Budget - usagov, usgovmanual
+├── Office of Management and Budget - digitalregistry, usagov, usgovmanual
 ├── Office of Local Defense Community Cooperation - usagov, usaspending
 │   └── OFFICE OF ECONOMIC ADJUSTMENT (OEA) - usaspending
 ├── Office of Lead Hazard Control and Healthy Homes - usagov, usaspending
@@ -7599,7 +7599,7 @@ US FEDERAL GOVERNMENT - budget, cisagov, federalregister, opmgov, samgov, usagov
 ├── U.S. Department of Agriculture - usagov
 ├── U.S. Cyber Command - usagov, usaspending
 │   └── CYBER PROCUREMENT OFFICE - usaspending
-├── U.S. Customs and Border Protection - federalregister, usagov, usaspending
+├── Customs and Border Protection - digitalregistry, federalregister, usagov, usaspending
 │   ├── ADMINISTRATION FACILITIES TRAINING CONTRACTING DIVISION - usaspending
 │   ├── INFORMATION TECHNOLOGY CONTRACTING DIVISION - usaspending
 │   ├── BORDER ENFORCEMENT CONTRACTING DIVISION - usaspending
@@ -7653,7 +7653,7 @@ US FEDERAL GOVERNMENT - budget, cisagov, federalregister, opmgov, samgov, usagov
 │   ├── BASE CHARLESTON - usaspending
 │   └── RESEARCHDEVELOPMENT CNTR(00032) - usaspending
 ├── U.S. Army Corps of Engineers - usagov
-├── U.S. Army - usagov
+├── U.S. Army - digitalregistry, usagov
 ├── U.S. Arctic Research Commission - usagov
 ├── U.S. Air Force Reserve Command - usagov
 ├── U.S. Air Force - usagov
@@ -7663,7 +7663,7 @@ US FEDERAL GOVERNMENT - budget, cisagov, federalregister, opmgov, samgov, usagov
 ├── Council of the Inspectors General on Integrity and Efficiency - usagov
 ├── Dwight D. Eisenhower School for National Security and Resource Strategy - usagov
 ├── Indoor Air Quality - usagov
-├── Indian Health Service - federalregister, usagov, usaspending, usgovmanual
+├── Indian Health Service - digitalregistry, federalregister, usagov, usaspending, usgovmanual
 │   ├── IHS OFFICE OF THE DIRECTOR - usaspending
 │   ├── IHS Office of Management Services/Division of Grants Management - usaspending
 │   ├── NAVAJO AREA INDIAN HEALTH SVC - usaspending
@@ -7689,7 +7689,7 @@ US FEDERAL GOVERNMENT - budget, cisagov, federalregister, opmgov, samgov, usagov
 │   ├── INVESTIGATIONS AND OPERATIONS SUPPORT DALLAS - usaspending
 │   ├── OFFICE OF FACILITY MANAGEMENT - usaspending
 │   └── DETENTION MANAGEMENT LAGUNA - usaspending
-├── U.S. Citizenship and Immigration Services - federalregister, usagov, usaspending
+├── U.S. Citizenship and Immigration Services - digitalregistry, federalregister, usagov, usaspending
 │   ├── USCIS CONTRACTING OFFICE(ERBUR) - usaspending
 │   └── Grants and Financial Assistance Division - usaspending
 ├── Office of Immigrant and Employee Rights - usagov
@@ -7717,7 +7717,7 @@ US FEDERAL GOVERNMENT - budget, cisagov, federalregister, opmgov, samgov, usagov
 │   ├── OJP OA BUSINESS RESOURCES - usaspending
 │   ├── OJP OCIO BUSINESS TECHNOLOGY - usaspending
 │   └── OJP EQUAL EMPLOYMENT OFFICE - usaspending
-├── U.S. Department of Justice - usagov
+├── U.S. Department of Justice - digitalregistry, usagov
 ├── Judicial Panel on Multidistrict Litigation - usagov, usgovmanual
 ├── U.S. Courts of Appeal - usagov
 ├── Joint Program Executive Office for Chemical and Biological Defense - usagov
@@ -7847,7 +7847,7 @@ US FEDERAL GOVERNMENT - budget, cisagov, federalregister, opmgov, samgov, usagov
 ├── Pension Benefit Guaranty Corporation - federalregister, usagov, usaspending, usgovmanual
 │   ├── PENSION BENEFIT GUARANTY CORP - usaspending
 │   └── Pension Benefit Guaranty Corporation - usaspending
-├── Peace Corps - federalregister, usagov, usaspending, usgovmanual
+├── Peace Corps - digitalregistry, federalregister, usagov, usaspending, usgovmanual
 │   ├── PEACE CORPS OACM - usaspending
 │   └── Peace Corps - usaspending
 ├── U.S. Patent and Trademark Office - usagov, usaspending
@@ -7913,7 +7913,7 @@ US FEDERAL GOVERNMENT - budget, cisagov, federalregister, opmgov, samgov, usagov
 ├── Saint Lawrence Seaway Development Corporation - federalregister, usagov, usaspending
 │   └── 6923G5 GREAT LAKES ST LAWRENCE SWY DEV. CORP. - usaspending
 ├── U.S. Trustee Program - usagov
-├── U.S. Department of the Treasury - usagov
+├── U.S. Department of the Treasury - digitalregistry, usagov
 ├── Transportation Security Administration - federalregister, usagov, usaspending
 │   ├── SECURITY TECHNOLOGY - usaspending
 │   ├── MISSION ESSENTIALS - usaspending
@@ -8495,7 +8495,7 @@ US FEDERAL GOVERNMENT - budget, cisagov, federalregister, opmgov, samgov, usagov
 ├── United States African Development Foundation - usgovmanual
 ├── Trade and Development Agency - usgovmanual
 ├── United States Agency for Global Media - usgovmanual
-├── United States Agency for International Development - usgovmanual
+├── United States Agency for International Development - digitalregistry, usgovmanual
 ├── United States Commission on Civil Rights - usgovmanual
 ├── United States International Trade Commission - usgovmanual
 ├── United States Office of Special Counsel - usgovmanual
@@ -8515,9 +8515,69 @@ US FEDERAL GOVERNMENT - budget, cisagov, federalregister, opmgov, samgov, usagov
 ├── International Organization for Migration - usgovmanual
 ├── Organization of American States - usgovmanual
 ├── United Nations - usgovmanual
-└── World Bank Group - usgovmanual
-    ├── International Bank for Reconstruction and Development - usgovmanual
-    ├── International Centre for Settlement of Investment Disputes - usgovmanual
-    ├── International Development Association - usgovmanual
-    ├── International Finance Corporation - usgovmanual
-    └── Multilateral Investment Guarantee Agency - usgovmanual
+├── World Bank Group - usgovmanual
+│   ├── International Bank for Reconstruction and Development - usgovmanual
+│   ├── International Centre for Settlement of Investment Disputes - usgovmanual
+│   ├── International Development Association - usgovmanual
+│   ├── International Finance Corporation - usgovmanual
+│   └── Multilateral Investment Guarantee Agency - usgovmanual
+├── U.S. Department of Health & Human Services - digitalregistry
+├── Centers for Disease Control and Prevention - digitalregistry
+├── Consumer Protection Finance Bureau - digitalregistry
+├── Department of Labor - digitalregistry
+├── U.S. Department of Justice - digitalregistry
+├── National Archives - digitalregistry
+├── General Services Administration - digitalregistry
+├── U.S. Department of the Treasury - digitalregistry
+├── Department of Commerce - digitalregistry
+├── Department of Agriculture - digitalregistry
+├── US Geological Survey - digitalregistry
+├── Department of the Interior - digitalregistry
+├── National Oceanic and Atmospheric Administration - digitalregistry
+├── Office of Personnel Management  - digitalregistry
+├── US Fish and Wildlife - digitalregistry
+├── Environmental Protection Agency - digitalregistry
+├── Library of Congress - digitalregistry
+├── National Institutes of Health - digitalregistry
+├── Department of Energy - digitalregistry
+├── Federal Energy Regulatory Commission - digitalregistry
+├── Corporation for National and Community Service - digitalregistry
+├── Federal Reserve Board - digitalregistry
+├── Board of Governors of the Federal Reserve System - digitalregistry
+├── Health Resources & Services Administration - digitalregistry
+├── Department of State - digitalregistry
+├── Consumer Product Safety Commission - digitalregistry
+├── Federal Trade Commission - digitalregistry
+├── Architect of the Capitol - digitalregistry
+├── Department of Defense - digitalregistry
+├── United States Agency for International Development - digitalregistry
+├── Food and Drug Administration - digitalregistry
+├── National Park Service - digitalregistry
+├── U.S. Government Publishing Office - digitalregistry
+├── National Nuclear Security Administration - digitalregistry
+├── United States Air Force - digitalregistry
+├── U.S. Army - digitalregistry
+├── Department of Veterans Affairs - digitalregistry
+├── U.S. Bureau of Reclamation - digitalregistry
+├── U.S. Agency for Global Media - digitalregistry
+├── Federal Emergency Management Agency - digitalregistry
+├── U.S. Courts - digitalregistry
+├── Indian Health Service - digitalregistry
+├── Peace Corps - digitalregistry
+├── U.S. Citizenship and Immigration Services - digitalregistry
+├── Department of Homeland Security - digitalregistry
+├── Customs and Border Protection - digitalregistry
+├── Navy - digitalregistry
+├── United States Nuclear Regulatory Commission - digitalregistry
+├── Department of Housing and Urban Development - digitalregistry
+├── Department of Education - digitalregistry
+├── National Institute of Standards and Technology - digitalregistry
+├── Office of the Director of National Intelligence - digitalregistry
+├── U.S. Energy Information Administration - digitalregistry
+├── Military Health System and Defense Health Agency - digitalregistry
+├── National Labor Relations Board - digitalregistry
+├── U.S. Office of Government Ethics - digitalregistry
+├── Federal Bureau of Prisons - digitalregistry
+├── National Telecommunications and Information Administration - digitalregistry
+├── Office of Management and Budget - digitalregistry
+└── USMC - digitalregistry
