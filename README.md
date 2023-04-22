@@ -14,6 +14,8 @@ Current sources:
 * [CISA .gov data](https://github.com/cisagov/dotgov-data)
 * [FY 2024 Federal Budget Outlays](https://www.govinfo.gov/app/details/BUDGET-2024-DB/BUDGET-2024-DB-2)
 * [USASpending API Agencies & Sub-agencies](https://api.usaspending.gov/)
+* [United States Government Manual](https://www.govinfo.gov/app/collection/GOVMAN)
+* [U.S. Digital Registry](https://touchpoints.app.cloud.gov/registry/)
 
 Each source is scraped (see [out](out) directory) in raw JSON format, including fields for the organizational unit name/parent (if any), unique ID/parent-ID fields (if the names are not unique) as well as any other attribute data for that organization available from that source.
 

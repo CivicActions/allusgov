@@ -2,7 +2,7 @@
 #
 
 from .exporter import exporter
-from .importer import importer, samgov_importer
+from .importer import importer, samgov_importer, digitalregistry_importer
 from .processor import normalize_name
 from .spider import (
     budget,
@@ -13,6 +13,7 @@ from .spider import (
     usagov,
     usaspending,
     usgovmanual,
+    digitalregistry,
 )
 
 # Source settings
@@ -48,6 +49,10 @@ SOURCES = {
     "usgovmanual": {
         "importer": importer.Importer,
         "spider": usgovmanual.USGovManualSpider,
+    },
+    "digitalregistry": {
+        "importer": digitalregistry_importer.DigitalRegistryImporter,
+        "spider": digitalregistry.DigitalRegistrySpider,
     },
 }
 

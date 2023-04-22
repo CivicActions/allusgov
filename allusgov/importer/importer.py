@@ -14,6 +14,7 @@ class Importer:
         self.logger = logger
         self.source_name = source_name
         self.data_dir = data_dir
+        self.data = self.load_data()
 
     def load_data(self) -> List[Dict]:
         """
@@ -53,7 +54,7 @@ class Importer:
                 child["name"] = "[" + source_name + "] " + child[source_name]["name"]
                 # If the ID is not the same as the name, append the ID to the name
                 if child[source_name]["name"] != item_id:
-                    child["name"] = child["name"] + " (" + item_id + ")"
+                    child["name"] = child["name"] + " (" + str(item_id) + ")"
                 child["children"] = self.build_tree(
                     ids, attributes, item_id, source_name
                 )
@@ -67,10 +68,9 @@ class Importer:
         Returns:
             Node: A tree represented as nested Node objects.
         """
-        data = self.load_data()
         ids = {}
         attributes: Dict[str, Dict[str, Any]] = {}
-        for item in data:
+        for item in self.data:
             key = "name"
             parent_key = "parent"
             if "id" in item:
