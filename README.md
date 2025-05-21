@@ -38,27 +38,30 @@ Note that the fuzzy matching is imperfect and may have some inaccurate mappings 
 
 The final merged dataset is written in the above formats to the [data/merged](data/merged) directory.
 
+
 ## Setup
 
 ### Requirements
 
-* Python 3.10+
-* [Poetry](https://python-poetry.org/)
+- Python 3.12+
+- [uv](https://github.com/astral-sh/uv) (automatically installed in the container or install manually via `pipx install uv`)
 
 ### Installation
 
-Check out this repository, then from the repository root, install dependencies:
+Clone this repository, then install dependencies with:
 
-```text
-$ poetry install
+```bash
+uv sync
 ```
 
-See command line usage:
-```text
-poetry run allusgov --help
+Run the CLI:
+
+```bash
+uv run allusgov --help
 ```
 
 Run a complete scrape and merge:
-```text
-poetry run allusgov
+
+```bash
+uv run allusgov
 ```
