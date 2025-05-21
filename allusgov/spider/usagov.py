@@ -46,9 +46,7 @@ class UsagovSpider(scrapy.Spider):
                 callback=self.parse_agency,
             )
 
-    def parse_agency(
-        self, response: HtmlResponse, **kwargs: Any
-    ) -> Iterator[
+    def parse_agency(self, response: HtmlResponse, **kwargs: Any) -> Iterator[
         Union[
             Request,
             Dict[str, Union[List[Dict[str, str]], str, Dict[str, str], List[str]]],
