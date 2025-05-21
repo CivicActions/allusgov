@@ -1,6 +1,6 @@
 [project]
 name = "allusgov"
-version = "0.0.0"
+version = "0.1.0"
 description = "This project attempts to map the organization of the US Federal Government by gathering and consolidating information from various directories."
 authors = [{ name = "Owen Barton", email = "owen.barton@civicactions.com" }]
 license = { text = "GPL-3.0-or-later" }
