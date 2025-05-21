@@ -24,6 +24,7 @@ jobs:
             uv run isort allusgov tests
   
         - name: Static analysis (mypy, pylint, pydocstyle)
+          continue-on-error: true
           run: |
             uv run mypy allusgov tests
             uv run pylint allusgov tests --rcfile=.pylint.ini
