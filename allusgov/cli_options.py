@@ -10,6 +10,7 @@ from . import settings
 logger = logging.getLogger(__name__)
 click_log.basic_config(logger)
 
+
 # Global options decorator
 def global_options(func):
     func = click_log.simple_verbosity_option(logger)(func)
@@ -28,9 +29,9 @@ def sources_options(func):
     func = click.argument(
         "sources",
         nargs=-1,
-        callback=lambda ctx, param, value: value
-        if value
-        else list(settings.SOURCES.keys()),
+        callback=lambda ctx, param, value: (
+            value if value else list(settings.SOURCES.keys())
+        ),
     )(func)
     return func
 

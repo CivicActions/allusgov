@@ -17,6 +17,7 @@ acronym_sources = {
     "dod": DoDAcronymsSpider,
 }
 
+
 # Create an exception type for exiting from the TUI
 class ExitTUI(Exception):
     pass
