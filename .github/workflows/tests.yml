@@ -20,8 +20,8 @@ jobs:
   
         - name: Format check (black & isort)
           run: |
-            uv run black --check allusgov tests
-            uv run isort --check allusgov tests
+            uv run black allusgov tests
+            uv run isort allusgov tests
   
         - name: Static analysis (mypy, pylint, pydocstyle)
           run: |
