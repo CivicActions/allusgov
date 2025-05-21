@@ -1,0 +1,11 @@
+{
+  "includePaths": ["pyproject.toml", "allusgov"],
+  "packages": {
+    ".": {
+      "release-type": "python",
+      "extra-files": [
+        "allusgov/__init__.py"
+      ]
+    }
+  }
+}
