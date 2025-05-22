@@ -1,0 +1,67 @@
+name: 🗂️ New Data Source
+description: Propose a new official source of US organizational data for scraping and integration.
+title: "[Data Source] <Brief Description>"
+labels: [🗂️ Data Source,📥 Needs Review]
+
+body:
+  - type: input
+    attributes:
+      label: Source Name
+      description: Name of the government source or dataset.
+      placeholder: "e.g., GSA Organization Directory"
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Source URL or Access Method
+      description: Provide a direct link to the dataset or describe how to access it (e.g., API, scraping, FOIA).
+      placeholder: "https://example.gov/api or 'Requires FOIA to XYZ agency'"
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Scope and Contents
+      description: Describe what this data includes—e.g., agency names, parent-child structure, metadata, etc.
+      placeholder: "Contains a list of GSA offices with hierarchy, contact info, and office codes."
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Expected Processing Steps
+      description: List expected steps required for integration.
+      placeholder: |
+        - API pagination
+        - JSON normalization
+        - Extract parent relationships
+        - Normalize agency names
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Value to the Project
+      description: Explain what value this source adds to mapping the federal government.
+      placeholder: "Fills gaps in GSA subcomponents not available in other sources..."
+    validations:
+      required: true
+
+  - type: checkboxes
+    attributes:
+      label: Data Characteristics
+      description: Identify features of the data.
+      options:
+        - label: Includes hierarchy or parent/child relationships
+        - label: Includes contact or address info
+        - label: Has unique IDs or codes per entry
+        - label: Regularly updated
+        - label: Open/public domain
+        - label: Requires scraping (no API)
+
+  - type: textarea
+    attributes:
+      label: Known Issues or Limitations
+      description: Note any limitations (e.g., outdated data, inconsistent formats, missing fields).
+      placeholder: "Agency names are inconsistent; lacks parent IDs."
