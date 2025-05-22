@@ -1,5 +1,17 @@
 # Release Notes
 
+## [0.2.0](https://github.com/CivicActions/allusgov/compare/v0.1.0...v0.2.0) (2025-05-22)
+
+
+### Features
+
+* **templates:** add new add data source template ([da01fa1](https://github.com/CivicActions/allusgov/commit/da01fa1c7c25e9eba8e2ebbda4c24ae53f3c8dfc))
+
+
+### Bug Fixes
+
+* **templates:** fix issue conf schema and data ([ee4fc15](https://github.com/CivicActions/allusgov/commit/ee4fc1576318c3b22195476dc8b1e023ed2c0259))
+
 ## 0.1.0 (2025-05-21)
 
 
