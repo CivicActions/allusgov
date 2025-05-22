@@ -27,9 +27,12 @@ class SamgovSpider(scrapy.Spider):
     def start_requests(self) -> Iterator[Request]:
         yield scrapy.Request(url=self.url(), callback=self.parse)
 
-    def parse(
-        self, response: TextResponse, **kwargs: Any
-    ) -> Iterator[Union[Request, Dict[str, Any],]]:
+    def parse(self, response: TextResponse, **kwargs: Any) -> Iterator[
+        Union[
+            Request,
+            Dict[str, Any],
+        ]
+    ]:
         data = response.json()
         if (
             url_query_parameter(response.url, "offset") is None

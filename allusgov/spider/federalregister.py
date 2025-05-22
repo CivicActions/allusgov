@@ -13,9 +13,12 @@ class FederalRegisterSpider(scrapy.Spider):
     def start_requests(self) -> Iterator[Request]:
         yield scrapy.Request(url=self.start_url, callback=self.parse)
 
-    def parse(
-        self, response: TextResponse, **kwargs: Any
-    ) -> Iterator[Union[Request, Dict[str, Union[int, str, None, float]],]]:
+    def parse(self, response: TextResponse, **kwargs: Any) -> Iterator[
+        Union[
+            Request,
+            Dict[str, Union[int, str, None, float]],
+        ]
+    ]:
         agencies = response.json()
         for agency in agencies:
             # The JSON structure magically exactly matches almost exactly what we need!

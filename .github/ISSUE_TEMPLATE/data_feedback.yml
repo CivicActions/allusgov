@@ -1,0 +1,43 @@
+name: 📊 Data Feedback
+description: Provide feedback or report issues with the election data from Louisiana in the /data directory.
+title: "[Data Feedback] <Brief Description>"
+labels: [📊 Data Feedback]
+
+body:
+  - type: textarea
+    attributes:
+      label: Detailed Feedback
+      description: "Provide a detailed explanation of the feedback or the issue found in the data."
+      placeholder: "Describe the issue or your feedback in detail here..."
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Location in Data
+      description: "Specify the file(s) and, if possible, the exact location in the file where the issue occurs."
+      placeholder: "e.g., /data/results/2023/primary.csv, line 142"
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Suggested Changes or Corrections
+      description: "If applicable, suggest any changes or corrections to the data."
+      placeholder: "Suggest how to correct or improve the data here..."
+
+  - type: checkboxes
+    attributes:
+      label: Type of Feedback
+      description: "Select the type(s) of feedback you are providing. Select all that apply."
+      options:
+        - label: Inaccuracies
+        - label: Missing Data
+        - label: Formatting Issues
+        - label: Other
+
+  - type: textarea
+    attributes:
+      label: Additional Context
+      description: "Provide any additional context or information that could be helpful, such as sources, references, or related documents."
+      placeholder: "(Optional) Put more details here to help us understand the issue."

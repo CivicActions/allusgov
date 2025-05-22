@@ -1,0 +1,13 @@
+---
+blank_issues_enabled: false
+
+
+notice: The data in this repository is raw and not processed. For cleaned and processed election data from Louisiana, please visit our other repositories.
+
+contact_links:
+  - name: Cleaner Data
+    url: https://github.com/openelections/openelections-data-la
+    about: This is where we store the data from this repo once we clean it.
+  - name: Cleanest Data
+    url: https://github.com/openelections/openelections-results-la
+    about: The best version of the state election data

@@ -1,123 +1,104 @@
-[tool.poetry]
-
+[project]
 name = "allusgov"
-version = "0.0"
+version = "0.1.0"
 description = "This project attempts to map the organization of the US Federal Government by gathering and consolidating information from various directories."
-
-packages = [{ include = "allusgov" }]
-
-license = "GPL-3.0-or-later"
-authors = ["Owen Barton <owen.barton@civicactions.com>"]
-
+authors = [{ name = "Owen Barton", email = "owen.barton@civicactions.com" }]
+license = { text = "GPL-3.0-or-later" }
 readme = "README.md"
+requires-python = ">=3.12,<3.13"
+packages = [{ include = "allusgov" }]
+keywords = []
+classifiers = [
+  "Development Status :: 1 - Planning",
+  "Natural Language :: English",
+  "Operating System :: OS Independent",
+  "Programming Language :: Python",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.12",
+]
+dependencies = [
+    "beautifulsoup4",
+    "bigtree[image]",
+    "click",
+    "click-log",
+    "flatten-json",
+    "lxml>=5.2.1,<6",
+    "natsort",
+    "networkx[default]",
+    "nltk",
+    "numpy>=1.26.4,<2",
+    "pandas>=2.2.2",
+    "polars",
+    "python-dotenv",
+    "questionary",
+    "rapidfuzz",
+    "scrapy>=2.13.0",
+    "spacy",
+    "xlsx2csv",
+]
+
+
+[project.urls]
 homepage = "https://pypi.org/project/allusgov"
 repository = "https://github.com/civicactions/allusgov"
+# documentation = "https://docs.allgov.us/"
+changelog = "https://github.com/CivicActions/allusgov/blob/main/CHANGELOG.md"
 
-keywords = [
-]
-classifiers = [
-    # TODO: update this list to match your application: https://pypi.org/pypi?%3Aaction=list_classifiers
-    "Development Status :: 1 - Planning",
-    "Natural Language :: English",
-    "Operating System :: OS Independent",
-    "Programming Language :: Python",
-    "Programming Language :: Python :: 3",
-    "Programming Language :: Python :: 3.11",
-]
-
-[tool.poetry.dependencies]
-python = ">=3.10,<3.12"
-click = "*"
-scrapy = "^2.8.0"
-polars = "^0.16.18"
-xlsx2csv = "^0.8.1"
-python-dotenv = "^1.0.0"
-networkx = {extras = ["default"], version = "^3.0"}
-bigtree = {extras = ["image"], version = "^0.9.1"}
-flatten-json = "^0.1.13"
-rapidfuzz = "^2.15.0"
-click-log = "^0.4.0"
-natsort = "^8.3.1"
-spacy = "^3.5.1"
-beautifulsoup4 = "^4.12.2"
-questionary = "^1.10.0"
-nltk = "^3.8.1"
-lxml = "^4.9.2"
-
-[tool.poetry.dev-dependencies]
-
-# Formatters
-black = "^22.1"
-tomli = "*" # missing 'black' dependency
-isort = "^5.10"
-
-# Linters
-mypy = "^1.0"
-pydocstyle = "^6.1"
-pylint = "~2.15"
-wrapt = "*" # missing 'pylint' dependency
-
-# Testing
-pytest = "^7.1"
-pytest-describe = "^2.0"
-pytest-expecter = "^3.0"
-pytest-random = "*"
-pytest-cov = "^4.0"
-freezegun = "*"
-
-# Reports
-coveragespace = "^6.0"
-
-# Documentation
-
-# Tooling
-pyinstaller = "*"
-sniffer = "*"
-MacFSEvents = { version = "*", platform = "darwin" }
-pync = { version = "*", platform = "darwin" }
-ipython = "^7.12.0"
-
-[tool.poetry.scripts]
-
+[project.scripts]
 allusgov = "allusgov.cli:main"
 
-[tool.poetry.group.dev.dependencies]
-tabula-py = "^2.7.0"
+[dependency-groups]
+dev = [
+    "black",
+    "coveragespace",
+    "freezegun",
+    "ipython",
+    "isort",
+    "mypy",
+    "pydocstyle",
+    "pyinstaller",
+    "pylint",
+    "pync ; sys_platform == 'darwin'",
+    "pytest",
+    "pytest-cov",
+    "pytest-describe",
+    "pytest-expecter",
+    "pytest-random",
+    "sniffer",
+    "tabula-py",
+    "tomli",
+    "wrapt",
+]
+
 
 [tool.black]
-
 quiet = true
 
 [tool.isort]
-
 profile = "black"
 
 [tool.mypy]
-
 ignore_missing_imports = true
 no_implicit_optional = true
 check_untyped_defs = true
-
 cache_dir = ".cache/mypy/"
 
 [tool.pytest.ini_options]
-
 addopts = """
 --strict-markers
-
 -r sxX
 --show-capture=log
-
 --cov-report=html
 --cov-report=term-missing:skip-covered
 --no-cov-on-fail
 """
-
 cache_dir = ".cache/pytest/"
-
 markers = []
 
 [build-system]
-
 requires = ["poetry-core>=1.0.0"]
 build-backend = "poetry.core.masonry.api"
+
+
+
+

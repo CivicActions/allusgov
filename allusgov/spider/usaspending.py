@@ -32,9 +32,12 @@ class UsaspendingSpider(scrapy.Spider):
             + str(page)
         )
 
-    def parse(
-        self, response: TextResponse, **kwargs: Any
-    ) -> Iterator[Union[Request, Dict[str, Union[int, str, None, float]],]]:
+    def parse(self, response: TextResponse, **kwargs: Any) -> Iterator[
+        Union[
+            Request,
+            Dict[str, Union[int, str, None, float]],
+        ]
+    ]:
         """Handle the top level of agencies which each need their own request."""
         agencies = response.json()["results"]
         for agency in agencies:

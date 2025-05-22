@@ -1,0 +1,41 @@
+name: 📚 Documentation
+description: Used for suggesting improvements or updates to project documentation.
+title: "[Documentation] <Short Description>"
+labels: [📚 Documentation]
+
+body:
+  - type: textarea
+    attributes:
+      label: Detailed Description
+      description: "Explain the documentation change or addition. Include any specific sections or topics that need attention."
+      placeholder: "Describe the issue or improvement in detail here..."
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Acceptance Criteria
+      description: "List specific requirements that need to be met for this documentation task to be considered complete."
+      placeholder: |
+        "- [ ] Requirement 1"
+        "- [ ] Requirement 2"
+        "- [ ] Requirement 3"
+    validations:
+      required: true
+
+  - type: checkboxes
+    attributes:
+      label: Priority Level
+      description: "Select the priority level for this documentation task."
+      options:
+        - label: Low
+        - label: Medium
+        - label: High
+
+  - type: textarea
+    attributes:
+      label: Examples and References
+      description: "If possible, provide examples or references to similar documentation improvements."
+      placeholder: "Examples of good documentation practices or similar improvements..."
+    validations:
+      required: false
