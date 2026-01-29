@@ -29,11 +29,11 @@ sources:
     spider: spider.digitalregistry.DigitalRegistrySpider
 
 exporters:
-  text: exporter.TextExporter
-  json: exporter.JSONExporter
-  csv: exporter.CSVExporter
-  widecsv: exporter.WideCSVExporter
-  dot: exporter.DotExporter
-  gexf: exporter.GEXFExporter
-  graphml: exporter.GraphMLExporter
-  cyjs: exporter.CytoscapeJSONExporter
+  text: exporter.exporter.TextExporter
+  json: exporter.exporter.JSONExporter
+  csv: exporter.exporter.CSVExporter
+  widecsv: exporter.exporter.WideCSVExporter
+  dot: exporter.exporter.DotExporter
+  gexf: exporter.exporter.GEXFExporter
+  graphml: exporter.exporter.GraphMLExporter
+  cyjs: exporter.exporter.CytoscapeJSONExporter
