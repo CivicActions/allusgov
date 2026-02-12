@@ -1,5 +1,14 @@
 # Release Notes
 
+## [0.3.0](https://github.com/CivicActions/allusgov/compare/v0.2.0...v0.3.0) (2026-02-12)
+
+
+### Features
+
+* adding importlib to load config dynamically. ([d169cae](https://github.com/CivicActions/allusgov/commit/d169cae09746c55923d0e7ba74e30645a11807f6))
+* adding importlib to load config dynamically. ([1756c0e](https://github.com/CivicActions/allusgov/commit/1756c0ef3bdde2adef0e474828c99318a80fe79a))
+* updating exporters in yaml file. ([9ffae38](https://github.com/CivicActions/allusgov/commit/9ffae3820445c8752f97a1c4b0991852b9910fd0))
+
 ## [0.2.0](https://github.com/CivicActions/allusgov/compare/v0.1.0...v0.2.0) (2025-05-22)
 
 
