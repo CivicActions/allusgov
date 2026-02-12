@@ -30,6 +30,7 @@ dependencies = [
     "pandas>=2.2.2",
     "polars",
     "python-dotenv",
+    "pyyaml>=6.0.3",
     "questionary",
     "rapidfuzz",
     "scrapy>=2.13.0",

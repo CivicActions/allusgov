@@ -23,8 +23,7 @@ uv sync
 ## Branching & Contribution Guidelines
 
 - All contributions should be made in a **feature branch** off of `develop`
-- Open a **pull request into `develop`**, not `main`
-- The `main` branch is reserved for releases and deploys
+- Open a **pull request into `main`**
 - Releases are automatically generated from `develop` using [`release-please`](https://github.com/googleapis/release-please)
 
 ## Commit Conventions

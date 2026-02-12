@@ -52,16 +52,7 @@ SOURCES = {
 }
 
 # Exporter settings
-EXPORTERS = {
-    "text": exporter.TextExporter,
-    "json": exporter.JSONExporter,
-    "csv": exporter.CSVExporter,
-    "widecsv": exporter.WideCSVExporter,
-    "dot": exporter.DotExporter,
-    "gexf": exporter.GEXFExporter,
-    "graphml": exporter.GraphMLExporter,
-    "cyjs": exporter.CytoscapeJSONExporter,
-}
+EXPORTERS: dict = config.get("exporters", {})
 
 # Merge settings
 MERGE_BASE = "samgov"

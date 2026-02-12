@@ -1,0 +1,39 @@
+---
+sources:
+  samgov:
+    importer: importer.samgov_importer.SamgovImporter
+    spider: spider.samgov.SamgovSpider
+  budget:
+    importer: importer.importer.Importer
+    spider: spider.budget.BudgetSpider
+  cisagov:
+    importer: importer.importer.Importer
+    spider: spider.cisagov.CisagovSpider
+  opmgov:
+    importer: importer.importer.Importer
+    spider: spider.opmgov.OpmgovSpider
+  usagov:
+    importer: importer.importer.Importer
+    spider: spider.usagov.UsagovSpider
+  usaspending:
+    importer: importer.importer.Importer
+    spider: spider.usaspending.UsaspendingSpider
+  federalregister:
+    importer: importer.importer.Importer
+    spider: spider.federalregister.FederalRegisterSpider
+  usgovmanual:
+    importer: importer.importer.Importer
+    spider: spider.usgovmanual.USGovManualSpider
+  digitalregistry:
+    importer: importer.digitalregistry_importer.DigitalRegistryImporter
+    spider: spider.digitalregistry.DigitalRegistrySpider
+
+exporters:
+  text: exporter.exporter.TextExporter
+  json: exporter.exporter.JSONExporter
+  csv: exporter.exporter.CSVExporter
+  widecsv: exporter.exporter.WideCSVExporter
+  dot: exporter.exporter.DotExporter
+  gexf: exporter.exporter.GEXFExporter
+  graphml: exporter.exporter.GraphMLExporter
+  cyjs: exporter.exporter.CytoscapeJSONExporter
