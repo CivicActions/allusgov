@@ -81,3 +81,7 @@ Icon[
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Pre-commit
+.flake8
+.pre-commit-config.yaml
