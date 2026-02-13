@@ -1,7 +1,8 @@
 # Settings for allusgov project
 #
 
-from .exporter import exporter
+from allusgov.utils.yaml_loader import load_yaml_with_imports
+
 from .importer import importer, samgov_importer
 from .processor import normalize_name
 from .spider import (
@@ -14,6 +15,8 @@ from .spider import (
     usaspending,
     usgovmanual,
 )
+
+config: dict = load_yaml_with_imports("allusgov/config.yaml")
 
 # Source settings
 SOURCES = {

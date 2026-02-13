@@ -1,10 +1,13 @@
 import os
 from logging import Logger
+from pathlib import Path
 from typing import Optional
 
 from bigtree.node.node import Node
 from scrapy.settings import Settings
 from scrapy.utils.project import get_project_settings
+
+BASE_PATH = Path(__file__).resolve().parents[1]
 
 
 def full_name(org: Optional[Node], source_name: str) -> str:
