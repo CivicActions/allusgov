@@ -10,6 +10,7 @@ from bigtree import Node, levelorder_iter
 
 from allusgov import settings
 from allusgov.cli_options import build_options, logger, sources_options
+from allusgov.models.managers import ExportManager
 
 
 def build(sources: list[str], exporters: list[str], to_export: bool) -> dict[str, Node]:
@@ -20,14 +21,14 @@ def build(sources: list[str], exporters: list[str], to_export: bool) -> dict[str
             logger=logger, source_name=source, data_dir=settings.DATA_DIR
         )
         trees[source] = importer.build()
+        exp = ExportManager()
         if to_export:
             for exporter in exporters:
-                settings.EXPORTERS[exporter](
-                    logger=logger,
+                exp.export(
+                    fmt=exporter,
                     source=source,
-                    tree=trees[source],
-                    data_dir=settings.DATA_DIR,
-                ).export()
+                    root=trees[source],
+                )
         # Run post-build processors
         for processor_class in settings.POST_BUILD_PROCESSORS:
             processor = processor_class(logger, source, data_dir=settings.DATA_DIR)
@@ -44,4 +45,4 @@ def build_cmd(
     sources: list[str], exporters: list[str], to_export: bool
 ) -> dict[str, Node]:
     """Build a tree for each of the given sources and optionally export each source."""
-    return build(sources, exporters, to_export)
+    return build(sources=sources, exporters=exporters, to_export=to_export)
