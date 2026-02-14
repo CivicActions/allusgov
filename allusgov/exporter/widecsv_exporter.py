@@ -5,6 +5,7 @@ directory of this distribution and at https://github.com/CivicActions/allusgov#l
 
 import csv
 import re
+from typing import Any
 
 from bigtree import Node
 
@@ -24,13 +25,14 @@ class WideCSVExporter(FlatBaseExporter):
 
     format_key = "widecsv"
 
-    def __init__(self, source: str, tree: Node) -> None:
-        super().__init__(source, tree)
-
-    def export(self, **kwargs) -> None:
-        logger.info("Saving the %s tree in wide CSV format...", self.source)
-        with open(self.export_path("csv", "wide"), "w", encoding="utf8") as f:
-            orgs_flat, attrib_names = self.flatten(max_depth=2)
+    def export(self, source: str, tree: Node, **kwargs: Any) -> None:
+        logger.info("Saving the %s tree in wide CSV format...", source)
+        with open(
+            self.export_path(source=source, ext="csv", suffix="wide"),
+            "w",
+            encoding="utf8",
+        ) as f:
+            orgs_flat, attrib_names = self.flatten(tree=tree, max_depth=2)
             skip_attribs = []
             # TODO: This approach is a hacky and slow, but it works for now.
             for attrib in attrib_names:

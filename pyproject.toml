@@ -33,7 +33,7 @@ dependencies = [
     "pyyaml>=6.0.3",
     "questionary",
     "rapidfuzz",
-    "scrapy>=2.13.0",
+    "scrapy>=2.14.1",
     "spacy",
     "xlsx2csv",
 ]
@@ -99,7 +99,3 @@ markers = []
 [build-system]
 requires = ["poetry-core>=1.0.0"]
 build-backend = "poetry.core.masonry.api"
-
-
-
-

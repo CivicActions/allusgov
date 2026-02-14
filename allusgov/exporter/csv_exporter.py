@@ -3,6 +3,8 @@ Copyright 2019-2026 CivicActions, Inc. See the README file at the top-level
 directory of this distribution and at https://github.com/CivicActions/allusgov#license.
 """
 
+from typing import Any
+
 from bigtree import Node, tree_to_dataframe
 
 from allusgov.cli_options import logger
@@ -16,10 +18,7 @@ class CSVExporter(ExporterBase):
 
     format_key = "csv"
 
-    def __init__(self, source: str, tree: Node) -> None:
-        super().__init__(source, tree)
-
-    def export(self, **kwargs) -> None:
-        logger.info("Saving the %s graph in CSV format...", self.source)
-        df = tree_to_dataframe(self.tree, all_attrs=True)
-        df.to_csv(self.export_path(ext="csv"), index=False)
+    def export(self, source: str, tree: Node, **kwargs: Any) -> None:
+        logger.info("Saving the %s graph in CSV format...", source)
+        df = tree_to_dataframe(tree, all_attrs=True)
+        df.to_csv(self.export_path(source=source, ext="csv"), index=False)

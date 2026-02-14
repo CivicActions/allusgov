@@ -4,6 +4,7 @@ directory of this distribution and at https://github.com/CivicActions/allusgov#l
 """
 
 from io import TextIOWrapper
+from typing import Any
 
 from bigtree import Node, yield_tree
 
@@ -16,9 +17,6 @@ from allusgov.utils.utils import full_name
 @EXPORTERS.register("text")
 class TextTreeExporter(ExporterBase):
     format_key = "text"
-
-    def __init__(self, source: str, tree: Node) -> None:
-        super().__init__(source, tree)
 
     @staticmethod
     def print_tree(
@@ -36,7 +34,9 @@ class TextTreeExporter(ExporterBase):
             name = full_name(org, source)
             print(f"{branch}{stem}{name}{sources}", file=file)
 
-    def export(self, **kwargs) -> None:
-        logger.info("Saving the %s tree in text format...", self.source)
-        with open(self.export_path(ext="txt"), "w", encoding="utf8") as f:
-            self.print_tree(tree=self.tree, source=self.source, file=f)
+    def export(self, source: str, tree: Node, **kwargs: Any) -> None:
+        logger.info("Saving the %s tree in text format...", source)
+        with open(
+            self.export_path(source=source, ext="txt"), "w", encoding="utf8"
+        ) as f:
+            self.print_tree(tree=tree, source=source, file=f)

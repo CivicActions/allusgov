@@ -5,6 +5,7 @@ directory of this distribution and at https://github.com/CivicActions/allusgov#l
 
 import fileinput
 from datetime import datetime
+from typing import Any
 
 import networkx as nx
 from bigtree import Node
@@ -18,15 +19,15 @@ from allusgov.models.registry import EXPORTERS
 class GEXFExporter(NetworkXBaseExporter):
     format_key = "gexf"
 
-    def __init__(self, source: str, tree: Node) -> None:
-        super().__init__(source, tree)
-
-    def export(self, **kwargs) -> None:
-        logger.info("Saving the %s graph in GEXF format...", self.source)
-        nx.write_gexf(self.G, self.export_path("gexf"))
+    def export(self, source: str, tree: Node, **kwargs: Any) -> None:
+        logger.info("Saving the %s graph in GEXF format...", source)
+        graph = self.build_graph(tree=tree)
+        nx.write_gexf(graph, self.export_path(source=source, ext="gexf"))
         # Update the file to remove the lastmodifieddate attribute, which generates spurious diffs
         date = datetime.now().strftime("%Y-%m-%d")
-        with fileinput.input(self.export_path(ext="gexf"), inplace=True) as file:
+        with fileinput.input(
+            self.export_path(source=source, ext="gexf"), inplace=True
+        ) as file:
             for line in file:
                 line = line.replace(' lastmodifieddate="' + date + '"', "")
                 print(line, end="")

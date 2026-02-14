@@ -19,22 +19,17 @@ from allusgov.utils.utils import BASE_PATH
 
 
 class ExporterBase(ABC):
-    source: str
-    tree: Node
     format_key: ClassVar[str]
 
-    def __init__(self, source: str, tree: Node) -> None:
-        self.source = source
-        self.tree = tree
-
-    def export_path(self, ext: str, suffix: str | None = None) -> Path:
+    @staticmethod
+    def export_path(source: str, ext: str, suffix: str | None = None) -> Path:
         file_suffix = f"-{suffix}" if suffix else ""
-        data_path = BASE_PATH.parent / settings.DATA_DIR / self.source
+        data_path = BASE_PATH.parent / settings.DATA_DIR / source
         data_path.mkdir(parents=True, exist_ok=True)
-        return data_path.joinpath(f"{self.source}{file_suffix}.{ext}")
+        return data_path.joinpath(f"{source}{file_suffix}.{ext}")
 
     @abstractmethod
-    def export(self, **kwargs: Any) -> None:
+    def export(self, source: str, tree: Node, **kwargs: Any) -> None:
         raise NotImplementedError
 
 
@@ -51,14 +46,11 @@ class FlatBaseExporter(ExporterBase):
 
     format_key: ClassVar[str]
 
-    def __init__(self, source: str, tree: Node) -> None:
-        super().__init__(source, tree)
-        self.orgs_flat, self.attrib_names = self.flatten()
-
-    def flatten(self, max_depth=None) -> tuple[list[dict[str, Any]], list[str]]:
+    @staticmethod
+    def flatten(tree: Node, max_depth=None) -> tuple[list[dict[str, Any]], list[str]]:
         orgs: list[dict[str, Any]] = []
         attrib_names: set[str] = set()
-        for org in levelorder_iter(self.tree, max_depth=max_depth):
+        for org in levelorder_iter(tree, max_depth=max_depth):
             org = cast(Node, org)
             attrs = {}
             # Create a dict of attributes
@@ -82,7 +74,7 @@ class FlatBaseExporter(ExporterBase):
             orgs.append(flat_attrs)
         return orgs, ["path", "name"] + natsorted(attrib_names)
 
-    def export(self, **kwargs: Any):
+    def export(self, source: str, tree: Node, **kwargs: Any):
         pass
 
 
@@ -91,22 +83,19 @@ class NetworkXBaseExporter(FlatBaseExporter):
 
     format_key: ClassVar[str]
 
-    def __init__(self, source: str, tree: Node) -> None:
-        super().__init__(source, tree)
-        self.G = self.build_graph()
-
-    def build_graph(self) -> DiGraph:
-        G = nx.DiGraph()
-        for org in self.orgs_flat:
+    def build_graph(self, tree: Node) -> DiGraph:
+        orgs_flat, _ = self.flatten(tree=tree, max_depth=2)
+        graph = nx.DiGraph()
+        for org in orgs_flat:
             node = cast(Node, org["node"])
             del org["node"]
             if node.is_root:
-                G.add_node(node.path_name, **org)
+                graph.add_node(node.path_name, **org)
             else:
-                G.add_node(node.path_name, **org)
+                graph.add_node(node.path_name, **org)
                 parent = cast(Node, node.parent)
-                G.add_edge(node.path_name, parent.path_name)
-        return G
+                graph.add_edge(node.path_name, parent.path_name)
+        return graph
 
-    def export(self, **kwargs: Any):
+    def export(self, source: str, tree: Node, **kwargs: Any):
         pass

@@ -11,6 +11,7 @@ from bigtree import Node
 from allusgov import load_plugins_once
 
 # from allusgov.models.importer_base import ImporterBase
+from allusgov.models.exporter_base import ExporterBase
 from allusgov.models.registry import EXPORTERS
 
 # @dataclass
@@ -32,7 +33,8 @@ class ExportManager:
     def export(fmt: str, source: str, root: Node, **kwargs: Any) -> None:
         load_plugins_once()
         exporter_cls = EXPORTERS.get(fmt)
-        exporter_cls(source=source, tree=root)
+        exporter: ExporterBase = exporter_cls()
+        exporter.export(source=source, tree=root, **kwargs)
 
     @staticmethod
     def formats() -> list[str]:

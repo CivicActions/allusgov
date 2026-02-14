@@ -18,12 +18,10 @@ from allusgov.models.registry import EXPORTERS
 class CytoscapeJSONExporter(NetworkXBaseExporter):
     format_key = "cyjs"
 
-    def __init__(self, source: str, tree: Node) -> None:
-        super().__init__(source, tree)
-
-    def export(self, **kwargs: Any) -> None:
-        logger.info("Saving the %s graph in Cytoscape JSON format...", self.source)
-        with open(self.export_path("cyjs"), "w", encoding="utf8") as f:
-            json.dump(
-                nx.cytoscape_data(self.G)["elements"], f, indent=2, sort_keys=True
-            )
+    def export(self, source: str, tree: Node, **kwargs: Any) -> None:
+        logger.info("Saving the %s graph in Cytoscape JSON format...", source)
+        graph = self.build_graph(tree=tree)
+        with open(
+            self.export_path(source=source, ext="cyjs"), "w", encoding="utf8"
+        ) as f:
+            json.dump(nx.cytoscape_data(graph)["elements"], f, indent=2, sort_keys=True)
