@@ -65,6 +65,7 @@ def build_options(func):
     )(func)
     func = click.option(
         "--exporters",
+        "-x",
         default=settings.EXPORTERS.keys(),
         multiple=True,
         help="Specify exporters to use",
