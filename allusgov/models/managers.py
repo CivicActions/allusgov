@@ -9,21 +9,21 @@ from typing import Any
 from bigtree import Node
 
 from allusgov import load_plugins_once
-
-# from allusgov.models.importer_base import ImporterBase
 from allusgov.models.exporter_base import ExporterBase
-from allusgov.models.registry import EXPORTERS
+from allusgov.models.importer_base import ImporterBase
+from allusgov.models.registry import EXPORTERS, IMPORTERS
 
-# @dataclass
-# class ImportManager:
-#
-#     importer_key: str
-#
-#     def run(self, source: str) -> Node:
-#         load_plugins_once()
-#         importer_cls = IMPORTERS.get(self.importer_key)
-#         importer: ImporterBase = importer_cls(source=source)
-#         return importer.import_path()
+
+@dataclass
+class ImportManager:
+
+    importer_key: str
+
+    def run(self, source: str) -> Node:
+        load_plugins_once()
+        importer_cls = IMPORTERS.get(self.importer_key)
+        importer: ImporterBase = importer_cls()
+        return importer.build(source=source)
 
 
 @dataclass

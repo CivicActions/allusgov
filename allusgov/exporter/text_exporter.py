@@ -7,8 +7,8 @@ from io import TextIOWrapper
 from typing import Any
 
 from bigtree import Node, yield_tree
+from loguru import logger
 
-from allusgov.cli_options import logger
 from allusgov.models.exporter_base import ExporterBase
 from allusgov.models.registry import EXPORTERS
 from allusgov.utils.utils import full_name

@@ -8,8 +8,8 @@ import re
 from typing import Any
 
 from bigtree import Node
+from loguru import logger
 
-from allusgov.cli_options import logger
 from allusgov.models.exporter_base import FlatBaseExporter
 from allusgov.models.registry import EXPORTERS
 

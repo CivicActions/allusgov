@@ -7,8 +7,8 @@ import json
 from typing import Any
 
 from bigtree import Node, tree_to_dict, tree_to_nested_dict
+from loguru import logger
 
-from allusgov.cli_options import logger
 from allusgov.models.exporter_base import ExporterBase
 from allusgov.models.registry import EXPORTERS
 

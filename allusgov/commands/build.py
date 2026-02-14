@@ -10,17 +10,17 @@ from bigtree import Node, levelorder_iter
 
 from allusgov import settings
 from allusgov.cli_options import build_options, logger, sources_options
-from allusgov.models.managers import ExportManager
+from allusgov.models.managers import IMPORTERS, ExportManager, ImportManager
+from allusgov.utils.utils import list_plugins_verbose
 
 
 def build(sources: list[str], exporters: list[str], to_export: bool) -> dict[str, Node]:
     trees = {}
     for source in sources:
         logger.info("Constructing the %s tree...", source)
-        importer = settings.SOURCES[source]["importer"](
-            logger=logger, source_name=source, data_dir=settings.DATA_DIR
-        )
-        trees[source] = importer.build()
+        importers = list_plugins_verbose(registry=IMPORTERS)
+        importer = source if source in importers else "importer"
+        trees[source] = ImportManager(importer).run(source=source)
         exp = ExportManager()
         if to_export:
             for exporter in exporters:

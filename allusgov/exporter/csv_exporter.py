@@ -6,8 +6,8 @@ directory of this distribution and at https://github.com/CivicActions/allusgov#l
 from typing import Any
 
 from bigtree import Node, tree_to_dataframe
+from loguru import logger
 
-from allusgov.cli_options import logger
 from allusgov.models.exporter_base import ExporterBase
 from allusgov.models.registry import EXPORTERS
 

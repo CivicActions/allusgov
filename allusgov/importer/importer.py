@@ -1,51 +1,36 @@
-import json
-from logging import Logger
-from typing import Any, Dict, List
+"""
+Copyright 2019-2026 CivicActions, Inc. See the README file at the top-level
+directory of this distribution and at https://github.com/CivicActions/allusgov#license.
+"""
+
+from typing import Any
 
 from bigtree import Node, nested_dict_to_tree
+from loguru import logger
+
+from allusgov.models.importer_base import ImporterBase
+from allusgov.models.registry import IMPORTERS
 
 
-class Importer:
+@IMPORTERS.register("importer")
+class Importer(ImporterBase):
     """An importer for handling general hierarchical data."""
 
     root = "US FEDERAL GOVERNMENT"
 
-    def __init__(self, logger: Logger, source_name: str, data_dir: str) -> None:
-        self.logger = logger
-        self.source_name = source_name
-        self.data_dir = data_dir
-        self.data = self.load_data()
-
-    def load_data(self) -> List[Dict]:
-        """
-        Load JSON data from a file.
-
-        Args:
-            source_name (str): The name of the file (without .json extension) to load the data from.
-
-        Returns:
-            List[Dict]: A list of dictionaries representing the data.
-        """
-        with open(
-            f"{self.data_dir}/{self.source_name}/raw.json", "r", encoding="utf-8"
-        ) as file:
-            return json.load(file)
-
     def build_tree(
-        self, ids: Dict, attributes: Dict, target_id: str, source_name: str
-    ) -> List:
+        self, ids: dict, attributes: dict, target_id: str, source_name: str
+    ) -> list:
         """
         Recursively build a tree from the given data.
 
-        Args:
-            ids (Dict): A dictionary that maps ids to their parent ids.
-            attributes (Dict): A dictionary that maps ids to their attributes.
-            target_id (str): The id of the target node.
-            source_name (str): The name of the data source.
-
-        Returns:
-            List: A list of child dictionaries representing the tree structure.
+        :param ids: A dictionary that maps ids to their parent ids.
+        :param attributes: A dictionary that maps ids to their attributes.
+        :param target_id: The id of the target node.
+        :param source_name: The name of the data source.
+        :returns: A list of child dictionaries representing the tree structure.
         """
+
         children = []
         for item_id, parent in ids.items():
             if parent == target_id:
@@ -61,34 +46,34 @@ class Importer:
                 children.append(child)
         return children
 
-    def build(self) -> Node:
+    def build(self, source: str) -> Node:
         """
         Load a tree from the given source.
 
-        Returns:
-            Node: A tree represented as nested Node objects.
+        :returns: A tree represented as nested Node objects.
         """
-        ids = {}
-        attributes: Dict[str, Dict[str, Any]] = {}
-        for item in self.data:
+        raw_data = self.load_data(source=source)
+        ids: dict = {}
+        attributes: dict[str, dict[str, Any]] = {}
+        for item in raw_data:
             key = "name"
             parent_key = "parent"
             if "id" in item:
                 key = "id"
                 parent_key = "parent_id"
             if item[key] in ids:
-                self.logger.warning(
+                logger.warning(
                     "Duplicate %s for %s in source %s, skipping",
                     key,
                     item[key],
-                    self.source_name,
+                    source,
                 )
                 continue
             if "name" not in item or item["name"] == "" or item["name"] is None:
-                self.logger.warning(
+                logger.warning(
                     "Item %s in source %s has no name field, skipping",
                     item[key],
-                    self.source_name,
+                    source,
                 )
                 continue
             if (
@@ -105,9 +90,9 @@ class Importer:
 
         tree_dict = {
             "name": self.root,
-            self.source_name: {
+            source: {
                 "name": self.root,
             },
-            "children": self.build_tree(ids, attributes, self.root, self.source_name),
+            "children": self.build_tree(ids, attributes, self.root, source),
         }
         return nested_dict_to_tree(tree_dict)
