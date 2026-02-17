@@ -19,7 +19,7 @@ class CytoscapeJSONExporter(NetworkXBaseExporter):
     format_key = "cyjs"
 
     def export(self, source: str, tree: Node, **kwargs: Any) -> None:
-        logger.info("Saving the %s graph in Cytoscape JSON format...", source)
+        logger.info("Saving the {} graph in Cytoscape JSON format...", source)
         graph = self.build_graph(tree=tree)
         with open(
             self.export_path(source=source, ext="cyjs"), "w", encoding="utf8"

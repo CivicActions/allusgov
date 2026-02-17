@@ -36,10 +36,11 @@ class Importer(ImporterBase):
             if parent == target_id:
                 child = {source_name: attributes[item_id]}
                 # Prefix the name (which is the node name here) with the source name
-                child["name"] = "[" + source_name + "] " + child[source_name]["name"]
+                source_name_value = child[source_name].get("name", "")
+                child["name"] = f"[{source_name}] {source_name_value}"
                 # If the ID is not the same as the name, append the ID to the name
-                if child[source_name]["name"] != item_id:
-                    child["name"] = child["name"] + " (" + str(item_id) + ")"
+                if source_name_value != item_id:
+                    child["name"] = f"{child.get('name', '')} ({str(item_id)})"
                 child["children"] = self.build_tree(
                     ids, attributes, item_id, source_name
                 )
@@ -63,24 +64,20 @@ class Importer(ImporterBase):
                 parent_key = "parent_id"
             if item[key] in ids:
                 logger.warning(
-                    "Duplicate %s for %s in source %s, skipping",
+                    "Duplicate {} for {} in source {}s, skipping",
                     key,
                     item[key],
                     source,
                 )
                 continue
-            if "name" not in item or item["name"] == "" or item["name"] is None:
+            if "name" not in item or not item["name"]:
                 logger.warning(
-                    "Item %s in source %s has no name field, skipping",
+                    "Item {} in source {} has no name field, skipping",
                     item[key],
                     source,
                 )
                 continue
-            if (
-                parent_key not in item
-                or item[parent_key] == ""
-                or item[parent_key] is None
-            ):
+            if parent_key not in item or not item[parent_key]:
                 item[parent_key] = self.root
             ids[item[key]] = item[parent_key]
             attributes[item[key]] = {}

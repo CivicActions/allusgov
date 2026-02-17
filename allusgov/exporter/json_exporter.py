@@ -18,7 +18,7 @@ class JSONExporter(ExporterBase):
     format_key = "json"
 
     def export(self, source: str, tree: Node, **kwargs: Any) -> None:
-        logger.info("Saving the %s tree in JSON flat format...", source)
+        logger.info("Saving the {} tree in JSON flat format...", source)
         with open(
             self.export_path(source=source, ext="json", suffix="flat"),
             "w",
@@ -26,7 +26,7 @@ class JSONExporter(ExporterBase):
         ) as f:
             json.dump(tree_to_dict(tree, all_attrs=True), f, indent=2, sort_keys=True)
 
-        logger.info("Saving the %s tree in JSON tree format...", source)
+        logger.info("Saving the {} tree in JSON tree format...", source)
         with open(
             self.export_path(source=source, ext="json", suffix="tree"),
             "w",

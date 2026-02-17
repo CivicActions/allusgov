@@ -1,7 +1,7 @@
-# Settings for allusgov project
-#
-
-from allusgov.utils.yaml_loader import load_yaml_with_imports
+"""
+Copyright 2019-2026 CivicActions, Inc. See the README file at the top-level
+directory of this distribution and at https://github.com/CivicActions/allusgov#license.
+"""
 
 from .importer import importer, samgov_importer
 from .processor import normalize_name
@@ -15,8 +15,6 @@ from .spider import (
     usaspending,
     usgovmanual,
 )
-
-config: dict = load_yaml_with_imports("allusgov/config.yaml")
 
 # Source settings
 SOURCES = {
@@ -55,7 +53,6 @@ SOURCES = {
 }
 
 # Exporter settings
-EXPORTERS: dict = config.get("exporters", {})
 
 # Merge settings
 MERGE_BASE = "samgov"

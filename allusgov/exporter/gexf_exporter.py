@@ -20,7 +20,7 @@ class GEXFExporter(NetworkXBaseExporter):
     format_key = "gexf"
 
     def export(self, source: str, tree: Node, **kwargs: Any) -> None:
-        logger.info("Saving the %s graph in GEXF format...", source)
+        logger.info("Saving the {} graph in GEXF format...", source)
         graph = self.build_graph(tree=tree)
         nx.write_gexf(graph, self.export_path(source=source, ext="gexf"))
         # Update the file to remove the lastmodifieddate attribute, which generates spurious diffs

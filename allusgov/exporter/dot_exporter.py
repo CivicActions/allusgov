@@ -17,6 +17,6 @@ class DotExporter(ExporterBase):
     format_key = "dot"
 
     def export(self, source: str, tree: Node, **kwargs: Any) -> None:
-        logger.info("Saving the %s graph in DOT format...", source)
+        logger.info("Saving the {} graph in DOT format...", source)
         export_path = self.export_path(source=source, ext="dot")
         tree_to_dot(tree).write(export_path.as_posix(), encoding="utf8")

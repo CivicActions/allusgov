@@ -19,5 +19,5 @@ class GraphMLExporter(NetworkXBaseExporter):
 
     def export(self, source: str, tree: Node, **kwargs: Any) -> None:
         graph = self.build_graph(tree=tree)
-        logger.info("Saving the %s graph in GraphML format...", source)
+        logger.info("Saving the {} graph in GraphML format...", source)
         nx.write_graphml(graph, self.export_path(source=source, ext="graphml"))

@@ -26,7 +26,7 @@ class WideCSVExporter(FlatBaseExporter):
     format_key = "widecsv"
 
     def export(self, source: str, tree: Node, **kwargs: Any) -> None:
-        logger.info("Saving the %s tree in wide CSV format...", source)
+        logger.info("Saving the {} tree in wide CSV format...", source)
         with open(
             self.export_path(source=source, ext="csv", suffix="wide"),
             "w",

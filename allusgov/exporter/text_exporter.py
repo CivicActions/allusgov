@@ -35,7 +35,7 @@ class TextTreeExporter(ExporterBase):
             print(f"{branch}{stem}{name}{sources}", file=file)
 
     def export(self, source: str, tree: Node, **kwargs: Any) -> None:
-        logger.info("Saving the %s tree in text format...", source)
+        logger.info("Saving the {} tree in text format...", source)
         with open(
             self.export_path(source=source, ext="txt"), "w", encoding="utf8"
         ) as f:

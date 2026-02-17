@@ -19,6 +19,6 @@ class CSVExporter(ExporterBase):
     format_key = "csv"
 
     def export(self, source: str, tree: Node, **kwargs: Any) -> None:
-        logger.info("Saving the %s graph in CSV format...", source)
+        logger.info("Saving the {} graph in CSV format...", source)
         df = tree_to_dataframe(tree, all_attrs=True)
         df.to_csv(self.export_path(source=source, ext="csv"), index=False)
