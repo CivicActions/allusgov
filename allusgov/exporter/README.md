@@ -1,5 +1,3 @@
-from typing import Anyfrom bigtree import Node
-
 # Exporters
 
 Exporters are responsible for converting the organizational hierarchy tree structure into various output
@@ -12,6 +10,9 @@ The exporter system is built on a plugin architecture using a registry pattern. 
 base classes that provide common functionality:
 
 - **ExporterBase**: The fundamental abstract base class for all exporters
+- **FlatBaseExporter**: Provides functionality for flattening the tree structure into a tabular format
+- **NetworkXBaseExporter**: Provides functionality for building graph structures using the NetworkX library
+
 
 ## Available Exporters
 
@@ -154,6 +155,11 @@ class JSONExporter(ExporterBase):
 ## Usage
 
 Exporters are typically invoked through the command-line interface or programmatically via the registry.
+Both the `build` and `merge` commands support an `--export` option that allows users to specify which
+exporters to run after the import and processing steps are complete. The system will automatically call
+the appropriate `export()` method for each specified exporter, passing the source name and the
+organizational tree.
+
 Each exporter's `export()` method takes:
 - `source`: The data source identifier
 - `tree`: The root Node of the organizational hierarchy
