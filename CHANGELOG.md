@@ -1,5 +1,13 @@
 # Release Notes
 
+## [0.4.0](https://github.com/CivicActions/allusgov/compare/v0.3.0...v0.4.0) (2026-03-02)
+
+
+### Features
+
+* moving click commands to individual files. ([4ed9f19](https://github.com/CivicActions/allusgov/commit/4ed9f19461d9681b41e08fce88ec4a7595e23f6b))
+* moving click commands to individual files. ([bf8a801](https://github.com/CivicActions/allusgov/commit/bf8a8015a91d88d4302f287d552eb9fbe0a23082))
+
 ## [0.3.0](https://github.com/CivicActions/allusgov/compare/v0.2.0...v0.3.0) (2026-02-12)
 
 
