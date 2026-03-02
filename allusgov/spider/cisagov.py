@@ -25,7 +25,7 @@ class CisagovSpider(scrapy.Spider):
             item: Dict[str, Any] = {}
             for key, value in row.items():
                 item[key.lower().replace(" ", "_")] = value
-            name: str = item["organization"]
+            name: str = item["organization_name"]
             parent: Optional[str] = item["agency"]
             # If an organization is its own parent, then it is a top-level organization.
             if name == parent:

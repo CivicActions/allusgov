@@ -1,16 +1,22 @@
+"""
+Copyright 2019-2026 CivicActions, Inc. See the README file at the top-level
+directory of this distribution and at https://github.com/CivicActions/allusgov#license.
+"""
+
 import json
 import re
-from typing import Any, Dict, List, cast
+from typing import Any, cast
 
 import click
 import questionary
 from bigtree import Node, levelorder_iter
 from scrapy.crawler import CrawlerProcess
 
-from . import allusgov, settings
-from .cli_options import logger, spider_options
-from .spider.acronyms import DoDAcronymsSpider, GovSpeakAcronymsSpider
-from .utils.utils import scrapy_settings
+from allusgov import settings
+from allusgov.cli_options import logger, spider_options
+from allusgov.commands.build import build
+from allusgov.spider.acronyms import DoDAcronymsSpider, GovSpeakAcronymsSpider
+from allusgov.utils.utils import scrapy_settings
 
 acronym_sources = {
     "govspeak": GovSpeakAcronymsSpider,
@@ -57,7 +63,7 @@ def acronyms_spider(spider_page_limit: int, cache_dir: str):
         ) as f:
             acronym_list = json.load(f)
         acronyms = {}
-        # Resturcture into a dict of acronyms to a dict of expansions to data
+        # Restructure into a dict of acronyms to a dict of expansions to data
         # since this makes lookups easier.
         for acronym in acronym_list:
             expansions = {}
@@ -73,10 +79,10 @@ def acronyms_spider(spider_page_limit: int, cache_dir: str):
 
 
 def acronym_fetch(
-    path_ids: List[str],
+    path_ids: list[str],
     expansion: str,
-    library: Dict[str, Any],
-) -> Dict[str, Any]:
+    library: dict[str, Any],
+) -> dict[str, Any]:
     """Fetch an acronym from the acronym library, adding specified ID."""
     item = {}
     if "source" in library[expansion]:
@@ -92,7 +98,7 @@ def acronym_fetch(
 
 def acronym_custom(
     acronym: str,
-) -> Dict[str, Any]:
+) -> dict[str, Any]:
     """Ask the user for a custom expansion."""
     expansion = questionary.text(f'Type the expansion for "{acronym}":').ask()
     link = questionary.text(f'Enter a source link (optional) for "{acronym}":').ask()
@@ -104,9 +110,9 @@ def acronym_custom(
 
 def acronym_resolve(
     acronym: str,
-    path_ids: List[str],
-    library: Dict[str, Any],
-) -> Dict[str, Any]:
+    path_ids: list[str],
+    library: dict[str, Any],
+) -> dict[str, Any]:
     """Determine an expansion for an acronym."""
     print("\n")
     print("Acronym: ", acronym)
@@ -126,14 +132,13 @@ def acronym_resolve(
     print("Possible expansions:")
     for expansion, values in library.items():
         print(f"  {expansion}")
-    choices = []
-    choices.append(
+    choices = [
         questionary.Choice(
             "Ignore this acronym and treat as normal word",
             value="ignore",
             shortcut_key="1",
         )
-    )
+    ]
     if len(library.keys()) > 0:
         choices.append(
             questionary.Choice(
@@ -170,7 +175,6 @@ def acronym_resolve(
             choices=list(library.keys()),
             use_shortcuts=True,
         ).ask()
-        selected_path_ids = path_ids
     else:
         # Only a single expansion exists, so use it
         expansion = list(library.keys())[0]
@@ -189,7 +193,7 @@ def acronym_resolve(
     return acronyms
 
 
-def acronyms_load_library(acronyms: Dict[str, Any]) -> Dict[str, Any]:
+def acronyms_load_library(acronyms: dict[str, Any]) -> dict[str, Any]:
     """Load acronyms library from file and existing acronyms."""
     acronym_library = {}
     for source in acronym_sources:
@@ -203,7 +207,7 @@ def acronyms_load_library(acronyms: Dict[str, Any]) -> Dict[str, Any]:
         except FileNotFoundError:
             pass
 
-    # List of abbreviations
+    # list of abbreviations
     # TODO: this can go away once included in resolved acronyms.
     abbreviations = f"{settings.DATA_DIR}/acronyms/abbreviations.json"
     try:
@@ -219,16 +223,16 @@ def acronyms_load_library(acronyms: Dict[str, Any]) -> Dict[str, Any]:
     for acronym, values in acronyms.items():
         if acronym not in acronym_library:
             acronym_library[acronym] = {}
-        for expansion, values in values.items():
-            acronym_library[acronym][expansion] = values
+        for expansion, value in values.items():
+            acronym_library[acronym][expansion] = value
     return acronym_library
 
 
 @dev.command()
 def acronyms_selector():
-    """Interatively select acronyms from directory and store results."""
+    """Iteratively select acronyms from directory and store results."""
     # Execute build step
-    trees = allusgov.build(
+    trees = build(
         sources=list(settings.SOURCES.keys()),
         exporters=[],
         to_export=False,
@@ -251,7 +255,7 @@ def acronyms_selector():
         acronyms = {}
 
     acronym_library = acronyms_load_library(acronyms)
-    to_resolve: Dict[str, List[str]] = {}
+    to_resolve: dict[str, list[str]] = {}
     for source, tree in trees.items():
         for org in levelorder_iter(tree):
             org = cast(Node, org)
