@@ -7,6 +7,7 @@ from allusgov.commands.build import build_cmd
 from allusgov.commands.dev import dev
 from allusgov.commands.merge import merge_cmd
 from allusgov.commands.spider import spider_cmd
+from allusgov.utils.logging_config import setup_logging
 
 from . import settings
 from .cli_options import CustomGroup, global_options
@@ -25,6 +26,7 @@ def main(data_dir: str):  # pylint: disable=unused-argument
 
     Each stage is optional and will use cached data if available.
     """
+    setup_logging()
     settings.DATA_DIR = data_dir
 
 
