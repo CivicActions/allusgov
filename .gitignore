@@ -49,6 +49,9 @@ coverage.xml
 # Eclipse
 .settings
 
+# JetBrains IDEs
+.idea/*.iml
+
 # Don't include Govspeak or raw acronym data
 data/acronyms/govspeak.json
 data/acronyms/acronyms.json
