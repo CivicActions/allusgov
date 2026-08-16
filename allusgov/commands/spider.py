@@ -24,8 +24,7 @@ def spider(sources: list[str], spider_page_limit: int, cache_dir: str):
         BASE_PATH.parent.joinpath(settings.DATA_DIR, source).mkdir(
             parents=True, exist_ok=True
         )
-        spider_class = settings.SOURCES[source]["spider"]
-        crawler = process.create_crawler(spider_class)
+        crawler = process.create_crawler(source)
         callback = scrapy_spider_closed(spider_results)
         crawler.signals.connect(callback, signal=signals.spider_closed)
         process.crawl(crawler)

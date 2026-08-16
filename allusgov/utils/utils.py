@@ -5,7 +5,10 @@ from typing import Optional
 
 from bigtree.node.node import Node
 from scrapy.settings import Settings
+from scrapy.spiderloader import SpiderLoader
 from scrapy.utils.project import get_project_settings
+
+from allusgov.registry.registry import Registry
 
 BASE_PATH = Path(__file__).resolve().parents[1]
 
@@ -58,3 +61,15 @@ def scrapy_spider_closed(results):
         results.append((spider.name, reason))
 
     return callback
+
+
+def get_spider_list() -> list:
+    """Return a list of sources with available spiders."""
+    project_settings = get_project_settings()
+    loader = SpiderLoader.from_settings(project_settings)
+    return loader.list()
+
+
+def list_plugins_verbose(registry: Registry) -> dict[str, str]:
+    """Helper function to list plugins from a registry with their class names."""
+    return {k: registry.get(k).__name__ for k in registry.keys()}
