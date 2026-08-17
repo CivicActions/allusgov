@@ -88,3 +88,4 @@ Temporary Items
 # Pre-commit
 .flake8
 .pre-commit-config.yaml
+logs

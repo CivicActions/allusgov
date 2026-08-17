@@ -14,8 +14,7 @@ from flatten_json import flatten
 from natsort import natsorted
 from networkx import DiGraph
 
-from allusgov import settings
-from allusgov.utils.utils import BASE_PATH
+from allusgov.settings import settings
 
 
 class ExporterBase(ABC):
@@ -24,7 +23,7 @@ class ExporterBase(ABC):
     @staticmethod
     def export_path(source: str, ext: str, suffix: str | None = None) -> Path:
         file_suffix = f"-{suffix}" if suffix else ""
-        data_path = BASE_PATH.parent / settings.DATA_DIR / source
+        data_path = settings.BASE_PATH.parent / settings.DATA_DIR / source
         data_path.mkdir(parents=True, exist_ok=True)
         return data_path.joinpath(f"{source}{file_suffix}.{ext}")
 

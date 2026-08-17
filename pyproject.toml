@@ -30,6 +30,7 @@ dependencies = [
     "numpy>=1.26.4,<2",
     "pandas>=2.2.2",
     "polars",
+    "pydantic-settings>=2.15.0",
     "python-dotenv",
     "pyyaml>=6.0.3",
     "questionary",

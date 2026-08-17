@@ -9,9 +9,9 @@ import click
 from scrapy import signals
 from scrapy.crawler import CrawlerProcess
 
-from allusgov import settings
 from allusgov.cli_options import logger, sources_options, spider_options
-from allusgov.utils.utils import BASE_PATH, scrapy_settings, scrapy_spider_closed
+from allusgov.settings import settings
+from allusgov.utils.utils import scrapy_settings, scrapy_spider_closed
 
 
 def spider(sources: list[str], spider_page_limit: int, cache_dir: str):
@@ -21,7 +21,7 @@ def spider(sources: list[str], spider_page_limit: int, cache_dir: str):
         scrapy_settings(settings.DATA_DIR, cache_dir, spider_page_limit, logger)
     )
     for source in sources:
-        BASE_PATH.parent.joinpath(settings.DATA_DIR, source).mkdir(
+        settings.BASE_PATH.parent.joinpath(settings.DATA_DIR, source).mkdir(
             parents=True, exist_ok=True
         )
         crawler = process.create_crawler(source)

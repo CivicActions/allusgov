@@ -1,3 +1,8 @@
+"""
+Copyright 2019-2026 CivicActions, Inc. See the README file at the top-level
+directory of this distribution and at https://github.com/CivicActions/allusgov#license.
+"""
+
 from importlib.metadata import PackageNotFoundError, version
 
 from allusgov.registry.plugin_loader import import_all_from_package

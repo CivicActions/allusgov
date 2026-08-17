@@ -8,11 +8,11 @@ from typing import cast
 import click
 from bigtree import Node
 
-from allusgov import settings
 from allusgov.cli_options import build_options, logger, merge_options, sources_options
 from allusgov.commands.build import build
 from allusgov.merger import merger
-from allusgov.utils.utils import BASE_PATH
+from allusgov.registry.managers import ExportManager
+from allusgov.settings import settings
 
 
 def merge(
@@ -24,7 +24,7 @@ def merge(
     tree: dict[str, Node] | None = None,
 ):
     """Merge all data into a single tree using fuzzy string matching."""
-    BASE_PATH.parent.joinpath(settings.DATA_DIR, "merged").mkdir(
+    settings.BASE_PATH.parent.joinpath(settings.DATA_DIR, "merged").mkdir(
         parents=True, exist_ok=True
     )
     if not tree:
@@ -51,10 +51,9 @@ def merge(
             threshold=merge_threshold,
         ).merge()
     if to_export:
+        exp = ExportManager()
         for exporter in exporters:
-            settings.EXPORTERS[exporter](
-                logger=logger, source="merged", tree=base, data_dir=settings.DATA_DIR
-            ).export()
+            exp.export(fmt=exporter, source="merged", root=base)
     return base
 
 

@@ -12,11 +12,11 @@ import questionary
 from bigtree import Node, levelorder_iter
 from scrapy.crawler import CrawlerProcess
 
-from allusgov import settings
 from allusgov.cli_options import logger, spider_options
 from allusgov.commands.build import build
+from allusgov.settings import settings
 from allusgov.spider.acronyms import DoDAcronymsSpider, GovSpeakAcronymsSpider
-from allusgov.utils.utils import scrapy_settings
+from allusgov.utils.utils import get_spider_list, scrapy_settings
 
 acronym_sources = {
     "govspeak": GovSpeakAcronymsSpider,
@@ -233,7 +233,7 @@ def acronyms_selector():
     """Iteratively select acronyms from directory and store results."""
     # Execute build step
     trees = build(
-        sources=list(settings.SOURCES.keys()),
+        sources=get_spider_list(),
         exporters=[],
         to_export=False,
     )

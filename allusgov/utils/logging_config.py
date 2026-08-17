@@ -6,7 +6,7 @@ import sys
 from loguru import logger
 from scrapy.utils.log import configure_logging
 
-from allusgov.utils.utils import BASE_PATH
+from allusgov.settings import settings
 
 
 class InterceptHandler(logging.Handler):
@@ -24,7 +24,7 @@ class InterceptHandler(logging.Handler):
 
 def setup_logging() -> None:
     configure_logging(install_root_handler=False)
-    log_dir = BASE_PATH.parent / "logs"
+    log_dir = settings.BASE_PATH.parent / "logs"
     log_dir.mkdir(parents=True, exist_ok=True)
 
     root_logger = logging.getLogger()

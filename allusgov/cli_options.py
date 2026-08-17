@@ -1,11 +1,17 @@
-"""allusgov CLI options."""
+"""
+Copyright 2019-2026 CivicActions, Inc. See the README file at the top-level
+directory of this distribution and at https://github.com/CivicActions/allusgov#license.
+"""
 
 import logging
 
 import click
 import click_log
 
-from . import settings
+from allusgov.registry.registry import EXPORTERS
+from allusgov.utils.utils import get_spider_list, list_plugins_verbose
+
+from .settings import settings
 
 logger = logging.getLogger(__name__)
 click_log.basic_config(logger)
@@ -29,9 +35,7 @@ def sources_options(func):
     func = click.argument(
         "sources",
         nargs=-1,
-        callback=lambda ctx, param, value: (
-            value if value else list(settings.SOURCES.keys())
-        ),
+        callback=lambda ctx, param, value: (value if value else get_spider_list()),
     )(func)
     return func
 
@@ -65,7 +69,8 @@ def build_options(func):
     )(func)
     func = click.option(
         "--exporters",
-        default=settings.EXPORTERS.keys(),
+        "-x",
+        default=list_plugins_verbose(EXPORTERS).keys(),
         multiple=True,
         help="Specify exporters to use",
     )(func)

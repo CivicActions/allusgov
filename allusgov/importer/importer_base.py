@@ -9,15 +9,14 @@ from typing import Any
 
 from bigtree import Node
 
-from allusgov import settings
-from allusgov.utils.utils import BASE_PATH
+from allusgov.settings import settings
 
 
 class ImporterBase(ABC):
 
     @staticmethod
     def load_data(source: str) -> Any:
-        file_path = BASE_PATH.parent / settings.DATA_DIR / source / "raw.json"
+        file_path = settings.BASE_PATH.parent / settings.DATA_DIR / source / "raw.json"
         try:
             with file_path.open("r", encoding="utf-8") as fp:
                 return json.load(fp)

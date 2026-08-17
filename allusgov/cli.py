@@ -1,4 +1,7 @@
-"""allusgov CLI."""
+"""
+Copyright 2019-2026 CivicActions, Inc. See the README file at the top-level
+directory of this distribution and at https://github.com/CivicActions/allusgov#license.
+"""
 
 import click
 
@@ -9,8 +12,8 @@ from allusgov.commands.merge import merge_cmd
 from allusgov.commands.spider import spider_cmd
 from allusgov.utils.logging_config import setup_logging
 
-from . import settings
 from .cli_options import CustomGroup, global_options
+from .settings import settings
 
 
 @click.group(cls=CustomGroup)
