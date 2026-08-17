@@ -1,4 +1,5 @@
-from typing import Any, AsyncIterator, Dict, Iterator, Optional
+from collections.abc import AsyncIterator, Iterator
+from typing import Any
 
 import scrapy
 from scrapy.http.request import Request
@@ -21,7 +22,7 @@ class OpmgovSpider(scrapy.Spider):
 
     def parse(
         self, response: XmlResponse, **kwargs: Any
-    ) -> Iterator[Dict[str, Optional[str]]]:
+    ) -> Iterator[dict[str, str | None]]:
         for agency in response.xpath("//agency"):
             parent = agency.xpath("name/text()").get()
             if parent is None:

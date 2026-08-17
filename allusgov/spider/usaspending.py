@@ -1,4 +1,5 @@
-from typing import Any, AsyncIterator, Callable, Dict, Iterator, Union
+from collections.abc import AsyncIterator, Callable, Iterator
+from typing import Any
 
 import scrapy
 from scrapy.http.request import Request
@@ -10,7 +11,7 @@ class UsaspendingSpider(scrapy.Spider):
     allowed_domains = ["usaspending.gov"]
     base_url = "https://api.usaspending.gov/api/v2/"
     start_url = base_url + "references/toptier_agencies/"
-    lookup: Dict[str, str] = {}
+    lookup: dict[str, str] = {}
 
     def request(self, url: str, callback: Callable) -> Request:
         return scrapy.Request(
@@ -32,12 +33,9 @@ class UsaspendingSpider(scrapy.Spider):
             + str(page)
         )
 
-    def parse(self, response: TextResponse, **kwargs: Any) -> Iterator[
-        Union[
-            Request,
-            Dict[str, Union[int, str, None, float]],
-        ]
-    ]:
+    def parse(
+        self, response: TextResponse, **kwargs: Any
+    ) -> Iterator[Request | dict[str, int | str | None | float]]:
         """Handle the top level of agencies which each need their own request."""
         agencies = response.json()["results"]
         for agency in agencies:
@@ -51,7 +49,7 @@ class UsaspendingSpider(scrapy.Spider):
 
     def parse_subagencies(
         self, response: TextResponse
-    ) -> Iterator[Dict[str, Union[int, str, None, float]]]:
+    ) -> Iterator[dict[str, int | str | None | float]]:
         """Handle the subagencies for a given agency as well as their child organizations."""
         response = response.json()
         if response["page_metadata"]["hasNext"]:

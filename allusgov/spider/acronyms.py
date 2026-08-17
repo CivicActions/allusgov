@@ -1,7 +1,8 @@
 import os
 import tempfile
 import warnings
-from typing import Any, AsyncIterator, Dict, Iterator, List, cast
+from collections.abc import AsyncIterator, Iterator
+from typing import Any, cast
 
 import pandas as pd
 import scrapy
@@ -23,7 +24,7 @@ class GovSpeakAcronymsSpider(scrapy.Spider):
             headers={"User-Agent": "Mozilla/5.0"},
         )
 
-    def parse(self, response: Response, **kwargs) -> Iterator[Dict[str, Any]]:
+    def parse(self, response: Response, **kwargs) -> Iterator[dict[str, Any]]:
         pages = response.css(".nav > li")
         for page in pages:
             yield response.follow(
@@ -101,7 +102,7 @@ class DoDAcronymsSpider(scrapy.Spider):
             callback=self.parse,
         )
 
-    def parse(self, response: Response, **kwargs) -> Iterator[Dict[str, Any]]:
+    def parse(self, response: Response, **kwargs) -> Iterator[dict[str, Any]]:
         with tempfile.NamedTemporaryFile(suffix=".pdf", delete=False) as file:
             file.write(response.body)
             pdf_path = file.name
@@ -155,7 +156,7 @@ class DoDAcronymsSpider(scrapy.Spider):
             352,
             354,
         ]
-        acronyms: Dict[str, List[Dict[str, str]]] = {}
+        acronyms: dict[str, list[dict[str, str]]] = {}
         try:
             for page in range(245, 356):
                 ymin = 72

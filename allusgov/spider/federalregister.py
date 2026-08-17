@@ -1,4 +1,5 @@
-from typing import Any, AsyncIterator, Dict, Iterator, Union
+from collections.abc import AsyncIterator, Iterator
+from typing import Any
 
 import scrapy
 from scrapy.http.request import Request
@@ -13,12 +14,9 @@ class FederalRegisterSpider(scrapy.Spider):
     async def start(self) -> AsyncIterator[Request]:
         yield scrapy.Request(url=self.start_url, callback=self.parse)
 
-    def parse(self, response: TextResponse, **kwargs: Any) -> Iterator[
-        Union[
-            Request,
-            Dict[str, Union[int, str, None, float]],
-        ]
-    ]:
+    def parse(
+        self, response: TextResponse, **kwargs: Any
+    ) -> Iterator[Request | dict[str, int | str | None | float]]:
         agencies = response.json()
         for agency in agencies:
             # The JSON structure magically exactly matches almost exactly what we need!

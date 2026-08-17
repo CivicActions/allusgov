@@ -1,4 +1,5 @@
-from typing import Any, AsyncIterator, Dict, Iterator, List, Union
+from collections.abc import AsyncIterator, Iterator
+from typing import Any
 
 import scrapy
 from scrapy.http.request import Request
@@ -17,14 +18,12 @@ class UsagovSpider(scrapy.Spider):
     async def start(self) -> AsyncIterator[Request]:
         yield scrapy.Request(url=self.start_url, callback=self.parse)
 
-    def get_field(
-        self, item: Union[Selector, SelectorList]
-    ) -> Union[str, Dict[str, str]]:
+    @staticmethod
+    def get_field(item: Selector | SelectorList) -> str | dict[str, str]:
         text = item.css("*::text").get()
         link = item.css("a::attr(href)").get()
         if link is not None:
-            link_field = {}
-            link_field["link"] = link
+            link_field = {"link": link}
             if text is not None:
                 link_field["title"] = text.strip()
             return link_field
@@ -33,7 +32,7 @@ class UsagovSpider(scrapy.Spider):
             field = text.strip()
         return field
 
-    def parse(self, response: HtmlResponse, **kwargs) -> Iterator[Request]:
+    def parse(self, response: HtmlResponse) -> Iterator[Request]:
         for page in response.css(".usagov-directory-container-az > li > a::attr(href)"):
             yield response.follow(url=page, callback=self.parse_directory)
 
@@ -46,17 +45,18 @@ class UsagovSpider(scrapy.Spider):
                 callback=self.parse_agency,
             )
 
-    def parse_agency(self, response: HtmlResponse, **kwargs: Any) -> Iterator[
-        Union[
-            Request,
-            Dict[str, Union[List[Dict[str, str]], str, Dict[str, str], List[str]]],
-            Dict[str, Union[List[Dict[str, str]], str, List[str]]],
-        ]
+    def parse_agency(
+        self, response: HtmlResponse
+    ) -> Iterator[
+        Request
+        | dict[str, list[dict[str, str]] | str | dict[str, str] | list[str]]
+        | dict[str, list[dict[str, str]] | str | list[str]]
     ]:
         pass
-        details: Dict[str, Any] = {}
-        details["name"] = response.css("h1 span::text").get().strip()
-        details["description"] = response.css("p.usa-intro::text").get().strip()
+        details: dict[str, Any] = {
+            "name": response.css("h1 span::text").get().strip(),
+            "description": response.css("p.usa-intro::text").get().strip(),
+        }
         for detail in response.css("div.usagov-directory-table div"):
             head = detail.css("h3.usa-prose::text").get()
             multiple = detail.css("li")

@@ -1,5 +1,6 @@
 import re
-from typing import Any, AsyncIterator, Dict, Iterator, List
+from collections.abc import AsyncIterator, Iterator
+from typing import Any
 
 import scrapy
 from lxml import etree
@@ -30,7 +31,7 @@ class USGovManualSpider(scrapy.Spider):
         for url in self.urls:
             yield scrapy.Request(url=url, callback=self.parse)
 
-    def parse(self, response: TextResponse, **kwargs: Any) -> Iterator[Dict[str, Any]]:
+    def parse(self, response: TextResponse, **kwargs: Any) -> Iterator[dict[str, Any]]:
         root = etree.fromstring(response.body)
         for entity in root.findall("Entity"):
             yield self.entity_data(entity)
@@ -46,7 +47,7 @@ class USGovManualSpider(scrapy.Spider):
                         yield self.entity_data(sub_entity_l3)
 
     def add(
-        self, element: etree.Element, data: Dict[str, Any], tag: str, key: str = ""
+        self, element: etree.Element, data: dict[str, Any], tag: str, key: str = ""
     ):
         """Lazy add element text to data dictionary."""
         if key == "":
@@ -58,7 +59,7 @@ class USGovManualSpider(scrapy.Spider):
                 self.logger.error(f"Duplicate key {key} in data")
             data[key] = " ".join(e.text.strip().split())
 
-    def entity_data(self, entity: etree.Element) -> Dict[str, Any]:
+    def entity_data(self, entity: etree.Element) -> dict[str, Any]:
         entity_data = {
             "name": entity.find("AgencyName").text,
             "id": entity.attrib["EntityId"],
@@ -83,11 +84,11 @@ class USGovManualSpider(scrapy.Spider):
 
         return entity_data
 
-    def add_addresses(self, addresses: etree.Element, data: Dict[str, Any]):
+    def add_addresses(self, addresses: etree.Element, data: dict[str, Any]):
         address_list = []
 
         for address_element in addresses.findall("Address"):
-            address: Dict[str, Any] = {}
+            address: dict[str, Any] = {}
             self.add_footer_details(address_element, address)
             self.add(address_element, address, "Fax")
             self.add(address_element, address, "Phone")
@@ -97,11 +98,11 @@ class USGovManualSpider(scrapy.Spider):
         if address_list:
             data["addresses"] = address_list
 
-    def add_leadership(self, leadership: etree.Element, data: Dict[str, Any]):
+    def add_leadership(self, leadership: etree.Element, data: dict[str, Any]):
         leadership_list = []
 
         for leadership_element in leadership.findall("LeaderShipTable"):
-            leadership_table: Dict[str, Any] = {}
+            leadership_table: dict[str, Any] = {}
             self.add_footer_details(leadership_element, leadership_table)
             self.add(leadership_element, leadership_table, "Header")
             self.add(
@@ -112,7 +113,7 @@ class USGovManualSpider(scrapy.Spider):
             if leaders_element is not None:
                 leaders = []
                 for leader_element in leaders_element.findall("Values"):
-                    leader: Dict[str, Any] = {}
+                    leader: dict[str, Any] = {}
                     self.add(leader_element, leader, "NameColumnValue", "name")
                     self.add(leader_element, leader, "TitleColumnValue", "title")
                     # Skip some hard coded horizontal rules
@@ -126,22 +127,22 @@ class USGovManualSpider(scrapy.Spider):
             data["leadership"] = leadership_list
 
     def add_program_and_activities(
-        self, program_and_activities: etree.Element, data: Dict[str, Any]
+        self, program_and_activities: etree.Element, data: dict[str, Any]
     ):
         pa_data = []
 
         pa_elements = program_and_activities.findall("ProgramAndActivity")
         for pa_element in pa_elements:
-            pa: Dict[str, Any] = {}
+            pa: dict[str, Any] = {}
             self.add_footer_details(pa_element, pa)
             self.add(pa_element, pa, "MainParagraph", "introduction")
             self.add(pa_element, pa, "PointOfContact")
             self.add(pa_element, pa, "ProgramName")
 
-            programs: List[Dict[str, Any]] = []
+            programs: list[dict[str, Any]] = []
             program_elements = pa_element.findall("Program")
             for program_element in program_elements:
-                program_data: Dict[str, Any] = {}
+                program_data: dict[str, Any] = {}
                 self.add(program_element, program_data, "Heading")
                 self.add_details(program_element.find("Details"), program_data)
                 if program_data:
@@ -149,10 +150,10 @@ class USGovManualSpider(scrapy.Spider):
             if programs:
                 pa["programs"] = programs
 
-            activities: List[Dict[str, Any]] = []
+            activities: list[dict[str, Any]] = []
             activity_elements = pa_element.findall("Activity")
             for activity_element in activity_elements:
-                activity_data: Dict[str, Any] = {}
+                activity_data: dict[str, Any] = {}
                 self.add(activity_element, activity_data, "Heading")
                 self.add_details(activity_element.find("Details"), activity_data)
                 self.add_key_official_tables(
@@ -167,14 +168,14 @@ class USGovManualSpider(scrapy.Spider):
         if pa_data:
             data["program_and_activities"] = pa_data
 
-    def add_details(self, details_element: etree.Element, data: Dict[str, Any]):
+    def add_details(self, details_element: etree.Element, data: dict[str, Any]):
         details_data = []
 
         detail_elements = (
             details_element.findall("Detail") if details_element is not None else []
         )
         for detail_element in detail_elements:
-            detail_data: Dict[str, Any] = {}
+            detail_data: dict[str, Any] = {}
             self.add_footer_details(detail_element, detail_data)
             self.add(detail_element, detail_data, "Heading")
             self.add(detail_element, detail_data, "Paragraph", "text")
@@ -184,7 +185,7 @@ class USGovManualSpider(scrapy.Spider):
             data["details"] = details_data
 
     def add_key_official_tables(
-        self, key_official_tables_element: etree.Element, data: Dict[str, Any]
+        self, key_official_tables_element: etree.Element, data: dict[str, Any]
     ):
         key_official_tables_data = []
 
@@ -193,13 +194,13 @@ class USGovManualSpider(scrapy.Spider):
             if key_official_tables_element is not None
             else []
         )
-        persistent_headers: Dict[str, Any] = {}
+        persistent_headers: dict[str, Any] = {}
         for element in elements:
-            table: Dict[str, Any] = {}
+            table: dict[str, Any] = {}
             self.add(element, table, "TableHeader")
             self.add_footer_details(element, table)
 
-            headers: Dict[str, Any] = {}
+            headers: dict[str, Any] = {}
             self.add(element, headers, "ColumnOneHeader", "1")
             self.add(element, headers, "ColumnTwoHeader", "2")
             self.add(element, headers, "ColumnThreeHeader", "3")
@@ -239,7 +240,7 @@ class USGovManualSpider(scrapy.Spider):
 
     def get_key_official_table_values(
         self, key_official_tables_element: etree.Element
-    ) -> List[Dict[str, Any]]:
+    ) -> list[dict[str, Any]]:
         key_official_table_values_data = []
 
         elements = (
@@ -248,7 +249,7 @@ class USGovManualSpider(scrapy.Spider):
             else []
         )
         for element in elements:
-            data: Dict[str, Any] = {}
+            data: dict[str, Any] = {}
             self.add(element, data, "ColumnOneValue", "1")
             self.add(element, data, "ColumnTwoValue", "2")
             self.add(element, data, "ColumnThreeValue", "3")
@@ -261,24 +262,24 @@ class USGovManualSpider(scrapy.Spider):
 
         return key_official_table_values_data
 
-    def add_mission_statement(self, element: etree.Element, data: Dict[str, Any]):
-        mission_statement_data: Dict[str, Any] = {}
+    def add_mission_statement(self, element: etree.Element, data: dict[str, Any]):
+        mission_statement_data: dict[str, Any] = {}
         self.add_records(element.findall("Record"), mission_statement_data)
         self.add(element, mission_statement_data, "Heading")
         if mission_statement_data:
             data["mission_statement"] = mission_statement_data
 
-    def add_legal_authority(self, legal_authority: etree.Element, data: Dict[str, Any]):
-        legal_authority_data: Dict[str, Any] = {}
+    def add_legal_authority(self, legal_authority: etree.Element, data: dict[str, Any]):
+        legal_authority_data: dict[str, Any] = {}
         self.add_records(legal_authority.findall("Record"), legal_authority_data)
         self.add(legal_authority, legal_authority_data, "Heading")
         if legal_authority_data:
             data["legal_authority"] = legal_authority_data
 
-    def add_records(self, record_elements: etree.Element, data: Dict[str, Any]):
+    def add_records(self, record_elements: etree.Element, data: dict[str, Any]):
         records = []
         for record_element in record_elements:
-            record: Dict[str, Any] = {}
+            record: dict[str, Any] = {}
             self.add_footer_details(record_element, record)
             self.add(record_element, record, "Paragraph", "text")
             if record:
@@ -286,7 +287,7 @@ class USGovManualSpider(scrapy.Spider):
         if records:
             data["records"] = records
 
-    def add_footer_details(self, element: etree.Element, data: Dict[str, Any]):
+    def add_footer_details(self, element: etree.Element, data: dict[str, Any]):
         footer_details_element = element.find("FooterDetails")
         if footer_details_element is not None:
             self.add(footer_details_element, data, "Footer", "note")
@@ -298,13 +299,13 @@ class USGovManualSpider(scrapy.Spider):
             self.add(footer_details_element, data, "WebAddress", "url")
 
     def add_source_of_information_details(
-        self, source_of_information_details: etree.Element, data: Dict[str, Any]
+        self, source_of_information_details: etree.Element, data: dict[str, Any]
     ):
         entity_sources = []
         for entity_source_element in source_of_information_details.findall(
             "EntitySourceOfInformation"
         ):
-            entity_source_data: Dict[str, Any] = {}
+            entity_source_data: dict[str, Any] = {}
             self.add_footer_details(entity_source_element, entity_source_data)
             self.add(entity_source_element, entity_source_data, "Heading")
             self.add(entity_source_element, entity_source_data, "Paragraph", "text")

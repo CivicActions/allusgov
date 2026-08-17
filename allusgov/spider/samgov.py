@@ -1,5 +1,6 @@
+from collections.abc import AsyncIterator, Iterator
 from datetime import datetime
-from typing import Any, AsyncIterator, Dict, Iterator, Optional, Union
+from typing import Any
 
 import scrapy
 from scrapy.http.request import Request
@@ -9,13 +10,13 @@ from w3lib.url import add_or_replace_parameters, url_query_parameter
 from allusgov.settings import settings
 
 
-class SamgovSpider(scrapy.Spider):
+class SamgovSfpider(scrapy.Spider):
     name = "samgov"
     allowed_domains = ["sam.gov"]
     limit = 100
     base_url = "https://api.sam.gov/prod/federalorganizations/v1/orgs"
 
-    def url(self, url: str = base_url, params: Optional[Dict[str, str]] = None) -> str:
+    def url(self, url: str = base_url, params: dict[str, str] | None = None) -> str:
         if params is None:
             params = {}
         params.update(
@@ -29,12 +30,9 @@ class SamgovSpider(scrapy.Spider):
     async def start(self) -> AsyncIterator[Request]:
         yield scrapy.Request(url=self.url(), callback=self.parse)
 
-    def parse(self, response: TextResponse, **kwargs: Any) -> Iterator[
-        Union[
-            Request,
-            Dict[str, Any],
-        ]
-    ]:
+    def parse(
+        self, response: TextResponse, **kwargs: Any
+    ) -> Iterator[Request | dict[str, Any]]:
         data = response.json()
         if (
             url_query_parameter(response.url, "offset") is None

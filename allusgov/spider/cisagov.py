@@ -1,5 +1,6 @@
 import csv
-from typing import Any, AsyncIterator, Dict, Iterator, List, Optional
+from collections.abc import AsyncIterator, Iterator
+from typing import Any
 
 import scrapy
 
@@ -19,14 +20,14 @@ class CisagovSpider(scrapy.Spider):
 
     def parse(
         self, response: scrapy.http.Response, **kwargs: Any
-    ) -> Iterator[Dict[str, List[Dict[str, str]]]]:
-        items: Dict[str, Any] = {}
+    ) -> Iterator[dict[str, list[dict[str, str]]]]:
+        items: dict[str, Any] = {}
         for row in csv.DictReader(response.text.splitlines()):
-            item: Dict[str, Any] = {}
+            item: dict[str, Any] = {}
             for key, value in row.items():
                 item[key.lower().replace(" ", "_")] = value
             name: str = item["organization_name"]
-            parent: Optional[str] = item["agency"]
+            parent: str | None = item["agency"]
             # If an organization is its own parent, then it is a top-level organization.
             if name == parent:
                 parent = None

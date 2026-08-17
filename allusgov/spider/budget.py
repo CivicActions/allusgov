@@ -1,6 +1,6 @@
+from collections.abc import AsyncIterator, Iterator
 from io import BytesIO
 from itertools import chain
-from typing import AsyncIterator, Dict, Iterator, List, Union
 
 import polars as pl
 import scrapy
@@ -29,7 +29,7 @@ class BudgetSpider(scrapy.Spider):
             headers={"User-Agent": "Mozilla/5.0"},
         )
 
-    def budget_years(self) -> List[Expr]:
+    def budget_years(self) -> list[Expr]:
         return [
             pl.sum(str(self.year - 5)),
             pl.sum(str(self.year - 4)),
@@ -39,10 +39,8 @@ class BudgetSpider(scrapy.Spider):
             pl.sum(str(self.year)),
         ]
 
-    # Normalizes item field names.
-    def process_item(
-        self, item, fields, name_key, parent_key=None, grandparent_key=None
-    ):
+    @staticmethod
+    def process_item(item, fields, name_key, parent_key=None, grandparent_key=None):
         for key, value in fields:
             item[key.lower().replace(" ", "_")] = value
         if parent_key and parent_key + "_name" in item:
@@ -61,7 +59,7 @@ class BudgetSpider(scrapy.Spider):
 
         return item
 
-    def agencies(self, budget: DataFrame) -> Iterator[Dict[str, Union[str, int]]]:
+    def agencies(self, budget: DataFrame) -> Iterator[dict[str, str | int]]:
         q = (
             budget.lazy()
             .groupby("Agency Code", "Agency Name")
@@ -75,7 +73,7 @@ class BudgetSpider(scrapy.Spider):
                 {"budget_level": "agency"}, agency.items(), "agency"
             )
 
-    def bureaus(self, budget: DataFrame) -> Iterator[Dict[str, Union[str, int]]]:
+    def bureaus(self, budget: DataFrame) -> Iterator[dict[str, str | int]]:
         q = (
             budget.lazy()
             .groupby("Agency Code", "Agency Name", "Bureau Code", "Bureau Name")
@@ -89,7 +87,7 @@ class BudgetSpider(scrapy.Spider):
                 {"budget_level": "bureau"}, bureau.items(), "bureau", "agency"
             )
 
-    def accounts(self, budget: DataFrame) -> Iterator[Dict[str, Union[str, int]]]:
+    def accounts(self, budget: DataFrame) -> Iterator[dict[str, str | int]]:
         q = (
             budget.lazy()
             .groupby(
@@ -127,9 +125,7 @@ class BudgetSpider(scrapy.Spider):
                 "agency",
             )
 
-    def parse(
-        self, response: Response, **kwargs
-    ) -> Iterator[Dict[str, Union[str, int]]]:
+    def parse(self, response: Response, **kwargs) -> Iterator[dict[str, str | int]]:
         budget = pl.read_excel(BytesIO(response.body), sheet_id=1, sheet_name=None)
         results = chain(
             self.agencies(budget), self.bureaus(budget), self.accounts(budget)
