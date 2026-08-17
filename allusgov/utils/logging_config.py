@@ -6,7 +6,7 @@ import sys
 from loguru import logger
 from scrapy.utils.log import configure_logging
 
-from allusgov.settings import settings
+from allusgov.config import settings
 
 
 class InterceptHandler(logging.Handler):

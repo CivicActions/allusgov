@@ -11,7 +11,7 @@ import click_log
 from allusgov.registry.registry import EXPORTERS
 from allusgov.utils.utils import get_spider_list, list_plugins_verbose
 
-from .settings import settings
+from .config import settings
 
 logger = logging.getLogger(__name__)
 click_log.basic_config(logger)

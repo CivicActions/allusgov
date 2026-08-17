@@ -6,8 +6,6 @@
 #     https://docs.scrapy.org/en/latest/topics/settings.html
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
-from dotenv import dotenv_values
-
 BOT_NAME = "allusgov"
 
 SPIDER_MODULES = ["allusgov.spider"]
@@ -93,6 +91,3 @@ FEED_EXPORT_ENCODING = "utf-8"
 
 # Feed output settings
 FEED_URI_PARAMS = "allusgov.utils.utils.spider_uri_params"
-
-# Load secret variables from .env
-DOTENV = dotenv_values(".env")

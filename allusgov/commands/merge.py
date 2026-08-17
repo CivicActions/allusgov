@@ -10,9 +10,9 @@ from bigtree import Node
 
 from allusgov.cli_options import build_options, logger, merge_options, sources_options
 from allusgov.commands.build import build
+from allusgov.config import settings
 from allusgov.merger import merger
 from allusgov.registry.managers import ExportManager
-from allusgov.settings import settings
 
 
 def merge(

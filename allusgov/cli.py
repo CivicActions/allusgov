@@ -13,7 +13,7 @@ from allusgov.commands.spider import spider_cmd
 from allusgov.utils.logging_config import setup_logging
 
 from .cli_options import CustomGroup, global_options
-from .settings import settings
+from .config import settings
 
 
 @click.group(cls=CustomGroup)

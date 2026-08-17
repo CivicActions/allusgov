@@ -7,7 +7,7 @@ from scrapy.http.request import Request
 from scrapy.http.response.text import TextResponse
 from w3lib.url import add_or_replace_parameters, url_query_parameter
 
-from allusgov.settings import settings
+from allusgov.config import settings
 
 
 class SamgovSfpider(scrapy.Spider):

@@ -14,7 +14,7 @@ from flatten_json import flatten
 from natsort import natsorted
 from networkx import DiGraph
 
-from allusgov.settings import settings
+from allusgov.config import settings
 
 
 class ExporterBase(ABC):

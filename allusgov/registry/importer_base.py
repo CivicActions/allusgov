@@ -9,7 +9,7 @@ from typing import Any
 
 from bigtree import Node
 
-from allusgov.settings import settings
+from allusgov.config import settings
 
 
 class ImporterBase(ABC):

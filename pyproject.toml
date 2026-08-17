@@ -2,7 +2,10 @@
 name = "allusgov"
 version = "0.4.0"
 description = "This project attempts to map the organization of the US Federal Government by gathering and consolidating information from various directories."
-authors = [{ name = "Owen Barton", email = "owen.barton@civicactions.com" }]
+authors = [
+    { name = "Owen Barton", email = "owen.barton@civicactions.com" },
+    { name = "Tom Camp", email = "tom.camp@civicactions.com" },
+]
 license = { text = "GPL-3.0-or-later" }
 readme = "README.md"
 requires-python = ">=3.12,<3.13"
@@ -17,29 +20,29 @@ classifiers = [
   "Programming Language :: Python :: 3.12",
 ]
 dependencies = [
-    "beautifulsoup4",
-    "bigtree[image]",
-    "click",
+    "beautifulsoup4==4.15.0",
+    "bigtree[image]==1.5.3",
+    "click==8.4.2",
     "click-log",
     "fastexcel>=0.20.2",
     "flatten-json",
     "loguru>=0.7.3",
-    "lxml>=5.2.1,<6",
+    "lxml==6.1.1",
     "natsort",
-    "networkx[default]",
-    "nltk",
-    "numpy>=1.26.4,<2",
-    "pandas>=2.2.2",
-    "polars",
+    "networkx[default]==3.6.1",
+    "nltk==3.10.3",
+    "numpy==2.5.2",
+    "pandas==3.0.5",
+    "polars==1.43.2",
     "pydantic-settings>=2.15.0",
-    "python-dotenv",
+    "python-dotenv==1.2.3",
     "pyyaml>=6.0.3",
-    "questionary",
-    "rapidfuzz",
-    "scrapy>=2.13.0",
-    "spacy",
-    "w3lib>=2.3.1",
-    "xlsx2csv",
+    "questionary==2.1.1",
+    "rapidfuzz==3.14.5",
+    "scrapy==2.17.0",
+    "spacy==3.8.15",
+    "w3lib==2.4.1",
+    "xlsx2csv==0.8.6",
 ]
 
 

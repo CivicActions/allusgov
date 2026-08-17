@@ -14,7 +14,7 @@ from scrapy.crawler import CrawlerProcess
 
 from allusgov.cli_options import logger, spider_options
 from allusgov.commands.build import build
-from allusgov.settings import settings
+from allusgov.config import settings
 from allusgov.spider.acronyms import DoDAcronymsSpider, GovSpeakAcronymsSpider
 from allusgov.utils.utils import get_spider_list, scrapy_settings
 

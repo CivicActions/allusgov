@@ -9,8 +9,8 @@ import click
 from bigtree import Node, levelorder_iter
 
 from allusgov.cli_options import build_options, logger, sources_options
+from allusgov.config import settings
 from allusgov.registry.managers import IMPORTERS, ExportManager, ImportManager
-from allusgov.settings import settings
 from allusgov.utils.utils import list_plugins_verbose
 
 

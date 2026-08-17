@@ -10,7 +10,7 @@ from scrapy import signals
 from scrapy.crawler import CrawlerProcess
 
 from allusgov.cli_options import logger, sources_options, spider_options
-from allusgov.settings import settings
+from allusgov.config import settings
 from allusgov.utils.utils import scrapy_settings, scrapy_spider_closed
 
 
