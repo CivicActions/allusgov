@@ -1,6 +1,6 @@
 from io import BytesIO
 from itertools import chain
-from typing import Dict, Iterator, List, Union
+from typing import AsyncIterator, Dict, Iterator, List, Union
 
 import polars as pl
 import scrapy
@@ -22,7 +22,7 @@ class BudgetSpider(scrapy.Spider):
     data_range = "A1:CB5581"
     year = 2024
 
-    def start_requests(self) -> Iterator[Request]:
+    async def start(self) -> AsyncIterator[Request]:
         yield scrapy.Request(
             url=self.start_url,
             callback=self.parse,

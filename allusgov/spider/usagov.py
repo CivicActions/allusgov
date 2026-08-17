@@ -1,4 +1,4 @@
-from typing import Any, Dict, Iterator, List, Union
+from typing import Any, AsyncIterator, Dict, Iterator, List, Union
 
 import scrapy
 from scrapy.http.request import Request
@@ -14,7 +14,7 @@ class UsagovSpider(scrapy.Spider):
     base = "https://www.usa.gov"
     start_url = base + "/agency-index"
 
-    def start_requests(self) -> Iterator[Request]:
+    async def start(self) -> AsyncIterator[Request]:
         yield scrapy.Request(url=self.start_url, callback=self.parse)
 
     def get_field(

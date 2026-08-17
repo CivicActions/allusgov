@@ -1,10 +1,12 @@
 from datetime import datetime
-from typing import Any, Dict, Iterator, Optional, Union
+from typing import Any, AsyncIterator, Dict, Iterator, Optional, Union
 
 import scrapy
 from scrapy.http.request import Request
 from scrapy.http.response.text import TextResponse
 from w3lib.url import add_or_replace_parameters, url_query_parameter
+
+from allusgov.settings import settings
 
 
 class SamgovSpider(scrapy.Spider):
@@ -18,13 +20,13 @@ class SamgovSpider(scrapy.Spider):
             params = {}
         params.update(
             {
-                "api_key": self.settings.getdict("DOTENV")["SAM_API_KEY"],
+                "api_key": settings.SAM_API_KEY,
                 "limit": str(self.limit),
             }
         )
         return add_or_replace_parameters(url, params)
 
-    def start_requests(self) -> Iterator[Request]:
+    async def start(self) -> AsyncIterator[Request]:
         yield scrapy.Request(url=self.url(), callback=self.parse)
 
     def parse(self, response: TextResponse, **kwargs: Any) -> Iterator[

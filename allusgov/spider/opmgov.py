@@ -1,4 +1,4 @@
-from typing import Any, Dict, Iterator, Optional
+from typing import Any, AsyncIterator, Dict, Iterator, Optional
 
 import scrapy
 from scrapy.http.request import Request
@@ -12,7 +12,7 @@ class OpmgovSpider(scrapy.Spider):
         "https://www.opm.gov/about-us/open-government/Data/Apps/agencies/agencies.xml"
     )
 
-    def start_requests(self) -> Iterator[Request]:
+    async def start(self) -> AsyncIterator[Request]:
         yield scrapy.Request(
             url=self.start_url,
             callback=self.parse,

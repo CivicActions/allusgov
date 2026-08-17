@@ -1,4 +1,4 @@
-from typing import Any, Dict, Iterator, Union
+from typing import Any, AsyncIterator, Dict, Iterator, Union
 
 import scrapy
 from scrapy.http.request import Request
@@ -7,10 +7,10 @@ from scrapy.http.response.text import TextResponse
 
 class FederalRegisterSpider(scrapy.Spider):
     name = "federalregister"
-    allowed_domains = ["federalregister"]
+    allowed_domains = ["federalregister.gov"]
     start_url = "https://www.federalregister.gov/api/v1/agencies"
 
-    def start_requests(self) -> Iterator[Request]:
+    async def start(self) -> AsyncIterator[Request]:
         yield scrapy.Request(url=self.start_url, callback=self.parse)
 
     def parse(self, response: TextResponse, **kwargs: Any) -> Iterator[

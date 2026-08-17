@@ -1,5 +1,5 @@
 import re
-from typing import Any, Dict, Iterator, List
+from typing import Any, AsyncIterator, Dict, Iterator, List
 
 import scrapy
 from lxml import etree
@@ -26,7 +26,7 @@ class USGovManualSpider(scrapy.Spider):
     ]
     snakecase = re.compile(r"(?<!^)(?=[A-Z])")
 
-    def start_requests(self) -> Iterator[Request]:
+    async def start(self) -> AsyncIterator[Request]:
         for url in self.urls:
             yield scrapy.Request(url=url, callback=self.parse)
 

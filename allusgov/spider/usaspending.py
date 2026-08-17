@@ -1,4 +1,4 @@
-from typing import Any, Callable, Dict, Iterator, Union
+from typing import Any, AsyncIterator, Callable, Dict, Iterator, Union
 
 import scrapy
 from scrapy.http.request import Request
@@ -20,7 +20,7 @@ class UsaspendingSpider(scrapy.Spider):
             headers={"User-Agent": "curl/7.87.0", "Accept": "*/*"},
         )
 
-    def start_requests(self) -> Iterator[Request]:
+    async def start(self) -> AsyncIterator[Request]:
         yield self.request(self.start_url, self.parse)
 
     def subagency_url(self, agency_id: str, page: int = 1) -> str:

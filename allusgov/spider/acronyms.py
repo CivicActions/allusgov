@@ -1,5 +1,7 @@
+import os
+import tempfile
 import warnings
-from typing import Any, Dict, Iterator, List, cast
+from typing import Any, AsyncIterator, Dict, Iterator, List, cast
 
 import pandas as pd
 import scrapy
@@ -14,7 +16,7 @@ class GovSpeakAcronymsSpider(scrapy.Spider):
     allowed_domains = ["ucsd.libguides.com"]
     start_urls = ["http://ucsd.libguides.com/"]
 
-    def start_requests(self) -> Iterator[Request]:
+    async def start(self) -> AsyncIterator[Request]:
         yield scrapy.Request(
             url="https://ucsd.libguides.com/govspeak/pagea",
             callback=self.parse,
@@ -93,15 +95,16 @@ class GovSpeakAcronymsSpider(scrapy.Spider):
 class DoDAcronymsSpider(scrapy.Spider):
     name = "dod"
 
-    def start_requests(self) -> Iterator[Request]:
+    async def start(self) -> AsyncIterator[Request]:
         yield scrapy.Request(
             url="https://irp.fas.org/doddir/dod/dictionary.pdf",
             callback=self.parse,
         )
 
     def parse(self, response: Response, **kwargs) -> Iterator[Dict[str, Any]]:
-        with open("/tmp/dod.pdf", "wb") as file:
+        with tempfile.NamedTemporaryFile(suffix=".pdf", delete=False) as file:
             file.write(response.body)
+            pdf_path = file.name
 
         xmin = 90
         ymax = 752
@@ -153,40 +156,43 @@ class DoDAcronymsSpider(scrapy.Spider):
             354,
         ]
         acronyms: Dict[str, List[Dict[str, str]]] = {}
-        for page in range(245, 356):
-            ymin = 72
-            if page in blank_pages:
-                continue
-            if page == first_page:
-                ymin = 173
-            elif page in title_pages:
-                ymin = 102
-            dfs = tabula.read_pdf(
-                "/tmp/dod.pdf",
-                pages=page,
-                area=(ymin, xmin, ymax, xmax),
-            )
-            for df in dfs:
-                df = cast(pd.DataFrame, df)
-                acronym = ""
-                for index, row in df.iterrows():
-                    if pd.isna(row[0]):
-                        continue
-                    acronym = row[0]
-                    expansion = row[1]
-                    j = index + 1
-                    try:
-                        while pd.isna(df.iloc[j, 0]):
-                            expansion += " " + df.iloc[j, 1]
-                            j += 1
-                    except IndexError:
-                        pass
-                    if acronym not in acronyms:
-                        acronyms[acronym] = []
-                    expansions = expansion.split(";")
-                    for expansion in expansions:
-                        acronyms[acronym].append(
-                            {"expansion": expansion.strip(), "source": "dod"}
-                        )
+        try:
+            for page in range(245, 356):
+                ymin = 72
+                if page in blank_pages:
+                    continue
+                if page == first_page:
+                    ymin = 173
+                elif page in title_pages:
+                    ymin = 102
+                dfs = tabula.read_pdf(
+                    pdf_path,
+                    pages=page,
+                    area=(ymin, xmin, ymax, xmax),
+                )
+                for df in dfs:
+                    df = cast(pd.DataFrame, df)
+                    acronym = ""
+                    for index, row in df.iterrows():
+                        if pd.isna(row[0]):
+                            continue
+                        acronym = row[0]
+                        expansion = row[1]
+                        j = index + 1
+                        try:
+                            while pd.isna(df.iloc[j, 0]):
+                                expansion += " " + df.iloc[j, 1]
+                                j += 1
+                        except IndexError:
+                            pass
+                        if acronym not in acronyms:
+                            acronyms[acronym] = []
+                        expansions = expansion.split(";")
+                        for expansion in expansions:
+                            acronyms[acronym].append(
+                                {"expansion": expansion.strip(), "source": "dod"}
+                            )
+        finally:
+            os.unlink(pdf_path)
         for acronym, expansions in acronyms.items():
             yield {"acronym": acronym, "expansions": expansions}

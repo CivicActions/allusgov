@@ -1,5 +1,5 @@
 import csv
-from typing import Any, Dict, Iterator, List, Optional
+from typing import Any, AsyncIterator, Dict, Iterator, List, Optional
 
 import scrapy
 
@@ -10,7 +10,7 @@ class CisagovSpider(scrapy.Spider):
         "https://raw.githubusercontent.com/cisagov/dotgov-data/main/current-federal.csv"
     )
 
-    def start_requests(self) -> scrapy.Request:
+    async def start(self) -> AsyncIterator[scrapy.Request]:
         yield scrapy.Request(
             url=self.start_url,
             callback=self.parse,
