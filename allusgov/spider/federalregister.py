@@ -14,8 +14,9 @@ class FederalRegisterSpider(scrapy.Spider):
     async def start(self) -> AsyncIterator[Request]:
         yield scrapy.Request(url=self.start_url, callback=self.parse)
 
+    @staticmethod
     def parse(
-        self, response: TextResponse, **kwargs: Any
+        response: TextResponse, **kwargs: Any
     ) -> Iterator[Request | dict[str, int | str | None | float]]:
         agencies = response.json()
         for agency in agencies:
