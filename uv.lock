@@ -26,6 +26,7 @@ dependencies = [
     { name = "numpy" },
     { name = "pandas" },
     { name = "polars" },
+    { name = "pydantic" },
     { name = "pydantic-settings" },
     { name = "python-dotenv" },
     { name = "pyyaml" },
@@ -76,6 +77,7 @@ requires-dist = [
     { name = "numpy", specifier = "==2.5.2" },
     { name = "pandas", specifier = "==3.0.5" },
     { name = "polars", specifier = "==1.43.2" },
+    { name = "pydantic", specifier = ">=2.11.4" },
     { name = "pydantic-settings", specifier = ">=2.15.0" },
     { name = "python-dotenv", specifier = "==1.2.3" },
     { name = "pyyaml", specifier = ">=6.0.3" },
@@ -1466,7 +1468,7 @@ name = "pync"
 version = "2.0.3"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
-    { name = "python-dateutil" },
+    { name = "python-dateutil", marker = "sys_platform != 'emscripten' and sys_platform != 'win32'" },
 ]
 sdist = { url = "https://files.pythonhosted.org/packages/71/ce/06fca51df0cceb13dbcd8168e2657ffd942184005b3bb958dd17c14e0148/pync-2.0.3.tar.gz", hash = "sha256:38b9e61735a3161f9211a5773c5f5ea698f36af4ff7f77fa03e8d1ff0caa117f", size = 374289, upload-time = "2018-05-04T19:28:40.383Z" }
 

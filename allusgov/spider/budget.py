@@ -1,4 +1,5 @@
 from collections.abc import AsyncIterator, Iterator
+from datetime import date
 from io import BytesIO
 from itertools import chain
 
@@ -15,16 +16,14 @@ pl.Config.set_tbl_rows(1000)
 
 class BudgetSpider(scrapy.Spider):
     name = "budget"
-    # The below 2 rows will need to be updated annually.
-    start_url = (
-        "https://www.govinfo.gov/content/pkg/BUDGET-2024-DB/xls/BUDGET-2024-DB-2.xlsx"
-    )
-    data_range = "A1:CB5581"
-    year = 2024
+    start_url = "https://www.govinfo.gov/content/pkg"
+    year = date.today().year - 1
 
     async def start(self) -> AsyncIterator[Request]:
+        filename = f"BUDGET_{self.year}-DB"
+        request_url = f"{self.start_url}/{filename}/xls/{filename}-2.xlsx"
         yield scrapy.Request(
-            url=self.start_url,
+            url=request_url,
             callback=self.parse,
             headers={"User-Agent": "Mozilla/5.0"},
         )

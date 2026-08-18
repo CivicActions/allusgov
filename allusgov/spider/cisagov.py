@@ -3,6 +3,26 @@ from collections.abc import AsyncIterator, Iterator
 from typing import Any
 
 import scrapy
+from pydantic import Field
+from pydantic.dataclasses import dataclass
+
+
+@dataclass
+class RecordRow:
+    domain_name: str = Field(alias="Domain name")
+    domain_type: str = Field(alias="Domain type")
+    agency: str = Field(alias="Organization name")
+    organization: str | None = Field(alias="Suborganization name")
+    city: str = Field(alias="City")
+    state: str = Field(alias="State")
+    security_contact_email: str = Field(alias="Security contact email")
+
+
+@dataclass
+class CisaOrg:
+    name: str
+    parent: str
+    records: list[RecordRow]
 
 
 class CisagovSpider(scrapy.Spider):
@@ -18,21 +38,20 @@ class CisagovSpider(scrapy.Spider):
             headers={"User-Agent": "Mozilla/5.0"},
         )
 
+    @staticmethod
     def parse(
-        self, response: scrapy.http.Response, **kwargs: Any
-    ) -> Iterator[dict[str, list[dict[str, str]]]]:
+        response: scrapy.http.Response, **kwargs: Any
+    ) -> Iterator[dict[str, list[RecordRow]]]:
         items: dict[str, Any] = {}
         for row in csv.DictReader(response.text.splitlines()):
-            item: dict[str, Any] = {}
-            for key, value in row.items():
-                item[key.lower().replace(" ", "_")] = value
-            name: str = item["organization_name"]
-            parent: str | None = item["agency"]
+            record = RecordRow(**row)
+            name: str = record.agency
+            parent: str | None = record.organization
             # If an organization is its own parent, then it is a top-level organization.
             if name == parent:
                 parent = None
             if name not in items:
                 items[name] = {"name": name, "parent": parent, "records": []}
-            items[name]["records"].append(item)
+            items[name]["records"].append(record)
         for item in items.values():
             yield item

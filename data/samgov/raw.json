@@ -4232,3 +4232,46 @@
     }
   ]
 },
+{
+  "fhorgid": 500033705,
+  "fhorgname": "NATIONAL COUNCIL ON DISABILITY",
+  "fhorgtype": "Department/Ind. Agency",
+  "status": "ACTIVE",
+  "createdby": "IAE-DataTeam",
+  "createddate": "2018-09-17 19:05",
+  "updatedby": "FPDS_START_DATE_FIX",
+  "lastupdateddate": "2019-11-21 23:04",
+  "fhdeptindagencyorgid": 500033705,
+  "fhagencyorgname": "NATIONAL COUNCIL ON DISABILITY",
+  "agencycode": "9509",
+  "cgaclist": [
+    {
+      "cgac": "413"
+    }
+  ],
+  "fhorgnamehistory": [
+    {
+      "fhorgname": "NATIONAL COUNCIL ON DISABILITY",
+      "effectivedate": "1957-07-01 00:00"
+    }
+  ],
+  "fhorgparenthistory": [
+    {
+      "fhfullparentpathid": "500033705",
+      "fhfullparentpathname": "NATIONAL COUNCIL ON DISABILITY",
+      "effectivedate": "1957-07-01 00:00",
+      "codehierarchy": "",
+      "actiontype": "CREATE"
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://api.sam.gov/prod/federalorganizations/v1/orgs?fhorgid=500033705"
+    },
+    {
+      "rel": "nextlevelchildren",
+      "href": "https://api.sam.gov/prod/federalorganizations/v1/org/hierarchy?fhorgid=500033705"
+    }
+  ]
+}
