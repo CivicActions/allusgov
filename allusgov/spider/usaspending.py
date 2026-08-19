@@ -13,7 +13,8 @@ class UsaspendingSpider(scrapy.Spider):
     start_url = base_url + "references/toptier_agencies/"
     lookup: dict[str, str] = {}
 
-    def request(self, url: str, callback: Callable) -> Request:
+    @staticmethod
+    def request(url: str, callback: Callable) -> Request:
         return scrapy.Request(
             url=url,
             callback=callback,
