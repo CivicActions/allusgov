@@ -58,7 +58,7 @@ class UsagovSpider(scrapy.Spider):
             "description": response.css("p.usa-intro::text").get().strip(),
         }
         for detail in response.css("div.usagov-directory-table div"):
-            head = detail.css("h3.usa-prose::text").get()
+            head = detail.css("h2.usa-prose::text").get()
             multiple = detail.css("li")
             head = head.lower().replace(" ", "_")
             # We make some assumptions about which fields are multiple and single value here.
@@ -75,10 +75,4 @@ class UsagovSpider(scrapy.Spider):
                         details[head].append(self.get_field(line))
             print(details)
         if details:
-            # Site no longer has parent agency field.
-            # parent = response.xpath(
-            #     '//section[./header/h2[text()="Parent Agency"]]/ul/li/a/text()'
-            # ).get()
-            # if parent is not None:
-            #     details["parent"] = parent.strip()
             yield details
