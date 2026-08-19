@@ -11,7 +11,8 @@ from scrapy.http.response.text import TextResponse
 class USGovManualSpider(scrapy.Spider):
     name = "usgovmanual"
     urls = [
-        "https://www.govinfo.gov/content/pkg/GOVMAN-2022-12-31/xml/GOVMAN-2022-12-31.xml",
+        "https://www.govinfo.gov/content/pkg/GOVMAN-2025-12-31/xml/GOVMAN-2025-12-31.xml",
+        # "https://www.govinfo.gov/content/pkg/GOVMAN-2022-12-31/xml/GOVMAN-2022-12-31.xml",
         # Uncomment the following lines to get the previous years:
         # "https://www.govinfo.gov/content/pkg/GOVMAN-2021-12-22/xml/GOVMAN-2021-12-22.xml",
         # "https://www.govinfo.gov/content/pkg/GOVMAN-2020-11-10/xml/GOVMAN-2020-11-10.xml",
