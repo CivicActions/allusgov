@@ -8,6 +8,7 @@ from typing import cast
 import click
 from bigtree import Node, levelorder_iter
 
+from allusgov import load_plugins_once
 from allusgov.cli_options import build_options, logger, sources_options
 from allusgov.config import settings
 from allusgov.registry.managers import IMPORTERS, ExportManager, ImportManager
@@ -15,6 +16,10 @@ from allusgov.utils.utils import list_plugins_verbose
 
 
 def build(sources: list[str], exporters: list[str], to_export: bool) -> dict[str, Node]:
+    # Ensure importer/exporter plugins are registered before checking the registry below,
+    # otherwise the very first source processed would incorrectly fall back to the generic
+    # "importer" class, since IMPORTERS would still be empty at that point.
+    load_plugins_once()
     trees = {}
     for source in sources:
         logger.info("Constructing the %s tree...", source)

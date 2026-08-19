@@ -5,6 +5,7 @@ directory of this distribution and at https://github.com/CivicActions/allusgov#l
 
 import click
 
+from allusgov import load_plugins_once
 from allusgov.commands.all_steps import all_steps_cmd
 from allusgov.commands.build import build_cmd
 from allusgov.commands.dev import dev
@@ -31,6 +32,10 @@ def main(data_dir: str):  # pylint: disable=unused-argument
     """
     setup_logging()
     settings.DATA_DIR = data_dir
+    # Register importer/exporter plugins before any subcommand's options (e.g. the
+    # --exporters default) or logic are resolved, since Click resolves this group's
+    # callback before the subcommand's own option defaults and body.
+    load_plugins_once()
 
 
 main.add_command(spider_cmd)

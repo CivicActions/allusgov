@@ -70,7 +70,9 @@ def build_options(func):
     func = click.option(
         "--exporters",
         "-x",
-        default=list_plugins_verbose(EXPORTERS).keys(),
+        # Lazy: evaluated when the option is parsed (after plugins are loaded), rather
+        # than at decoration/import time when the EXPORTERS registry is still empty.
+        default=lambda: list(list_plugins_verbose(EXPORTERS).keys()),
         multiple=True,
         help="Specify exporters to use",
     )(func)

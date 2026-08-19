@@ -37,7 +37,7 @@ def setup_logging() -> None:
     logger.add(sys.stderr, level="INFO")
 
     logger.add(
-        log_dir / "app.logs",
+        log_dir / "app.log",
         level="INFO",
         rotation="10 MB",
         retention="14 days",
@@ -45,7 +45,7 @@ def setup_logging() -> None:
     )
 
     logger.add(
-        log_dir / "error.logs",
+        log_dir / "error.log",
         level="ERROR",
         rotation="10 MB",
         retention="30 days",
