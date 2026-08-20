@@ -15,11 +15,11 @@ from scrapy.http.response import Response
 class GovSpeakAcronymsSpider(scrapy.Spider):
     name = "govspeak"
     allowed_domains = ["ucsd.libguides.com"]
-    start_urls = ["http://ucsd.libguides.com/"]
+    start_url = "http://ucsd.libguides.com"
 
     async def start(self) -> AsyncIterator[Request]:
         yield scrapy.Request(
-            url="https://ucsd.libguides.com/govspeak/pagea",
+            url=f"{self.start_url}/govspeak/pagea",
             callback=self.parse,
             headers={"User-Agent": "Mozilla/5.0"},
         )
@@ -83,26 +83,30 @@ class GovSpeakAcronymsSpider(scrapy.Spider):
                             note_dict["link"] = note_link
                         notes.append(note_dict)
 
-                expansion_dict = {"expansion": expansion}
-                expansion_dict["source"] = "govspeak"
+                expansion_dict = {"expansion": expansion, "source": "govspeak"}
                 if expansion_link:
                     expansion_dict["link"] = expansion_link
                 if notes:
                     expansion_dict["notes"] = notes
                 expansions.append(expansion_dict)
-            yield {"acronym": acronym, "expansions": expansions}
+            if acronym and expansions:
+                yield {"acronym": acronym, "expansions": expansions}
 
 
 class DoDAcronymsSpider(scrapy.Spider):
     name = "dod"
+    allowed_domains = ["jsouapplicationstorage.blob.core.windows.net"]
+    start_url = "https://jsouapplicationstorage.blob.core.windows.net"
 
     async def start(self) -> AsyncIterator[Request]:
         yield scrapy.Request(
-            url="https://irp.fas.org/doddir/dod/dictionary.pdf",
+            url=f"{self.start_url}/press/560/DoD%20Dictionary%20of%20Military%20"
+            f"and%20Associated%20Terms%20JUNE%2025.pdf",
             callback=self.parse,
         )
 
-    def parse(self, response: Response, **kwargs) -> Iterator[dict[str, Any]]:
+    @staticmethod
+    def parse(response: Response, **kwargs) -> Iterator[dict[str, Any]]:
         with tempfile.NamedTemporaryFile(suffix=".pdf", delete=False) as file:
             file.write(response.body)
             pdf_path = file.name
@@ -110,55 +114,54 @@ class DoDAcronymsSpider(scrapy.Spider):
         xmin = 90
         ymax = 752
         xmax = 600
-        first_page = 245
+        first_page = 195
         title_pages = [
-            253,
-            255,
+            195,
+            203,
+            205,
+            215,
+            221,
+            225,
+            229,
+            233,
+            235,
+            239,
+            247,
+            249,
+            251,
+            257,
             263,
-            269,
+            267,
+            271,
             273,
-            277,
+            275,
             281,
-            283,
-            287,
+            285,
+            291,
+            293,
             295,
             297,
-            299,
-            305,
-            313,
-            317,
-            323,
-            325,
-            329,
-            337,
-            343,
-            347,
-            349,
-            351,
-            353,
-            355,
         ]
         blank_pages = [
-            252,
-            268,
-            276,
+            202,
+            214,
+            224,
+            228,
+            232,
+            246,
+            248,
+            262,
+            266,
+            272,
             280,
-            294,
-            296,
-            304,
-            312,
-            322,
-            324,
-            328,
-            336,
-            342,
-            348,
-            352,
-            354,
+            288,
+            289,
+            290,
+            292,
         ]
         acronyms: dict[str, list[dict[str, str]]] = {}
         try:
-            for page in range(245, 356):
+            for page in range(195, 297):
                 ymin = 72
                 if page in blank_pages:
                     continue
@@ -173,7 +176,6 @@ class DoDAcronymsSpider(scrapy.Spider):
                 )
                 for df in dfs:
                     df = cast(pd.DataFrame, df)
-                    acronym = ""
                     for index, row in df.iterrows():
                         if pd.isna(row[0]):
                             continue

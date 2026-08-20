@@ -33,6 +33,7 @@ dependencies = [
     "nltk==3.10.3",
     "numpy==2.5.2",
     "pandas==3.0.5",
+    "pandas-stubs~=3.0.5",
     "polars==1.43.2",
     "pydantic>=2.11.4",
     "pydantic-settings>=2.15.0",
