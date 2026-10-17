@@ -36,9 +36,23 @@ class Merger:
         self.source_tree = source_tree
         self.source_name = source_name
         self.threshold = threshold
+        self.add_provenance(self.base_tree, self.base_name)
+        self.add_provenance(self.source_tree, self.source_name)
         self.source_names = self.name_list(self.source_tree, self.source_name)
         self.base_names = self.name_list(self.base_tree, self.base_name)
         self.similarity = self.calculate_similarity()
+
+    @staticmethod
+    def add_provenance(tree: Node, source_name: str) -> None:
+        """Record the source contributing each node without duplicating entries."""
+        for org in levelorder_iter(tree):
+            org = cast(Node, org)
+            if org.get_attr(source_name) is None:
+                continue
+            sources = list(org.get_attr("sources") or [])
+            if source_name not in sources:
+                sources.append(source_name)
+            org.set_attrs({"sources": sources})
 
     def name_list(self, tree: Node, source_name: str) -> Dict[str, List[Node]]:
         """
@@ -202,8 +216,15 @@ class Merger:
                     f"{score:.1f}: Selected candidate {selection.path_name} for {source_org.path_name}"
                 )
                 # Merge attributes to base tree.
+                sources = list(selection.get_attr("sources") or [])
+                for source in source_org.get_attr("sources") or [self.source_name]:
+                    if source not in sources:
+                        sources.append(source)
                 selection.set_attrs(
-                    {self.source_name: source_org.get_attr(self.source_name)}
+                    {
+                        self.source_name: source_org.get_attr(self.source_name),
+                        "sources": sources,
+                    }
                 )
                 # Merge children
                 for child in source_org.children:

@@ -56,7 +56,13 @@ class TextExporter(BaseExporter):
                 attrs[key] = value
             sources = ""
             if source == "merged":
-                sources = " - " + ", ".join(attrs.keys())
+                provenance = attrs.get("sources")
+                if provenance:
+                    sources = " - " + ", ".join(provenance)
+                else:
+                    sources = " - " + ", ".join(
+                        key for key in attrs.keys() if key != "sources"
+                    )
             name = full_name(org, source)
             print(f"{branch}{stem}{name}{sources}", file=file)
 

@@ -18,9 +18,15 @@ def full_name(org: Optional[Node], source_name: str) -> str:
     attrs = org.get_attr(source_name)
     if attrs and "name" in attrs:
         return attrs["name"]
-    # Otherwise, return the first name attribute found form any source.
-    attrs = org.describe(exclude_prefix="_", exclude_attributes=["name"])
-    return attrs[0][1]["name"]
+    # Otherwise, return the first source attribute containing a name.
+    # Metadata such as provenance ("sources") is intentionally ignored.
+    attrs = org.describe(
+        exclude_prefix="_", exclude_attributes=["name", "sources"]
+    )
+    for _, value in attrs:
+        if isinstance(value, dict) and "name" in value:
+            return value["name"]
+    return org.node_name
 
 
 def spider_uri_params(params, spider):
