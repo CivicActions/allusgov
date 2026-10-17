@@ -1,9 +1,12 @@
 """Tests for provenance tracking across sequential tree merges."""
 
+import csv
+import json
 import logging
+
 from bigtree import Node
 
-from allusgov.exporter.exporter import TextExporter
+from allusgov.exporter.exporter import CSVExporter, JSONExporter, TextExporter
 from allusgov.merger.merger import Merger
 
 
@@ -71,3 +74,26 @@ def test_provenance_survives_sequential_merges_and_text_export(tmp_path):
     assert " - samgov, opmgov, usagov" in rendered
     assert " - opmgov, usagov" in rendered
     assert ", sources" not in rendered
+
+    # The supported machine-readable exporters must retain provenance too.
+    JSONExporter(
+        logger=logger, source="merged", tree=merged, data_dir=str(tmp_path)
+    ).export()
+    flat_data = json.loads(
+        (tmp_path / "merged" / "merged-flat.json").read_text(encoding="utf8")
+    )
+    records = [attrs for attrs in flat_data.values() if isinstance(attrs, dict)]
+    assert any(attrs.get("sources") == ["samgov", "opmgov", "usagov"] for attrs in records)
+    assert any(attrs.get("sources") == ["opmgov", "usagov"] for attrs in records)
+
+    CSVExporter(
+        logger=logger, source="merged", tree=merged, data_dir=str(tmp_path)
+    ).export()
+    with (tmp_path / "merged" / "merged.csv").open(
+        newline="", encoding="utf8"
+    ) as source_file:
+        csv_rows = list(csv.DictReader(source_file))
+    assert any(
+        all(source in row.get("sources", "") for source in ("samgov", "opmgov", "usagov"))
+        for row in csv_rows
+    )
