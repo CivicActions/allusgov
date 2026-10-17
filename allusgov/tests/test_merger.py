@@ -83,7 +83,10 @@ def test_provenance_survives_sequential_merges_and_text_export(tmp_path):
         (tmp_path / "merged" / "merged-flat.json").read_text(encoding="utf8")
     )
     records = [attrs for attrs in flat_data.values() if isinstance(attrs, dict)]
-    assert any(attrs.get("sources") == ["samgov", "opmgov", "usagov"] for attrs in records)
+    assert any(
+        attrs.get("sources") == ["samgov", "opmgov", "usagov"]
+        for attrs in records
+    )
     assert any(attrs.get("sources") == ["opmgov", "usagov"] for attrs in records)
 
     CSVExporter(
@@ -94,6 +97,9 @@ def test_provenance_survives_sequential_merges_and_text_export(tmp_path):
     ) as source_file:
         csv_rows = list(csv.DictReader(source_file))
     assert any(
-        all(source in row.get("sources", "") for source in ("samgov", "opmgov", "usagov"))
+        all(
+            source in row.get("sources", "")
+            for source in ("samgov", "opmgov", "usagov")
+        )
         for row in csv_rows
     )
